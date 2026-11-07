@@ -1,6 +1,6 @@
 # AGAD 1/338/0/1/446: English translation
 
-From `reading_446.md`, with the same holes. `[?word]` is a repair. Numbers are unread code groups.
+From `reading_446.md`, with the same holes. `[?word]` is a doubtful reading, and `[480]` is an unread code group.
 
 Białystok, 22 March 1757.
 
@@ -12,27 +12,27 @@ I have received the letter that Your Excellency did me the honour of writing to 
 
 ## In cipher
 
-Although the plan agreed at Warsaw meets obstacles from our friends, [845] I do not at all believe that we should lose sight of it. [843]
+Although the plan agreed at Warsaw meets obstacles from our friends, I do not at all believe that we should lose sight of it.
 
-I even foresee [320] that will make carrying it out indispensable. [832]
+I even foresee [?events] that will make carrying it out indispensable.
 
-But the most pressing matter that must occupy us at this moment is the abuse that Mr the [720] [493] is making of his mission. [831] [994] [867]
+But the most pressing matter that must occupy us at this moment is the abuse that Mr the [?Stolnik] of Lithuania is making of his mission.
 
-The foresight and insight of your [332] are too well known to me for me to dwell with her on the unhappy consequences this sending will bring after it, [847] the least of which is the [365] contempt into which [640] will fall abroad, when people see that no one among us rises against so open a violation of the fundamental laws of the state. [837]
+The foresight and insight of Your Excellency are too well known to me for me to dwell on the unhappy consequences this sending will bring after it, the least of which is the general contempt into which the Republic will fall abroad, when people see that no one among us rises against so open a violation of the fundamental laws of the state.
 
-Is it not, besides, very likely that [655] will use this pretext to demand from [596] compensation for part of the costs of the war, to which this so-called minister invited her on behalf of [643] [833] [920] [874]?
+Is it not, besides, very likely that Russia will use this pretext to demand from [?Poland] compensation for part of the costs of the war, to which this so-called minister invited her on behalf of the [?King]?
 
-So I believe, my lord, that there is no time to lose in publishing the manifesto that I want to make together with you and with your whole house. [842]
+So I believe, my lord, that there is no time to lose in publishing the manifesto that I want to make together with you and with your whole house.
 
-I have already told Mr the [575] [475] [270] [834]; he is firmly resolved to join me in an affair so important for the fatherland, [847] and I flatter myself that other good patriots will make it their duty to follow our example. [838]
+I have already told Mr the Palatine [?of Kiev] [?and the Czesnik]; the latter is firmly resolved to join me in an affair so important for the fatherland, and I flatter myself that other good patriots will make it their duty to follow our example.
 
-I even have very positive assurances of this from some palatinates. [830]
+I even have very positive assurances of this from some palatinates.
 
-So I have agreed with Mr the [576] [477] [847] [480] and with [273] of the Crown to confer with them toward the end of next month, asking them to come here at that time, or else to name a place where I can go and join them. [831]
+So I have agreed with Mr the Palatine [?of Kiev] [480] and with [?the Czesnik] of the Crown to confer with them toward the end of next month, asking them to come here at that time, or else to name a place where I can go and join them.
 
-I beg your [333] not to refuse us her presence at a [550] of this importance, where we can at the same time agree on the course to take according to events. [367] [831] [871] [900]
+I beg Your Excellency not to refuse us your presence at an [?occasion] of this importance, where we can at the same time agree on the course to take according to events. [367]
 
-As nothing is yet decided about the route that the [660] troops will take, I shall settle my decision on that, as to the stay I may choose in order to fix myself there, while awaiting the return of [?peace].
+As nothing is yet decided about the route that the Russian troops will take, I shall settle my decision on that, as to the stay I may choose in order to fix myself there, while awaiting the return of [?peace].
 
 ## In clear
 

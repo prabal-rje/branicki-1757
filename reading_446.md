@@ -1,5 +1,7 @@
 # AGAD 1/338/0/1/446: lecture
 
+Code groups are read where `letters/numbers.md` gives a value. `[?word]` is a doubtful reading, and `[480]` is a code group that stays open. Numbers that act as punctuation or nulls are left out, and the decryption keeps them.
+
 À Bialystok, ce 22 mars 1757.
 
 ## En clair
@@ -10,27 +12,27 @@ J'ai reçu la lettre que Votre Excellence m'a fait l'honneur de m'écrire le 6 d
 
 ## En chiffre
 
-Quoique le projet concerté à Varsovie rencontre des obstacles de la part de nos amis, [845] je ne crois nullement que nous devions le perdre de vue. [843]
+Quoique le projet concerté à Varsovie rencontre des obstacles de la part de nos amis, je ne crois nullement que nous devions le perdre de vue.
 
-Je prévois même des [320] qui en rendront l'exécution indispensable. [832]
+Je prévois même des [?événements] qui en rendront l'exécution indispensable.
 
-Mais l'objet le plus pressant qui doit nous occuper dans ce moment est l'abus que fait Mr le [720] [493] de sa mission. [831] [994] [867]
+Mais l'objet le plus pressant qui doit nous occuper dans ce moment est l'abus que fait Mr le [?Stolnik] [de] Lithuanie de sa mission.
 
-La prévoyance et les lumières de votre [332] me sont trop connues pour m'étendre avec elle sur les suites malheureuses que cet envoy entraînera aprez lui, [847] dont la moindre est le mépris [365] dans lequel [640] va tomber au dehors, quand on verra que personne d'entre nous ne se lève contre une violation si ouverte des loix fondamentales de l'état. [837]
+La prévoyance et les lumières de votre Excellence me sont trop connues pour m'étendre avec elle sur les suites malheureuses que cet envoy entraînera aprez lui, dont la moindre est le mépris général dans lequel la République va tomber au dehors, quand on verra que personne d'entre nous ne se lève contre une violation si ouverte des loix fondamentales de l'état.
 
-N'est-il pas d'ailleurs très vraisemblable que la [655] fera valoir ce prétexte pour exiger de la [596] un dédommagement d'une partie des fraix de la guerre à laquelle ce prétendu ministre l'a invitée de la part de [643] [833] [920] [874] ?
+N'est-il pas d'ailleurs très vraisemblable que la Russie fera valoir ce prétexte pour exiger de la [?Pologne] un dédommagement d'une partie des fraix de la guerre à laquelle ce prétendu ministre l'a invitée de la part du [?Roi] ?
 
-Je crois donc, Monseigneur, qu'il n'y a pas de tems à perdre pour la publication du manifeste que je veux faire de concert avec vous et avec toute votre maison. [842]
+Je crois donc, Monseigneur, qu'il n'y a pas de tems à perdre pour la publication du manifeste que je veux faire de concert avec vous et avec toute votre maison.
 
-J'en ai déjà prévenu Mr le [575] [475] [270] [834] ; ce dernier est très résolu de se joindre à moi dans une affaire si intéressante pour la patrie, [847] et je me flatte que d'autres bons patriotes se feront un devoir de suivre notre exemple. [838]
+J'en ai déjà prévenu Mr le Palatin [?de Kiovie] [?et le Czesnik] ; ce dernier est très résolu de se joindre à moi dans une affaire si intéressante pour la patrie, et je me flatte que d'autres bons patriotes se feront un devoir de suivre notre exemple.
 
-J'en ai même des assurances très positives de quelques palatinats. [830]
+J'en ai même des assurances très positives de quelques palatinats.
 
-Je suis donc convenu avec Mr le [576] [477] [847] [480] et avec [273] de la couronne de m'aboucher avec eux vers la fin du mois prochain, les priant de vouloir se rendre ici pour ce tems-là, ou bien m'indiquer un endroit où je puisse aller les joindre. [831]
+Je suis donc convenu avec Mr le Palatin [?de Kiovie] [480] et avec [?le Czesnik] de la couronne de m'aboucher avec eux vers la fin du mois prochain, les priant de vouloir se rendre ici pour ce tems-là, ou bien m'indiquer un endroit où je puisse aller les joindre.
 
-Je prie votre [333] de ne pas nous refuser sa présence dans une [550] de cette importance, où nous pourrons en même tems nous arranger sur le parti à prendre suivant les conjonctures. [367] [831] [871] [900]
+Je prie votre Excellence de ne pas nous refuser sa présence dans une [?occasion] de cette importance, où nous pourrons en même tems nous arranger sur le parti à prendre suivant les conjonctures. [367]
 
-Comme il n'y a encore rien de décidé sur la route que prendront les troupes [660], je réglerai ma résolution là-dessus par rapport au séjour que je pourrai choisir pour m'y fixer, en attendant le retour de la [?paix].
+Comme il n'y a encore rien de décidé sur la route que prendront les troupes russiennes, je réglerai ma résolution là-dessus par rapport au séjour que je pourrai choisir pour m'y fixer, en attendant le retour de la [?paix].
 
 ## En clair
 
