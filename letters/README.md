@@ -28,7 +28,7 @@ The key from `../key.tsv`, found on the Branicki letter 446, reads these with no
 
 ### Matuszewicz's memoirs
 
-*Pamiętniki Marcina Matuszewicza*, ed. Pawiński (Warsaw, 1876). The strongest check is vol. II p. 256, which describes the Iwie congress of 1399. I read that page on the [Harvard scan](https://babel.hathitrust.org/cgi/pt?id=hvd.32044023622129&seq=790), from OCR. Other pages are in [vol. II](https://archive.org/details/pamitnikimarcin02matugoog) and [vol. III](https://archive.org/details/pamitnikimarcin03matugoog).
+*Pamiętniki Marcina Matuszewicza*, ed. Pawiński (Warsaw, 1876). The strongest check is vol. II p. 256, which describes the Iwie congress of 1399. I read that page only in the OCR of the [Harvard copy](https://babel.hathitrust.org/cgi/pt?id=hvd.32044023622129&seq=790), and I have not checked it on the image. Other pages are in [vol. II](https://archive.org/details/pamitnikimarcin02matugoog) and [vol. III](https://archive.org/details/pamitnikimarcin03matugoog).
 
 | The memoirs | Letter 1399 | Agree? |
 | --- | --- | --- |

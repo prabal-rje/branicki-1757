@@ -59,7 +59,7 @@ These appear in the readings as `[?word]`, or stay as numbers where the guess is
 | 350 | France | Good | "Mr le ministre de [350]". 1398 links "le comte de Lopital" with "de la [350]". |
 | 385, 386 | Grand Maréchal | Strong | 1399: "à Iwie chés Mr le [385]", with 25,000. The memoirs put the congress at Grand Marshal Ogiński's, with the same 25,000. |
 | 475, 477 | Kiovie | Good | 446: "Mr le [575] [475]". Its clear part names "Mr le Palatin de Kiovie". |
-| 480 | Krajczy | Weak | "Mr le Prince [480]". The order puts it under K. |
+| 480 | Koniuszy or Krajczy | Weak | "Mr le Prince [480]". The order puts it under K. |
 | 495 | Livonie or Lithuanie | Weak | "les frontières de la [495] et de la [245]" |
 | 550 | occasion | Fair | "une [550] de cette importance" |
 | 580 | Pétersbourg | Good | 1398: "de [580] est venue", and "renvoit à [580]" |
