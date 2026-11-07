@@ -50,6 +50,6 @@ Published 7 November 2026. 1399 and 1400 come from two transcription passes, rec
 
 Numbers are not read as such. In the readings I leave out most of the series 830 to 850, because those numbers fall at clause ends and look like punctuation. The decryption files keep them.
 
-Some numbers are coming clear. The clear text of 1399 has "Mr. le Palatin de Trok" and "Mdme la Princesse Palatine Douairière", and the cipher has "Mr le [575] de Trok" and "Mdme la [822] [576] douairière". So 575 and 576 look like Palatin, and 822 like Princesse.
+Some numbers are coming clear. The clear text of 1399 has "Mr. le Palatin de Trok" and "Mdme la Princesse Palatine Douairière". The cipher has "Mr le [575] de Trok" and "Mdme la [822] [576] douairière". So 575 and 576 look like Palatin, and 822 like Princesse.
 
 © 2026 Prabal Gupta. Released under CC BY 4.0: reuse it, and credit me.
