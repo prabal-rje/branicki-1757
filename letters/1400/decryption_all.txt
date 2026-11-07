@@ -1,78 +1,67 @@
-# crop 01
-[998][861]nieswibceonbeseptembre[824][811][823][812][810]
-monsieur[830]lonapprendicytouslesioursdesnou
-uellesforttragiquesdesdiftinesdenotre[490][845]
-dequelcote[848]quonsetourse[847]lonnelencotre[848]
-quedescasauresdementilshommesmasscresacesassemblees
-# crop 02
-tumultueusesd··quonmeneaux.mrods[845]etau[740]
-poulyetrepresentas[846]eurestesuitedecetteanimo
-site[847]quidchirela[840][831]
-ilyeutceettefoisa.brestde[491]pourlelection
-desnoncesaela[280]meneralsuediettinedesolus
-tumultueuses[832]moutnyrespilait[848]querace
-[849]fureur[845]etcarnace[833]
-# crop 03
-mlelecontreflere[846]yarentcontreyarentsydechai
-noitauecladecncieleihhumanite[834]
-mrdebomtesapieha[575]syetoittrouuepoulmain
-tenillebonordre[847]ettacheedameslleschos
-sauyaisibrechoixdenoncespansceyxlatinat
-# crop 04
-[848]quipuissententleedansnosuues[840]dais
-helaes[849]ceseaueur[845]dontleselemontrancesnont
-yofairelamoindreimpressxonsurlanoblessefurie
-use[846]estheurfuxdetreechapedesesmainsdain
-[847]etsauf[830]
-mous[848]eaceptteunforfpetitnombre[849]etoientdu
-# crop 05
-particontrxire[845]quiateluarbitrairementpour
-noncesmrsobiemblowski[845]etsubin[850]lieu
-tenantdemrsosnawskicasseparledecretconnu[850]
-apparenmentpourencagerle[620][380]aesrelacheren
-quelquefacondelarigueurdelasentenceporteecontre
-lui[846]quoiquecetteelectionetantillegarene
-pourrasesoutencxrunnedxubainedegentilshommes
-# crop 06
-[850]quinemxnquerontpasaussideserendrea·arsi
-uie[847]pourempecherlactiuitedecesnonces
-illegitomementelus[850]ayantprotestesolennelleme
-ntcontrecetacteaumroddebiernikeneeodrachie
-[831]
-# crop 07
-alatetedesmutinssetrouuoitmrbuchowiecki
-notaireterr+itorialdudityxlatinatautlefois
-denosaris[848]maisquidepuisncousatourpe
-casaque[849]celuiciacettediettineabientaille
-delabesogneamrle[576][832]
-beturbulentpretendencoriusq·presentencager
-# crop 08
-ceyxlatinataunereuue[385]delanoblesse[850]
-premierpasduneconeederation[835]maismrwere
-sbcbaka[845]enseighedeceyxlatinat[846]
-soutenudemrle[577]syopmmosefortement[833]
-moutceremuemenageeerouientdelaliberalite
-dunparticontraire[847]quiarepandu[886][823]
-# crop 09
-[824]francsdanstouslesyxlatinats[848]et
-districtsde[493][849]cestpourquoimrle[577]
-preukyant[845]quelasamme[846]quenousetions
-surlepcintdefairecompteraceyxlatinatneff
-ectueroitriensurlanoblessedeiacagneedepuis
-# crop 10
-lontemsparnosaduersairesaiugeapraposde
-nelapocontpabarderinutilement[834]
-isuis[847]monsieur[848]uotretreshumble[849]
-tresobeissantseruiteurboeuen[830][998][875]
-ee[831]s[832]anowocrodileutempossibledencag
-erlanoblessedinsererlarehabilitatiandusr
-# crop 11
-fbramowicbdahslistructiondesnonces[845]la
-plupart[846]quiadesyrocesau[741][847]apprehen
-dant[847]que[345]neluifassepaierbiencherune
-telledemarche[833]
-mrobiemblowskiundesnoncesillegitimement
-elusaberestde[493][848]mowarsbisbdemrle
-[578][849]aquitteleseruicemilitacre[834]
-# crop 12
-[901]861,[913][873][921][859][914][816][971][865]
+# AGAD 1/338/0/1/1400. Two passes, reconciled on the scan. Clear French stands in double angle brackets. Digit groups are nomenclator numbers.
+p1.01	[998][861]nieswizceonzeseptembre[824][811][823][818][810]
+p1.02	monsieur[830]lonapprenricytouslesioursdesnou
+p1.03	uellesforttragiquesdesdiettinesdenotre[490][845]
+p1.04	dequecote[846]quonsetourne[847]lonnelencontre[848]
+p1.05	quedescasauresdegentilzhommesmassacresacesassemblees
+p1.06	tumultueses[849]quonmeneauxgrods[845]etau[740]
+p1.07	pouryetrepresentes[846]funestesuitedecetteanimo
+p1.08	site[847]quidechirela[840][831]
+p1.09	ilyeutcettefoisabrestde[491]pourlelection
+p1.10	desnoncesala[280]generaleunediettinedespls
+p1.11	tumultueses[832]toutyrespiroit[848]querage
+p1.12	[849]fureur[845]etcarnage[833]
+p1.13	frerecontrefrere[846]parentcontreparentsydechai
+p1.14	noitauecladerniereinhumanite[834]
+p1.15	mrdecomtesapieha[575]syetoittrouuepourmain
+p1.16	tenirlebonordre[847]ettacherdamenerleschos
+p1.17	esaunbonchosixdenoncesdanscepalatinat
+p1.18	[848]quipuissententredansnosuues[840]mais
+p1.19	helas[849]ceseigneur[845]dontlesremnontrancesnot
+p1.20	pufairelamoindreimpressionsurlanoblesefurie
+p1.21	use[846]estheureuxdetreechappedesesmainssain
+p1.22	[847]etsauf[830]
+p1.23	tous[848]excepteunfortpetitnomgre[849]etoientdu
+p1.24	particontraire[845]quiaeluarbitrairementpour
+p1.25	noncesmrsobiemblowski[845]etsubin[850]lieu
+p1.26	tenantdemrsosnowskicasseparledecretconnu[850]
+p1.27	apparementpourengagerle[820][380]aserelacheren
+p1.28	quelquefacondelarigueurdelasentenceporteecontre
+p1.29	lui[846]quoiquecetteelectionetantillegalene
+p1.30	pourrasesoutenirunedouzainedegentilzhommes
+p1.31	[850]quinemanquerontpasaussideserendreauarso
+p1.32	uie[847]pourempecherlactiuitedecesnonces
+p1.33	illegitimemeelus[850]ayantprotestesolennellem
+p1.34	ntcontrecetacteaugroddebiernikonnodracki
+p1.35	[831]
+p2.01	alatetedesmutinssetrouuoitmrbucheowiecki
+p2.02	notaireteritorialduditpalatinatautreois
+p2.03	denosamis[848]maisquidepuisnousatourn
+p2.04	casaque[849]celuiciacettediettineabientaille
+p2.05	delabesogneamrle[576][832]
+p2.06	ceturbulentprtendencoriusquapresentengager
+p2.07	cepalatinataunereuue[385]delanoblese[850]
+p2.08	premierpasduneconfederation[835]maismrwere
+p2.09	szczaka[845]enseignedecepalatinat[846]
+p2.10	soutenudemrle[577]syopposefortement[833]
+p2.11	toutceremuemenageprouientdelaliberalite
+p2.12	duparticontraire[847]quiarepandu[806][823]
+p2.13	[824]francsdanstouslespalatinats[848]et
+p2.14	districtsde[493][849]cestpourquoimrle[577]
+p2.15	prepyant[845]quelasomme[846]quenousetions
+p2.16	surlepointdefairecomptreacepalatinatneff
+p2.17	ectueroitriensurlanoblesedeiagagneedepuis
+p2.18	lontessparnosadursairesaiugeaproposde
+p2.19	nelapascontrabanderinutilemnent[834]
+p2.20	isuis[847]monsieur[848]uotretreshumble[849]
+p2.21	tresobeissantseruiteurboudes[830][998][875]
+p2.22	p[831]s[832]anowogrodesilfutimposibledengag
+p2.23	erlanoblesedinserelarehabilitationdusr
+p2.24	abramowiczdanslinstructiondesnonces[845]la
+p2.25	plupart[846]quiadesprocesau[741][847]apprhen
+p2.26	dant[847]que[345]neluifassepaierbienches
+p2.27	telledemarche[833]
+p2.28	mrobiemblowskiundesnoncesillegitimeme
+p2.29	elusabrestde[493][848]ofaicierdemrle
+p2.30	[578][849]aquitteleseruicemilitaire[834]
+p2.31	[901][861][913][873][921][859][914][816][971][865]
