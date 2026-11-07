@@ -1,53 +1,42 @@
-# crop 01
-pourlesdommaesfaitespalescasaeues·ftlescalmpcs[830]
-danscepcmentquniefclitcettelettflesnouduellessontuenues
-quelecoptdapraxinsoifuenirawco·rzbolowycury
-cappefunqfpielieuteslimitesdela[625][830]lesdepu
-tesdespillesdela[625]sontpenueschezleffldmarecar·apra
-# crop 02
-xmonenssoumetantaluyftiplorantsaclemencetla
-disciplinfmiritais[845]lespillesdelommentfpm
-zin[845]stolupaanylesyrwntpszfi[845]lesdemendes
-sontaccerssnaeuxlelaccis·stelaxepurlauille·
-dfmemels[840]onneparlepoultantrienqbelt·omteda
-# crop 03
-praxinord·nnatlescontrizutionstlerprouiants·
-[835]etmemeilablihemonsieulle[215]etmonsieurrle
-marechlledesowno[845][995][860]qoilstac·entappes
-larecoltederamassertazttslessarttsdenprotosions
-# crop 04
-[830]dequoisontire·cansqu·lce[835]ouezneautre
-apmf[660]pourenforcerc·lleciqueneconsistequelans
-[819][824]hommesdoituenirici[845]oueuelarmeprssnte
-qcassilestraitesserontconclueesuiendraticipuour
-ls·artiersdelhyue[845]maisilesta·rainsre[875]
-# crop 05
-qualorssenurnientquellelefohmationdenotreetat[840]
-lesoffirieesdeqrussenontparlfaueclsherssnesdeconfi
-encetantdelasiltteextrordinairequedelasuccession
-dutsenpurlffamlleoyllemqispourcepointilfanut·
-auoirlacontihmation·parcqueseulementlesdamesfond
-# crop 06
-ditcela·[830]ontitquelentolrikde[496]epouneratla
-filleuniqueheritieetesricheduffltmarechlsapra·
-[830]delarmedu[645]de[625]iecroisqueson[330][380]defeqiu
-ronneaassezdesrappolfdquellfstapraentsouslauillspi
-lqwaoumlawdeluersdeysikszesdlequecrteuillestxeiql··
-# crop 07
-mfermetlstodificationsontaugumentees[830]lezruit·
-courlequelsdprussiensontpeledelapofysontahslafarinet
-danslepain·afindemyproneplesrasses[830]ftquirsontre
-cusladreu·[645]lonmaitsdenersistpqu·russsequepte
-lauilledesynirkzef[830]ieatendueayssisquesicte
-# crop 08
-[580]estueruedeneparlermaldu[645][625][830]ieuaussourie
-demyrosternerauspiedndeson[330][380]commeapoounique
-protectarleiequisicuseuauderniersoupiredeauiemon
-sieurlepludfidellecliesmatusenicuintquatredeiuillt
-deiasuoinie[830]lemeoir·ueieuouhenucrieedewilnx·
-# crop 09
-monsieurle[215]dezrencqueson
-recommendeason[330]leromtedelo
-# crop 10
-on[330][296]renuoita[580][4]
-eloritalffndela[330]
+# AGAD 1/338/0/1/1398, pages 2 to 4 of the scans. A hand reread from the scan, with the key and French sense in view. ? is a sign I cannot read. Digit groups are nomenclator numbers.
+q020	pourlesdommagesfaitesparlescosaquesetlescalmycs[830]
+q021	danscemomentqueieecritcettelettrelesnouuellessontuenues
+q022	quelecomtedapraxindoituenirawirzbolowypury
+q023	campeunedemielieueslimitesdela[625][830]lesdepu
+q024	tesdespillesdela[625]sontuenueschezlefeldmarechaldapra
+q025	xinensesoumettantaluyetimplorantsaclemenceetla
+q026	disciplinemilitaire[845]lespillessenommentgum
+q027	bin[845]stolupianyeesyrwntyszki[845]lesdemandes
+q028	sontaccordeesaeuxlelaccis?etlelaxepourlauille
+q029	dememel[840]onneparlepourtantrienquelecomteda
+q030	praxinordonnatlescontributionsetlesprouiants
+q031	[835]etmemeilaobligemonsieurle[215]etmonsieurle
+q032	marechalledekowno[845][995][860]quilstachentapres
+q033	larecoltederamassertoutteslessorttesdesprouisions
+q034	[830]dequoisontirelaconsequence[835]ouquneautre
+q035	armee[660]pourenforcercelleciqueneconsistequedans
+q036	[819][824]hommesdoituenirici[845]ouquelarmeepresente
+q037	encassilestraitesserontconcluesuiendraticipour
+q038	lesquartiersdelhyuer[845]maisilestacraindre[845]
+q039	qualorssesuruientquellereformationdenotreetat[840]
+q040	lesofficiersdeprussesontparleaueclespersonnesdeconfi
+q041	encetantdelasuitteextrordinairequedelasuccession
+q042	dutronpourlafamilleroyallemaispourcepointilfaut
+q043	auoirlaconfirmationparcequeseulementlesdameslont
+q044	ditcela[830]onditquelestolnikde[496]epouseratla
+q045	filleuniqueheritieretresrichedufeldmarechldapraxin
+q046	[830]delarmeedu[645]de[625]iecroisqueson[330][380]delacou
+q047	ronneaassezdesrapportsquellestapresentsouslauillepi
+q048	lawaoumlawxuerskeynigsbergquecetteuilleestdeia
+q049	ifermeeetlesfortificationssontauguementees[830]lebruit
+q050	courequelesprussiensontmeledelapoisondanslafarineet
+q051	danslepainafindempoisonnerlesrusses[830]etquilsontre
+q052	culaordredu[645]sonmaitredeneresisterauxrussesqueala
+q053	uilledekeynigsberg[830]ieattendueaussisquesictde
+q054	[580]estuenuedeneparlermaldu[645][625][830]ieuoussuplie
+q055	demeprosternerauspiedsdeson[330][380]commeamonunique
+q056	protectaretiesuisiousquauderniersoupirdemauiemon
+q057	sieurleplusfideleclientmatusewicuintquatredeiuillet
+q058	deiasuoinie[830]lememoirequeieuousenuoieedewilna
+q059	monsieurle[215]debrescqueson[330][296]renuoita[580]
+q060	recommendeason[330]lecomtedelopital?dela[350]

@@ -1,9 +1,9 @@
-# AGAD 1/338/0/1/1398. Two transcription passes joined. Where they differ, the 446 key and a French character model settled the sign, not the scan. Digit groups are nomenclator numbers.
+# AGAD 1/338/0/1/1398. Two transcription passes joined. Where they differ, the 446 key and a French character model settled the sign, not the scan. For page 2, transcription_p2.txt replaces this file.
 r001 s l r a b p l l o s c n m f m h m e a o l p c s l p n p d t h m e l i n o
 r002 u c n t n o s c l d c f 845 860 795 l f m l r c a m d b p l i l o
 r003 e l f c l d l r c m f l o s l p m e o h d n o f s l p t o p d h p n u l h o d 830
 r004 775 999 m l d p m d h u c l d l o f r h l g i n o d m l p c d m c p c
-r005 215 s l y m f l q d x i n o q h p a l c l d m k e m l p k n p f c l x n y o n
+r005 215 s l y m f l q d x i n o q l h p u l c l d m k e m l p k n p f c l x n y o n
 r006 830 860 e l d o n p p l e e l d s l r f l o s c n m f d n o f f l e e l d 830
 r007 b p t e l r n i f f s h u c h k m o u e f l l o r n c s h o d d n o b p t c f m o
 r008 l c h e r ? s y m o n y n ? a f e r n l p k s l e h t c n o f m l e h e h 625

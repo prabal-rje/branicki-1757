@@ -1,9 +1,9 @@
-# AGAD 1/338/0/1/1398. Two transcription passes joined. Where they differ, the 446 key and a French character model settled the sign, not the scan. Digit groups are nomenclator numbers.
+# AGAD 1/338/0/1/1398. Two transcription passes joined. Where they differ, the 446 key and a French character model settled the sign, not the scan. For page 2, transcription_p2.txt replaces this file.
 r001	dechqueendroitiailhneurdeuousfailemon
 r002	profondresrt[845][860][795]etiecrhisquemen
 r003	letresecritendeuilnasontdeufnusauopeans[830]
 r004	[775][999]iesuisapresentcaezmonsieursirur
-r005	[215]dewitebskmonbauheresixlieuxoutrekowno
+r005	[215]dewitebskmonbeauperesixlieuxoutrekowno
 r006	[830][860]lesnouuellesdectendroitsonttelles[830]
 r007	quflecomttdapraxinplteencordanssonqufrtin
 r008	eralc?dwinowo?htlcoeuxdelafrontielala[625]

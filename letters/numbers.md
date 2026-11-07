@@ -2,13 +2,13 @@
 
 The letters use one code table. Its numbers run in alphabetical order, with a block of number words near the end.
 
-Each value comes from these four letters. The evidence is clear text, repeated context and the alphabetical order. The book in `README.md` supports some of them.
+The evidence for each value is clear text, repeated context and the alphabetical order. Two printed sources in `README.md` support some of them.
 
 ## Fixed values
 
 | Numbers | Value | Evidence |
 | --- | --- | --- |
-| 215 | Castellan | 1398: "monsieur Siruc [215] de Witebsk". The book makes Siruć castellan of Witebsk. A stain makes the first digit less sure. |
+| 215 | Castellan | 1398: "monsieur Siruc [215] de Witebsk". Both printed sources make Siruć castellan of Witebsk. A stain makes the first digit less sure. |
 | 280, 281 | Diète | "la [280] générale", "la prochaine [281]" |
 | 330, 332, 333 | Excellence | "son [330]", "votre [332]", "votre [333]" |
 | 365, 366 | général | "le mépris [365]", "Mr le [365] major", "[366] d'artillerie" |
@@ -47,27 +47,31 @@ The letters use these:
 
 ## Guesses
 
-These appear in the readings as `[?word]`.
+These appear in the readings as `[?word]`, or stay as numbers where the guess is weak.
 
-| Number | Value | Why |
-| --- | --- | --- |
-| 245 | Courlande | "les frontières de la [495] et de la [245]", beside a correspondence at Mitau |
-| 270, 273 | Czesnik | 446: "avec [273] de la couronne". Its clear part names "Mr le Czesnik de la Couronne". |
-| 320 | événement | "des [320]", "quelque [320] d'importance" |
-| 345 | Famille | "que [345] ne lui fasse payer": the Czartoryski party |
-| 350 | France | "Mr le ministre de [350]". The book has the French minister writing to Boeven in 1756. |
-| 475, 477 | Kiovie | 446: "Mr le [575] [475]". Its clear part names "Mr le Palatin de Kiovie". |
-| 495 | Livonie | "les frontières de la [495] et de la [245]" |
-| 550 | occasion | "une [550] de cette importance" |
-| 596 | Pologne | "exiger de la [596]" |
-| 643 | Roi | "de la part de [643]" |
-| 720 | Stolnik | "Mr le [720] [493]", "sa mission", "ce prétendu ministre" |
+| Number | Value | Strength | Why |
+| --- | --- | --- | --- |
+| 195 | Brühl or Broglie | Weak | "la lettre de Mr [195]". The order puts it under Br. |
+| 245 | Courlande | Fair | "les frontières de la [495] et de la [245]", beside a correspondence at Mitau |
+| 270, 273 | Czesnik | Good | 446: "avec [273] de la couronne". Its clear part names "Mr le Czesnik de la Couronne". |
+| 320 | événement | Fair | "des [320]", "quelque [320] d'importance" |
+| 345 | Famille | Fair | "que [345] ne lui fasse payer": the Czartoryski party |
+| 350 | France | Good | "Mr le ministre de [350]". 1398 links "le comte de Lopital" with "de la [350]". |
+| 385, 386 | Grand Maréchal | Strong | 1399: "à Iwie chés Mr le [385]", with 25,000. The memoirs put the congress at Grand Marshal Ogiński's, with the same 25,000. |
+| 475, 477 | Kiovie | Good | 446: "Mr le [575] [475]". Its clear part names "Mr le Palatin de Kiovie". |
+| 480 | Krajczy | Weak | "Mr le Prince [480]". The order puts it under K. |
+| 495 | Livonie or Lithuanie | Weak | "les frontières de la [495] et de la [245]" |
+| 550 | occasion | Fair | "une [550] de cette importance" |
+| 580 | Pétersbourg | Good | 1398: "de [580] est venue", and "renvoit à [580]" |
+| 596 | Pologne | Fair | "exiger de la [596]" |
+| 643 | Roi | Fair | "de la part de [643]" |
+| 720 | Stolnik | Good | "Mr le [720] [493]", "sa mission", "ce prétendu ministre" |
+
+One use of 385 stays unexplained. 1400 has "une revue [385] de la noblesse", where the sense wants "générale". So that group stays a number in 1400.
 
 ## Open
 
-These stay unread: 195, 296, 367, 385, 386, 480, 496, 580, 775, 795, 841.
-
-385 may be a "Grand" title, since it follows Grand Général. But 1400 has "une revue [385] de la noblesse", so I leave it open.
+These stay unread: 296, 367, 496, 775, 795, 841.
 
 ## Not words
 
