@@ -1,0 +1,78 @@
+crop 01
+998. 861. o m l d y m q r l n o q l d l u f l i q c l 824. 811. 823. 812. 810
+i n o d m l p c 830. e n o h u u c l o s m r w f n p d e l d m n p c d s l d o n p
+p l e e l d t n c f f c h z m b p l d s l d s m t f m o l d s l o n f c l 490. 845.
+s l b p l e r n f l 848. b p n o d l f n p c d l 847. e n o o l e l o r n f c l 848.
+b p l s l d r h d h p c l d s l i l o f m e d a n i i l d i h d d r c l d h r l d h d d l i q e l l d
+crop 02
+f p i p e f p l p d l d s ? : b p n o i l o l h p k. i c n s d 845. l f h p 740.
+u n p e w l f c l u c l d l o f h d 846. l p c l d f l d p m f l s l r l f f l h o m i n
+d m f l 847. b p m s r a m c l e h 840. 831.
+m e w l p f r l l f f l t n m d h. q c l d f s l 491. u n p c e l e l r f m n o
+s l d o n o r l d h l e h 280. i l o l c h e d p l s m l f f m o l s l d n e p d
+f p i p e f p l p d l d 832. i n p f o w c l d u m e h m f 848. b p l c h r l
+849. t p c l p c 845. l f r h c o h r l 833.
+crop 03
+i e l e l r n o f c l t e l c l 846. w h c l o f r n o f c l w h c l o f d w s l r a h m
+o n m f h p l r e h s l r o r m l e l m a a p i h o m f l 834.
+i c s l q n i f l d h u m l a h 575. d w l f n m f f c n p p l u n p e i h m o
+f l o m e e l q n o n c s c l 847. l f f h r a l l s h i l d e e l d r a n d
+d h p w h m d m q c l r a n m k s l o n o r l d u h o d r l w k e h f m o h f
+crop 04
+848. b p m u p m d d l o f l o f e l l s h o d o n d p p l d 840. s h m d
+a l e h l d 849. r l d l h p l p c 845. s n o f e l d l e l i n o f c h o r l d o n o f
+w n t h m c l e h i n m o s c l m i u c l d d k n o d p c e h o n q e l d d l t p c m l
+p d l 846. l d f a l p c t p k s l f c l l r a h u l s l d l d i h m o d s h m o
+847. l f d h p t 830.
+i n p d 848. l h r l u f f l p o t n c t u l f m f o n i q c l 849. l f n m l o f s p
+crop 05
+u h c f m r n o f c k m c l 845. b p m h f l e p h c q m f c h m c l i l o f u n p c
+o n o r l d i c d n q m l i q e n y d x m 845. l f d p q m o 850. e m l p
+f l o h o f s l i c d n d o h y d x m r h d d l u h c e l s l r c l f r n o o p 850.
+h u u h c l o i l o f u n p c l o r h z l c e l 620. 380. h l d c l e h r a l c l o
+b p l e b p l t h r n o s l e h c m z p l p c s l e h d l o f l o r l u n c f l l r n o f c l
+e p m 846. b p n m b p l r l f f l l e l r f m n o l f h o f m e e l z h c l o l
+u n p c c h d l d n p f l o r k c p o o l s k p q h m o l s l z l o f m e d a n i i l d
+crop 06
+850. b p m o l i k o b p l c n o f u h d h p d d m s l d l c l o s c l h ? h c d m
+p m l 847. u n p c l i u l r a l c e h r f m p m f l s l r l d o n o r l d
+m e e l z m f n i l i l o f l e p d 850. h w h o f u c n f l d f l d n e l o o l e e l i l
+o f r n o f c l r l f h r f l h p i c n s s l q m l c o m x l o l l n s c h r a m l
+831.
+crop 07
+h e h f l f l s l d i p f m o d d l f c n p p n m f i c q p r a n y m l r x m
+o n f h m c l f l c c + m f n c m h e s p s m f w k e h f m o h f h p f e l t n m d
+s l o n d h c m d 848. i h m d b p m s l u p m d o r n p d h f n p c u l
+r h d h b p l 849. r l e p m r m h r l f f l s m l f f m o l h q m l o f h m e e l
+s l e h q l d n z o l h i c e l 576. 832.
+q l f p c q p e l o f u c l f l o s l o r n c m p d b ? u c l d l o f l o r h z l c
+crop 08
+r l w k e h f m o h f h p o l c l p p l 385. s l e h o n q e l d d l 850.
+u c l i m l c u h d s p o l r n o l l s l c h f m n o 835. i h m d i c y l c l
+d q r q h x h 845. l o d l m z a l s l r l w k e h f m o h f 846.
+d n p f l o p s l i c e l 577. d w n u i i n d l t n c f l i l o f 833.
+i n p f r l c l i p l i l o h z l l l c n p m l o f s l e h e m q l c h e m f l
+s p o u h c f m r n o f c h m c l 847. b p m h c l u h o s p 886. 823.
+crop 09
+824. t c h o r d s h o d f n p d e l d w k e h f m o h f d 848. l f
+s m d f c m r f d s l 493. 849. r l d f u n p c b p n m i c e l 577.
+u c l p x w h o f 845. b p l e h d h i i l 846. b p l o n p d l f m n o d
+d p c e l u r m o f s l t h m c l r n i u f l c h r l w k e h f m o h f o l t t
+l r f p l c n m f c m l o d p c e h o n q e l d d l s l m h r h z o l l s l u p m d
+crop 10
+e n o f l i d u h c o n d h s p l c d h m c l d h m p z l h u c h u n d s l
+o l e h u n r n o f u h q h c s l c m o p f m e l i l o f 834.
+m d p m d 847. i n o d m l p c 848. p n f c l f c l d a p i q e l 849.
+f c l d n q l m d d h o f d l c p m f l p c q n l p l o 830. 998. 875.
+l l 831. d 832. h o n y n r c n s m e l p f l i u n d d m q e l s l o r h z
+l c e h o n q e l d d l s m o d l c l c e h c l a h q m e m f h f m h o s p d c
+crop 11
+t q c h i n y m r q s h a d e m d f c p r f m n o s l d o n o r l d 845. e h
+u e p u h c f 846. b p m h s l d w c n r l d h p 741. 847. h u u c l a l o
+s h o f 847. b p l 345. o l e p m t h d d l u h m l c q m l o r a l c p o l
+f l e e l s l i h c r a l 833.
+i c n q m l i q e n y d x m p o s l d o n o r l d m e e l z m f m i l i l o f
+l e p d h q l c l d f s l 493. 848. i n y h c d q m d q s l i c e l
+578. 849. h b p m f f l e l d l c p m r l i m e m f h r c l 834.
+crop 12
+901. 861, 913. 873. 921. 859. 914. 816. 971. 865.

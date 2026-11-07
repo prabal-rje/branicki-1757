@@ -23,4 +23,8 @@ a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 - `clear_446.txt`: the clear parts, as written
 - `key.tsv`: the key
 
+## More letters
+
+The same key reads letters 1398, 1399 and 1400 in the same collection. See `letters/`.
+
 © 2026 Prabal Gupta. First published here, 7 November 2026. Released under CC BY 4.0: reuse it, and credit me.
