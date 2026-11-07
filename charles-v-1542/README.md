@@ -52,11 +52,20 @@ The plan came from the sign statistics of the letter itself, with no key, siblin
 
 ## What stays open
 
-- About 1 sign in 15 is unread or uncertain, mostly rare forms. `decryption.txt` shows the raw stream, and the reading corrects it by sense.
-- One clause after "por las consideraciones que" stays unread.
-- The string "caber" comes three times, and I read it as "haver".
-- "Novellara" is my guess for a string that reads "niuilara". This would be a Gonzaga branch, and I have not checked it.
-- I found no printed copy. But the chancery's clear draft may survive in Spanish archives, and I could not check those.
+I compared the raw key stream with the reading, letter by letter. `decryption.txt` shows the raw stream.
+
+- **Straight from the key:** about 94% of the cipher's letters.
+- **Fixed by sense:** about 5%. These are spelling (b for v), a dropped letter, or a rare sign with too few uses to fix by counts.
+- **Unread:** about 1%, one short phrase. After "pudiéredes ayudar", the string "nosurebil" makes no sense to me.
+
+Four readings are doubtful:
+
+- "y a sus rentas", from the string "yasurintas".
+- "haver", from the string "caber", which comes three times.
+- "como", a blotted clear word before "que huviere lugar".
+- "Novellara", from the string "niuilara". The Counts of Novellara were a Gonzaga branch, but I found no count of that house in Sicily in 1542.
+
+I found no printed copy. But the chancery's clear draft may survive in Spanish archives, and I could not check those.
 
 ## Context, from memory and not checked here
 

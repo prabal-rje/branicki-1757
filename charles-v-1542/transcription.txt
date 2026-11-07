@@ -25,7 +25,7 @@ p1.22 q^9 b^7 d^5 h x^2 g^6 u[short stroke]^2 o x^2 u[looped angle]^7 b^7 x a^2 
 p1.23 g^7 b^8 x^1 x^2 f c^7 h x a^4 x^1 f y t <<y señaladamente os encargamos mucho la>>
 p1.24 <<prouision>> x^2 t^6 c^4 t^7 a^1 d^4 o g^9 x b^8 x^2 z^1 g^8 v x x^2 c y o n^1 x^1 x^2 c a^5 o g^9 <<que>>
 p1.25 <<tengays muy grand cuydado della y de proueer todo lo que para la seguridad>>
-p1.26 x^2 s y u[hooked descender]^1 u[triangle] h z^2 n^2 q^7 f a^2 o <<como conosceys q importa>>
+p1.26 x^2 s y u[hooked descender]^0 h z^2 n^2 q^7 f a^2 o <<como conosceys q importa>>
 p1.27 <<En lo q embiastes a comunicar al visorey de napoles con el gallego no ay q dezir>>
 p1.28 <<sino q fue todo muy bien pensado segund lo que ala sazon se entendia / despues>>
 p1.29 <<haureys entendido lo que mas se ha seguido / y del gallego lo que el visorey le>>
@@ -35,14 +35,14 @@ p1.32 x^1 c d^4 c z^1 g^6 z^7 o
 p2.01 <<En lo delas fortificaciones delas plaças y tierras Importantes desse Reyº pues os tenemos>>
 p2.02 <<remitido q hagays todo lo que os paresciere conuenir ala seguridad del no tenemos>>
 p2.03 <<q añadir mas de encargaros q dando en ello la mejor orden q se pueda pro>>
-p2.04 <<cureys q sea con el menos gasto de nra [?hazienda] q huuiere lugar>>
+p2.04 <<cureys q sea con el menos gasto de nra hazienda [?como] q huuiere lugar>>
 p2.05 d^4 o t^6 f f d^3 y f t v w^4 f y z^8 b^9 f c^7 b^7 a^3 h q^7 b^7 h x a^3 h x x^2 g^9 n^4 b^7 v f f n
 p2.06 z^8 v n c a^3 n^1 n^2 x a^2 c^7 h c n^1 t v o h f u[hooked descender]^0 h o g^9 x^2 t^9 u[looped angle] u[looped upright] z^1 x g^7 b^7 f z^8 h
 p2.07 y t^6 n z^4 x a^2 z^1 x^2 d^2 o d^3 s y x <<y tambien>> y n^2 q^6 u[short stroke]^1 x d^4 o t^6 d^1 o a^2 x^2 q^6 z^6
 p2.08 <<y para hazer la defension en la vna y en la otra parte se hazen las prouisiones q>>
 p2.09 <<conuienen / y sereys auisado delo q succediere>>
 p2.10 <<La paga del Conde>> u[crossed loop] t^6 d^1 c^1 x^2 c b^0 h c x^4 x^2 c g^9 x x^2 x^2 t^6 x z n u[looped upright] t^6 z^1 <<os tor>>
-p2.11 <<namos a encargar>> d^4 o t^6 f g^9 x x u[crossed loop] b^8 x^2 z^1 g^8 v q^7 f c^7 h f a^1 x t y f n z^3 x a^4 f
+p2.11 <<namos a encargar>> d^4 o t^6 f g^9 x x u[crossed loop] b^8 x^2 z^1 g^8 v q^7 f c^7 h f a^1 x t y f n z^3 x a^1 f
 p2.12 <<y q enel cumplimº della no aya falta en ninguna manera>>
 p2.13 <<Tambien os encomendamos mucho la paga delo q se deue al viz conde Cigala del>>
 p2.14 <<sueldo desus galeras y tanto mas causa ay para ello>> d^4 u[looped angle] c^1 b^7 h x a^3 h x x^2 c^7 h

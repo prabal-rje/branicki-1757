@@ -24,7 +24,7 @@ p1.22	nosepuedecaberdepesenteningunaayudadeotraparteporlase
 p1.23	cesidadesqueentodasay «y señaladamente os encargamos mucho la»
 p1.24	«prouision» delagoletaporconsideraciondelarmadadelturco «que»
 p1.25	«tengays muy grand cuydado della y de proueer todo lo que para la seguridad»
-p1.26	desazafueremenester «como conosceys q importa»
+p1.26	desafueremenester «como conosceys q importa»
 p1.27	«En lo q embiastes a comunicar al visorey de napoles con el gallego no ay q dezir»
 p1.28	«sino q fue todo muy bien pensado segund lo que ala sazon se entendia / despues»
 p1.29	«haureys entendido lo que mas se ha seguido / y del gallego lo que el visorey le»
@@ -34,14 +34,14 @@ p1.32	dalpolracaber
 p2.01	«En lo delas fortificaciones delas plaças y tierras Importantes desse Reyº pues os tenemos»
 p2.02	«remitido q hagays todo lo que os paresciere conuenir ala seguridad del no tenemos»
 p2.03	«q añadir mas de encargaros q dando en ello la mejor orden q se pueda pro»
-p2.04	«cureys q sea con el menos gasto de nra [?hazienda] q huuiere lugar»
+p2.04	«cureys q sea con el menos gasto de nra hazienda [?como] q huuiere lugar»
 p2.05	porlasspiasyotrosabisosquesetieneseentiendecomoseossu
 p2.06	bioultimamentequeelmayoresfuercodelooirancesesbie
 p2.07	alauronteradeperpisan «y tambien» amenabanporlapartedenaba
 p2.08	«y para hazer la defension en la vna y en la otra parte se hazen las prouisiones q»
 p2.09	«conuienen / y sereys auisado delo q succediere»
 p2.10	«La paga del Conde» ylapagadelsueldodelcondedelaniuilara «os tor»
-p2.11	«namos a encargar» porlasconnysideracionesqueestanyasurintos
+p2.11	«namos a encargar» porlasconnysideracionesqueestanyasurintas
 p2.12	«y q enel cumplimº della no aya falta en ninguna manera»
 p2.13	«Tambien os encomendamos mucho la paga delo q se deue al viz conde Cigala del»
 p2.14	«sueldo desus galeras y tanto mas causa ay para ello» poogaseentiendequee
