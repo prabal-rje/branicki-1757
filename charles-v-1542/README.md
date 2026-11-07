@@ -19,7 +19,9 @@ Read it: [Spanish](reading.md), [English](translation.md).
 
 ## Outside check
 
-Carlo Capasso, "Il governo di Don Ferrante Gonzaga in Sicilia dal 1535 al 1543", *Archivio Storico Siciliano*, n.s. 31 (1906), works from Gonzaga's registers at Parma: https://archive.org/details/nsarchiviostoric31soci
+The source is Carlo Capasso, "Il governo di Don Ferrante Gonzaga in Sicilia dal 1535 al 1543", *Archivio Storico Siciliano*, n.s. 31 (1906).
+
+Capasso works from Gonzaga's registers at Parma: https://archive.org/details/nsarchiviostoric31soci
 
 | The cipher says | Capasso says |
 | --- | --- |
