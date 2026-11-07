@@ -18,7 +18,7 @@ As for the fortifications of the strongholds and important towns of that kingdom
 
 **From the spies and other reports that we have, it is understood, as you were written last, that the main effort of the French is coming to the frontier of Perpignan**, and they also **[?were threatening] on the side of Navarre**. To make the defence on both sides, the necessary provisions are being made, and you will be told what happens.
 
-The pay of the Count, **the pay of the salary of the Count of [?Anguillara]**, we charge you with again, **for the reasons already written**, and that there be no failure in any way in fulfilling it.
+The pay of the Count, **the pay of the salary of the Count of Anguillara**, we charge you with again, **for the reasons already written**, and that there be no failure in any way in fulfilling it.
 
 We also commend to you strongly the payment of what is owed to the Viscount Cicala for the pay of his galleys, and there is all the more cause for it **because it is understood that he is being solicited to take another contract, to which we would not want him to [?give way] for lack of being paid what he is owed**.
 

@@ -18,7 +18,7 @@ En lo de las fortificaciones de las plaças y tierras importantes desse Reyno, p
 
 **Por las espías y otros avisos que se tiene se entiende, como se os scribió últimamente, que el mayor esfuerço de los franceses viene a la frontera de Perpiñán,** y también **[?amenaçavan] por la parte de Navarra**, y para hazer la defensión en la una y en la otra parte se hazen las provisiones que convienen, y sereys avisado de lo que succediere.
 
-La paga del Conde **la paga del sueldo del Conde de la [?Anguillara]** os lo tornamos a encargar **por las consideraciones que están ya scriptas**, y que en el cumplimiento della no aya falta en ninguna manera.
+La paga del Conde **la paga del sueldo del Conde de la Anguillara** os lo tornamos a encargar **por las consideraciones que están ya scriptas**, y que en el cumplimiento della no aya falta en ninguna manera.
 
 También os encomendamos mucho la paga de lo que se deve al Vizconde Cigala del sueldo de sus galeras, y tanto más causa ay para ello **porque se entiende que es solicitado para haver otro assiento, lo qual no querríamos que [?cediesse] por falta de ser pagado de lo que se le debe**.
 

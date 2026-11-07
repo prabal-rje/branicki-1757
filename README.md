@@ -18,6 +18,8 @@ Each base sign is a consonant, and a small digit above it adds the vowel. `charl
 
 The plan came from the letter's own sign statistics. A solver on a Spanish letter model then gave the letters.
 
+A 1906 history of Gonzaga's rule in Sicily supports the content. The letter repeats the order to pay the Count of Anguillara, and that same month the Count went over to the French with his galleys.
+
 ## The French letters, AGAD Warsaw, fonds 338
 
 Each reference code is AGAD 1/338/0/1/ plus the letter number. One key reads all four.

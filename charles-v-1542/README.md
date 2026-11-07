@@ -12,9 +12,27 @@ Emperor Charles V writes to Ferrante Gonzaga, Prince of Molfetta, his viceroy of
 - The Emperor's other kingdoms are as short or worse, so no help can come now.
 - La Goleta must be provided for, because of the Turkish fleet.
 - Spies report that the main French effort is coming to the frontier of Perpignan, and that the French threaten Navarre.
+- The Count of Anguillara must be paid. The Emperor repeats this order.
 - The Viscount Cicala must be paid for his galleys, because someone is soliciting him to take another contract.
 
 Read it: [Spanish](reading.md), [English](translation.md).
+
+## Outside check
+
+Carlo Capasso, "Il governo di Don Ferrante Gonzaga in Sicilia dal 1535 al 1543", *Archivio Storico Siciliano*, n.s. 31 (1906), works from Gonzaga's registers at Parma: https://archive.org/details/nsarchiviostoric31soci
+
+| The cipher says | Capasso says |
+| --- | --- |
+| Pay "el sueldo del Conde de la Anguillara", "os lo tornamos a encargar" | Pp. 387, 409: the Emperor presses Gonzaga to pay the Count, Virginio Orsini, whose galleys burden the Sicilian treasury. |
+| Pay Cicala, who "es solicitado" for another contract | P. 387: in June, Captain Cicala threatens to leave imperial service unless he gets 8,000 ducats. |
+| "El mayor esfuerço de los franceses viene a la frontera de Perpiñán" | P. 408: the main French effort is for now toward Spain. |
+| Sicily cannot pay without outside help | P. 409: the treasury is exhausted. |
+
+**What happens next.** Pp. 409-410: "proprio in questo momento" the Count goes over to the French with his galleys. Gonzaga sends Cicala after him on 24 August. Capasso adds that Gonzaga feared blame, because he had not paid the Count as ordered.
+
+So this letter repeats the order to pay the Count days before the news of his defection reaches Sicily. That timing is my reading, and I do not know the exact day he left.
+
+Capasso cites other letters, but I found no citation of this one.
 
 ## The cipher
 
@@ -89,10 +107,11 @@ These readings stay doubtful, and the reading marks most of them with `[?word]`:
 - "della", from "de=a". The sign s also gives ll.
 - "amenaçavan", from "amenaban".
 - "cediesse", which could also be "se diesse".
-- "Anguillara", from "lannuilara". I have not identified this count.
 - "haver", from "caber", which comes three times. This one is not marked in the reading.
 
-I found no printed copy. But the chancery's clear draft may survive in Spanish archives, and I could not check those.
+"Anguillara" comes from the string "lannuilara". Capasso's account supports it, so it is not marked as doubtful.
+
+I found no printed copy of this letter. But the chancery's clear draft may survive in Spanish archives, and I could not check those.
 
 No historian has checked this reading yet.
 
