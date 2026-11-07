@@ -1,6 +1,6 @@
 # Charles V to Ferrante Gonzaga, Monzón, 11 August 1542
 
-Emperor Charles V writes to Ferrante Gonzaga, his viceroy of Sicily. The letter is signed "Yo el Rey" and countersigned "Idiáquez".
+Emperor Charles V writes to Ferrante Gonzaga, Prince of Molfetta, his viceroy of Sicily. The letter is signed "Yo el Rey" and countersigned "Idiáquez". The back gives the address, and it marks this copy as the duplicate.
 
 - **Where:** Biblioteca Estense Universitaria, Modena, Autografoteca Campori, Lettera K, Karl V, sfasc. IV, cc. 109-110.
 - **Scans:** https://lodovico.medialibrary.it/media/schedadl.aspx?id=c710a32c-42a7-4159-8abc-472aed58f7c9
@@ -20,52 +20,76 @@ Read it: [Spanish](reading.md), [English](translation.md).
 
 A base sign is a consonant, and a small digit above it adds the vowel. The digits 1 to 5 and the digits 6 to 9 and 0 both run a, e, i, o, u. A sign with no digit is a single letter.
 
-| Sign | With digit 1-5 | With digit 6-0 | No digit |
-| --- | --- | --- | --- |
-| x | d | | n |
-| z | r | b | i |
-| q | | n | e |
-| t | f | l | y |
-| d | p | | |
-| n | m | | u |
-| g | h, rarely c | c | |
-| b | | s | |
-| a | t | | m |
-| w | tr | | |
-| c | g | qu | l |
+The labels below name the shapes in `transcription.txt`. A label is a description, not a value.
 
-These signs have no digit: f is s, h is e, v is o, y is a, o is r.
+| With a digit | Consonant |
+| --- | --- |
+| x | d |
+| z | r |
+| d | p |
+| n | m |
+| a | t |
+| w | tr |
+| q | n |
+| t | l |
+| g | c |
+| b | s |
+| S, I, F | b |
+| P | f |
+| Q | pr |
+| c | g with digits 1 to 5, qu with digits 6 to 0 |
 
-The sign s marks a doubled or palatal consonant: "de-s-e" is "desse", "se-s-aladamente" is "señaladamente", and "Perpi-s-an" is "Perpiñan".
+| With no digit | Letter |
+| --- | --- |
+| h | e |
+| v | o |
+| y | a |
+| t | y |
+| n | u |
+| D | i |
+| x, z | n |
+| f, T | s |
+| o, r, Q | r |
+| c | l |
+| C | c |
+| E | p |
+| M | m |
+| G, F | f |
+| s | a doubled or palatal consonant: ss, ll, rr or ñ |
+| X | a null |
 
-Letters in the table name the shapes in `transcription.txt`. A shape label is a description, not a value. A few rare signs are in `decryption.txt` only. I fixed those by sense, so they are less sure.
+The rare shapes are D (a delta), P (a hooked stem), Q (a looped angle), S (a sigma), I (a short stroke), C (an arch), E (a slant with a dot), G (a triangle) and X (a crossed loop).
 
 ## How it was solved
 
-The plan came from the sign statistics of the letter itself, with no key, sibling letter or crib. A solver on a Spanish letter model then gave the letters, and I read the text from that.
+The plan came from the sign statistics of the letter itself, with no key, sibling letter or crib. A solver on a Spanish letter model then gave the letters, and the text was read from that.
 
-- **Transcription:** two passes agree on 96.3% of 702 signs. I checked the clear lines and the doubtful signs against enlarged scans.
-- **Score:** the key scores -2.21 per letter under the Spanish model. Shuffled signs score -3.33.
-- **Repeat runs:** all six starts reach the same key.
-- **Held-out half:** a key fitted on the first half agrees with the full key on 89.7% of tokens in the second half. Each half has only about 350 tokens.
+- **Transcription:** two passes agree on 94.4% of signs. Each difference is settled on the scan, which gives 705 signs.
+- **Score, on the first pass:** the key scores -2.21 per letter under the Spanish model. Shuffled signs score -3.33.
+- **Repeat runs, on the first pass:** all six starts reach the same key.
+- **Held-out half, on the first pass:** a key fitted on the first half agrees with the full key on 89.7% of tokens in the second half. Each half has only about 350 tokens.
 - **Blind read:** a reader with no context named this text as Spanish, and it named two shuffled controls as noise.
 
 ## What stays open
 
-I compared the raw key stream with the reading, letter by letter. `decryption.txt` shows the raw stream.
+I compared the raw key stream with the reading, letter by letter, and counted b, u and v as one letter. `decryption.txt` shows the raw stream.
 
-- **Straight from the key:** about 94% of the cipher's letters.
-- **Fixed by sense:** about 5%. These are spelling (b for v), a dropped letter, or a rare sign with too few uses to fix by counts.
-- **Unread:** about 1%, one short phrase. After "pudiéredes ayudar", the string "nosurebil" makes no sense to me.
+- **Straight from the key:** about 97% of the cipher's letters.
+- **Fixed by sense:** about 3%. These are writer's slips, and rare signs with too few uses to fix by counts.
+- **Unread:** nothing now.
 
-Four readings are doubtful:
+These readings stay doubtful, and the reading marks most of them with `[?word]`:
 
-- "y a sus rentas", from the string "yasurintas".
-- "haver", from the string "caber", which comes three times.
-- "como", a blotted clear word before "que huviere lugar".
-- "Novellara", from the string "niuilara". The Counts of Novellara were a Gonzaga branch, but I found no count of that house in Sicily in 1542.
+- "screbir", from "screbil".
+- "della", from "de=a". The sign s also gives ll.
+- "amenaçavan", from "amenaban".
+- "cediesse", which could also be "se diesse".
+- "Anguillara", from "lannuilara". I have not identified this count.
+- "haver", from "caber", which comes three times. This one is not marked in the reading.
 
 I found no printed copy. But the chancery's clear draft may survive in Spanish archives, and I could not check those.
+
+No historian has checked this reading yet.
 
 ## Context, from memory and not checked here
 

@@ -63,7 +63,7 @@ a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 
 ## Status
 
-- Charles V: about 94% of the cipher's letters come straight from the key, about 5% are fixed by sense, and one short phrase stays unread.
+- Charles V: about 97% of the cipher's letters come straight from the key, about 3% are fixed by sense, and a few words stay doubtful.
 - 446, 1399 and 1400 come from reconciled transcriptions.
 - Page 2 of 1398 is still rough.
 
