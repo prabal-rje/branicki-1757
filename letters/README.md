@@ -18,6 +18,28 @@ The key from `../key.tsv`, found on the Branicki letter 446, reads these with no
 
 **1400, from Nieśwież, 11 September.** A bloody election assembly at Brest, with massacred gentlemen, brother against brother, and a rival party spreading money across the palatinates.
 
+## Outside checks
+
+**The sum in 1399.** The letter gives the total in words: "cent quarante et six mille francs". The shares come later: 53,000 + 25,000 + 50,000 + 10,000 + 8,000. They add up to exactly 146,000.
+
+**The names are in print.** Władysław Konopczyński, *Polska w dobie wojny siedmioletniej* (1909), lists the French embassy's payments in his notes, from the Paris foreign-affairs archives: https://archive.org/details/polskawdobiewoj7v8kono
+
+- Under 1756-7, p. 433: "Matuszewiczowi i Zabielle 1500 duk., p. Vierval 100, Boevenowi 200, wojewodzie bełzkiemu 2000".
+- Under 1758, p. 510: "Boevenowi 100".
+
+So the same payment entry holds these people:
+
+- Boeven, who signs 1400.
+- Zabiełło, named in 1399.
+- Matuszewicz. The signature on 1398 looks like his name, but that page is still rough.
+- The palatine of Bełz, Antoni Potocki, who received letter 446.
+
+The same list also pays Branicki, and the cześnik koronny, whom the clear text of 446 names.
+
+**What this does not show.** I searched that book's OCR, and I did not read all of it. I found no copy of these letters there. It's my reading that these letters come from a French-paid network, and it isn't proved. 1399 is unsigned, and "France" for number 350 is a guess.
+
+**The matcher.** My count-matching algorithm reads 1399 and 1400 from the ciphertext alone. Its key agrees with the 446 key on 99.4% and 98.9% of tokens.
+
 ## Files
 
 Each folder has `reading.md` (French), `translation.md` (English), the transcription and the line-by-line decryption.
