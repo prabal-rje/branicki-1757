@@ -1,16 +1,18 @@
-# Cipher letters read: Charles V, 1542, and four French letters, 1756-1757
+# Cipher letters read: Charles V, 1542, a Polish letter of 1736, four French letters, 1756-1757, and Carranza's telegrams, 1915
 
-Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver list as unread. All five were read from the ciphertext, with no key from outside.
+Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed as unread when I read them. All were read from the ciphertext, with no key from outside.
 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
 | [Charles V to Ferrante Gonzaga](https://lodovico.medialibrary.it/media/schedadl.aspx?id=c710a32c-42a7-4159-8abc-472aed58f7c9) | Monzón, 11 August 1542 | The Emperor tells his viceroy of Sicily that no help can come for the infantry, the galleys and La Goleta. Spies report that the main French effort is heading for Perpignan. | [Notes](charles-v-1542/README.md), [Spanish](charles-v-1542/reading.md), [English](charles-v-1542/translation.md) |
+| [AGAD 1401](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225114) | 4 February [?1736] | Polish exiles in Prussia learn that France will not keep Stanisław Leszczyński on the Polish throne. They set conditions for his abdication. | [Notes](agad-1401/README.md), [Polish](agad-1401/reading.md), [English](agad-1401/translation.md) |
 | [AGAD 446](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28224155) | Białystok, 22 March 1757 | Hetman Jan Klemens Branicki to Antoni Potocki, palatine of Bełz. Branicki plans a manifesto against an envoy's abuse of his mission. The envoy is probably Stanisław Poniatowski, later King of Poland. | [French](reading_446.md), [English](translation_446.md) |
 | [AGAD 1398](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225111) | Jaswojnie, 24 July 1757 | Signed Matusewic. A field report on the Russian army under Apraxin at the frontier of Prussia: requisitions, Cossacks, and town deputies who come to submit. | [French](letters/1398/reading.md), [English](letters/1398/translation.md) |
 | [AGAD 1399](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225112) | 1756, before August | An insider's report on Hetman Radziwiłł's party in Lithuania. A congress at Iwie agrees a fund of 146,000 francs to buy the coming dietines, and lists five lords' shares. | [French](letters/1399/reading.md), [English](letters/1399/translation.md) |
 | [AGAD 1400](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225113) | Nieśwież, 11 September 1756 | Signed Boeven. A bloody election assembly at Brest, and a rival party spreading two hundred thousand francs across Lithuania. | [French](letters/1400/reading.md), [English](letters/1400/translation.md) |
+| [Carranza's telegrams](https://www.cehm.org.mx/Buscador/FichaBasica/38647?Tipo=A) | Veracruz, May and June 1915 | Ten telegrams in the war against Villa: ammunition for Obregón, a million pesos for Pablo González, rifles to buy in New York. | [Notes](carranza-1915/README.md), [Spanish](carranza-1915/reading.md), [English](carranza-1915/translation.md) |
 
-The ledger lists the Charles V letter as catalogue 1560, 446 as catalogue 1578, and 1398 to 1400 as catalogue 1579.
+The ledger lists the Charles V letter as catalogue 1560, 446 as catalogue 1578, 1398 to 1401 as catalogue 1579, and the telegrams as catalogue 1464.
 
 ## Charles V, 1542
 
@@ -19,6 +21,12 @@ Each base sign is a consonant, and a small digit above it adds the vowel. `charl
 The plan came from the letter's own sign statistics. A solver on a Spanish letter model then gave the letters.
 
 A 1906 history of Gonzaga's rule in Sicily supports the content. The letter repeats the order to pay the Count of Anguillara, and that same month the Count went over to the French with his galleys.
+
+## AGAD 1401, 1736
+
+One number stands for one letter, and about 16 code groups stand for names and titles. The letter values came by hand from the numbers and the Polish.
+
+Bespoke count matching based on Polish next-letter counts then agrees with them on 98.2% of letter tokens, on this letter alone. `agad-1401/README.md` gives the checks and what stays open.
 
 ## The French letters, AGAD Warsaw, fonds 338
 
@@ -48,9 +56,21 @@ A reciprocal alphabet of 12 pairs. Each pair swaps: a stands for h, and h stands
 
 a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 
+## Carranza's telegrams, 1915
+
+In the number telegrams, four runs of numbers each go through the alphabet from their own start. The letter telegrams swap thirteen pairs of letters.
+
+Bespoke count matching based on Spanish next-letter counts gave readable fragments, and the plan of the key followed from those by hand.
+
+The key family may already be in print, and I have not reached Narváez's 2019 book or 2025 article. `carranza-1915/README.md` gives the checks and what stays open.
+
 ## Files
 
 **Charles V:** `charles-v-1542/` has the notes, the reading, the translation, the transcription and the line-by-line decryption.
+
+**AGAD 1401:** `agad-1401/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
+
+**Carranza's telegrams:** `carranza-1915/` has the same files.
 
 **The French letters:**
 
@@ -69,6 +89,8 @@ a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 - Charles V: about 97% of the cipher's letters come straight from the key, about 3% are fixed by sense, and a few words stay doubtful.
 - 446, 1399 and 1400 come from reconciled transcriptions.
 - Page 2 of 1398 comes from one hand reread against the scan.
+- AGAD 1401: more than 95% of the cipher words read as sense, and ten code tokens stay wholly open.
+- Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.
 
