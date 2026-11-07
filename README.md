@@ -24,7 +24,7 @@ A 1906 history of Gonzaga's rule in Sicily supports the content. The letter repe
 
 ## AGAD 1401, 1736
 
-One number stands for one letter, and about 16 code groups stand for names and titles. The letter values came by hand from the numbers and the Polish.
+One number stands for one letter, and about 16 code groups stand for names and titles. The letter values came from reading the numbers against the Polish, with no solver.
 
 Bespoke count matching based on Polish next-letter counts then agrees with them on 98.2% of letter tokens, on this letter alone. `agad-1401/README.md` gives the checks and what stays open.
 
@@ -60,7 +60,7 @@ a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 
 In the number telegrams, four runs of numbers each go through the alphabet from their own start. The letter telegrams swap thirteen pairs of letters.
 
-Bespoke count matching based on Spanish next-letter counts gave readable fragments, and the plan of the key followed from those by hand.
+Bespoke count matching based on Spanish next-letter counts gave readable fragments, and reading those gave the plan of the key.
 
 The key family may already be in print, and I have not reached Narváez's 2019 book or 2025 article. `carranza-1915/README.md` gives the checks and what stays open.
 

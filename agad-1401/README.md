@@ -34,7 +34,7 @@ These stay unread: 175, 195, 613, 145, 715, 505, 4345, 156, 5455 and 289.
 
 ## How it was read
 
-From the ciphertext alone, with no other letter, key or crib. The letter values came by hand from the numbers and the Polish.
+From the ciphertext alone, with no other letter, key or crib. The letter values came from reading the numbers against the Polish, with no solver.
 
 Bespoke count matching based on Polish next-letter counts, run on this letter alone, then agrees with those values on 98.2% of letter tokens.
 
