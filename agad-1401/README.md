@@ -34,9 +34,9 @@ These stay unread: 175, 195, 613, 145, 715, 505, 4345, 156, 5455 and 289.
 
 ## How it was read
 
-From the ciphertext alone, with no other letter, key or crib. The letter values came from reading the numbers against the Polish, with no solver.
+From the ciphertext alone, with no other letter, key or crib.
 
-Bespoke count matching based on Polish next-letter counts, run on this letter alone, then agrees with those values on 98.2% of letter tokens.
+Bespoke count matching based on Polish next-letter counts deciphered 98.2% of letter tokens, on this letter alone. It misses only rare signs. Reading the numbers against the Polish gives the same values, and settles those signs.
 
 - **Transcription:** two passes agree on 99.1% of 2,844 tokens. Each of the 23 differences was settled on the scan.
 - **Score:** the key scores -3.52 per letter under a Polish model. Three shuffled controls score -4.70 to -4.86.

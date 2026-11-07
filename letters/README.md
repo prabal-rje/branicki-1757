@@ -24,7 +24,7 @@ The key from `../key.tsv`, found on the Branicki letter 446, reads these with no
 
 **The sum in 1399.** The letter gives the total in words: "cent quarante et six mille francs". The shares come later: 53,000 + 25,000 + 50,000 + 10,000 + 8,000. They add up to exactly 146,000. The letter also says "[809] seigneurs", which the number block reads as five, and it lists five.
 
-**The matcher.** My count-matching algorithm reads 1399 and 1400 from the ciphertext alone. Its key agrees with the 446 key on 99.4% and 98.9% of tokens.
+**The matcher.** My count-matching algorithm reads 1399 and 1400 from the ciphertext alone. Its key agrees with the 446 key on 99.4% and 98.9% of tokens. On 1398, alone, it agrees on 93.1%.
 
 ### Matuszewicz's memoirs
 

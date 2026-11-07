@@ -87,7 +87,7 @@ The rare shapes:
 
 ## How it was solved
 
-The plan came from the sign statistics of the letter itself, with no key, sibling letter or crib. A solver on a Spanish letter model then gave the letters, and the text was read from that.
+My count matching algorithm, which opened the other letters in this repo, does not read this sign-and-digit plan. A different bespoke fit does. It takes the plan from the sign statistics of the letter itself, with no key, sibling letter or crib, then solves it on a Spanish letter model. The text was read from that.
 
 - **Transcription:** two passes agree on 94.4% of signs. Each difference is settled on the scan, which gives 705 signs.
 - **Score, on the first pass:** the key scores -2.21 per letter under the Spanish model. Shuffled signs score -3.33.

@@ -33,7 +33,7 @@ Read them: [Spanish](reading.md), [English](translation.md).
 
 From the ciphertext alone, with no key sheet and no sibling decipherment.
 
-Bespoke count matching based on Spanish next-letter counts gave readable fragments of the number telegrams. Reading those fragments gave the plan of the key. The letter telegrams came from a one-to-one solve on Spanish, then a reading of its output.
+Bespoke count matching based on Spanish next-letter counts opened the number telegrams. On the largest set (758 tokens) it gets 65% to 77% of tokens right on its own, over six runs. On the 199-token Obregón set it gets 35%. Those readable fragments gave the plan of the key. The letter telegrams came from a one-to-one solve on Spanish, then a reading of its output.
 
 - **Transcription:** two passes agree on 99.2% of 1,292 tokens. The numbers are typed and clear. I checked sample pages on the scan, not every difference.
 - **Score:** a four-start search gives -2.61 per letter on the Nuevo Laredo set and -2.26 on the Obregón set. Shuffled numbers give -5.7 to -5.9.

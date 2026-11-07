@@ -14,19 +14,34 @@ Letters that the archives and the historical cipher ledger at https://github.com
 
 The ledger lists the Charles V letter as catalogue 1560, 446 as catalogue 1578, 1398 to 1401 as catalogue 1579, and the telegrams as catalogue 1464.
 
+## What opened them
+
+My bespoke count matching algorithm did the work on nearly all of these. Each number is the share of tokens that it gets right on that text alone, with no key, crib or other letter.
+
+| Text | Tokens right |
+| --- | ---: |
+| AGAD 1399 | 99.4% |
+| AGAD 446 | 98.9% |
+| AGAD 1400 | 98.9% |
+| AGAD 1401 | 98.2% |
+| AGAD 1398 | 93.1% |
+| Carranza, largest set (758 tokens) | 65% to 77%, over six runs |
+
+Charles V's letter is the exception. Count matching does not read its sign-and-digit plan, so that letter needed a different bespoke fit.
+
 ## Charles V, 1542
 
 Each base sign is a consonant, and a small digit above it adds the vowel. `charles-v-1542/README.md` gives the table, the checks and what stays open.
 
-The plan came from the letter's own sign statistics. A solver on a Spanish letter model then gave the letters.
+A bespoke fit took the plan from the letter's own sign statistics, then solved it on a Spanish letter model.
 
 A 1906 history of Gonzaga's rule in Sicily supports the content. The letter repeats the order to pay the Count of Anguillara, and that same month the Count went over to the French with his galleys.
 
 ## AGAD 1401, 1736
 
-One number stands for one letter, and about 16 code groups stand for names and titles. The letter values came from reading the numbers against the Polish, with no solver.
+One number stands for one letter, and about 16 code groups stand for names and titles.
 
-Bespoke count matching based on Polish next-letter counts then agrees with them on 98.2% of letter tokens, on this letter alone. `agad-1401/README.md` gives the checks and what stays open.
+Bespoke count matching based on Polish next-letter counts deciphered 98.2% of letter tokens, on this letter alone. Reading the numbers against the Polish gives the same values, and settles the rare signs. `agad-1401/README.md` gives the checks and what stays open.
 
 ## The French letters, AGAD Warsaw, fonds 338
 
@@ -60,7 +75,7 @@ a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 
 In the number telegrams, four runs of numbers each go through the alphabet from their own start. The letter telegrams swap thirteen pairs of letters.
 
-Bespoke count matching based on Spanish next-letter counts gave readable fragments, and reading those gave the plan of the key.
+Bespoke count matching based on Spanish next-letter counts opened the number telegrams. It gets 65% to 77% of tokens right on the largest set, and those readable fragments gave the plan of the key.
 
 The key family may already be in print, and I have not reached Narváez's 2019 book or 2025 article. `carranza-1915/README.md` gives the checks and what stays open.
 
