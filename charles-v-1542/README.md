@@ -58,7 +58,12 @@ The labels below name the shapes in `transcription.txt`. A label is a descriptio
 | s | a doubled or palatal consonant: ss, ll, rr or ñ |
 | X | a null |
 
-The rare shapes are D (a delta), P (a hooked stem), Q (a looped angle), S (a sigma), I (a short stroke), C (an arch), E (a slant with a dot), G (a triangle) and X (a crossed loop).
+The rare shapes:
+
+- D is a delta, and S is a sigma.
+- P is a hooked stem, and Q is a looped angle.
+- I is a short stroke, and C is an arch.
+- E is a slant with a dot, G is a triangle, and X is a crossed loop.
 
 ## How it was solved
 
