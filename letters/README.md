@@ -12,11 +12,11 @@ The key from `../key.tsv`, found on the Branicki letter 446, reads these with no
 
 ## What they say, in short
 
-**1398, dated 24 July.** A field report on the Russian army under Apraxin near the frontier of [625], likely Prussia. Town deputies come to submit, carts and men are taken without pay, and a rumour says flour and bread were poisoned.
+**1398, dated 24 July, probably 1757.** A field report on the Russian army under Apraxin near the frontier of [625], likely Prussia. Town deputies come to submit, carts and men are taken without pay, and a rumour says flour and bread were poisoned.
 
-**1399, written in 1757.** An insider's report on Lithuanian faction politics. After a congress at Iwie, the party agrees a fund of 146,000 francs to buy the coming dietines, with the lords' shares listed. The shares add up to the total: 53,000 + 25,000 + 50,000 + 10,000 + 8,000. The writer also sets up a new correspondence at Mitau.
+**1399, probably 1756.** An insider's report on Lithuanian faction politics. It plans for the Tribunal of 1757, so it comes before that Tribunal's dietines. After a congress at Iwie, the party agrees a fund of 146,000 francs to buy the coming dietines, with the lords' shares listed. The shares add up to the total: 53,000 + 25,000 + 50,000 + 10,000 + 8,000. The writer also sets up a new correspondence at Mitau.
 
-**1400, from Nieśwież, 11 September.** A bloody election assembly at Brest, with massacred gentlemen, brother against brother, and a rival party spreading money across the palatinates.
+**1400, from Nieśwież, 11 September 1756.** The year is in the number code: 824 811 823 818 810 reads "mil sept cent cinquante six". A bloody election assembly at Brest, with massacred gentlemen, brother against brother, and a rival party spreading money across the palatinates.
 
 ## Outside checks
 

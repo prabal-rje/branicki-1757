@@ -1,12 +1,33 @@
-# Branicki to Potocki, 22 March 1757: solved
+# Four French cipher letters, 1756-1757: solved
 
-Hetman Jan Klemens Branicki to Antoni Potocki, palatine of Bełz. AGAD 1/338/0/1/446. Scans: https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28224155
+Four letters from AGAD Warsaw, fonds 338. One key reads all four.
 
-Catalogued as unsolved ("nierozwiązany"), and listed as catalogue 1578 in the historical cipher ledger at https://github.com/dbourdeau/cyphersolver
+The archive catalogues them as unsolved ("nierozwiązany"). The historical cipher ledger at https://github.com/dbourdeau/cyphersolver lists them as catalogue 1578 (446) and 1579 (1398, 1399, 1400).
 
 Solved from the ciphertext alone, and almost entirely read. Every cipher letter reads as French. Only the number code is open, mostly names and titles.
 
-Bespoke count matching algorithm based on the French next-letter counts (deciphered 98.9% of tokens in one shot).
+Bespoke count matching algorithm based on the French next-letter counts (deciphered 98.9% of tokens on 446 and 1400, and 99.4% on 1399, in one shot).
+
+## The letters
+
+Each reference code is AGAD 1/338/0/1/ plus the letter number.
+
+| Letter | Date | What it says | Read it |
+| --- | --- | --- | --- |
+| [446](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28224155) | Białystok, 22 March 1757 | Hetman Jan Klemens Branicki to Antoni Potocki, palatine of Bełz. Branicki plans a manifesto against an envoy's abuse of his mission. | [French](reading_446.md), [English](translation_446.md) |
+| [1398](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225111) | 24 July, probably 1757 | A field report on the Russian army under Apraxin near the frontier of Prussia: requisitions, Cossacks, and town deputies who come to submit. | [French](letters/1398/reading.md), [English](letters/1398/translation.md). Page 2 is still rough. |
+| [1399](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225112) | Probably 1756 | An insider's report on Lithuanian faction politics. A congress at Iwie agrees a fund of 146,000 francs to buy the coming dietines, and lists five lords' shares. | [French](letters/1399/reading.md), [English](letters/1399/translation.md) |
+| [1400](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225113) | Nieśwież, 11 September 1756 | A bloody election assembly at Brest, and a rival party spreading money across the palatinates. Signed Boeven. | [French](letters/1400/reading.md), [English](letters/1400/translation.md) |
+
+## How I date them
+
+**1400.** The date line ends with the code groups 824 811 823 818 810. Numbers 805 to 824 look like number words, so this reads "mil sept cent cinquante six".
+
+The same block fits 1399: "[809] seigneurs" comes just before five listed shares, and "tous les [807], les [806] Bohuszowie" fits three and two.
+
+**1399.** It has no date line. It plans for the Tribunal of 1757, and for shares due next August, so it comes before that Tribunal's dietines.
+
+**1398.** It gives 24 July with no year. Apraxin's army stood at the frontier of Prussia in the summer of 1757.
 
 ## Key
 
@@ -16,15 +37,19 @@ a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
 
 ## Files
 
-- `reading_446.md`: the letter in French
-- `translation_446.md`: the letter in English
-- `transcription_446.txt`: the cipher text, line by line
-- `decryption_446.txt`: the decryption, line by line
-- `clear_446.txt`: the clear parts, as written
+- `letters/README.md`: short summaries of 1398, 1399 and 1400, and the outside checks
+- `letters/1398/`, `letters/1399/`, `letters/1400/`: the reading, the translation, the transcription and the line-by-line decryption of each letter
+- `reading_446.md`: letter 446 in French
+- `translation_446.md`: letter 446 in English
+- `transcription_446.txt`: the cipher text of 446, line by line
+- `decryption_446.txt`: the decryption of 446, line by line
+- `clear_446.txt`: the clear parts of 446, as written
 - `key.tsv`: the key
 
-## More letters
+## Status
 
-The same key reads letters 1398, 1399 and 1400 in the same collection. See `letters/`.
+446, 1399 and 1400 come from reconciled transcriptions. Page 2 of 1398 is still rough.
+
+In the readings, `[575]` is a number group that stays unread, and `[?word]` is a doubtful reading.
 
 © 2026 Prabal Gupta. First published here, 7 November 2026. Released under CC BY 4.0: reuse it, and credit me.
