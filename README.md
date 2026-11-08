@@ -1,9 +1,10 @@
-# Cipher letters read: Charles V, 1542, the Duke of Guastalla, 1717, a Polish letter of 1736, five French letters, 1756-1757, and Mexican telegrams, 1911 and 1915
+# Cipher letters read: a letter to Lorenzo de' Medici, 1479, Charles V, 1542, the Duke of Guastalla, 1717, a Polish letter of 1736, five French letters, 1756-1757, and Mexican telegrams, 1911 and 1915
 
 Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed as unread when I read them. All but one were read from the ciphertext, with no key from outside. The 1911 telegram was read with the archive's own key card.
 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
+| [A letter to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/riproduzione/?id=79510) | Toledo, 1479; endorsed 31 August | An unnamed writer at the court of Castile reports on a league "for the defence of the states", an agreement with the queen, a betrothal, a papal legate and a tithe on the clergy. Read in part. | [Notes](medici-1479/README.md), [Italian](medici-1479/reading.md), [English](medici-1479/translation.md) |
 | [Charles V to Ferrante Gonzaga](https://lodovico.medialibrary.it/media/schedadl.aspx?id=c710a32c-42a7-4159-8abc-472aed58f7c9) | Monzón, 11 August 1542 | The Emperor tells his viceroy of Sicily that no help can come for the infantry, the galleys and La Goleta. Spies report that the main French effort is heading for Perpignan. | [Notes](charles-v-1542/README.md), [Spanish](charles-v-1542/reading.md), [English](charles-v-1542/translation.md) |
 | [Antonio Ferdinando Gonzaga, Duke of Guastalla](https://lodovico.medialibrary.it/media/schedadl.aspx?id=848189d6-1008-497b-bcde-0e3a3ad9757f) | Guastalla, 24 September 1717 | The duke will not sign a "lettera reversale" that gives up old claims in return for imperial land. | [Notes](guastalla-1717/README.md), [Italian](guastalla-1717/reading.md), [English](guastalla-1717/translation.md) |
 | [AGAD 1401](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225114) | 4 February [?1736] | Polish exiles in Prussia learn that France will not keep Stanisław Leszczyński on the Polish throne. They set conditions for his abdication. | [Notes](agad-1401/README.md), [Polish](agad-1401/reading.md), [English](agad-1401/translation.md) |
@@ -17,6 +18,7 @@ Letters that the archives and the historical cipher ledger at https://github.com
 
 The ledger's catalogue numbers:
 
+- The Medici letter: 2322
 - Charles V: 1560
 - Guastalla: part of 1569
 - 446: 1578
@@ -40,6 +42,12 @@ My bespoke count matching algorithm did the work on most of these. Each number i
 | Carranza, largest set (758 tokens) | 65% to 77%, over six runs |
 
 Charles V's letter and the Guastalla letter are the exceptions. Count matching does not read Charles V's sign-and-digit plan, so that letter needed a different bespoke fit. The Guastalla letter also came from a bespoke fit, on an Italian letter model. The 1911 telegram needed no fit, because the archive keeps its key card.
+
+## A letter to Lorenzo de' Medici, 1479
+
+One sign stands for each letter, and code numbers and symbols stand for persons. The key came from the cipher alone, with the clear words between the cipher runs as cribs.
+
+It is read in part, because the archive's images are small. `medici-1479/README.md` gives the checks and what stays open.
 
 ## Charles V, 1542
 
@@ -104,6 +112,8 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 ## Files
 
+**The Medici letter:** `medici-1479/` has the notes, the reading, the translation, the transcription, the line-by-line decryption, the key and the open code groups.
+
 **Charles V:** `charles-v-1542/` has the notes, the reading, the translation, the transcription and the line-by-line decryption.
 
 **Guastalla:** `guastalla-1717/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
@@ -130,6 +140,7 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 ## Status
 
+- The Medici letter: read in part. 668 of 730 cipher letter positions are read, 91.5%. About 60 code groups and symbols stay unread.
 - Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
 - 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.
