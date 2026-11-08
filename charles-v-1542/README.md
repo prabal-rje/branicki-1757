@@ -40,7 +40,7 @@ Capasso cites other letters, but I found no citation of this one.
 
 A base sign is a consonant, and a small digit above it adds the vowel. The digits 1 to 5 and the digits 6 to 9 and 0 both run a, e, i, o, u. A sign with no digit is a single letter.
 
-The labels below name the shapes in `transcription.txt`. A label is a description, not a value.
+`key.tsv` gives every sign label with its value and its count of uses. A label names a shape in `transcription.txt`, not a value. `decryption.txt` is `key.tsv` applied to the transcription, with no change by hand.
 
 | With a digit | Consonant |
 | --- | --- |
@@ -52,7 +52,7 @@ The labels below name the shapes in `transcription.txt`. A label is a descriptio
 | w | tr |
 | q | n |
 | t | l |
-| g | c |
+| g | c with 7 to 0; h with 6 |
 | b | s |
 | S, I, F | b |
 | P | f |
@@ -70,13 +70,18 @@ The labels below name the shapes in `transcription.txt`. A label is a descriptio
 | x, z | n |
 | f, T | s |
 | o, r, Q | r |
-| c | l |
+| c | l; d at the end of a syllable |
 | C | c |
 | E | p |
 | M | m |
 | G, F | f |
 | s | a doubled or palatal consonant: ss, ll, rr or ñ |
-| X | a null |
+| X, g | nulls |
+
+Two values rest on their uses, not on the digit pattern:
+
+- g with 6 gives "ha". Its four uses are all in "haver", and no cipher word of the letter needs "ca". The digit is a clear 6 each time on the scan.
+- c with no digit gives d at the end of a syllable: "seguridad", "necesidad", "podrá". Elsewhere it gives l.
 
 The rare shapes:
 
@@ -89,7 +94,7 @@ The rare shapes:
 
 My count matching algorithm, which opened the other letters in this repo, does not read this sign-and-digit plan. A different bespoke fit does. It takes the plan from the sign statistics of the letter itself, with no key, sibling letter or crib, then solves it on a Spanish letter model. The text was read from that.
 
-- **Transcription:** two passes agree on 94.4% of signs. Each difference is settled on the scan, which gives 705 signs.
+- **Transcription:** two passes agree on 94.4% of signs. Each difference is settled on the scan. A check of every line at full size on 7 November 2026 added two signs that both passes missed at line ends, which gives 707 signs.
 - **Score, on the first pass:** the key scores -2.21 per letter under the Spanish model. Shuffled signs score -3.33.
 - **Repeat runs, on the first pass:** all six starts reach the same key.
 - **Held-out half, on the first pass:** a key fitted on the first half agrees with the full key on 89.7% of tokens in the second half. Each half has only about 350 tokens.
@@ -97,19 +102,18 @@ My count matching algorithm, which opened the other letters in this repo, does n
 
 ## What stays open
 
-I compared the raw key stream with the reading, letter by letter, and counted b, u and v as one letter. `decryption.txt` shows the raw stream.
+The cipher passages hold 246 words. 240 of them read, 97.6%.
 
-- **Straight from the key:** about 97% of the cipher's letters.
-- **Fixed by sense:** about 3%. These are writer's slips, and rare signs with too few uses to fix by counts.
-- **Unread:** nothing now.
+`doubtful_places.md` lists every place where the reading leaves the key, with what the scan shows and what I tried. The two signs added at line ends settle two of them: "que es solicitado" and "que sucediesse" now read straight from the key.
 
-These readings stay doubtful, and the reading marks most of them with `[?word]`:
+Six words stay marked. The writer left out a letter or a syllable, or wrote a wrong sign:
 
-- "screbir", from "screbil".
-- "della", from "de=a". The sign s also gives ll.
-- "amenaçavan", from "amenaban".
-- "cediesse", which could also be "se diesse".
-- "haver", from "caber", which comes three times. This one is not marked in the reading.
+- "[g]randes", where the signs give "rrandes";
+- "de [?allí]", where the signs give "dela=i";
+- "t[a]n", where the digit is a clear 2 and gives "ten";
+- "e[x]pedientes", where the signs give "elpedientes";
+- "nos [?screbir]", where the last sign is a clear l;
+- "amena[ça]van", where a syllable is left out.
 
 "Anguillara" comes from the string "lannuilara". Capasso's account supports it, so it is not marked as doubtful.
 
@@ -128,7 +132,9 @@ No historian has checked this reading yet.
 - `reading.md`: the letter in Spanish
 - `translation.md`: the letter in English
 - `transcription.txt`: the cipher and the clear text, line by line, with shape labels
-- `decryption.txt`: the decryption, line by line
+- `key.tsv`: every sign label, its value and its count of uses
+- `decryption.txt`: the decryption, line by line, from `key.tsv` with no change by hand
+- `doubtful_places.md`: every place where the reading leaves the key, and what I tried
 
 The page images stay with the Biblioteca Estense under their own licence (CC BY-NC-SA). They are not copied here.
 

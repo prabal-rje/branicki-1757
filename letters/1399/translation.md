@@ -12,7 +12,7 @@ If the reply holds anything of interest, I will also be very exact in telling yo
 
 We left Grodno on the 4th of this month and arrived on the 6th at Zdzięcioł, at the home of the Dowager Princess Palatine of Nowogród, a worthy daughter of our province, who hardly consoled us on the sad state of our present affairs.
 
-There we only planned to gather our friends on the twelfth of this month at Iwie, at the home of Mr the [?Grand Marshal] of Lithuania, to decide what to do in so thorny a crisis.
+There we only planned to gather our friends on the twelfth of this month at Iwie, at the home of Mr the Grand Marshal of Lithuania, to decide what to do in so thorny a crisis.
 
 We spent only the night at Zdzięcioł, and arrived the next day at Korelicze, on our own lands. As soon as they knew we were there, the unfortunates came to find us, among them the Abramowicz gentlemen, all three, the two Bohusz and the Ciechanowiecki gentlemen, led by Mr the Prince [480] and the Strasznik of Lithuania.
 
@@ -22,11 +22,11 @@ We left Korelicz on the 10th before noon, and came to sleep at Sielup at the hom
 
 The next day, the twelfth, there arrived Mr the Palatine of Trok with Mr the Strasznik of Lithuania, his son; Madame the Princess Palatine, dowager of Nowogród, with Mr the Prince [841] of Lithuania, her son; and Mr the Prince, Grand Ensign of this Grand Duchy.
 
-Since arriving, these gentlemen have already held several conferences, both at the home of Mr the [?Grand Marshal] and at the Bernardines' of Iwie. So far I do not know the result, but it will surely reach me, and I will not fail to inform you.
+Since arriving, these gentlemen have already held several conferences, both at the home of Mr the Grand Marshal and at the Bernardines' of Iwie. So far I do not know the result, but it will surely reach me, and I will not fail to inform you.
 
 By this post I am setting up a new correspondence at Mitau, to be told exactly what is happening in Russia, and especially on the frontiers of [?Livonia] and [?Courland]. I will take care to let you know in time, so that you can pass it on where we agreed.
 
-But, Sir, subject to your better judgment, when I discover some [?event] of importance whose nature absolutely requires that it be known quickly, would it not be better, to avoid all delay, for me to go directly to the minister of [?France]? For I will find the means to write to him and to receive his orders without arousing the least suspicion in anyone.
+But, Sir, subject to your better judgment, when I discover some event of importance whose nature absolutely requires that it be known quickly, would it not be better, to avoid all delay, for me to go directly to the minister of France? For I will find the means to write to him and to receive his orders without arousing the least suspicion in anyone.
 
 It is not that I wish, God forbid, to hide my discoveries from you, and I will always inform you of them with the utmost exactness. It is to cut short such circumstances where the case may require it. Please tell me frankly what you think.
 
@@ -39,7 +39,7 @@ From this general sum, six thousand francs have already been drawn for Mr Zabiel
 Five lords have undertaken to provide their shares by the 1st of next August, to make up this sum, namely:
 
 - the Prince Grand General, fifty-three thousand;
-- Mr the [?Grand Marshal] of Lithuania, twenty-five thousand;
+- Mr the Grand Marshal of Lithuania, twenty-five thousand;
 - the Prince Grand Ensign, fifty thousand;
 - Mr Pociei, Strasznik of Lithuania, ten thousand;
 - and Mr Sottohub, General of Artillery, eight thousand.

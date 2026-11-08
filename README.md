@@ -8,7 +8,7 @@ Letters that the archives and the historical cipher ledger at https://github.com
 | [Antonio Ferdinando Gonzaga, Duke of Guastalla](https://lodovico.medialibrary.it/media/schedadl.aspx?id=848189d6-1008-497b-bcde-0e3a3ad9757f) | Guastalla, 24 September 1717 | The duke will not sign a "lettera reversale" that gives up old claims in return for imperial land. | [Notes](guastalla-1717/README.md), [Italian](guastalla-1717/reading.md), [English](guastalla-1717/translation.md) |
 | [AGAD 1401](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225114) | 4 February [?1736] | Polish exiles in Prussia learn that France will not keep Stanisław Leszczyński on the Polish throne. They set conditions for his abdication. | [Notes](agad-1401/README.md), [Polish](agad-1401/reading.md), [English](agad-1401/translation.md) |
 | [AGAD 446](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28224155) | Białystok, 22 March 1757 | Hetman Jan Klemens Branicki to Antoni Potocki, palatine of Bełz. Branicki plans a manifesto against an envoy's abuse of his mission. The envoy is probably Stanisław Poniatowski, later King of Poland. | [French](reading_446.md), [English](translation_446.md) |
-| [AGAD 1398](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225111) | Jaswojnie, 24 July 1757 | Signed Matusewic. A field report on the Russian army under Apraxin at the frontier of Prussia: requisitions, Cossacks, and town deputies who come to submit. | [French](letters/1398/reading.md), [English](letters/1398/translation.md) |
+| [AGAD 1398](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225111) | Jaswojnie, 24 July 1757 | Signed Matusevic. A field report on the Russian army under Apraxin at the frontier of Prussia: requisitions, Cossacks, and town deputies who come to submit. | [French](letters/1398/reading.md), [English](letters/1398/translation.md) |
 | [AGAD 1399](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225112) | 1756, before August | An insider's report on Hetman Radziwiłł's party in Lithuania. A congress at Iwie agrees a fund of 146,000 francs to buy the coming dietines, and lists five lords' shares. | [French](letters/1399/reading.md), [English](letters/1399/translation.md) |
 | [AGAD 1400](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225113) | Nieśwież, 11 September 1756 | Signed Boeven. A bloody election assembly at Brest, and a rival party spreading two hundred thousand francs across Lithuania. | [French](letters/1400/reading.md), [English](letters/1400/translation.md) |
 | [Carranza's telegrams](https://www.cehm.org.mx/Buscador/FichaBasica/38647?Tipo=A) | Veracruz, May and June 1915 | Ten telegrams in the war against Villa: ammunition for Obregón, a million pesos for Pablo González, rifles to buy in New York. | [Notes](carranza-1915/README.md), [Spanish](carranza-1915/reading.md), [English](carranza-1915/translation.md) |
@@ -52,7 +52,7 @@ A bespoke fit took the key from this letter alone, on an Italian letter model. `
 
 ## AGAD 1401, 1736
 
-One number stands for one letter, and about 16 code groups stand for names and titles.
+One number stands for one letter, and about 14 code groups stand for names. Two groups written without dots are not code: they spell "ham" and "han", the Khan.
 
 Bespoke count matching based on Polish next-letter counts deciphered 98.2% of letter tokens, on this letter alone. Reading the numbers against the Polish gives the same values, and settles the rare signs. `agad-1401/README.md` gives the checks and what stays open.
 
@@ -116,11 +116,11 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 ## Status
 
-- Charles V: about 97% of the cipher's letters come straight from the key, about 3% are fixed by sense, and a few words stay doubtful.
+- Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
-- 446, 1399 and 1400 come from reconciled transcriptions.
-- Page 2 of 1398 comes from one hand reread against the scan.
-- AGAD 1401: more than 95% of the cipher words read as sense, and ten code tokens stay wholly open.
+- 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.
+- Pages 2 to 4 of 1398 come from a hand reread, checked against three blind passes and settled on the enlarged scan. Cipher words read: 590 of 613.
+- AGAD 1401: 518 of 530 cipher words read, 97.7%. Nine code groups stay open.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.

@@ -1,5 +1,5 @@
 # Charles V to Ferrante Gonzaga, Monzón, 11 August 1542. Biblioteca Estense Universitaria, Modena, Autografoteca Campori, Lettera K, Karl V, sfasc. IV, cc. 109-110.
-# Rows reconciled on the scan from two transcription passes. Clear Spanish stands in double angle brackets. b^7 is the sign labelled b with the small digit 7 above it. A label names a shape, not a value. README.md gives the table.
+# Rows reconciled on the scan from two transcription passes, then checked again on enlarged scans on 7 November 2026: the last signs of p2.14 (f) and p2.15 (b^0) were added. Clear Spanish stands in double angle brackets. b^7 is the sign labelled b with the small digit 7 above it. A label names a shape, not a value. key.tsv gives the table.
 p1.00 <<El Rey>>
 p1.01 <<Ill.e Principe primo nro Visorey y capitan gnal / Despues de haueros scripto alos>>
 p1.02 <<xiij del passado recebimos vra ca de xx de Junio en q nos days particular>>
@@ -45,8 +45,8 @@ p2.10 <<La paga del Conde>> X t^6 d^1 c^1 x^2 c b^0 h c x^4 x^2 c g^9 x x^2 x^2 
 p2.11 <<namos a encargar>> d^4 o t^6 f g^9 x x X b^8 x^2 z^1 g^8 v q^7 f c^7 h f a^1 x t y f C z^3 E a^1 f
 p2.12 <<y q enel cumplimiº della no aya falta en ninguna manera>>
 p2.13 <<Tambien os encomendamos mucho la paga delo q se deue al vizconde Cigala del>>
-p2.14 <<sueldo desus galeras y tanto mas causa ay para ello>> d^4 Q c^7 b^7 h x a^3 h x x^2 c^7 h
-p2.15 b^9 t^8 g^8 a^1 x^4 d^1 z^1 g^6 I^2 o v g X w^4 y s D h x a^4 t^9 c^6 c q^9 c^7 s D y n^4 f c^7
+p2.14 <<sueldo desus galeras y tanto mas causa ay para ello>> d^4 Q c^7 b^7 h x a^3 h x x^2 c^7 h f
+p2.15 b^9 t^8 g^8 a^1 x^4 d^1 z^1 g^6 I^2 o v g X w^4 y s D h x a^4 t^9 c^6 c q^9 c^7 s D y n^4 f c^7 b^0
 p2.16 g^7 x^3 h s h d^4 o P^6 c a^1 x^2 b^7 o d^1 c^1 x^4 x^2 t^9 c^7 b^7 t^7 x^2 S^7 <<De Monçon>>
 p2.17 <<a xj de agosto de M. D. xlijº aº>>
 p2.18 <<Dup.da a [?xj] de agosto>>
