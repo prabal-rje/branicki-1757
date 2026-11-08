@@ -1,6 +1,6 @@
-# Cipher letters read: Charles V, 1542, the Duke of Guastalla, 1717, a Polish letter of 1736, four French letters, 1756-1757, and Carranza's telegrams, 1915
+# Cipher letters read: Charles V, 1542, the Duke of Guastalla, 1717, a Polish letter of 1736, five French letters, 1756-1757, and Mexican telegrams, 1911 and 1915
 
-Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed as unread when I read them. All were read from the ciphertext, with no key from outside.
+Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed as unread when I read them. All but one were read from the ciphertext, with no key from outside. The 1911 telegram was read with the archive's own key card.
 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
@@ -11,6 +11,8 @@ Letters that the archives and the historical cipher ledger at https://github.com
 | [AGAD 1398](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225111) | Jaswojnie, 24 July 1757 | Signed Matusewic. A field report on the Russian army under Apraxin at the frontier of Prussia: requisitions, Cossacks, and town deputies who come to submit. | [French](letters/1398/reading.md), [English](letters/1398/translation.md) |
 | [AGAD 1399](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225112) | 1756, before August | An insider's report on Hetman Radziwiłł's party in Lithuania. A congress at Iwie agrees a fund of 146,000 francs to buy the coming dietines, and lists five lords' shares. | [French](letters/1399/reading.md), [English](letters/1399/translation.md) |
 | [AGAD 1400](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225113) | Nieśwież, 11 September 1756 | Signed Boeven. A bloody election assembly at Brest, and a rival party spreading two hundred thousand francs across Lithuania. | [French](letters/1400/reading.md), [English](letters/1400/translation.md) |
+| [AGAD 131](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28223838) | Wilno, 11 July 1757 | Probably Matuszewicz. Requests for French subsidies for the Tribunal, and the Strutyński affair: a killing at the Brasław dietine, shielded by Apraksin. Read in part. | [Notes](agad-131/README.md), [Polish and French](agad-131/reading.md), [English](agad-131/translation.md) |
+| [A telegram to González Garza](https://www.cehm.org.mx/) | Mexico City, 19 May 1911 | Two Maderistas pass on General Huerta's warning: a military mutiny against the addressee is feared in the capital. Read with the archive's key card. | [Notes](mexico-1911/README.md), [Spanish](mexico-1911/reading.md), [English](mexico-1911/translation.md) |
 | [Carranza's telegrams](https://www.cehm.org.mx/Buscador/FichaBasica/38647?Tipo=A) | Veracruz, May and June 1915 | Ten telegrams in the war against Villa: ammunition for Obregón, a million pesos for Pablo González, rifles to buy in New York. | [Notes](carranza-1915/README.md), [Spanish](carranza-1915/reading.md), [English](carranza-1915/translation.md) |
 
 The ledger's catalogue numbers:
@@ -19,6 +21,8 @@ The ledger's catalogue numbers:
 - Guastalla: part of 1569
 - 446: 1578
 - 1398 to 1401: 1579
+- AGAD 131: part of 1580
+- The 1911 telegram: part of 1462
 - Carranza's telegrams: 1464
 
 ## What opened them
@@ -31,10 +35,11 @@ My bespoke count matching algorithm did the work on most of these. Each number i
 | AGAD 446 | 98.9% |
 | AGAD 1400 | 98.9% |
 | AGAD 1401 | 98.2% |
+| AGAD 131 | 97.7% |
 | AGAD 1398 | 93.1% |
 | Carranza, largest set (758 tokens) | 65% to 77%, over six runs |
 
-Charles V's letter and the Guastalla letter are the exceptions. Count matching does not read Charles V's sign-and-digit plan, so that letter needed a different bespoke fit. The Guastalla letter also came from a bespoke fit, on an Italian letter model.
+Charles V's letter and the Guastalla letter are the exceptions. Count matching does not read Charles V's sign-and-digit plan, so that letter needed a different bespoke fit. The Guastalla letter also came from a bespoke fit, on an Italian letter model. The 1911 telegram needed no fit, because the archive keeps its key card.
 
 ## Charles V, 1542
 
@@ -58,9 +63,9 @@ Bespoke count matching based on Polish next-letter counts deciphered 98.2% of le
 
 ## The French letters, AGAD Warsaw, fonds 338
 
-Each reference code is AGAD 1/338/0/1/ plus the letter number. One key reads all four.
+Each reference code is AGAD 1/338/0/1/ plus the letter number. One key reads all five.
 
-Almost entirely read. Every cipher letter reads as French. A few number codes stay open, mostly names and titles.
+446, 1398, 1399 and 1400 are almost entirely read, and 131 is read in part. Every cipher letter reads as French. A few number codes stay open, mostly names and titles.
 
 Bespoke count matching algorithm based on the French next-letter counts (deciphered 98.9% of tokens on 446 and 1400, and 99.4% on 1399, in one shot).
 
@@ -69,6 +74,7 @@ Bespoke count matching algorithm based on the French next-letter counts (deciphe
 - **An informer.** Boeven signs 1400. A 1909 history makes him Hetman Radziwiłł's secretary, in touch with the French minister in 1756 and on the French payment list. 1399 looks like his hand, and it reports on "mon maître". This is my reading.
 - **The same congress in a memoir.** Matuszewicz's memoirs describe the Iwie congress of 1399, with two of the same shares and the same depositary. Their hetman's share and total differ, so the letter is a separate source.
 - **Names in print.** The memoirs and the 1909 history name most people in these letters with the same titles. `letters/README.md` gives each match and its page.
+- **A killing and its protector.** 131 tells the Strutyński affair, which the memoirs and the 1909 history also tell. It probably comes from Matuszewicz, like 1398. `agad-131/README.md` gives the limits of its reading.
 
 ### How I date them
 
@@ -83,6 +89,10 @@ Bespoke count matching algorithm based on the French next-letter counts (deciphe
 A reciprocal alphabet of 12 pairs. Each pair swaps: a stands for h, and h stands for a.
 
 a-h, b-q, c-r, d-s, e-l, f-t, g-z, i-m, k-x, n-o, p-u, w-y
+
+## A telegram of 19 May 1911
+
+The archive's own key card reads it: a shifted alphabet that counts ch, ll and ñ as letters. The same card reads a telegram of the next day. A hand of the time glossed that telegram in pencil, and all ten coded words agree. `mexico-1911/README.md` gives the checks and what stays open.
 
 ## Carranza's telegrams, 1915
 
@@ -100,7 +110,11 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 **AGAD 1401:** `agad-1401/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
 
-**Carranza's telegrams:** `carranza-1915/` has the same files.
+**AGAD 131:** `agad-131/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
+
+**The 1911 telegram:** `mexico-1911/` has the notes, the reading, the translation, the transcription, the reading of each coded word and the key card's alphabet.
+
+**Carranza's telegrams:** `carranza-1915/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
 
 **The French letters:**
 
@@ -121,6 +135,8 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 - 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.
 - Pages 2 to 4 of 1398 come from a reread made with the key in view, checked against three blind passes and settled on the enlarged scan. Cipher words read: 590 of 613.
 - AGAD 1401: 518 of 530 cipher words read, 97.7%. Nine code groups stay open.
+- AGAD 131: read in part. Two transcription passes agree on 88%, and about 300 differences are not yet settled on the scan. About 25 of some 460 cipher words stay doubtful.
+- The 1911 telegram: read in full with the archive's key card. Three words keep a doubt.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.
