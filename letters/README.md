@@ -95,7 +95,7 @@ Checks against the scans and the memoirs found errors in my first transcriptions
 - 1399: "Abramski", then "Trabiwski", is Grabowski. "Tiesenhausen" is Tiezenaus, as written. Two unread names are Pociei and Sottohub.
 - 1399: 385 and 386 now read as Grand Maréchal.
 - 1398: "Cirur" is Siruc, and "Witezehk" is Witebsk. "Beau-frère" is "beau-père".
-- 1398: page 2 is reread by hand, and its last two lines now read.
+- 1398: page 2 is reread with the key in view, and its last two lines now read.
 - 1399: I first dated it to 1757. It is 1756.
 - 1398: pages 2 to 4 are transcribed again. Three blind passes were compared with my reread, sign by sign, and the enlarged scan settled each difference: 37 signs changed, and 6 signs of the reread that the scan does not show are left out. `1398/passes/comparison.tsv` lists them.
 - 1398: "[?Skorul]" is Skorule, as the letter spells it. I take it to be Skaruliai, on the Neris near Jonava. "[?farine]" is "fa[r]ine": the scan shows "faine".
@@ -114,7 +114,7 @@ Each folder has `reading.md` (French), `translation.md` (English), the transcrip
 
 ## Status
 
-Published 7 November 2026. 1399 and 1400 come from two transcription passes, reconciled on the scan. Pages 2 to 4 of 1398 come from a hand reread checked against three blind passes and settled on the enlarged scan. `[?word]` marks a doubtful reading.
+Published 7 November 2026. 1399 and 1400 come from two transcription passes, reconciled on the scan. Pages 2 to 4 of 1398 come from a reread made with the key in view, checked against three blind passes and settled on the enlarged scan. `[?word]` marks a doubtful reading.
 
 Cipher words read: 1398 590 of 613, 1399 744 of 750, 1400 490 of 493.
 

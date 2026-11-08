@@ -119,7 +119,7 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 - Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
 - 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.
-- Pages 2 to 4 of 1398 come from a hand reread, checked against three blind passes and settled on the enlarged scan. Cipher words read: 590 of 613.
+- Pages 2 to 4 of 1398 come from a reread made with the key in view, checked against three blind passes and settled on the enlarged scan. Cipher words read: 590 of 613.
 - AGAD 1401: 518 of 530 cipher words read, 97.7%. Nine code groups stay open.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
 

@@ -40,7 +40,7 @@ Capasso cites other letters, but I found no citation of this one.
 
 A base sign is a consonant, and a small digit above it adds the vowel. The digits 1 to 5 and the digits 6 to 9 and 0 both run a, e, i, o, u. A sign with no digit is a single letter.
 
-`key.tsv` gives every sign label with its value and its count of uses. A label names a shape in `transcription.txt`, not a value. `decryption.txt` is `key.tsv` applied to the transcription, with no change by hand.
+`key.tsv` gives every sign label with its value and its count of uses. A label names a shape in `transcription.txt`, not a value. `decryption.txt` is `key.tsv` applied to the transcription, with no manual edit.
 
 | With a digit | Consonant |
 | --- | --- |
@@ -133,7 +133,7 @@ No historian has checked this reading yet.
 - `translation.md`: the letter in English
 - `transcription.txt`: the cipher and the clear text, line by line, with shape labels
 - `key.tsv`: every sign label, its value and its count of uses
-- `decryption.txt`: the decryption, line by line, from `key.tsv` with no change by hand
+- `decryption.txt`: the decryption, line by line, from `key.tsv` with no manual edit
 - `doubtful_places.md`: every place where the reading leaves the key, and what I tried
 
 The page images stay with the Biblioteca Estense under their own licence (CC BY-NC-SA). They are not copied here.

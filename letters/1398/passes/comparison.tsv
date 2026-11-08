@@ -1,5 +1,5 @@
-# Letter 1398, rows r020 to r060 (pages 2 to 4 of the scans): every sign where the hand reread, the three blind passes and the transcription do not all agree.
-# reread: the hand reread made with the key in view. pass_a.txt, pass_b.txt and pass_c.txt: three blind passes; pass_c is on crops enlarged 1.8 times.
+# Letter 1398, rows r020 to r060 (pages 2 to 4 of the scans): every sign where the reread, the three blind passes and the transcription do not all agree.
+# reread: a reread by Claude Opus 5.5, made with the key in view. pass_a.txt, pass_b.txt and pass_c.txt: three blind passes; pass_c is on crops enlarged 1.8 times.
 # "-" means no sign there; "~" means a different number of signs at that point; "?" means the reader marked the sign unreadable.
 # used: the sign in ../transcription_all.txt, settled on the enlarged scan where the passes disagreed with the reread. Sign numbers count the signs of the reread in its row.
 # r057 sign 30, in the signature, stays y (Matusewic) as published: the passes read o, p and q, the enlarged scan looks like p (Matusevic), and no reading has a majority.
