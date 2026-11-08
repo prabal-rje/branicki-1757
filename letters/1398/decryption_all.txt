@@ -55,7 +55,7 @@ r053	uilledekeynisgzerg[830]ieattendueaussisquesictde
 r054	[580]estuenuedeneparlermaldu[645][625][830]ieuoussuplie
 r055	demeprosternerauspiedndeson[330][380]commeamoounique
 r056	protectareiesuisiousquauderniersoupirdemauiemon
-r057	sieurlepludfideleclientmatuseuicuintquatredeiuillet
+r057	sieurlepludfideleclientmatusewicuintquatredeiuillet
 r058	deiasuoinie[830]lememoirequeieuousenuoieedewilna
 r059	monsieurle[215]debrescqueson[330][296]renuoita[580]
 r060	recommendeason[330]leromtedelopital?dela[350]

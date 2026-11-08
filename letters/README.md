@@ -14,7 +14,7 @@ The key from `../key.tsv`, found on the Branicki letter 446, reads these with no
 
 ## What they say, in short
 
-**1398, from Jaswojnie, 24 July 1757.** Matusevic writes on the Russian army under Apraxin at the frontier of Prussia. Its magazines are at Kowno, Skorule and Wilkomierz. Town deputies come to submit, carts and men are taken without pay, and a rumour says flour and bread were poisoned. The letter puts the army at sixty thousand men. It also says the Prussians will resist only at Königsberg.
+**1398, from Jaswojnie, 24 July 1757.** Matusewic writes on the Russian army under Apraxin at the frontier of Prussia. Its magazines are at Kowno, Skorule and Wilkomierz. Town deputies come to submit, carts and men are taken without pay, and a rumour says flour and bread were poisoned. The letter puts the army at sixty thousand men. It also says the Prussians will resist only at Königsberg.
 
 **1399, 1756, before August.** An insider's report on the party of Hetman Radziwiłł in Lithuania. It plans for the Tribunal of 1757. After a congress at Iwie, the party agrees a fund of 146,000 francs to buy the coming dietines. Five lords take shares. The writer also sets up a new correspondence at Mitau.
 
@@ -44,7 +44,7 @@ Vol. III p. 39 also recalls a collection "w roku 1756 w Iwiu przez panów litews
 
 **Letter 1400.** Vol. II pp. 236-237: Suzin, lieutenant of Sosnowski, and Oziębłowski are elected deputies at Brest. Nobles file their protest at another court. The memoirs name Mielnik, and the letter says Bielsk. Vol. II p. 185 names Buchowiecki, notary of Brest.
 
-**Letter 1398.** Vol. II pp. 300-301: Matuszewicz leaves Wilno for Kowno, while Apraxin marches toward Prussia. Siruć is at Jaswojnie, "six miles from Kowno". Matuszewicz is there on 26 July. Vol. III p. 10 calls Siruć his wife's stepfather. The letter is signed Matusevic, at Jaswoinie, on 24 July. It calls Siruc "mon beau-père".
+**Letter 1398.** Vol. II pp. 300-301: Matuszewicz leaves Wilno for Kowno, while Apraxin marches toward Prussia. Siruć is at Jaswojnie, "six miles from Kowno". Matuszewicz is there on 26 July. Vol. III p. 10 calls Siruć his wife's stepfather. The letter is signed Matusewic, at Jaswoinie, on 24 July. It calls Siruc "mon beau-père".
 
 ### Konopczyński's history
 
@@ -97,8 +97,9 @@ Checks against the scans and the memoirs found errors in my first transcriptions
 - 1398: "Cirur" is Siruc, and "Witezehk" is Witebsk. "Beau-frère" is "beau-père".
 - 1398: page 2 is reread by hand, and its last two lines now read.
 - 1399: I first dated it to 1757. It is 1756.
-- 1398: pages 2 to 4 are transcribed again. Three blind passes were compared with my reread, sign by sign, and the enlarged scan settled each difference: 38 signs changed, and 6 signs of the reread that the scan does not show are left out. `1398/passes/comparison.tsv` lists them.
-- 1398: the signature reads "Matusevic", not "Matusewic". "[?Skorul]" is Skorule, Skaruliai on the Neris. "[?farine]" is "fa[r]ine": the scan shows "faine".
+- 1398: pages 2 to 4 are transcribed again. Three blind passes were compared with my reread, sign by sign, and the enlarged scan settled each difference: 37 signs changed, and 6 signs of the reread that the scan does not show are left out. `1398/passes/comparison.tsv` lists them.
+- 1398: "[?Skorul]" is Skorule, as the letter spells it. I take it to be Skaruliai, on the Neris near Jonava. "[?farine]" is "fa[r]ine": the scan shows "faine".
+- 1398: the fifth letter of the signature is unsure. The reread gives y, "Matusewic", and the enlarged scan looks like p, "Matusevic". The three blind passes split. The reading keeps "Matusewic".
 - 1398: the reading no longer marks "survient", "réformation" and "trône". The scan shows the signs that give them.
 - `../key.tsv` gains two rows that were missing, x for k and y for w. The decryptions always used them.
 - The number code now follows one stated rule. `numbers.md` gives it, with what I tried on every open group.

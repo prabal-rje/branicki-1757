@@ -1,4 +1,4 @@
-# AGAD 1/338/0/1/1398. Page 1 (rows r001 to r019) joins two blind transcription passes; where they differed, the 446 key and a French character model chose the sign, and in r011 the enlarged scan shows "u n p c" (pour, with n written above the line) and "t h m o l" (faine). Pages 2 to 4 (rows r020 to r060) are a hand reread against the scan, made with the key in view, then compared sign by sign with three blind passes, the third on crops enlarged 1.8 times (passes/comparison.tsv). Where the passes disagreed with the reread, the enlarged scan was read again, and the rows follow it: 38 signs of the reread are changed, and 6 that the scan does not show are left out. Rows r059 and r060 join the left and right ends of the last two lines. Digit groups are nomenclator numbers.
+# AGAD 1/338/0/1/1398. Page 1 (rows r001 to r019) joins two blind transcription passes; where they differed, the 446 key and a French character model chose the sign, and in r011 the enlarged scan shows "u n p c" (pour, with n written above the line) and "t h m o l" (faine). Pages 2 to 4 (rows r020 to r060) are a hand reread against the scan, made with the key in view, then compared sign by sign with three blind passes, the third on crops enlarged 1.8 times (passes/comparison.tsv). Where the passes disagreed with the reread, the enlarged scan was read again, and the rows follow it: 37 signs of the reread are changed, and 6 that the scan does not show are left out. Rows r059 and r060 join the left and right ends of the last two lines. Digit groups are nomenclator numbers.
 r001 s l r a b p l l o s c n m f m h m e a o l p c s l p n p d t h m e l i n o
 r002 u c n t n o s c l d c f 845 860 795 l f m l r c a m d b p l i l o
 r003 e l f c l d l r c m f l o s l p m e o h d n o f s l p t o p d h p n u l h o d 830
@@ -55,7 +55,7 @@ r053 p m e e l s l x l w o m d z g l c z 830 m l h f f l o s p l h p d d m d b p
 r054 580 l d f p l o p l s l o l u h c e l c i h e s p 645 625 830 m l p n p d d p u e m l
 r055 s l i l u c n d f l c o l c h p d u m l s o s l d n o 330 380 r n i i l h i n n p o m b p l
 r056 u c n f l r f h c l m l d p m d m n p d b p h p s l c o m l c d n p u m c s l i h p m l i n o
-r057 d m l p c e l u e p s t m s l e l r e m l o f i h f p d l p m r p m o f b p h f c l s l m p m e e l f
+r057 d m l p c e l u e p s t m s l e l r e m l o f i h f p d l y m r p m o f b p h f c l s l m p m e e l f
 r058 s l m h d p n m o m l 830 e l i l i n m c l b p l m l p n p d l o p n m l l s l y m e o h
 r059 i n o d m l p c e l 215 s l q c l d r b p l d n o 330 296 c l o p n m f h 580
 r060 c l r n i i l o s l h d n o 330 e l c n i f l s l e n u m f h e ? s l e h 350

@@ -35,3 +35,5 @@ These places read without a mark. The key gives them, or the scan settled them.
 ## Counts
 
 The cipher passages hold 246 words. Six are marked: [g]randes, [?allí], t[a]n, e[x]pedientes, [?screbir] and amena[ça]van. So 240 of 246 words read, 97.6%.
+
+The value g with 6 = "ha" is an inference from its uses. Without it, the four "haver" would be marked as well. Then 236 of 246 words read, 95.9%.

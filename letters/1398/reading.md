@@ -1,8 +1,6 @@
 # AGAD 1/338/0/1/1398: lecture
 
-The whole letter is in cipher. Code groups are read where `../numbers.md` gives a value. `[795]` is a code group that stays open, `[?word]` is a doubtful reading, and a letter in square brackets is supplied. Numbers that act as punctuation or nulls are left out, and the decryption keeps them.
-
-The writer often puts a wrong sign of a pair, such as u for p or s for d, and the reading corrects these single slips. The writer's spelling stays.
+The whole letter is in cipher. Code groups are read where `../numbers.md` gives a value. `[795]` is a code group that stays open, `[?word]` is a doubtful reading, and a letter in square brackets is supplied. The writer often puts the other sign of a pair, such as u for p or s for d, and the reading corrects these single slips. Numbers that act as punctuation or nulls are left out, and the decryption keeps them.
 
 ## Page 1
 
@@ -34,7 +32,7 @@ De l'armée du Roi de Prusse, je crois que son Excellence Grand Général de la 
 
 Le bruit court que les Prussiens ont mêlé de la poison dans la farine et dans le pain, afin de [?empoisonner] les Russes, et qu'ils ont [?reçu l'ordre] du Roi son maître de ne résister aux Russes que à la ville de Keynigsberg.
 
-J'ai entendu aussi que si [?c'est] de Pétersbourg est venue de ne parler mal du Roi de Prusse. Je vous [?supplie] de me prosterner aux pieds de son Excellence Grand Général comme à mon unique protecteur, et je suis jusqu'au dernier soupir de ma vie, Monsieur, le plus fidele client Matusevic.
+J'ai entendu aussi que si [?c'est] de Pétersbourg est venue de ne parler mal du Roi de Prusse. Je vous [?supplie] de me prosterner aux pieds de son Excellence Grand Général comme à mon unique protecteur, et je suis jusqu'au dernier soupir de ma vie, Monsieur, le plus fidele client Matusewic.
 
 Vingt-quatre de juillet, de Jaswoinie.
 

@@ -34,7 +34,7 @@ As to the army of the King of Prussia, I believe His Excellency the Grand Genera
 
 Rumour says that the Prussians have mixed poison into the flour and the bread to [?poison] the Russians. It also says they have [?received the order] of the King their master to resist the Russians only at the town of Königsberg.
 
-I also heard that [?it is] from Petersburg that word has come not to speak ill of the King of Prussia. I [?beg] you to prostrate me at the feet of His Excellency the Grand General as my only protector. I am to the last breath of my life, Sir, your most faithful client Matusevic.
+I also heard that [?it is] from Petersburg that word has come not to speak ill of the King of Prussia. I [?beg] you to prostrate me at the feet of His Excellency the Grand General as my only protector. I am to the last breath of my life, Sir, your most faithful client Matusewic.
 
 The twenty-fourth of July, from Jaswojnie.
 

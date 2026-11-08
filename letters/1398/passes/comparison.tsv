@@ -2,6 +2,7 @@
 # reread: the hand reread made with the key in view. pass_a.txt, pass_b.txt and pass_c.txt: three blind passes; pass_c is on crops enlarged 1.8 times.
 # "-" means no sign there; "~" means a different number of signs at that point; "?" means the reader marked the sign unreadable.
 # used: the sign in ../transcription_all.txt, settled on the enlarged scan where the passes disagreed with the reread. Sign numbers count the signs of the reread in its row.
+# r057 sign 30, in the signature, stays y (Matusewic) as published: the passes read o, p and q, the enlarged scan looks like p (Matusevic), and no reading has a majority.
 row	sign	reread	pass_a	pass_b	pass_c	used
 r020	12	h	h	~	k	h
 r020	13	z	-	~	z	z
@@ -397,7 +398,7 @@ r057	11	d	s	-	-	s
 r057	20	m	m	m	h	m
 r057	22	o	~	~	d	o
 r057	23	f	~	~	b	f
-r057	30	y	o	p	q	p
+r057	30	y	o	p	q	y
 r057	34	m	m	m	n	m
 r057	43	s	s	s	-	s
 r057	50	l	-	-	l	l
