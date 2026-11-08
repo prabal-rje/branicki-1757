@@ -140,7 +140,7 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 ## Status
 
-- The Medici letter: read in part. 663 of 730 cipher letter positions are read, 90.8%. About 60 code groups and symbols stay unread.
+- The Medici letter: read in part. 88 of 113 cipher words are read in full, 77.9%, and 663 of 730 letter positions, 90.8%. About 60 code groups and symbols stay unread.
 - Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
 - 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.

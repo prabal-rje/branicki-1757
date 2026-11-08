@@ -38,7 +38,8 @@ I worked with AI models. They transcribed the signs from the archive's images an
 
 - **Independent review:** a second AI model checked every changed reading against the key and the images. It found no reading that the signs contradict. Its points of doubt are applied below and in the files.
 
-- **Extent:** of 730 letter positions in the cipher, 663 are read (90.8%), 47 are doubtful (6.4%) and 20 are open (2.7%).
+- **Extent, by words:** of 113 cipher words, 88 are read in full (77.9%), 21 hold a doubtful letter, and 4 are open. The 60 code items for persons and other words are not read.
+- **Extent, by letters:** of 730 letter positions in the cipher, 663 are read (90.8%), 47 are doubtful (6.4%) and 20 are open (2.7%).
 - **Word-list control:** under the key, 65.3% of the cipher's letter positions fall in words of a 15th-century Italian word list. 200 shuffled keys give 1.9% on average, and 11.4% at most.
 - **Blind check, first stage:** a reader that saw only the early decode agreed with 30 of its 31 read words, and contradicted none.
 - **Method check:** Italian test texts of the same shape, with 5% of the signs misread, read at 98.5% to 99.8%.
@@ -67,7 +68,7 @@ As far as I checked, nobody has published a reading of this letter. That is not 
 
 ## Status
 
-Read in part: 90.8% of the cipher's letter positions. That is below the ledger's bar for a complete reading.
+Read in part: 88 of 113 cipher words (77.9%), and 90.8% of the cipher's letter positions. About 60 code items stay unread. That is below the ledger's bar for a complete reading.
 
 ## Files
 
