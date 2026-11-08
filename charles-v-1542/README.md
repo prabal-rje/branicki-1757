@@ -119,7 +119,7 @@ Six words stay marked. The writer left out a letter or a syllable, or wrote a wr
 
 I found no printed copy of this letter. But the chancery's clear draft may survive in Spanish archives, and I could not check those.
 
-No historian has checked this reading yet.
+The cipher ledger marks this letter complete (97.6%) and credits the key to me: https://github.com/dbourdeau/cyphersolver/tree/main/targets/gonzaga1542
 
 ## Context, from memory and not checked here
 

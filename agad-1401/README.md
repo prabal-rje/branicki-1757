@@ -79,7 +79,7 @@ As far as I checked, nobody has read this letter. That is not proof that nobody 
 
 The reading marks the cipher in bold. The cipher parts hold 530 words, and 518 read, 97.7%. The 12 holes are nine open code groups, two uses of [?Monti], and "cza[s]", which the writer wrote with 12 for 21.
 
-The clear parts are a working reading, not an edition. No historian has checked this reading yet.
+The clear parts are a working reading, not an edition. The cipher ledger marks this letter complete (97.7%) and credits the key to me: https://github.com/dbourdeau/cyphersolver/tree/main/targets/exiles1736
 
 ## Files
 

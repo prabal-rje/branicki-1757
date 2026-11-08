@@ -69,7 +69,7 @@ As far as I checked, nobody has read this letter. That is not proof that nobody 
 
 The cipher part reads as sense, apart from about ten code groups and a few doubtful passages. The reading marks each one.
 
-No historian has checked this reading yet.
+The reading is with the cipher ledger as issue #329: https://github.com/dbourdeau/cyphersolver/issues/329
 
 ## Files
 

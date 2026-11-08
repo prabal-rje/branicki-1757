@@ -141,6 +141,10 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.
 
-No historian has checked these readings yet.
+The cipher ledger at https://github.com/dbourdeau/cyphersolver checks contributed readings against the contributor's files and a word list, not against the scans.
+
+- It marks the Branicki letters (446, 1398 to 1400), Charles V and AGAD 1401 as complete, and credits their keys to me.
+- It confirmed that the Carranza key decodes the telegrams. It holds that page until someone checks printed sources for the same tables.
+- Guastalla, the 1911 telegram and AGAD 131 are with the ledger as issues #329, #330 and #331.
 
 © 2026 Prabal Gupta. First published here, 7 November 2026. Released under CC BY 4.0: reuse it, and credit me.

@@ -37,7 +37,7 @@ The numbers agree with the published table of the 446 key. This letter adds thre
 - About 25 of some 460 cipher words stay doubtful or hold an unread code. That is under 95%, so the label is "read in part".
 - The last cipher paragraph is the weakest part. The clear Polish is a working reading.
 
-No historian has checked this reading yet.
+The reading is with the cipher ledger as issue #331, as a partial solution: https://github.com/dbourdeau/cyphersolver/issues/331
 
 ## Earlier work
 

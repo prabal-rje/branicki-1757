@@ -70,7 +70,7 @@ So these readings may already be in print. Someone with a copy should check both
 - **The general in 1.42.1.** "Cosío Rovelo" is my guess at the name.
 - **A short run at the end of the first page of 1.22.1** stays unsettled.
 
-No historian has checked these readings yet.
+The cipher ledger confirmed that the key decodes the number telegrams to Spanish (issue #321). It holds its page until someone checks Narváez's 2025 article and 2019 book for the same tables.
 
 ## Files
 
