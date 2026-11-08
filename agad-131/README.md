@@ -11,9 +11,9 @@ A letter in clear Polish and French cipher, to a patron in the Branicki circle. 
 - The Castellan of Brest [?Abramowicz] and Count Pociej, Strażnik of Lithuania, ask His Excellency [?Branicki], Grand General of the Crown, for protection and a subsidy for the coming Tribunal.
 - Beyond the French subsidy, the Prince Grand General of Lithuania gave a thousand ducats. Their borrowing reached two hundred thousand francs.
 - The Castellan asks support for a memorial of the Castellan's nephew Ciechanowiecki, Starost of Opsa. It is to go to the French ambassador, the Count de L'Hôpital.
-- Strutyński, Starost of Szakinów, had a Ciechanowiecki killed at the Brasław dietine. Strutyński then fled to the Russian army, and Field Marshal Apraksin stopped the Tribunal's case.
+- Strutyński, Starost of Szakinów, had a Ciechanowiecki killed at the Brasław dietine. Strutyński then fled. The text seems to say that he went to the Russian army, but that part is still doubtful. Field Marshal Apraksin stopped the Tribunal's case.
 - Rumours follow: a crime at [?St Petersburg] about 1730, and a betrayal of King Stanisław at [?Danzig].
-- In clear Polish: Bouwen, secretary to the Prince, did not write by this post.
+- In clear Polish: a secretary, perhaps Bouwen, did not write by this post. His name and title are still doubtful.
 
 Read it: [Polish and French](reading.md), [English](translation.md).
 
@@ -21,7 +21,7 @@ Read it: [Polish and French](reading.md), [English](translation.md).
 
 The key of letter 446, with no change: a reciprocal alphabet of 12 pairs, plus a number code. Bespoke count matching based on French next-letter counts, run on this letter alone, gives the same key for 97.7% of letter tokens.
 
-The numbers agree with the published table of the 446 key. This letter adds three likely values: 185 is probably Branicki, 580 probably Petersbourg and 275 probably Dantzig. The group 190 stays open.
+The numbers agree with the published table of the 446 key. The value 580 is Pétersbourg. The proposed values 185=Branicki and 275=Dantzig remain conjectures. The group 190 stays open.
 
 ## Checks
 
@@ -32,10 +32,17 @@ The numbers agree with the published table of the 446 key. This letter adds thre
 
 ## Status: read in part
 
-- This hand has many look-alike signs: c, e and r; n, o and u; g and q; w and y.
-- Two transcription passes agree on 88% of 2,514 tokens. About 300 differences are not yet settled one by one on the scan. The key and the French sense chose between look-alikes.
-- About 25 of some 460 cipher words stay doubtful or hold an unread code. That is under 95%, so the label is "read in part".
-- The last cipher paragraph is the weakest part. The clear Polish is a working reading.
+The reading remains partial. Ordinary wording and syntax still have gaps.
+
+The memorial now reads “est tenoris sequentis”. Strutyński came armed to Brasław with the intent to kill. He fled because he did not trust the courts. The decrees concern his disorders. The final passage asks for the tables to be kept and refers to the council of war. The clear closing reads “obligowany sługa”.
+
+Open items:
+
+- 190 stays unread. 185=Branicki and 275=Dantzig remain conjectures.
+- Pińsk, Szkultyn, Königsberg and Bruwen/Bouwen need confirmation. Abramowicz and Matuszewicz remain inferred identities.
+- “Autres”, “Ce pourquoi”, “par de”, “massacre”, “cris/crimes”, “d'être entré”, “tous” and “marque” stay doubtful.
+- Three cipher signs remain unread. One precedes “de Russie”. Two occur in the proposed “réponse”.
+- The secretary's title, the closing extra M, “sous/soûl” and the final paragraph's subject stay open. The clear Polish remains a working reading.
 
 The reading is with the cipher ledger as issue #331, as a partial solution: https://github.com/dbourdeau/cyphersolver/issues/331
 
