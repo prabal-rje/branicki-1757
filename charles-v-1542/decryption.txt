@@ -1,4 +1,4 @@
-# Line-by-line decryption of transcription.txt under the table in README.md. Clear text stands in guillemets. The sign = marks a doubled or palatal consonant: ss, ll, rr or ñ. The reading normalizes this stream.
+# Charles V to Ferrante Gonzaga, Monzón, 11 August 1542. Line-by-line decryption of transcription.txt under key.tsv, applied mechanically. Clear text stands in guillemets. = is the sign s, a doubled or palatal consonant (ss, ll, rr or ñ). The reading corrects this stream where reading.md says so.
 p1.00	«El Rey»
 p1.01	«Ill.e Principe primo nro Visorey y capitan gnal / Despues de haueros scripto alos»
 p1.02	«xiij del passado recebimos vra ca de xx de Junio en q nos days particular»
@@ -11,7 +11,7 @@ p1.08	«particularmente mostrays bien el cuydado que teneys delas cosas de nro»
 p1.09	«seruiº y del bien desse Reyno / y querriamos cierto» tenerformadepoder
 p1.10	remediaryprobeerlasnecesidadesdela=icomolasconos
 p1.11	cemosperolasdelosotrosnuestrosreynossondelamismamane
-p1.12	raomayoresyesmenesterquecomoquieraquesepuedacaberse
+p1.12	raomayoresyesmenesterquecomoquieraquesepuedahaberse
 p1.13	cumplanlascosasnecesariasparaladefensionconserbaci
 p1.14	onyseguridalde=ereynoyse=aladamenteentrelasotrascosas
 p1.15	lodelagoletalodelasgalerasyentretenimientode=ainfanteria
@@ -20,7 +20,7 @@ p1.17	«mos que como hasta aqui lo haueys hecho os esforçeys a ello y ayudandos
 p1.18	doslosmediosyelpedientesquea=aospudieredesayudarnos
 p1.19	screbil «lo que mas os occurrira y parescera q se podra hazer presuponie»
 p1.20	«do q es menester y que no se puede dexar de cumplir con las dichas cosas» yque
-p1.21	nosepuedecaberdepresenteningunaayudadeotraparteporlasne
+p1.21	nosepuedehaberdepresenteningunaayudadeotraparteporlasne
 p1.22	cesidadesqueentodasay «y señaladamente os encargamos mucho la»
 p1.23	«prouision» delagoletaporconsideraciondelarmadadelturco «y que»
 p1.24	«tengays muy grand cuydado della y de proueer todo lo que para la seguridad»
@@ -30,7 +30,7 @@ p1.27	«sino q fue todo muy bien pensado segund lo que ala sazon se entendia des
 p1.28	«haureys entendido lo que mas se ha seguido / y del gallego lo que el visorey le»
 p1.29	«respondio / y estamos confiados q segund las cosas sucedieren cada uno hara por su»
 p1.30	«parte lo q pudiere como se os ha scripto pa» ayudaradondemayornecesi
-p1.31	dalpolracaber
+p1.31	dalpolrahaber
 p2.01	«En lo delas fortificaciones delas plaças y tierras Importantes desse Reyº pues os tenemos»
 p2.02	«remitido q hagays todo lo que os paresciere conuenir ala seguridad del no tenemos»
 p2.03	«q añadir mas de encargaros q dando en ello la mejor orden q se pueda pro»
@@ -44,8 +44,8 @@ p2.10	«La paga del Conde» lapagadelsueldodelcondedelannuilara «os lo tor»
 p2.11	«namos a encargar» porlasconnsideracionesqueestanyascriptas
 p2.12	«y q enel cumplimiº della no aya falta en ninguna manera»
 p2.13	«Tambien os encomendamos mucho la paga delo q se deue al vizconde Cigala del»
-p2.14	«sueldo desus galeras y tanto mas causa ay para ello» porqueseentiendequee
-p2.15	solicitadoparacaberotroa=ientoloqualnoque=iamosque
+p2.14	«sueldo desus galeras y tanto mas causa ay para ello» porqueseentiendequees
+p2.15	solicitadoparahaberotroa=ientoloqualnoque=iamosquesu
 p2.16	cedie=eporfaltadeserpagadodeloqueseledebe «De Monçon»
 p2.17	«a xj de agosto de M. D. xlijº aº»
 p2.18	«Dup.da a [?xj] de agosto»

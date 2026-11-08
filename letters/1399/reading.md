@@ -12,7 +12,7 @@ Si la réponce contient quelque catégorie intéressante, je seray aussi dans la
 
 Nous sommes partis de Grodno le 4 du courant, et sommes arrivés le 6 à Zdzięcioł chés Mdme la Princesse Palatine Douairière de Nowogrod, et digne fille de notre province, qui ne nous a guère consolés sur le triste état de nos affaires présentes.
 
-Nous y avons seulement projetté d'assembler pour le douze du courant nos amis à Iwie chés Mr le [?Grand Maréchal] de Lithuanie, pour prendre une résolution sur ce qu'il y auroit à faire dans une crise si épineuse.
+Nous y avons seulement projetté d'assembler pour le douze du courant nos amis à Iwie chés Mr le Grand Maréchal de Lithuanie, pour prendre une résolution sur ce qu'il y auroit à faire dans une crise si épineuse.
 
 Nous n'avons que passé la nuit à Zdzięcioł, étant arrivés le lendemain à Korelicze sur nos terres. Aussitôt qu'on nous y sceut, les malheureux vinrent nous y trouver, entre autres Mrs Abramowiczowie, tous les trois, les deux Bohuszowie et Mrs Ciechanowieccy, conduits par Mr le Prince [480] et le Strasznik de Lithuanie.
 
@@ -22,11 +22,11 @@ Nous partîmes de Korelicz le 10 avant midy, et vînmes coucher à Sielup chés 
 
 Le lendemain douze y arrivèrent Mr le Palatin de Trok avec Mr le Strasznik de Lithuanie son fils, Mdme la Princesse Palatine douairière de Nowogrod avec Mr le Prince [841] de Lithuanie son fils, et Mr le Prince grand enseigne de ce grand duché.
 
-Ces messieurs ont déjà tenu depuis leur arrivée plusieurs conférences tant chés Mr le [?Grand Maréchal] que chés les Bernardins d'Iwie. J'ignore encor jusqu'à présent le résultat, qui viendra pourtant sûrement à ma connoissance, et dont je ne manqueray pas de vous informer.
+Ces messieurs ont déjà tenu depuis leur arrivée plusieurs conférences tant chés Mr le Grand Maréchal que chés les Bernardins d'Iwie. J'ignore encor jusqu'à présent le résultat, qui viendra pourtant sûrement à ma connoissance, et dont je ne manqueray pas de vous informer.
 
 J'établis par la présente poste une nouvelle correspondance à Mietau, pour être instruit au juste de ce qui se passe en Russie et particulièrement sur les frontières de la [?Livonie] et de la [?Courlande], et dont j'auray soin de vous faire part à tems, afin que vous le communiquiés là où nous sommes convenus.
 
-Mais, Monsieur, ne vaudroit-il pas mieux, sauf meilleur avis, quand je découvriray quelque [?événement] d'importance et dont la nature exigera absolument qu'il parvienne à une prompte connoissance, pour éviter tout délay, m'adresser directement à Mr le ministre de [?France] ? Car je trouveray bien les moyens de luy écrire et de recevoir ses ordres sans causer le moindre ombrage à qui que ce soit.
+Mais, Monsieur, ne vaudroit-il pas mieux, sauf meilleur avis, quand je découvriray quelque événement d'importance et dont la nature exigera absolument qu'il parvienne à une prompte connoissance, pour éviter tout délay, m'adresser directement à Mr le ministre de France ? Car je trouveray bien les moyens de luy écrire et de recevoir ses ordres sans causer le moindre ombrage à qui que ce soit.
 
 Ce n'est pas que j'aye envie, à Dieu ne plaise, de vous celer mes découvertes, dont je vous informeray toujours avec la dernière exactitude ; mais pour couper court à de telles circonstances où le cas pourroit l'exiger, sur quoy je vous prie de me mander naïvement votre pensée.
 
@@ -39,7 +39,7 @@ L'on a déjà tiré de cette somme générale six mille francs pour Mr Zabiello,
 Cinq seigneurs se sont engagés de fournir chacun leur quote-part au premier d'août prochain pour completter cette somme, à sçavoir :
 
 - le Prince Grand Général, cinquante-trois mille ;
-- Mr le [?Grand Maréchal] de Lithuanie, vingt-cinq mille ;
+- Mr le Grand Maréchal de Lithuanie, vingt-cinq mille ;
 - le Prince grand enseigne, cinquante mille ;
 - Mr Pociei, strasznik de Lithuanie, dix mille ;
 - et Mr Sottohub, général d'artillerie, huit mille.

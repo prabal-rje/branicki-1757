@@ -8,29 +8,30 @@ An unsigned letter in Polish and Latin, written among the Polish exiles in Pruss
 
 ## What it says
 
-- France has agreed preliminary articles with Vienna, and an armistice. It says that it cannot keep [125] on the Polish throne.
+- France has agreed preliminary articles with Vienna, and an armistice. It says that it cannot keep Stanisław on the Polish throne.
 - A courier, Orlik, brings this as happy news. The exiles receive it in despair.
-- The exiles answer with two conditions. Europe must first recognize [125] as lawful King of Poland for life. Then [125] must call a Diet, use the royal rights there, and only then abdicate.
-- A second courier leaves Versailles on 11 January. The reply says that Du Theil has gone to Vienna with these articles, and that [125] must abdicate at once.
-- [125] presses for the abdication. The confederated estates refuse, and they ask for some weeks to deliberate.
+- The exiles answer with two conditions. Europe must first recognize Stanisław as lawful King of Poland for life. Then Stanisław must call a Diet, use the royal rights there, and only then abdicate.
+- A second courier leaves Versailles on 11 January. The reply says that Du Theil has gone to Vienna with these articles, and that Stanisław must abdicate at once.
+- Stanisław presses for the abdication. The confederated estates refuse, and they ask for some weeks to deliberate.
 - Two lords leave for Warsaw, with passports from Keyserling, the Russian envoy.
-- The writer asks the addressee what the Turkish power plans.
+- The writer asks the addressee what the Turkish power and the Khan plan.
 
 Read it: [Polish and Latin](reading.md), [English](translation.md).
 
 ## The cipher
 
-One number stands for one letter, with a dash between words. `key.tsv` gives all 30 letter signs. About 16 code groups stand for names and titles.
+One number stands for one letter, with a dash between words. `key.tsv` gives all 30 letter signs. Code groups are written without dots, and they stand for names. This is a different cipher from the French letters, with its own key.
 
-| Code group | My reading | Strength |
+| Code group | Reading | Evidence |
 | --- | --- | --- |
-| 125 | Stanisław Leszczyński | Strong. France cannot keep 125 on the Polish throne, and asks for an abdication. |
-| 455 | Augustus III | Good. The reign of 455 is to begin after the abdication. |
-| 136, 142 | Warsaw | Good, from the clear text beside them. |
-| 675 | the marquis de Monti | Weak. The text calls 675 the minister named to the Confederated Estates. I have not checked this name in print. |
-| 435 | the Turks | Weak. |
+| 125 | Stanisław | 12 uses, and every one fits King Stanisław. He abdicated in January 1736. |
+| 455 | August | 2 uses: his reign begins only after the abdication. |
+| 136, 142 | Warszawa | The clear text beside them names Warszawa twice. |
+| 675 | [?Monti] | A guess. The text calls 675 the minister named to the confederated estates. I found no text that names Monti so in 1736. |
 
-These stay unread: 175, 195, 613, 145, 715, 505, 4345, 156, 5455 and 289.
+Two undotted groups are not code. In the letter key, 435 is 4.3.5, "ham", and 4345 is 4.3.45, "han". Both are the Khan, in the passage on the Tatars. Each splits into key numbers in one way only.
+
+These stay unread: 145, 156, 175, 195, 289, 505, 613, 715 and 5455. `../letters/numbers.md` lists what I tried on each.
 
 ## How it was read
 
@@ -38,7 +39,7 @@ From the ciphertext alone, with no other letter, key or crib.
 
 Bespoke count matching based on Polish next-letter counts deciphered 98.2% of letter tokens, on this letter alone. It misses only rare signs. Reading the numbers against the Polish gives the same values, and settles those signs.
 
-- **Transcription:** two passes agree on 99.1% of 2,844 tokens. Each of the 23 differences was settled on the scan.
+- **Transcription:** two passes agree on 99.1% of 2,844 tokens. Each of the 23 differences was settled on the scan. A later check on the scan split one more group: in row p7.19, "5 - 79" is two words, not "5.79".
 - **Score:** the key scores -3.52 per letter under a Polish model. Three shuffled controls score -4.70 to -4.86.
 - **Solver:** a solver on that model agrees with the key on 93.1% of tokens.
 - **Blind read:** a reader with no context named this text as Polish with Latin, and it named three controls as noise. It translated about 85% of the clauses.
@@ -76,7 +77,7 @@ As far as I checked, nobody has read this letter. That is not proof that nobody 
 
 ## Status
 
-The cipher parts hold 472 words. Ten code tokens stay wholly open, and about 20 more are conjectures. So more than 95% of the cipher words read as sense.
+The reading marks the cipher in bold. The cipher parts hold 530 words, and 518 read, 97.7%. The 12 holes are nine open code groups, two uses of [?Monti], and "cza[s]", which the writer wrote with 12 for 21.
 
 The clear parts are a working reading, not an edition. No historian has checked this reading yet.
 

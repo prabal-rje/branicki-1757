@@ -1,4 +1,4 @@
-# AGAD 1/338/0/1/1398, pages 2 to 4 of the scans. A hand reread from the scan, with the key and French sense in view. ? is a sign I cannot read. Digit groups are nomenclator numbers.
+# AGAD 1/338/0/1/1398, pages 2 to 4 of the scans. A reread from the scan by Claude Opus 5.5, made with the key and French sense in view. ? is a sign I cannot read. Digit groups are nomenclator numbers.
 q020	pourlesdommagesfaitesparlescosaquesetlescalmycs[830]
 q021	danscemomentqueieecritcettelettrelesnouuellessontuenues
 q022	quelecomtedapraxindoituenirawirzbolowypury

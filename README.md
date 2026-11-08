@@ -52,7 +52,7 @@ A bespoke fit took the key from this letter alone, on an Italian letter model. `
 
 ## AGAD 1401, 1736
 
-One number stands for one letter, and about 16 code groups stand for names and titles.
+One number stands for one letter, and about 14 code groups stand for names. Two groups written without dots are not code: they spell "ham" and "han", the Khan.
 
 Bespoke count matching based on Polish next-letter counts deciphered 98.2% of letter tokens, on this letter alone. Reading the numbers against the Polish gives the same values, and settles the rare signs. `agad-1401/README.md` gives the checks and what stays open.
 
@@ -116,11 +116,11 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 ## Status
 
-- Charles V: about 97% of the cipher's letters come straight from the key, about 3% are fixed by sense, and a few words stay doubtful.
+- Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
-- 446, 1399 and 1400 come from reconciled transcriptions.
-- Page 2 of 1398 comes from one hand reread against the scan.
-- AGAD 1401: more than 95% of the cipher words read as sense, and ten code tokens stay wholly open.
+- 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.
+- Pages 2 to 4 of 1398 come from a reread made with the key in view, checked against three blind passes and settled on the enlarged scan. Cipher words read: 590 of 613.
+- AGAD 1401: 518 of 530 cipher words read, 97.7%. Nine code groups stay open.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.

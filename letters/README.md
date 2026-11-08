@@ -14,7 +14,7 @@ The key from `../key.tsv`, found on the Branicki letter 446, reads these with no
 
 ## What they say, in short
 
-**1398, from Jaswojnie, 24 July 1757.** Matusewic writes on the Russian army under Apraxin at the frontier of Prussia. Town deputies come to submit, carts and men are taken without pay, and a rumour says flour and bread were poisoned. The letter puts the army at sixty thousand men. It also says the Prussians will resist only at Königsberg.
+**1398, from Jaswojnie, 24 July 1757.** Matusewic writes on the Russian army under Apraxin at the frontier of Prussia. Its magazines are at Kowno, Skorule and Wilkomierz. Town deputies come to submit, carts and men are taken without pay, and a rumour says flour and bread were poisoned. The letter puts the army at sixty thousand men. It also says the Prussians will resist only at Königsberg.
 
 **1399, 1756, before August.** An insider's report on the party of Hetman Radziwiłł in Lithuania. It plans for the Tribunal of 1757. After a congress at Iwie, the party agrees a fund of 146,000 francs to buy the coming dietines. Five lords take shares. The writer also sets up a new correspondence at Mitau.
 
@@ -95,19 +95,27 @@ Checks against the scans and the memoirs found errors in my first transcriptions
 - 1399: "Abramski", then "Trabiwski", is Grabowski. "Tiesenhausen" is Tiezenaus, as written. Two unread names are Pociei and Sottohub.
 - 1399: 385 and 386 now read as Grand Maréchal.
 - 1398: "Cirur" is Siruc, and "Witezehk" is Witebsk. "Beau-frère" is "beau-père".
-- 1398: page 2 is reread by hand, and its last two lines now read.
+- 1398: page 2 is reread with the key in view, and its last two lines now read.
 - 1399: I first dated it to 1757. It is 1756.
+- 1398: pages 2 to 4 are transcribed again. Three blind passes were compared with my reread, sign by sign, and the enlarged scan settled each difference: 37 signs changed, and 6 signs of the reread that the scan does not show are left out. `1398/passes/comparison.tsv` lists them.
+- 1398: "[?Skorul]" is Skorule, as the letter spells it. I take it to be Skaruliai, on the Neris near Jonava. "[?farine]" is "fa[r]ine": the scan shows "faine".
+- 1398: the fifth letter of the signature is unsure. The reread gives y, "Matusewic", and the enlarged scan looks like p, "Matusevic". The three blind passes split. The reading keeps "Matusewic".
+- 1398: the reading no longer marks "survient", "réformation" and "trône". The scan shows the signs that give them.
+- `../key.tsv` gains two rows that were missing, x for k and y for w. The decryptions always used them.
+- The number code now follows one stated rule. `numbers.md` gives it, with what I tried on every open group.
 
 ## Files
 
 Each folder has `reading.md` (French), `translation.md` (English), the transcription and the line-by-line decryption.
 
 - `1399/` and `1400/`: `transcription_all.txt` and `decryption_all.txt`.
-- `1398/`: `transcription_p1.txt` and `transcription_p2.txt`, with their decryptions. Page 2 is the hand reread.
-- `1398/`: `transcription_consensus.txt` is an earlier join of two passes, kept for comparison.
+- `1398/`: `transcription_all.txt` and `decryption_all.txt`, all four pages. `passes/` holds three blind passes of pages 2 to 4 and `comparison.tsv`.
+- `1398/`: `transcription_p1.txt` and `transcription_p2.txt` are earlier files: page 1 from one pass, and pages 2 to 4 as first reread. `transcription_consensus.txt` is an earlier join of two passes. All are kept for comparison.
 
 ## Status
 
-Published 7 November 2026. 1399 and 1400 come from two transcription passes, reconciled on the scan. Page 2 of 1398 comes from one hand reread, with the key in view, so it is less independent. `[?word]` marks a doubtful reading.
+Published 7 November 2026. 1399 and 1400 come from two transcription passes, reconciled on the scan. Pages 2 to 4 of 1398 come from a reread made with the key in view, checked against three blind passes and settled on the enlarged scan. `[?word]` marks a doubtful reading.
+
+Cipher words read: 1398 590 of 613, 1399 744 of 750, 1400 490 of 493.
 
 © 2026 Prabal Gupta. Released under CC BY 4.0: reuse it, and credit me.

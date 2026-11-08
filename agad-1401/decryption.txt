@@ -1,4 +1,4 @@
-# AGAD 1/338/0/1/1401. Line-by-line decryption of transcription.txt under key.tsv. Clear text stands in double angle brackets. Numbers in square brackets are code groups.
+# AGAD 1/338/0/1/1401. Line-by-line decryption of transcription_1401.txt under key_1401.tsv, applied mechanically. Clear text stands in << >>. A number group in square brackets is a code group, which the key does not give. Word division follows the writer's dashes.
 p1.01 <<Monseigneur.>>
 p1.02 <<Posłaniec ten, iako mnie upewnił od WMCPana posłany, nie wiem quo casu aż>>
 p1.03 <<do tego czasu przytrzymany. Jam dla choroby moiey nie mogł dać na to należytey>>
@@ -23,10 +23,10 @@ p1.21 tencyi tak [175] iako tez [195] <<przysłany do nas z tą nowiną>>
 p1.22 <<iakoby to iuż naypomyślnieyszą umyślny Kuryer.>>pan orlik kt
 p1.23 ory smiał mię dzy nami te proferre 
 p1.24 słowa <<Jam tu przysłany à Christianissimo Rege Pana mego, w tey>>
-p1.25 <<nadziei,>>ze mnie [125] /ktoremu spokoynieys
+p1.25 <<nadziei,>>ze mnie [125]  /ktoremu spokoynieys
 p1.26 ze przy konserwacyi zupełnego ho
-p1.27 noru prokurowane zycie /<<y cała Konfederacya>>
-p2.01 /<<Ktora cum plena securitate honorum et bonorum atque Personarum, do Państw>>
+p1.27 noru prokurowane zycie  /<<y cała Konfederacya>>
+p2.01  /<<Ktora cum plena securitate honorum et bonorum atque Personarum, do Państw>>
 p2.02 <<y dobr swoich powrocić secure może / z wesołą przyimą tu minę;>>asz ja 
 p2.03 tandem ze wszystkich stron smut
 p2.04 no et inprospere przyięty <<&c>>
@@ -67,8 +67,8 @@ p3.13 panem oboznym koronnym a posłem
 p3.14 <<Naszym Kommunikowanym, Ktory in Copia przydaię WMCPanu. Tandem>>
 p3.15 <<Gdyśmy się wszyscy spodziewali pomyślney nato z Statecznego Serca Naszego>>
 p3.16 <<et ex indissolubili vinculo>>wieczney przyiazni y 
-p3.17 kointelligencyi naszey /znayasniey
-p3.18 szą potencyą francuską/<<rezolucyi, aż powtornym>>
+p3.17 kointelligencyi naszey  /znayasniey
+p3.18 szą potencyą francuską /<<rezolucyi, aż powtornym>>
 p3.19 <<wyprawiony z Wersalu d. 11. January stawa tu u nas we dwunastu dni>>
 p3.20 <<Kuryer>>ztą finalną od dworu francus
 p3.21 kiego reppliką <<że z temi punktami wysłany do Dworu>>
@@ -84,8 +84,8 @@ p4.03 ministrem <<a interea aby>>[125] instantanee
 p4.04 abdykował koronę polską <<poniewaź>>
 p4.05 ta abdykacya pro basi et fundam
 p4.06 ento przyszłego zupełnego y
-p4.07 chwalebnego całey polski /na tey
-p4.08 ze wiedynskiey negocyacyi /u
+p4.07 chwalebnego całey polski  /na tey
+p4.08 ze wiedynskiey negocyacyi  /u
 p4.09 spokoienia połozona et qwi
 p4.10 dem sine qwa nihil <<y ieszcze to insuper>>
 p4.11 <<iniunctum>>a [675] abydoniosł <<statibus Confoederatis,>>
@@ -136,10 +136,10 @@ p6.07 <<et pro statibus confoederatis odbiorą czas to krotki pokaże,>>bo pe
 p6.08 wnie sami wosobach swoich powro
 p6.09 cą tu do nas et referent refere
 p6.10 nda <<My zaś wszyscy lubo sine mediis ulterioris subsistentiae>>
-p6.11 /bo tentraktat ktory był z
+p6.11  /bo tentraktat ktory był z
 p6.12 nami niedawno zawarty wniw
 p6.13 czym niewykonany yniewypeln
-p6.14 iony /<<iuż conclusimus doczekać tu patienter ostatniey deter=>>
+p6.14 iony  /<<iuż conclusimus doczekać tu patienter ostatniey deter=>>
 p6.15 <<minacyi fortunae nostrae et Publicae, tak od negocyacyi Wiedynskiey>>
 p6.16 <<iako też od ułożenia zupełney pacifikacyi Rzpltey ad referendum>>
 p6.17 <<statibus Confoederatis przez pomienionych JchMCw do Warszawy>>
@@ -167,7 +167,7 @@ p7.15 <<Interea Kochany Dobrodzieiu co tam>>potencya turec
 p7.16 ka zamysla in hoc casu <<iakie się z Zacreszki>>
 p7.17 moskwy przez [435] <<pokazują tam Konsekwencye,>>
 p7.18 iezely woyna przeciwko tataro
-p7.19 my [435] od [505] niedeklarowana <<ieżeli>>
+p7.19 m y [435] od [505] niedeklarowana <<ieżeli>>
 p7.20 [4345] in hunc finem niesą iuz wmarsie 
 p7.21 <<o czym tu iuż invaluerunt rumores, prosiemy nam dać znać przez>>
 p7.22 <<umyślnego; a my też wzaiemnie przez tegoż samego communicabi=>>
@@ -188,7 +188,7 @@ p8.11 owadzając
 p8.12 <<WMMC Pana>>
 p8.13 <<Uprzeymie życzli>>
 p8.14 <<wym Bratem y Słu>>
-p8.15 <<żącym Sługą>>[signature: a large flourish, not read]
+p8.15 <<żącym Sługą>> [signature: a large flourish, not read]
 p8.16 <<D. 4. Feb: 1736.>>
 p8.17 <<P.S. Proszę WMC Dobrodzieiu kom>>
 p8.18 <<munikować tego wszystkiego JMX Ki>>
