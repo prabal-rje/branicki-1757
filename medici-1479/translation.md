@@ -15,8 +15,7 @@ Magnificence ... at the house of a merchant? ...* [of/from?] *Seville? what*
 **L03** for the defence of the states; *... the report/reputation? that*
 each of them were ⟨46⟩ ⟨8?9?46⟩.
 
-**L04** ⟨047⟩ ⟨847⟩ ⟨2⟩ heard it; *and before* the [league?]
-will be [or be sealed?] ... *... that* [uncertain verb: nosintedesi] *of the*
+**L04** ⟨047⟩ ⟨847⟩ ⟨2⟩ heard it; *and before* it [la si serà: will be?] ... *... that* [uncertain verb: nosintedesi] *of the*
 
 **L05** things begun; *but ... these people have* so little firmness
 *that 2 ... already?*
@@ -39,7 +38,7 @@ given that ...*. It seems to me appropriate *...*
 **L11** *know? ... the ... way?* and to the said ⟨Pe⟩ a light commission
 is given; and they will be
 
-**L12** of [blot] ⟨44⟩ ⟨48⟩. He will greet them warmly and fill them with
+**L12** of [blot] ⟨44⟩ ⟨48⟩. [The subject is not written:] will greet them warmly and fill them with
 fine words [and then? / unread L12.8].
 
 **L13** *they agree? their journey? and already? Your Magnificence will
@@ -54,13 +53,13 @@ he was doing*. You can
 **L16** trust him. ⟨3⟩ a brother of his, *who* is [blot] commander major of
 Alcán-
 
-**L17** -tara, is a very close friend of mine; *and ... has been able to escape?*
+**L17** -tara, is a very close friend of mine; *and so much that ... able? to escape?*
 has given ⟨31⟩ ⟨232?⟩,
 
 **L18** and uncovered every ⟨41⟩, and has written to the said ⟨P⟩ *...*
 with ⟨44⟩ ⟨48⟩.
 
-**L19** *⟨2⟩ will be able to do [it]. And ... attached? ... goes to his house?
+**L19** *will be able to do* ⟨2⟩. *And ... attached? ... goes to his house?
 I ... what ...*
 
 **L20** *can? ... say? / That? ... not ... spoken? several times ...
@@ -72,7 +71,7 @@ I ... what ...*
 with her [an agreement will be made?]-
 
 **L23** -[agreement continued] ⟨8⟩ ⟨Q⟩. Understand that the *...?* is
-betrothed to ⟨28⟩ of ⟨P1⟩; for I believe
+married or betrothed [d(i)sposata, not secure] to ⟨28⟩ of ⟨P1⟩; for I believe
 
 **L24** that such ⟨P+⟩ will not go *before?*. The legate who had come there
 on behalf of ⟨D⟩ *...* ⟨P1⟩ will not
@@ -81,7 +80,7 @@ on behalf of ⟨D⟩ *...* ⟨P1⟩ will not
 and [unsettled: deta] ⟨39⟩ a tithe upon the clergy.
 
 **L26** *And* ⟨P1⟩ receives half; *through/for?* ⟨33⟩ everything is done;
-*not yet ... day ...* to put it in place, and with [unread continuation]-
+*not yet ... day ...* to put it, and with [unread continuation]-
 
 **L27** -[to say?; literal datire] *... everything ...* and especially in order
 not [unread: desr]
@@ -91,13 +90,13 @@ not [unread: desr]
 **L29** *...* [unsettled: rato] every bond; *... difficulty? ... write?*, seeing
 the little
 
-**L30** affection *that* exists between them; *and ... now ... Naples? ...
+**L30** affection *that* exists between them; *and ... now ... Napole? [Naples?] ...
 they will come?*
 
 **L31** *... hopes? ... what ... then? ... will return here?* and with him
 *have?* gone the
 
-**L32** ⟨Pe⟩ of ⟨Q⟩ *little?* content. I do not know whether on the journey
+**L32** ⟨Pe⟩ of ⟨Q⟩ *little?* content. I do not know whether pe[r?] chamino (on the way?)
 he will soften him/them *anyone?*
 
 **L33** *My [unsettled word: noze?] ... Your Magnificence? ... understand? ... some? ...

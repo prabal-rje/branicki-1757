@@ -14,10 +14,10 @@ Code numbers and symbols hide most persons. They are shown here as ⟨code⟩. N
 - The writer sent his last letter through a merchant's house at Seville.
 - ⟨code⟩ has concluded, or will conclude, a league ("lega") "a difensione degli stati": for the defence of the states.
 - Some parties show "sì poca fermeza": so little firmness.
-- ⟨code⟩ "farà loro buona cera e gl'enpierà di buone parole": he will greet them warmly and fill them with fine words.
+- "farà loro buona cera e gl'enpierà di buone parole": someone will greet them warmly and fill them with fine words. The subject is not written.
 - In a passage that names Santiglana and Osma, someone "mostra esere afezionato a V. M.": he shows himself devoted to Your Magnificence. The writer adds: "ve ne potete fidare", you can trust him.
 - A brother of his, ⟨code⟩, is the "chomandatore magore d'Alchantara", the comendador mayor of Alcántara. He is "molto mio amico", a very close friend of the writer.
-- With the queen, "con lei si farà l'acordo": an agreement will be made. Someone "è disposata", is betrothed, to ⟨code⟩ of ⟨code⟩.
+- With the queen, "con lei si farà l'acordo": an agreement will be made. Someone "è d(i)sposata", is married or betrothed, to ⟨code⟩ of ⟨code⟩. The word is not secure.
 - A legate had come on behalf of ⟨code⟩. ⟨code⟩ has accepted "una decima a preti", a tithe on the clergy, and ⟨code⟩ "tocha la metà", receives half.
 - "visto il pocho amore che è tra loro": seeing the little affection between them.
 
@@ -36,7 +36,9 @@ I worked with AI models. They transcribed the signs from the archive's images an
 
 ## Checks
 
-- **Extent:** of 730 letter positions in the cipher, 668 are read (91.5%), 42 are doubtful (5.8%) and 20 are open (2.7%).
+- **Independent review:** a second AI model checked every changed reading against the key and the images. It found no reading that the signs contradict. Its points of doubt are applied below and in the files.
+
+- **Extent:** of 730 letter positions in the cipher, 663 are read (90.8%), 47 are doubtful (6.4%) and 20 are open (2.7%).
 - **Word-list control:** under the key, 65.3% of the cipher's letter positions fall in words of a 15th-century Italian word list. 200 shuffled keys give 1.9% on average, and 11.4% at most.
 - **Blind check, first stage:** a reader that saw only the early decode agreed with 30 of its 31 read words, and contradicted none.
 - **Method check:** Italian test texts of the same shape, with 5% of the signs misread, read at 98.5% to 99.8%.
@@ -65,7 +67,7 @@ As far as I checked, nobody has published a reading of this letter. That is not 
 
 ## Status
 
-Read in part: 91.5% of the cipher's letter positions. That is below the ledger's bar for a complete reading.
+Read in part: 90.8% of the cipher's letter positions. That is below the ledger's bar for a complete reading.
 
 ## Files
 

@@ -4,7 +4,7 @@ Letters that the archives and the historical cipher ledger at https://github.com
 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
-| [A letter to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/riproduzione/?id=79510) | Toledo, 1479; endorsed 31 August | An unnamed writer at the court of Castile reports on a league "for the defence of the states", an agreement with the queen, a betrothal, a papal legate and a tithe on the clergy. Read in part. | [Notes](medici-1479/README.md), [Italian](medici-1479/reading.md), [English](medici-1479/translation.md) |
+| [A letter to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/riproduzione/?id=79510) | Toledo, 1479; endorsed 31 August | An unnamed writer at the court of Castile reports on a league "for the defence of the states", an agreement with the queen, a marriage or betrothal, a papal legate and a tithe on the clergy. Read in part. | [Notes](medici-1479/README.md), [Italian](medici-1479/reading.md), [English](medici-1479/translation.md) |
 | [Charles V to Ferrante Gonzaga](https://lodovico.medialibrary.it/media/schedadl.aspx?id=c710a32c-42a7-4159-8abc-472aed58f7c9) | Monzón, 11 August 1542 | The Emperor tells his viceroy of Sicily that no help can come for the infantry, the galleys and La Goleta. Spies report that the main French effort is heading for Perpignan. | [Notes](charles-v-1542/README.md), [Spanish](charles-v-1542/reading.md), [English](charles-v-1542/translation.md) |
 | [Antonio Ferdinando Gonzaga, Duke of Guastalla](https://lodovico.medialibrary.it/media/schedadl.aspx?id=848189d6-1008-497b-bcde-0e3a3ad9757f) | Guastalla, 24 September 1717 | The duke will not sign a "lettera reversale" that gives up old claims in return for imperial land. | [Notes](guastalla-1717/README.md), [Italian](guastalla-1717/reading.md), [English](guastalla-1717/translation.md) |
 | [AGAD 1401](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225114) | 4 February [?1736] | Polish exiles in Prussia learn that France will not keep Stanisław Leszczyński on the Polish throne. They set conditions for his abdication. | [Notes](agad-1401/README.md), [Polish](agad-1401/reading.md), [English](agad-1401/translation.md) |
@@ -140,7 +140,7 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 ## Status
 
-- The Medici letter: read in part. 668 of 730 cipher letter positions are read, 91.5%. About 60 code groups and symbols stay unread.
+- The Medici letter: read in part. 663 of 730 cipher letter positions are read, 90.8%. About 60 code groups and symbols stay unread.
 - Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
 - 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.

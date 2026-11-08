@@ -29,7 +29,7 @@ posto che ...* parme proposito *ma ...*
 *a questa prima ...* ⟨6⟩ ⟨59⟩ *non ...*
 
 **L08** *molto prima* [illeggibile L08.1: om_pu_] *... inso?*
-[illeggibile L08.2: cl] ⟨D⟩ *già 18? ... che* ⟨O⟩ *...* d(i) ⟨Pe⟩.
+[illeggibile L08.2: cl] ⟨D⟩ *già 18? ... che* ⟨O⟩ *...* d(i)? ⟨Pe⟩.
 
 **L09** *che prima? che?* ⟨9?⟩ ⟨2⟩ lo senti e disi *finalmente?* che
 ⟨P?⟩ *che?* manda[r?]no *de sopra no possiamo?*
@@ -40,7 +40,7 @@ posto che ...* parme proposito *ma ...*
 **L11** *conosco? e della ... via?* e a deti ⟨Pe⟩ si dà legiera chomesione;
 e sarano
 
-**L12** d(i) [macchia] ⟨44⟩ ⟨48⟩. Farà loro buona cera e gl'enpierà
+**L12** d(i)? [macchia] ⟨44⟩ ⟨48⟩. Farà loro buona cera e gl'enpierà
 d(i) buone parole [et poi? / illeggibile L12.8: dzbr].
 
 **L13** *loro s'achordano? loro viaggio? e di già? V. M. intenderà?*
@@ -59,7 +59,7 @@ magore d'Alchan-
 c'à dato ⟨31⟩ ⟨232?⟩,
 
 **L18** e scoperto ogni ⟨41⟩, e à scrito al deto ⟨P⟩ *che sarano?
-de chomuni?* chon ⟨44⟩ ⟨48⟩.
+de chomuni?* [c?]hon ⟨44⟩ ⟨48⟩.
 
 **L19** *potrà fare* ⟨2⟩. *Et ... allegato? chel va a la casa sua?
 Io vi ... quello che si ...*
@@ -97,7 +97,7 @@ Gran chaso? ...*
 **L31** *ogni spera? quelche ... che è poi? ... tornerà d'qua?* e chon lui
 *ne sono?* iti gli
 
-**L32** ⟨Pe⟩ d(i) ⟨Q⟩ *pogo?* chontenti. Non so se pe[r?] chamino
+**L32** ⟨Pe⟩ d(i)? ⟨Q⟩ *pogo?* chontenti. Non so se pe[r?] chamino
 gl'adolcirà *nessuno?*
 
 **L33** *Le mie noze? che V. M.? intenda? ... se gli ... alchuna? ...
@@ -109,7 +109,7 @@ al ... di mancho?*
 **L35** *chose? ... troppo ... favore? ... mi bisogni? ... nulla? ...
 d'alcuna cosa alla*
 
-**L36** *quale m'arachomando*. In Toledo a ⟨30⟩ d(i) ⟨56⟩.
+**L36** *quale m'arachomando*. In Toledo a ⟨30⟩ d(i)? ⟨56⟩.
 
 **Verso, indirizzo:** *Magnifico et generoso domino Lorenzo de' Medici ... Firenze.*
 

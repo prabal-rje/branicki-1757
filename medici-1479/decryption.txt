@@ -62,7 +62,7 @@ L08.1	cip	S? b r c h 8?	om_pu_	OOOOOO
 L08.2	cip	t R	cl	OO	
 L08.3	sym	D			
 L08.4	sym	O			
-L08.5	cip	+	d	R	d(i)
+L08.5	cip	+	d	D	d(i)?
 L08.6	sym	Pe			
 
 L09 [ch(e) prima?] | [che?] | 9? | 2 | R S 6 l s d v | l + v 6 v | [finalmente?] | t q l | P? | [ch?] | b f s + f 3? s S | [de sopra no possiamo?]
@@ -92,7 +92,7 @@ L11.4	cip	R l n v l 3 f t q S b l 6 v S s l	legierachomesione	RRRRRRRRRRRRRRRRR	
 L11.5	cip	l 6 f 3 f s S	esarano	RRRRRRR	e sarano
 
 L12 + | X | 4 4 | 4 8 | j f 3 f R S 3 S o h S s f t l 3 f | l n R l s c v l 3 f + o h S s l | c f 3 S R l | + p o 3
-L12.1	cip	+	d	R	d(i)
+L12.1	cip	+	d	D	d(i)?
 L12.2	blot	X			
 L12.3	num	4 4			
 L12.4	num	4 8			
@@ -146,7 +146,7 @@ L18.4	num	4 1
 L18.5	cip	l f	ea	RR	e à
 L18.6	cip	6 t 3 v d S f R + l d S	scritoaldeto	RRRRRRRRRRRR	scrito al deto
 L18.7	sym	P			
-L18.8	cip	t? q S s	chon	RRRR	chon
+L18.8	cip	t? q S s	chon	DRRR	[c?]hon
 L18.9	num	4 4			
 L18.10	num	4 8			
 
@@ -233,7 +233,7 @@ L31.3	cip	n R v	gli	RRR	gli
 
 L32 Pe | + | Q | [pogo?] | t q S s d l s d v | s S s 6 S 6 l c l UNK t q f b v s S n R f + S R t v 3 f | [nessuno?]
 L32.1	sym	Pe			
-L32.2	cip	+	d	R	d(i)
+L32.2	cip	+	d	D	d(i)?
 L32.3	sym	Q			
 L32.4	cip	t q S s d l s d v	chontenti	RRRRRRRRR	chontenti
 L32.5	cip	s S s 6 S 6 l c l UNK t q f b v s S n R f + S R t v 3 f	nonsosepe_chaminogladolcira	RRRRRRRRRDRRRRRRRRRRRRRRRRR	non so se pe[r?] chamino gl'adolcirà
@@ -247,5 +247,5 @@ L35 [chose? ... troppo ... favore? ... mi bisogni? ... nulla? ... d'alcuna cosa 
 L36 [quale m'arachomando] | v s d S R l + S f | 3 0 | + | 5 6
 L36.1	cip	v s d S R l + S f	intoledoa	RRRRRRRRR	in Toledo a
 L36.2	num	3 0			
-L36.3	cip	+	d	R	d(i)
+L36.3	cip	+	d	D	d(i)?
 L36.4	num	5 6			
