@@ -1,6 +1,6 @@
 # Zeschau to Seebach, 18 January 1841: a sealed partial reading
 
-This folder holds our partial reading of a cipher letter of 18 January 1841, from Zeschau to Seebach (DECODE record 5005). The reading, its key and our notes are in one encrypted file.
+This folder holds our partial reading of a cipher letter of 18 January 1841, from Zeschau to Seebach (DECODE record 5005). So far we have read about 28% of it. The reading, its key and our notes are in one encrypted file.
 
 - **The file:** `zeschau-1841-sealed-2026-11-11.tar.gpg`, sealed on 11 November 2026. GnuPG encrypted it (symmetric, AES-256).
 - **Why it is sealed:** the reading is partial. We will open it later, when we have a better version.
