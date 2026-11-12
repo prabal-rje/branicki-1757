@@ -1,0 +1,3648 @@
+# Morosini, 1587 to 1589: my decode of DECODE records R17 to R58 (35 records), found from the ciphertext alone.
+# Source: DECODE, records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 22 and Francia 18/3). Research use only.
+# These lines are as the fit gave them, before the check against the published key. README.md and check.md give the check.
+# One line for each line of DECODE's transcription: record, page (p) and line (l). This file does not hold the transcription.
+# A letter is my key's value. '·' is a gap. [111], [113], [165], [166], [167] are word codes with no value. A null shows nothing.
+# A space stands where the transcriber saw a gap. The cipher does not mark word ends, so the words run together.
+
+## R17
+R17 p1 l01 | soeseroeiuraredialeuareledinuieiuil
+R17 p1 l02 | tai ee dinuidulicitatoinnodureleiunione
+R17 p1 l03 | etsoliepuoegiouareaiepreseuiabiso
+R17 p1 l04 | gniarssep
+R17 p1 l05 | pesoatrepemaruialediresetenaei
+R17 p1 l06 | sai[166]caidentiiniflongaagionani
+R17 p1 l07 | entohaienuatoniecasogiemeuides
+R17 p1 l08 | tu[111]epadredelacagnisianitiiinter
+R17 p1 l09 | eoneiuiuanentelaiutoritaisuii eeio
+R17 p1 l10 | stipetaeintaoeesrtiiipniiirede
+R17 p1 l11 | piedioet[166]regnoi siperitai eondei
+R17 p1 l12 | seintendere[165]etsreeiuoleesdirepot
+R17 p1 l13 | escuin[166]eiasonuarelai[111]dopolongot
+R17 p1 l14 | iinliuitodiparoledieset[166]eraiieie
+R17 p1 l15 | nliaredintendereltupretensionid
+R17 p1 l16 | elunaitolmsoaiparteddaalaieansi
+R17 p1 l17 | oneeinetortoietlhaueseproeiura
+R17 p1 l18 | ndopoilaisopreniaisuiiutoritai
+R17 p1 l19 | dinuareethrunosieiontentidelh
+R17 p1 l20 | onestotoetieieraimenoimedioai
+R17 p1 l21 | [166]nialtu
+R17 p2 l01 | ntol[166]snt eraistatieoande lileeoeiaitutiii
+R17 p2 l02 | isuonihaueano seuitodeliisolutionenuati
+R17 p2 l03 | dal[113]dicsianiartiliolorenoe[165]diguisaee
+R17 p2 l04 | ltuloronuorieidunirsioli[113]drmtiotustat
+R17 p2 l05 | omagiorepedissiacereesieseuitodeli
+R17 p2 l06 | mutationenuatidai[113]liltesthidiecesauie
+R17 p2 l07 | uipresilamiriniideliberationepeparere
+R17 p2 l08 | delsuoeionsigliopteiooperoetmonsigdi
+R17 p2 l09 | epernoneineieripreseetesendomesoriin
+R17 p2 l10 | datoounigroebisandidiguetustentare
+R17 p2 l11 | dinuareoeltudunaiinpaieaimaiesendo
+R17 p2 l12 | egliitornatotintendendodittordinens
+R17 p2 l13 | iaiisseditohaisaputotantodireethaip
+R17 p2 l14 | ersuasoriiuotiarloeionietendoseai esei
+R17 p2 l15 | ioiadiprouuimianomliaruiintedire
+R17 p2 l16 | sesebenesmenespediteiluidaliseeoe
+R17 p2 l17 | tariiltionianidauidindarentensentit
+R17 p2 l18 | ihaiseeiodiunirsiptioguisaiisins
+R17 p2 l19 | uiiritiniotobenesthaieiarmeai uitaidin
+R17 p2 l20 | uarloesdisturisaremtaolaiuenutaid
+R17 p2 l21 | eliolorenospedimeaisuiuotiungueilso
+R17 p3 l01 | naoinouandolaidinuieioltidihniicio
+R17 p3 l02 | niodataidelgiuranientodiretuoolge
+R17 p3 l03 | iuonsliituteltususneuilopresino
+R17 p3 l04 | debaiesarsimsuoeaeesmeetestosp
+R17 p3 l05 | goredueiaiissoesettospeprinaooudp
+R17 p3 l06 | ieet[113]glidiededindarloiinouare
+R17 p3 l07 | es peprotesomandatonsliinuaredopo
+R17 p3 l08 | smonsigdiseaiuniisulrshetstuin[166]suo
+R17 p3 l09 | bisonsnoiindastututeltusuensenti
+R17 p3 l10 | intioruerliesisariaidolutiediluit
+R17 p3 l11 | oetegliseaioesdpionareoilifetio
+R17 p3 l12 | netodiuotioneportauii[113]haueui
+R17 p3 l13 | niotopterestutrouatistspagareltu
+R17 p3 l14 | uensentiiohaigiifatotosindarlaii
+R17 p3 l15 | seruirtuetleaiihaueuiagionedido
+R17 p3 l16 | niandaregiuranientomtegentipagate
+R17 p3 l17 | dailuidouendolebastartu[165]etluis
+R17 p3 l18 | tesonuariiili[113]etperoeglituraiiso
+R17 p3 l19 | lutodiuenireinognimodoeesendodi
+R17 p3 l20 | [166]isposipiastoinetumalispaoso
+R17 p3 l21 | disluatohaioduoiilunoiresomeitro
+R17 p4 l01 | epntieiatomsodetodueiai idebaieuiare
+R17 p4 l02 | inemaiipotendoeutotaioimouerlosta
+R17 p4 l03 | ndoeglinrlriodiuolereinognimo
+R17 p4 l04 | doesendodigiaipasatotuntop
+R17 p4 l05 | aniiesitrouiiasorteleghelon
+R17 p4 l06 | tanodiotglihai dinuouospedit[111]
+R17 p4 l07 | uifprotesoetstuiueniripiuolneto
+R17 p4 l08 | isiitirarifuoridelsuioregnouol
+R17 p4 l09 | tarinidiluituti[166]esullaiti eneu
+R17 p4 l10 | oisisai stu[166]hauriibastaresfare
+R17 p4 l11 | siitornidieteaastiomoltotra
+R17 p4 l12 | uaglioteniendotu isensuional·pti
+R17 p4 l13 | onuenienteiruliediaisileeperogli
+R17 p4 l14 | haispeditohieumonsigdibele
+R17 p4 l15 | urepregandolograndispiiptstan
+R17 p4 l16 | iaiiiuoleredareogniasodisluation
+R17 p4 l17 | emetuoeiolnuarepresapegiur
+R17 p4 l18 | anientodaltusuegentii[113]oueroeiol
+R17 p4 l19 | itornarsenenelsuo paeseehorisih
+R17 p4 l20 | taiispetandolaisuii issohetaiel
+R17 p4 l21 | iletustusari einognimodoiuogliiuenire
+R17 p5 l01 | sulii ilgi uranientositiuentussieiunnoe
+R17 p5 l02 | petasiai siuoltarelesutanuorienidi
+R17 p5 l03 | luiitenendos eiuertoelintentiones
+R17 p5 l04 | uaiedtagliemesoidelilegaisiieuol
+R17 p5 l05 | ti eaieleuarnsi eneai eioronieedigiisid
+R17 p5 l06 | iscoredipersonedimoltionalitieni
+R17 p5 l07 | osi iuenire ei epa rinsieintentiomedin
+R17 p5 l08 | uiaidueeifeionsigliodeliatrestati
+R17 p5 l09 | deleregnositieasiararepetuinhab
+R17 p5 l10 | iltamensouernoilsebeneipartiue
+R17 p5 l11 | risinapte inuentno siatrouano etanti
+R17 p5 l12 | iipel eregno ii elitneleagionanieu e
+R17 p5 l13 | s ehauitohogi eseei ehai edinionato
+R17 p5 l14 | di uenierea isai estaeiontinui eiliol
+R17 p5 l15 | orenoi eiuolut euenireinanaiadinal
+R17 p5 l16 | innuentieitu sueiesaioiahomantiatodi
+R17 p5 l17 | da eminio eatestaiuedrasiauadiiec
+R17 p5 l18 | ianiin editionibatereanuraiini elau
+R17 p5 l19 | ianno edianuaretuto[165]sarai ein enitus
+R17 p5 l20 | inipedirloioiepreternietam eiome
+R17 p5 l21 | presente edinuaretuti[165]ifuieteeni epo
+
+## R18
+R18 p1 l02 | tiiosianoecircailipublicationedeleciliodi
+R18 p1 l03 | trentiihomancatonemancodifaretutil
+R18 p1 l04 | epiiuluicacioficiiniosoinuintesiaifatii
+R18 p1 l05 | seniaieilcuni limitationtoditionemaiilf
+R18 p1 l06 | etotrouoeoandisimi resiseniai intutiaetirons
+R18 p1 l07 | enionosentireaimodoilcunoparlarenoai [166]l
+R18 p1 l08 | ororetensailibertai delai chiesi egalicand
+R18 p1 l09 | odiconoenaninegentegnoderagoneesiregi
+R18 p1 l10 | udicareaailororiuilegihanouolutoiieetarl
+R18 p1 l11 | ain[165]cernedogmidifedelorolacietaran
+R18 p1 l12 | oseniaiilcunai euieetiontoeditione mai tilaa
+R18 p1 l13 | iformai eecosai manfesietisipuodarteg
+R18 p1 l14 | olai uniuersaleeuniformeetserui ai tutiireg
+R18 p1 l15 | niahauendoognunolisuoiparticolaricosiu
+R18 p1 l16 | miedaioeliotropodificotisiinonianoleua
+R18 p1 l17 | roesendo[166]motobentoorsiutodalisantais
+R18 p1 l18 | edeiposolicai enuleiooeraioinuntioemonsen
+R18 p1 l19 | e di riminiedi boememesi erai uenutoidilcun
+R18 p1 l20 | enisamentias aciomodareil tuto sodieiati
+R18 p1 l21 | onedi[111]mctisitrai potutofatauesiasiaes[166]
+R18 p1 l22 | propositisono tenutiiuniuersalmedai tuttene
+R18 p1 l23 | partitoincodai [165]aimiaiinsanii hanoposo
+R18 p1 l24 | nelelorodimande[166]irticolodelai publicati
+R18 p1 l25 | onedelcilioini i mancanoincodi[165]parlano
+R18 p2 l01 | piiuliberi eimstinentemeai oleihebeneimanco
+R18 p2 l02 | diissondereeuienemosoestuidouestep
+R18 p2 l03 | asare ai ficieiiuiuiolenti di[165] s sinoaioi
+R18 p2 l04 | sisonofatietfacilmesireneriai aoturai li
+R18 p2 l05 | letupensoisiaibenefugirepiiuesipuo
+R18 p2 l06 | ieuedendodai [165] ci postiiuuiresenonsdi
+R18 p2 l07 | taiciotesiaisantaisedetutauii seihauest
+R18 p2 l08 | i malai opiniontoonesaroaiuertitodi [167] il
+R18 p2 l09 | asarodeseoplurecisemetuto[165]mihari coma
+R18 p2 l10 | ndatohorietiniinouoinparigiilaso[166]
+R18 p2 l11 | elai sorbonaiosoincounato[165]dultosiglio
+R18 p2 l12 | del[113]rimctiopartisidiiesciartresedi mo
+R18 p2 l13 | nare[165]agionimi sonoomininatedalsigd
+R18 p2 l14 | iati sonoobligatidicoadiuareunai cosi
+R18 p2 l15 | utileesantaosadomotobeneueniui sepu
+R18 p2 l16 | e di ctiene il titolo dichrisianisimosi
+R18 p2 l17 | tentiesainco diiceuerenelsuoregnostoc
+R18 p2 l18 | ilioliberamiosiefatoneliitriuegni epro
+R18 p2 l19 | uincie di chrisuianiiitterai giai male hauer
+R18 p2 l20 | e tardateauoiaeoaue scandalodichrisi
+R18 p2 l21 | anieproiecarsilinnai didieemai do
+R18 p2 l22 | uriaiesere[113][165]ethauestatatoleseioeaigli
+R18 p2 l23 | itriamaiinluetoinouointueiroandisimai
+R18 p2 l24 | dificotai erenitentiai eenutimi uotiipar
+R18 p3 l01 | laio[113]in[166]propositoolsoe[165]cho giairitoi
+R18 p3 l02 | tremiene disiuolendoleistabilireleco
+R18 p3 l03 | sesuebisognauai simonaesiniiu airdente
+R18 p3 l04 | degliitri nentecose utcernonounsonoredita
+R18 p3 l05 | ioelesatationedelaaeligioneinelai uede
+R18 p3 l06 | uai elhonoredelai publicatione delcilio
+R18 p3 l07 | diatrentosariai itribuito ai [165] delai legad
+R18 p3 l08 | elorolhaueuanoneiireicolidimandatiemi
+R18 p3 l09 | inmano deli[113]erai leuare ai loro [166]iuauagi
+R18 p3 l10 | oeioisarlosseuolere[165]hanoesidimand
+R18 p3 l11 | atoditioneerenitionesiai liberametse
+R18 p3 l12 | ni ai i titionepublicatoeacietaetdicend
+R18 p3 l13 | omileiioiuoleuoleai enauenisteuai[165]esit
+R18 p3 l14 | rai giai icordatosetornare unitriuotii ilirmi
+R18 p3 l15 | eleu issosi[166]ihariai oeraueniremaipiiuto
+R18 p3 l16 | sotrauenirecoadiuaroilmulooogliitri
+R18 p3 l17 | sidoleseroeuoleserolesecutionesedalaif
+R18 p3 l18 | ormai i telicordoetli[113] guadagnauai nelopini
+R18 p3 l19 | onedi[111]edutai lai chrisianitai e[165] li dil
+R18 p3 l20 | atione in publieiarloueniui iidhaueressoela
+R18 p3 l21 | sauai soriiegliitri lai colpai del iioedimen
+R18 p3 l22 | t einiissoes[166]iueniuanoanco loroaiguad
+R18 p3 l23 | agnarepiiuilfauorenelregno poiuniuersalm
+R18 p3 l24 | ensnunouoleenai eeseruatione delipriuilegie
+R18 p4 l01 | libertai delai chiesai galicanai eai oelio
+R18 p4 l02 | lei si mosaes soariai sirenderiai odiosai
+R18 p4 l03 | uniuersalineai tuti idiseianentecostri
+R18 p4 l04 | diiabisognauai caniinare isseti monti
+R18 p4 l05 | ani e itri iueresti mai ailmeno doueui
+R18 p4 l06 | [113] dirtoto di tutocio ai [111]toimeterlelai [111]
+R18 p4 l07 | lai isolutione ai sicurandolai in[165] es
+R18 p4 l08 | ipotestuinouariai magioreproueiiiin
+R18 p4 l09 | [111] di coioiacerenai emonarsibenigniefa
+R18 p4 l10 | uoreuole ai [166]regnodi [165]leaisteseai po
+R18 p4 l11 | teuai desideraremoteitreparolein[166]
+R18 p4 l12 | sosaniaieileolti[113]i miissoesitrosenonl
+R18 p4 l13 | [165] dimandauanohorai li publicatione d
+R18 p4 l14 | elcilio erano ai ponto[165]piiudegli itri
+R18 p4 l15 | steneeranoopositospecialinelritilionee
+R18 p4 l16 | lutilohaueuai seioredesidoerato eprom
+R18 p4 l17 | ietendosiin[165]coesportaseropregiu
+R18 p4 l18 | dicio il aiutoritai suii e [111] ui hauriaa
+R18 p4 l19 | imediatoiodisti li[113]poteui dai [111] isseta
+R18 p4 l20 | reogni patermai dimonationemaiicitri
+R18 p4 l21 | enelcilioailcunai cosai eloai uerotutogi
+R18 p4 l22 | usoriportaesailcunilesioneonocumento
+R18 p4 l23 | stroleuai lecose delsuoregnopasasero
+R18 p4 l24 | giusitiai ediuipliniai nelh[113]sifi
+R18 p5 l01 | cestu dire i di [166]lai disuadonodali publi
+R18 p5 l02 | cationeoltisianoipontitrouanoloro na
+R18 p5 l03 | ria ilai subi iutoritai temissuadeuoleai
+R18 p5 l04 | stesai sideratietlihabiaiouerailipo
+R18 p5 l05 | caaigionechanodimeterleincapo[166]pens
+R18 p5 l06 | ieriailasaroditinouare nulti medesmi
+R18 p5 l07 | ofici mai pocai ssaniai dimigliortiso
+R18 p5 l08 | lutioneibasiando parole ai sesuatereil
+R18 p5 l09 | trarioeiluenireaaimediiniiupotenti
+R18 p5 l10 | posoiii unitailmedurci aioleturi enule
+R18 p5 l11 | iltesicoileeoandefitiilitai sipuoin
+R18 p5 l12 | corerecosi sipuo temere moti dific
+R18 p5 l13 | oiiai siinoniai seniai magiore danoimed
+R18 p5 l14 | iaruiaondeforsi sariai piiuinonnep
+R18 p5 l15 | rocurarediguadagnare [166]pontoilc
+R18 p5 l16 | iliofostepublicatonelmodo chano gii
+R18 p5 l17 | icordaetliaponti dentedificoiiai sia
+R18 p5 l18 | no imesi ai [111] dandole magioressaniaidih
+R18 p5 l19 | odieiationepoiisiregonodissosidii
+R18 p5 l20 | nontiareameteoatiopriuilegipretendono
+R18 p5 l21 | hauere dilongai manodalisedeiposolicai s
+R18 p5 l22 | dimandarne de nuouia[167]sideraraduto[166]tb
+R18 p5 l23 | rai otentaidiuisarmi [165]dourofareii
+R18 p5 l24 | mancarodirsiidireai tiesaricomandatoel
+R18 p6 l01 | tucostudelregnoneneaipareniicaminanisii
+R18 p6 l02 | beneil tu mosoaiediuoledareognisodieiat
+R18 p6 l03 | ioneimonsitiaguisaet suai eceleprocedeio
+R18 p6 l04 | andisimasumitai toiuereniai [113]mi tuto
+R18 p6 l05 | ciosipuotemereisaiedelenuouoiciden
+R18 p6 l06 | tertilee tuisolutisimodenireistate
+R18 p6 l07 | generalidelregnossando[166]otremotiit
+R18 p6 l08 | riparticolarisseruitiosuodiiitureinco
+R18 p6 l09 | monsitiaguisaet[165]delsuopartitoilaaue
+R18 p6 l10 | situtionedelepiacettengonouodiitrai
+R18 p6 l11 | parteu ieeil isai[166]statitounai tinuiohotom
+R18 p6 l12 | anosdisuaduertiene dai tenereniouero
+R18 p6 l13 | di metereioinineaoushauerecomoditi
+R18 p6 l14 | difarelesuepratietsianodeputatiitsta
+R18 p6 l15 | tissonedisuai ni tieiationemaii puogii
+R18 p6 l16 | faretirosegretame[166]itntuouai chiar
+R18 p6 l17 | ameegli iliuorebedainauein[113]magio
+R18 p6 l18 | redesiderioeditenerlodiicelerarelad
+R18 p6 l19 | iunaniai pensando[165]ai loroipiacede
+R18 p6 l20 | siaaiuuireaimagioresurantagiodictai
+R18 p6 l21 | siimanifesamesiouegliinimisonotutiui
+R18 p6 l22 | ai disuniti epieni dasossetisi ousainco
+R18 p6 l23 | lireuionedeleuariiooeglieifostessauenn
+R18 p6 l24 | eroledistabilirelai sucesionedelai coroni
+R18 p7 l01 | in[165]esonodelsuosangueaiolesagionedelre
+R18 p7 l02 | gnoistienedisucedereiletipuoinmodoai
+R18 p7 l03 | lcunopiacereaigliitriesebentiiritiuono
+R18 p7 l04 | scuorire[166]loroifuetotutauiintitrirete
+R18 p7 l05 | siilasanodiiouedire[166]posono[166]disegni
+R18 p7 l06 | deltaioimancodifare tuto[165]tuinines
+R18 p7 l07 | monarecosiai[113]eai liitrietilitornare
+R18 p7 l08 | di nuouoaioturisariaieladotaleouinai
+R18 p7 l09 | di [166]regnoethoraoluntosori litrouado
+R18 p7 l10 | leuando deltuossecionieprocurando
+R18 p7 l11 | laiutoriti di [111] diesortarlicnaieueriunio
+R18 p7 l12 | nefrailorospotereitenderetantomeglio
+R18 p7 l13 | ilisipriationedeliiielaudiessaifatoeo
+R18 p7 l14 | anonerelai mecoinilcuneportidi[166]rlg
+R18 p7 l15 | olaumatai diuhabii sauti infrescame
+R18 p7 l16 | ntiami[166]loneganoistamentusinoaioisop
+R18 p7 l17 | otutohauernesicurai relationtooioneu
+R18 p7 l18 | iii certoimancarodidolerment[113]tofa
+R18 p7 l19 | [165]fuicioinsimilcasoconuienesitei[111]no
+
+## R19
+R19 p1 l02 | oirt[111]eieineucio itendeu ai eparigieeoidiss
+R19 p1 l03 | uaderecosi ai [113]io ai [165] delaisorisonaedipes
+R19 p1 l04 | idouestepublicareilcilio di trentosen
+R19 p1 l05 | iai itrai ditione ilgiornomedesmoetiopar
+R19 p1 l06 | tidiparigesuenirmentiainouare[113]enide
+R19 p1 l07 | eutiti delhdi tutoilregnos ite negotisi
+R19 p1 l08 | inouanoin[165] citaicoioarueroailparlamento
+R19 p1 l09 | soponersiilai pub licatione di stociliod
+R19 p1 l10 | icendaerai nario inmotecoseaili lib
+R19 p1 l11 | erti delai easiesai galicanai ilsaimeso
+R19 p1 l12 | nuouai dificoiiii in[166]negotioperoiodom
+R19 p1 l13 | inicai nel aiudientiaichebi di [113]fecin
+R19 p1 l14 | uouai insaniai s enai publicationeeled
+R19 p1 l15 | isielopositionefaceuanoideputati
+R19 p1 l16 | delsilaidoueuai itardaremi piiu tosoec
+R19 p1 l17 | itaredaiuiragioaiuolere siai publicato
+R19 p1 l18 | dai eciooueuantraimagioreilbisogno
+R19 p1 l19 | ci erai diaiformai poiloro i lai uoleuan
+R19 p1 l20 | o[113] mi issoseleiseiore haueuai desideri
+R19 p1 l21 | toisolo li publicationemai incolirieri
+R19 p1 l22 | esecutione desideiliomacrissuasai ci
+R19 p1 l23 | foseromotieoes iportarianonotabilisimo
+R19 p1 l24 | regiuditi lai suii iutoritai etestuiune
+R19 p2 l01 | oueroifabatespiciolofosemeritauai
+R19 p2 l02 | laudeeerai ob ligatodi fareogni cosai s
+R19 p2 l03 | seruarelesuegiurisditionimotopiu
+R19 p2 l04 | elodoueuaifareifeoande tuoluitehauen
+R19 p2 l05 | dopiaciuto ilsigediodimeterloin [165]s
+R19 p2 l06 | tato meritariai eoinbiasimostuilsis
+R19 p2 l07 | teneuarelaiutoritai eepiriuilegismo
+R19 p2 l08 | ti centenari dani haueui goduti[166] coro
+R19 p2 l09 | naiidisti ai [113] moteotelehaueuedutto
+R19 p2 l10 | iopensauo certonelcileiaciunostu
+R19 p2 l11 | ilieunai cosai ltaportaseregiuditietn
+R19 p2 l12 | ilaiutoritai suii ieuedeuo iecosi li
+R19 p2 l13 | ioortaesipretitoi monaci foseropiir
+R19 p2 l14 | osio giudicati dai suoi e  abateeiu
+R19 p2 l15 | oltogniagionedali parlamentiisono
+R19 p2 l16 | lorogiudici coioetenti enaincoiuedeuo
+R19 p2 l17 | iuerestupotestehauere[113] lai nominati
+R19 p2 l18 | one ii eiuerti beneficifose piirosocesi
+R19 p2 l19 | ai certiparlamenti ei [165] ai diagioneu
+R19 p2 l20 |  aissetai poitantosonoci gliiuniegliitr
+R19 p2 l21 | iecosibene[113]prouedeiiisuoiuescouat
+R19 p2 l22 | o abadieofaceuai di siglieri di sti pa
+R19 p2 l23 | rlamenti etilai pregauioaifarsi dare in
+R19 p3 l01 | not ai ei ponti loro dicono pregiudicareili
+R19 p3 l02 | suii iutoritai e multi facestu iuedere
+R19 p3 l03 | ini isicurauo i ti poterlai chiarireerai
+R19 p3 l04 | maleinfor matai esepure ci unoes onal
+R19 p3 l05 | coes siimetestu i lai benignitai di[111]
+R19 p3 l06 | teneuo s certonele cosehonesitsuri
+R19 p3 l07 | ai dalai [111] i ceu tai ogni sortedi sodieia
+R19 p3 l08 | tioneetiaerai bentosigliare[166]punto iel
+R19 p3 l09 | deleparlamentesono iuiueresiti meten
+R19 p3 l10 | doleto ettuto il giornoiuadinoail loro
+R19 p3 l11 | tribunale li canonici ai litigarei loro
+R19 p3 l12 | etoli monacilialoro ib itie di [166] caua
+R19 p3 l13 | no illoroprofitoemidise[113]inefuteoleai
+R19 p3 l14 | isapeuaioelifosero[166]punti esteefari
+R19 p3 l15 | ai dareuolendoinogni modoesernebene
+R19 p3 l16 | informatai iilasai di replicartu
+R19 p3 l17 | facendoelpiiriuotoeunuiciiteoficioetio
+R19 p3 l18 | sapeuos farlaipresoisoluere eiiuolere
+R19 p3 l19 | tinouare piiu longamenel mal cetoesit
+R19 p3 l20 | r ai posai intutai lai chrisianitai oli
+R19 p3 l21 | dilation eai publicarestociliomi
+R19 p3 l22 | dise[166]eriiseiorestato ilsuo desiderio
+R19 p3 l23 | mai eladoueuai lasare di eseruarelisuoi
+R19 p4 l01 | riuilegi eledisiueeranopriuilegi si
+R19 p4 l02 | sognauai dai pontenuici lesianostaeti p
+R19 p4 l03 | cesi eelaselidomenopontenuictu[111] di[165] l
+R19 p4 l04 | sifosero i su oi inuecesori eotreuiee [165] s
+R19 p4 l05 | ilseruitiodi diohaueuanogiudicito
+R19 p4 l06 | ai proposito di i euederelonalepriuie
+R19 p4 l07 | egio s ailhorai ecosiilpresente s it
+R19 p4 l08 | medesmoissetoiuocarlesiconc elai oc
+R19 p4 l09 | sendotantoe di c esonostati isuoipa
+R19 p4 l10 | sati sienseruitiodelsuo regno poteua
+R19 p4 l11 | iutareoiuocareifai legeetdai [165] iipni
+R19 p4 l12 | unosestatai unatai ecti miissoes[113]ilcuni
+R19 p4 l13 | cosaiiilasarodi tinouarleimed
+R19 p4 l14 | esminuitti e  [113] ttuti gli itri maii [165]
+R19 p4 l15 | ti regotos [165] uadosubodorando sara
+R19 p4 l16 | [166]punto imeso ai liseni b leai dueistati
+R19 p4 l17 | generali douesicorerai eoinsicolodi
+R19 p4 l18 | emagiorenaditionepoieenasituti i i
+R19 p4 l19 | etiinferiori s eniuerestudeicapitolit
+R19 p4 l20 | teiuoglionoeserentoposi aaire faranoo
+R19 p4 l21 | gniosai teeil cilioisiiepublicato ii
+R19 p4 l22 | mancaro di fare tuto [165] esari in ine [165] i
+R19 p4 l23 | agiorediligeniimisiri posibilees
+R19 p5 l01 | dai [167] mibri di toeleiuertimentoi man
+R19 p5 l02 | carodirsiidirlietglientesaroinfi
+R19 p5 l03 | nitoobligodoporitai tusendomiinou
+R19 p5 l04 | atoilsigrdiuandomoemidimando sui
+R19 p5 l05 | sigeilmaieshaueuehauetenefacoltai
+R19 p5 l06 | delai legationeedicendoledisiamid
+R19 p5 l07 | istetbisognauai fareliuerificaredal
+R19 p5 l08 | parlamentoioleuissoes[166]imipareui
+R19 p5 l09 | necesarioneuenienteilparlamento
+R19 p5 l10 | iahaueui dai metere manonelteoatiedi [111]
+R19 p5 l11 | inireplico[166]erai cosuilinueterato
+R19 p5 l12 | in[166] regno toe tcosi haueuanofato tuti gli
+R19 p5 l13 | itrilegati sonouenuti in c esariaic
+R19 p5 l14 | osai iioosibileiluole fare hori in na
+R19 p5 l15 | rioe[166]i erai diminutionedeliutoried
+R19 p5 l16 | ai [111] mai piiu toso firmatione senii
+R19 p5 l17 | l aiprobationedel parlamentiisarei
+R19 p5 l18 | ubiditodai ilcunoetbisognarii dioeinor
+R19 p5 l19 | io tendere doue eeoilparlamentohaiue
+R19 p5 l20 | rificateleafacotai se ilcunouolec
+R19 p5 l21 | alcinare ilmedesmoparlamentoluni
+R19 p5 l22 | obedire [167]nedesmoini tu stato deto init
+R19 p5 l23 | odai itremai otutocio ii faroitros
+R19 p6 l01 | ino ai tanto ihabii issosiai di[165]hrti
+R19 p6 l02 | to ai [167] in [166]propositoil medesimount
+R19 p6 l03 | parlomoto ai longoorai laisolutione
+R19 p6 l04 | desuoifratentislaolteinuiii i posaa
+R19 p6 l05 | il latoredele presenti ai [111]sebenessai
+R19 p6 l06 | et an corimai del suoiriuo ai romaehau
+R19 p6 l07 | rai li [111] s linsanaai leuaristataiuna
+R19 p6 l08 | tai dalau di[113] mani tatooiordine s liso
+R19 p6 l09 | lutionemonandodimarauigliarsi
+R19 p6 l10 | inentemiefacoiiii ihabi aiutoritai
+R19 p6 l11 | di poterlofareioiho died esariai
+R19 p6 l12 | bene etlhauesti pureimiimetoilpr
+R19 p6 l13 | udentisimogiudiciodi [111] [166] r pnsie
+R19 p6 l14 | meli suoi frateli iunitiiliomo
+R19 p6 l15 | ntpensieroepareuadino adunandodi
+R19 p6 l16 | tuttelpartidelregnoi fautori edinie
+R19 p6 l17 | ndenti loro sfarli iuenireai istatit
+R19 p6 l18 | osi diceuiehauranosecopiiuileereg
+R19 p6 l19 | entilomini tehauendosi dai tratare
+R19 p6 l20 | delai sucesioneilai coronai uogliono
+R19 p6 l21 | isicurarsi etialisifato ailcuno
+R19 p6 l22 | regiuditio egiai sidiceilmaru
+R19 p6 l23 | ialedeuinonefai rofestionedidiee
+R19 p7 l01 | ndere dai [166] partehabi iteto [166]signo
+R19 p7 l02 | riasaranoiii stati cosiforti eoo
+R19 p7 l03 | uoleserodechiarare ai lcuni cosai
+R19 p7 l04 | no di loroesi farianolairiniag
+R19 p7 l05 | ionedai loro medesmiaditriparteu il
+R19 p7 l06 | io guisaeuedendo le prouisioni 
+R19 p7 l07 | [166]fanosairitoiluiai uuti i suoi s
+R19 p7 l08 | itsere mancofortediloraondesit
+R19 p7 l09 | emeiuengai ai sucedereonalescand
+R19 p7 l10 | aleincambiodi prouedere ai ia
+R19 p7 l11 | bisogni delregno isirengi aii tunai
+R19 p7 l12 | sanguino seai bata glii iuii in s [166]io
+R19 p7 l13 | i manco di fareognibuono oficio
+R19 p7 l14 | dai tute lepiirti toleloro maiesai h
+R19 p7 l15 | o procuratosidebaifareif ordine
+R19 p7 l16 | tutiluiuoranouenireaii statiipo
+R19 p7 l17 | sinodureesiloiro magiorecoioagn
+R19 p7 l18 | iai di [165] esonosoliti di hauenneooueng
+R19 p7 l19 | ono in corteepensocosisaraordina
+R19 p7 l20 | tohauendoloeneloromaiesietrouatobo
+R19 p7 l21 | noesirai maorocurandodi meteressiui
+R19 p7 l22 | [166]disegoinitodiparentarli insiemee
+R19 p7 l23 | tsarii dare s moglieiltedesuison
+R19 p8 l01 | eelai figliuolai dentiodiguisaiu
+R19 p8 l02 | i [165] esifarai [167] ntuarii iuisatai ea
+R19 p8 l03 | etsoiio[111] ii esoto rti
+
+## R20
+R20 p1 l01 | i esortauo suai sigeilmieformandosio lam
+R20 p1 l02 | ecesitai dei teioi presenti ieuolere farim
+R20 p1 l03 | ore di[166] fato sirendeui lei piiuodiosai ili
+R20 p1 l04 | princieale citai del regno e procuraui di
+R20 p1 l05 | metere di nuouoileu inedisunioneei
+R20 p1 l06 | popoli facilmetornariano iii soliti tuo
+R20 p1 l07 | inutiseniaiethauesero modo diiouedirli
+R20 p1 l08 | monoilsigrglifosemotodurodouers
+R20 p1 l09 | oportare [166] ifnnouesebene diceui di sti
+R20 p1 l10 | mare isaiilmiosiglio tutauiai dist
+R20 p1 l11 | imareisaiilmio siglio tutau iii iparueu
+R20 p1 l12 | ai i ne si onietase ai fato eondes ilasare
+R20 p1 l13 | corereoleetitroinconueniente midii ilaiu
+R20 p1 l14 | dientii deleloro maiesai e[113]midolsii
+R20 p1 l15 | saiinuecesiissetauai di[111]eoatii sienottu
+R20 p1 l16 | i tiasuisoneehauestuleiocestu [165] ii mi
+R20 p1 l17 | issostuiene irendeui leiaihauesero
+R20 p1 l18 | aiseruire stuidopo etaienoternoesedati li
+R20 p1 l19 | ai solutione laonael pensauai dai [111]i leu
+R20 p1 l20 | ariai negatai e dapoi esai [166] erano neces
+R20 p1 l21 | ariesliberaetuso contee dale pene tei o
+R20 p1 l22 | rali neleonali erai incorso s iuigore dei
+R20 p1 l23 | suoireditiaetbene ene doleui isai[165] eter
+R20 p2 l01 | ai suceso ein parise te in cosaisimile iist
+R20 p2 l02 | eneui eaipopolii l ponersiilai suai uol
+R20 p2 l03 | ontai etpero erai enecesario iiimediaru
+R20 p2 l04 | e [166]ipisaesineseioioio disii[113]esr si
+R20 p2 l05 | unoes tardato ai presentarele sueuia dopo
+R20 p2 l06 | il conteehaueste otenutai lisolutio
+R20 p2 l07 | neda isarii suiceso t tinoueniente eele
+R20 p2 l08 | migliore imediosipoteui inouareerat
+R20 p2 l09 | fareitro sino ai dueishabisori ilfa
+R20 p2 l10 | todi esocontreissosidi romaetmonando
+R20 p2 l11 | [113]lofariai uolouiueri ooiuemesedi fare
+R20 p2 l12 | dissiacere ailsigr di uandomoitedi
+R20 p2 l13 | sienoregauo disauere piiu curi ilsuo
+R20 p2 l14 | particolare seruitioai coioiacereitr
+R20 p2 l15 | i midise[113] etcosi erai benemaietmipre
+R20 p2 l16 | gauai di uolerl imedesmoparlareil
+R20 p2 l17 | sodeto sigriodisi etlhaueuefatomai r
+R20 p2 l18 | doueui incoiotu nele cose delhonorede
+R20 p2 l19 | lai chiesai toin suo seruitio iuolere dip
+R20 p2 l20 | endere dalai uoloui editri mai gouernar
+R20 p2 l21 | si solame li agiont ini issoes [113] erai
+R20 p2 l22 | cosiil douere ene parlarii li egi
+R20 p2 l23 | nai sui madreet publicamsidiceui
+R20 p3 l02 | loeiami[111]moe doi nipicai pasati incoioagnii diiung
+R20 p3 l03 | euilhomodimonsitiaguisaemanditio daiseuerent
+R20 p3 l04 | aainouarmiif eeuiuinoedelai citaideparigi
+R20 p3 l05 | e dopo iilcuni ficidicoiolimento fatimeces no
+R20 p3 l06 | me delai citaiemi diseilpreuosode i nuercaui
+R20 p3 l07 | egli aitrisono ailgouerno haueuano stimato
+R20 p3 l08 | necesarioiunosi informato di [165] ligiorn
+R20 p3 l09 | iinant erai sucesto in parigieifinei pot
+R20 p3 l10 | esti tenirelai loro protetione [113] edise hauel
+R20 p3 l11 | doloro saputoe[113] haueuaocesoailotede sui
+R20 p3 l12 | soneiapatenti leolei lscaricaui diogni co
+R20 p3 l13 | lpai inunoesincorsosesere statoiui eli
+R20 p3 l14 | iio e [166]ia eranoresentate ai lparlamentoe 
+R20 p3 l15 | hauestu dii irouarel iuerificarel eoi dico
+R20 p3 l16 | no e moiiipiieinsuomini di seai citai eranoai
+R20 p3 l17 | ni tatiai l sodeto parlamento sinonuersi ai [166]
+R20 p3 l18 | uerificatione e haueano presentati iuni ich
+R20 p3 l19 | iesai del tenore [167]redri daliecopii tra
+R20 p3 l20 | dotai et i ene mani tadi oiilsigrdiuan
+R20 p3 l21 | domoe tlai princieeseai dicondeehaueuan
+R20 p3 l22 | ofato ele loro maiesai costi eoin uinonnee
+R20 p3 l23 | tuoleuano ssuomini morti tutili citadi
+R20 p3 l24 | ni deparigiepero miregaui i uolesi
+R20 p4 l01 | i tifendereni torotegerelai causai loro poi
+R20 p4 l02 | s itroisitrano mosi s e iliuento i telai relig
+R20 p4 l03 | ioneiit temendoestu [166] diuaricai delte des
+R20 p4 l04 | uisonepasasseniai naditione etposoiii
+R20 p4 l05 | iungiorno [113]fare il medesmos ilenauarouo
+R20 p4 l06 | metere loro in sicolodi cadere soto il do
+R20 p4 l07 | minio tiranco deli iiimote itresidera
+R20 p4 l08 | tioniin [166] propositoioi mancai di isso
+R20 p4 l09 | ni terle  siueniuii isicurandolirimai
+R20 p4 l10 | i teneai miii ifetione ·buoniuolouai uerso
+R20 p4 l11 | [165] chrisianisimi e deuotisimi citaiet lo
+R20 p4 l12 | dandoil ielochano delai seruati one d
+R20 p4 l13 | eli religioneinesortandoli so ilseru
+R20 p4 l14 | arelai ss esitrai nouameclusai ettutid
+R20 p4 l15 | ebano sotoriuersiiliunione e hauendosi
+R20 p4 l16 | ilsodoeto ete di suisoinesotorieotgiu
+R20 p4 l17 | rato egliitri difarelai su iliiiisendo
+R20 p4 l18 | seiorestatoinhauendo i nc uiiiiname inu
+R20 p4 l19 | iatoiunegenti lsuomo ai  s hauere i ti 
+R20 p4 l20 | l aisolutione delsuotrore miparei f
+R20 p4 l21 | oes eoin guadagno hauereno itirato  noit
+R20 p4 l22 | o separato dali in tet uogliai hori esereno
+R20 p4 l23 | i ti [165] uadiai fare loro lai su ilgentiloino
+R20 p5 l01 | dimons de guisaecoiorobo  ·  io diceuo mai o
+R20 p5 l02 | tutocio diesisapeuai sicurtai si pote
+R20 p5 l03 | ste hauere  tutauiai insoinsicamiensodeto
+R20 p5 l04 | oteu i fauoriutilenauaroa i etiodisti  eoin
+R20 p5 l05 | sicurtai sariai [165] selui medenio indari ai
+R20 p5 l06 | fargli li suin [166]meucio stauoagionando
+R20 p5 l07 |  [166] sorauentilsigr diuandomoeiloletu
+R20 p5 l08 | mi dimando se haueue hauto ilcuni issosaa
+R20 p5 l09 | iuorno ailisolutione dei suoi frateli mon
+R20 p5 l10 | ando gli remese ai tari taniiii douendo
+R20 p5 l11 | sii tareerincieioce statiaiodisietiporta
+R20 p5 l12 | uai il teioo fose potutai ueniretusai isso
+R20 p5 l13 | sai et primai iolhauesiimancarei
+R20 p5 l14 | di farlo ireni tere aiesseilmaie maie tbe
+R20 p5 l15 | nemi dissiaceuai mensoesi stauai isseta
+R20 p5 l16 | ndolordine disimi taes cauando ia pat
+R20 p5 l17 | enti denteu  isiai toueuai fare senon dopo
+R20 p5 l18 | otenutai laisolutione dai [111] mi dise il sigr
+R20 p5 l19 | [165] si erai fato itrai s itro  es iuani ar
+R20 p5 l20 | eioodelolee nehano enemo bisognoethauen
+R20 p5 l21 | do suofratelo speditoiungeuilsuomo ia
+R20 p5 l22 |  dali santiti delolee aissetauano benign
+R20 p5 l23 | isi mai issosi emeuiett ueniui haueuano
+R20 p6 l01 | rocritt [166] ia  unoseroronet subito suo iua
+R20 p6 l02 | telo si unoes iciliatoi santi chiesi e de
+R20 p6 l03 | liele uoleuai seuere obedientisi mo e deuoti
+R20 p6 l04 | simo figli olo seruitoreelui ei pensaui
+R20 p6 l05 | gi ai e t si douesero scu iailhorai presenta
+R20 p6 l06 | re ai lparla mentotitiosi erai fato seniai
+R20 p6 l07 | suo senso io uedeuodpei nsehaueu
+R20 p6 l08 | itutto  i erai bene etileconte euenistein co
+R20 p6 l09 | rterimi sihauestissosiai di [111] eteglia
+R20 p6 l10 | ilh aueui lasato ueniretutoili ma n ca
+R20 p6 l11 | sero moti eno sesuai teuano ai l onarie
+R20 p6 l12 | ratandosi oniuitropoilintoosodel suo
+R20 p6 l13 | iuerestu l tratenerii oi t iniiu pon ad
+R20 p6 l14 | o parlando del opositionie e rai stataiun
+R20 p6 l15 | atai clia di [113] di ei delai citai  erano ind
+R20 p6 l16 | ati innumero disemiliai ilparlamen
+R20 p6 l17 | toeparlo  moti pasione dicendo [166]
+R20 p6 l18 | lnaistato iun eoande airdire eintaciui
+R20 p6 l19 | tropo lii dignitai del e et meteuaili
+R20 p6 l20 | [113] in necesitai diisentirsene  itre pa
+R20 p6 l21 | role simili eio gli i tisi lai colpi erai lai
+R20 p6 l22 | loro doueuano rimai issetareil giui tit
+R20 p6 l23 | io di [111]  haurii fermatai lai siocai duei
+R20 p7 l01 | slai corte il conttadi sui sonee sari
+R20 p7 l02 | ai uenuto ai benese[166] giorni feci liel
+R20 p7 l03 | oro maiesai gagli ardofuicio eleno
+R20 p7 l04 | s metesero staprimi i ueniui l aisolu
+R20 p7 l05 | tione dai romai iomi promisero di f
+R20 p7 l06 | are e st ioiie
+
+## R21
+R21 p1 l01 | itoiiiiusioo[111]elai isolutione resai dal[113]di leua
+R21 p1 l02 | rein iunmedesmoteio tutiisuoi aedistatoil
+R21 p1 l03 | eoin cancelieroet mons debeneeuireeai lcun
+R21 p1 l04 | iiipni ifuicicialihai mesolai corte tutii ilo
+R21 p1 l05 | insosseteodiuorsie ihauendo [113]ilegatai
+R21 p1 l06 | ilcunai causai lhabi inosai icosisuisit
+R21 p1 l07 | aimutatione fai nsnunoagioni sedeil
+R21 p1 l08 | suoropriosensioe po sono [165]lodino[166]fa
+R21 p1 l09 | todeloleemons deguisasi monai poch
+R21 p1 l10 | odieiato parendole il ihauere[113] comon
+R21 p1 l11 | icatai secoilcunai cosai in[166]proposito
+R21 p1 l12 | siai chiarosegno disauere inlui pocaio
+R21 p1 l13 | fidaniaieil medesimosucedei teli tolie
+R21 p1 l14 | ledicono ihai meno iuolutosigliarsi
+R21 p1 l15 | in[166]caso [113]tlei monii ilmeno iniparen
+R21 p1 l16 | iai di isentirsiaisai lai magiorepa
+R21 p1 l17 | rte di [166]eranostati nel teioo delai minor
+R21 p1 l18 | itai dei tusuoifigliuoli innoitotit
+R21 p1 l19 | iaieleinutiloro carieasi tutociiomir
+R21 p1 l20 | ient iifirmatoenel partirediasciar
+R21 p1 l21 | tresecomonico ileuai [113] [166]suopens
+R21 p1 l22 | ieroc hesi torigine nelainimosuosin
+R21 p1 l23 | ooirsi di parigies lai iuotai di[166]c
+R21 p2 l01 | itai paren dole ailsori ithauerescosto in[166]
+R21 p2 l02 | pocai seiietuti ai sidirenei tetaietutoiil
+R21 p2 l03 | resodelai corte mosoai inco dissi acertu
+R21 p2 l04 | tomotisono euiati intimore isucedi ailo
+R21 p2 l05 | roel medesmotusuicesoai [166]tl iter
+R21 p2 l06 | ationeturai sucesai ilgiornomedesino
+R21 p2 l07 | iindii iliudientiai di[113]resi ocas
+R21 p2 l08 | ione di dimandalleseu erai uero[165] ioha
+R21 p2 l09 | ueuo irestodi [166]mutatione eini isso
+R21 p2 l10 | steterai uerisimoeile disi sebenetu
+R21 p2 l11 | ttene cose faceuai [113]doueuanoeserem
+R21 p2 l12 | otai rudeniai sigliaet ematuri deli
+R21 p2 l13 | beratione terminattelis laifetione po
+R21 p2 l14 | rtauo ilsui seruitioe ilbene iuniuersa
+R21 p2 l15 | ledi tuto [166]regnouoleui tirel [166]iso
+R21 p2 l16 | lutioneerai ileoindisimai iioortaniaiuui
+R21 p2 l17 | uandosi[113]in iunisesteioo di tuci [165]
+R21 p2 l18 | ireni tonoil iuero stato dele cosesueu sinn
+R21 p2 l19 | odureailgouerno suomininuouittooincouno
+R21 p2 l20 | sero dei migliori delmondosauranoii
+R21 p2 l21 | aicososuo dai iioarareil mododi benser
+R21 p2 l22 | uirenai e dificoiiii in moto teioino
+R21 p2 l23 | nano suenireai [165]sfetione [166]itrisil
+R21 p3 l01 | rorio iualorteseni to suominiti eeleuisim
+R21 p3 l02 | ounai longai essiueniai haueuanogiai
+R21 p3 l03 | ionis atii tini pareuai hauendo [166]pe
+R21 p3 l04 | ieri cognicione dognisu oseiieto pens
+R21 p3 l05 | iero esapendo douesisai ogni debole
+R21 p3 l06 | iai di[166]regno poniano farleeoan danoe
+R21 p3 l07 | dominati dalsdegno silauiasero sesu
+R21 p3 l08 | adere dai cosarsii liinimicidi[113]so
+R21 p3 l09 | giongendo diuerseu itreagioni etilhor
+R21 p3 l10 | aimireneroin menteet sarii tropo long
+R21 p3 l11 | oiferirle tuteiniissoes[113]  leii ipen
+R21 p3 l12 | sauai [166]foserodi tantomalai ditione
+R21 p3 l13 | siiuotasero naidileiet tuti erano
+R21 p3 l14 | ichitoethauriano carodigodere paci
+R21 p3 l15 | ficameimotibeni nel suoseruitio
+R21 p3 l16 | hanoaionisati lei iuoleui iioararedi
+R21 p3 l17 | [111]esi faceuai usiidiree temeredi ognuno
+R21 p3 l18 | edisepureil sori legeui unai ii dels
+R21 p3 l19 | uoau residentereso [111] laolte diordine
+R21 p3 l20 | di[111]lsii iueuai leai oi doueste farsi
+R21 p3 l21 | ubidire e temere dai suoi mini soie da
+R21 p3 l22 | suoisuditi enei haueuai hormaieueai
+R21 p3 l23 | ni touoleuai dii oi inimii iten dere ind
+R21 p4 l01 | ulrseameilgouerno delsuo regnoe uede
+R21 p4 l02 | else gouernani tosiai modo suo potest
+R21 p4 l03 | iduire lecosein migliore termine di[165]
+R21 p4 l04 | haueuai fato ilsigliodi [166]ielid
+R21 p4 l05 | steeoseii itnihauestusori leuatihan
+R21 p4 l06 | iaistatofacil cosai elai medesmaoeo
+R21 p4 l07 | egatione dei stati hauese dimandato
+R21 p4 l08 | unosero imosi dal siglio eranosta
+R21 p4 l09 | tiinnomentidi metere inant inoiii
+R21 p4 l10 | artiti ethanocausatoeoan danonelregno
+R21 p4 l11 | emalisimai ndieiationenei popolia
+R21 p4 l12 | olodai[113] etuolesteseruirsii tutisuuion
+R21 p4 l13 | e paterni sigli di [111] isicurandoli ese
+R21 p4 l14 | cosifacestu meteriai lecosesueuino
+R21 p4 l15 | tatomigliore di [165] esonomai i· redeu
+R21 p4 l16 | [111]laaostigliaes inteioodi tauobisogno
+R21 p4 l17 | etu [166] ai riuarsi in iunsol colpodi tut
+R21 p4 l18 | iminisoi sanoisuoiheiieti [166]eri aa
+R21 p4 l19 | ione sicolosai edarii eoin materii di
+R21 p4 l20 | gionareai tuto ilmondo pureiuolendo
+R21 p4 l21 | leai cosirocuraeseilmeno poiet iamona
+R21 p4 l22 | uai hauere ni diloro colpai ilcuni de
+R21 p4 l23 | gnai dicasigodi tratenerli nelai suai
+R21 p5 l01 | diuoti one ipiglinoitro partito efece
+R21 p5 l02 | monsdeferiueroai esendostiintodai lei
+R21 p5 l03 | sifececanceliero delpresente iuimi due
+R21 p5 l04 | tu[113]etdi[166]erai moto dissosiai difiirloe
+R21 p5 l05 | ilfeti teniri lai loro protetionesoai og
+R21 p5 l06 | nunouolestofenderliamai piiudit
+R21 p5 l07 | sii isi uoleuai seruiretusendo isoluti
+R21 p5 l08 | di hauere genti lai seruinoai modosuo
+R21 p5 l09 | eie[166]lai seruiuanoai modo lorodopo
+R21 p5 l10 | [166]agionamentoerao[113]ai dirinimiinto
+R21 p5 l11 | atiaui dei buoniofici ihaueue fato
+R21 p5 l12 | mons deepernone etl abatedaleben
+R21 p5 l13 | ees tratenirlonelai suii diuotiono mi
+R21 p5 l14 | dise haueuai dinuouoiessedito ilsu
+R21 p5 l15 | omedicoilsodetoe tgnonees uederedi
+R21 p5 l16 | idurloai resituireb olognaetmetius
+R21 p5 l17 | si sariai poi tentatai dilasarener
+R21 p5 l18 | uitoil reso deligouerni tienemi
+R21 p5 l19 | s[165]iodai itri parteinrendo parmi
+R21 p5 l20 | egli simoniisolutisimo diienouo
+R21 p5 l21 | lefaresi teine aisai etisiicosiai
+R21 p5 l22 | montmoransi toil nauaroetuto[113]
+R21 p5 l23 | itnoiiedai pensando egli sisdere
+R21 p6 l01 | sremiliiseudiasi inouai hauersora
+R21 p6 l02 | il partito delsale isiais aibandonare
+R21 p6 l03 | il suo partitoi imanco difaret inoso
+R21 p6 l04 | cosiil sodetoepernoneeil tro
+R21 p6 l05 | iliogui saes uedere esiserui [166]huo
+R21 p6 l06 | modalii parte diiistimando cio
+R21 p6 l07 | siiditoandisimai iioortaniai selmoiie
+R21 p6 l08 | forcesonoinsuai maneoeglisiensnesto
+R21 p6 l09 | sueu iamene dai fermi irrentione mona
+R21 p6 l10 | ndotoandisimo desiderio[111] esibene
+R21 p6 l11 | giusificato delesueitionesiloentiss
+R21 p6 l12 | eto dice tutauiai diuolereinuiarta
+R21 p6 l13 | iunsuonioai [111]esiiss ieami
+
+## R22
+R22 p1 l02 | [166]isoreilfogliodiao uenutonelui adi[167]de
+R22 p1 l03 | delnasit iricorediretienti publicat
+R22 p1 l04 | ione del tieilioditrentii homai tralau
+R22 p1 l05 | iatodifare ogninuici cisimoo·icio
+R22 p1 l06 | siiliberamet seniai ilcuni ditone pub
+R22 p1 l07 | licatoioinco diuersemituianeho dato
+R22 p1 l08 | contoai [167]tgiii ho hautoromeseai dadu
+R22 p1 l09 | ti treli stati sebene separattineluno
+R22 p1 l10 | dalitro tuti insieme lodimandarano
+R22 p1 l11 | neiloro capito ai[113]ielasarodioein
+R22 p1 l12 | ouiireseruendomi di [165] ssuasionieso
+R22 p1 l13 | notutesetu telaideti aotai presentare
+R22 p1 l14 | enefitioti delii luugitioneileparlam
+R22 p1 l15 | uuntoeristigiai i[167]miediai ei tenepasat
+R22 p1 l16 | odi hauerlepresentaet arcosisigl
+R22 p1 l17 | iatodi ssone motorinciealitodeuotis
+R22 p1 l18 | iindi[111] edicotes isani sede[113] tutauiiele
+R22 p1 l19 | tientiresodi stuihauito hautoteioo dir
+R22 p1 l20 | ederel esiderarelioi mancarodi tfare
+R22 p1 l21 | tficeomai mi comettumiae dai saste
+R22 p1 l22 | stenuunacoiiii ihonorerificatedal parl
+R22 p1 l23 | amen toe tutigliatiiofacesi sari
+R22 p2 l01 | anosenii ainimai tusendoil parlame[165]
+R22 p2 l02 | hai dai farlieseonireeubidiree ininos
+R22 p2 l03 | ucede dituti li editoori tinunaa
+R22 p2 l04 | rmedesmoestusono uerificatidil
+R22 p2 l05 | farlament iaiuengono uiiditi port
+R22 p2 l06 | andocosi lai formai delgouernodi
+R22 p2 l07 | [166]regnoet ilaisolucione dei principi
+R22 p2 l08 | diuandomoehauendo ueduto [165]et[167] mirt
+R22 p2 l09 | iuefuori diipiiuue debai ino
+R22 p2 l10 | gnimodissetcitroordine rimiu
+R22 p2 l11 | enire idesai isolutoneesideratop
+R22 p2 l12 | oi [165] esi ti ene ilsai iii hosapu
+R22 p2 l13 | topigliare partito sebene midice
+R22 p2 l14 | di mandarmi lai unacoti toil modod
+R22 p2 l15 | isoluerlitoisedo mi fareri
+R22 p2 l16 | benelai eseoniui oli itardi egiud
+R22 p2 l17 | icaroeserebene delregnotutopensa
+R22 p2 l18 | sidi potereda sori inuigoredi [166]ordi
+R22 p2 l19 | nielaisolutionei soso iiueduto potuti
+R22 p2 l20 | terareil modolai inimandiedeloele
+R22 p2 l21 | isiuolendoai modoilcunotentare il
+R22 p2 l22 | tedesui soneedicendottisiadeue iieus
+R22 p3 l01 | aredipecatoel hai pure pensatoic
+R22 p3 l02 | omes so isoluto didiferirsebene
+R22 p3 l03 | ioandisimo isentimento cosi dele
+R22 p3 l04 | contesodetoedi tutiaisuoitodel
+R22 p3 l05 | tumedesmomai miandoiopiirosodir
+R22 p3 l06 | siidirerecisemeiliordinidi [111]
+R22 p3 l07 | tiihodieiare aid itrisoiiuedutoipot
+R22 p3 l08 | ere pasarepiiu otrelai loroonerelaa
+R22 p3 l09 | eetehauendole iofato irenderedh
+R22 p3 l10 | e[167]mirtisenesuedeiiedigosoeio
+R22 p3 l11 | miediaiedelmasatoiuisii [167]taih
+R22 p3 l12 | auerecomonicic[166]atoleloro maiesid
+R22 p3 l13 | oliiluni simi deborboneetdiu
+R22 p3 l14 | andomosorii diethaueuano tratato
+R22 p3 l15 | inecodelai formai delisolutione
+R22 p3 l16 | efatodesuendere ilsodeto colte
+R22 p3 l17 | aitentarsi dei biurarlelai form
+R22 p3 l18 | aiuedrai [167]slai copiiii lemando
+R22 p3 l19 | nenienteelaratoli ueriti delfatote
+R22 p3 l20 | posi lai nsaniai di[165]ai mteparso
+R22 p3 l21 | piiu iioortasteneuando [165]parole
+R22 p4 l01 | ofendeuano[166] signoritoilgiornomed
+R22 p4 l02 | esmoini capitorono eliadi[167]io dou
+R22 p4 l03 | euodarglilai solutioneeusendosiora
+R22 p4 l04 | inato giungendouienconteeinsieuesee
+R22 p4 l05 | uimataindiiesitro ueiuen iseaismontare
+R22 p4 l06 | ilai casai deli inii habitatione doue
+R22 p4 l07 | ene debiteiinnosianiesihariifatolir
+R22 p4 l08 | iciosoesendosi partitodicasai sua
+R22 p4 l09 | edotai duelegheuicino aioise par
+R22 p4 l10 | euai diiceuere eoandeai iuonestuit
+R22 p4 l11 | aisolueuoioinisonoiususitio dirto
+R22 p4 l12 | niipoterefare daiuanlagiodi [165]mii
+R22 p4 l13 | ienecoma·dato [111]miai ilsigeconte
+R22 p4 l14 | disuisoneetgli dari inogni modo
+R22 p4 l15 | lai ndeti isolutionemi hauendo
+R22 p4 l16 | suaieecele mandatouungeuienomoi[111]s
+R22 p4 l17 | [166]efuteoel ui mandarai [165]ordineene
+R22 p4 l18 | farerai ipromositoiliresodaisis
+R22 p4 l19 | udi borboneo diauandomoeuenero
+R22 p4 l20 | subitoai inouarmifacendoini eoinde
+R22 p4 l21 | insaniai aiuolerli coioiaceredelis
+R22 p4 l22 | olutioneuoio dapoi hauereuedutoeis
+R22 p5 l01 | tentiauanodelai formi mandati di [167]i
+R22 p5 l02 | ssostiileloro sigienuniseinformitai
+R22 p5 l03 | di[165]brieuodeto rimi ondesiisolsero
+R22 p5 l04 | diindareai inou artientaienolteh
+R22 p5 l05 | anofato gagliardisimo oficiote[113] spe
+R22 p5 l06 | diusiiun iiin ditigeniiai romaes[166]i
+R22 p5 l07 | ssetoehori mirengonoai direetilii par
+R22 p5 l08 | tirifrai duehoreso ioriuo lairesente
+R22 p5 l09 | inmotai frutaieini iuoglio lasadi
+R22 p5 l10 | direl oimonanodisase [166]mutatione
+R22 p5 l11 | rocedi smali ofici esianostatfati
+R22 p5 l12 | [111]idinsanii del sigrit sansedali
+R22 p5 l13 | lunisealesandrinoetsi lamentano
+R22 p5 l14 | diinto iolihabi esortati mimanda
+R22 p5 l15 | reiunsuomotutesoi [111]poi moti reint
+R22 p5 l16 | hauiuuano aiutoriti di isoluerli seni
+R22 p5 l17 | mandareai romaios [165]ounesono
+R22 p5 l18 | informato truouoilconte desuis
+R22 p5 l19 | oneihai piiu ilememi eoofiu dato
+R22 p5 l20 | ilsigr diborbonei haueui miiudies
+R22 p5 l21 | ainitodapoi tutato educato disuisisil
+R22 p5 l22 | unisetuisutoseionlinthorisi moniiei
+R22 p6 l01 | nretionatisei lai religioneidttemo ilm
+R22 p6 l02 | etere dificotinelai solutionei posihe
+R22 p6 l03 | iouare neaili religione iit neailre gno
+R22 p6 l04 | [166]ilsicurouenderi piiudificileienit
+R22 p6 l05 | orno delenauaroail obedienii deli sed
+R22 p6 l06 | eiposolieai toari causai diinouare
+R22 p6 l07 | lodiofrai [166]ri t[165]di guisaepoi tengo
+R22 p6 l08 | noscerto tutoil maleuengi dai loro
+R22 p6 l09 | sebeneail resentes ofici fatiinito
+R22 p6 l10 | diinesi mosoanoinsiemeisiibenediss
+R22 p6 l11 | osiapare incoiltadiciosentise
+R22 p6 l12 | nti moietuoglii diferirsino ailito
+R22 p6 l13 | rnodi[166]ii ildareuincieeili statie
+R22 p6 l14 | mai rine [113]ine hai incori parlatoi
+R22 p6 l15 | hauendo potuto aindareai inouar
+R22 p6 l16 | lai shauerie fatomale ai ifpiede
+R22 p6 l17 | imismetedi potercaminaresso
+R22 p6 l18 | frai unoo due giorni poteriuuire il
+R22 p6 l19 | desiderosomaines certificarie staeuero
+R22 p6 l20 | [165]au dentietfuori diaoriuo esulliuenuto
+R22 p6 l21 | i[166]corterengisussuadere [113]diiunir
+R22 p6 l22 | si ilsuotai difesi deli sfarein
+R22 p7 l01 | talcaso[165] oficioesari ouenientessono
+R22 p7 l02 | redelsigedioeser uitiodi [111]emisonom
+R22 p7 l03 | otomarauigliato monseuicelegat
+R22 p7 l04 | odiosidol gai e[167] mirtiueneli ndet
+R22 p7 l05 | aiiohauendomi lui ritopiirotes
+R22 p7 l06 | costiioortaner ilsuogouerno iieg
+R22 p7 l07 | lihabi issosoiloofoseueroi oanag
+R22 p7 l08 | ione[167] ponii dire[166]ipiaecai [111]maili
+R22 p7 l09 | duutesare sicurieli ho hautodal
+R22 p7 l10 | sodeto mons igetre iasole dilenego
+R22 p7 l11 | tioileolei tuteisolo haissosioia
+R22 p7 l12 | maiinco tuti [165]eneti etposinouenire
+R22 p7 l13 | dai intaebenisimo losai ilefior
+R22 p7 l14 | auantieasuodai moti mesiinoe
+R22 p7 l15 | stunestai in corte tratando negot
+R22 p7 l16 | ideluicelegatoseni iii comonic
+R22 p7 l17 | aremeco senon [165]li torni co·oi doi
+R22 p7 l18 | lmedes moposoi tiremeti mocapodeli
+R22 p7 l19 | sodetai idouemi diceetioe pernoneu
+R22 p7 l20 | oliualetae suoiuatelo sidolgonodi
+R22 p7 l21 | esereibandonati dai cotesi santai
+R22 p7 l22 | sedo[111]si marauiglii is[166]signori
+R22 p8 l01 | ihihai fato luficio ueniente iomiesta
+R22 p8 l02 | toritos iafamigli arisebreui esein
+R22 p8 l03 | nuitioniemi solo[167]nenai terii iisui
+R22 p8 l04 | deli medesimi dati die de pasato
+R22 p8 l05 | fuoridi aopiutiueetloficiofatodama
+R22 p8 l06 | openio guisaessieneficiodiepernon
+R22 p8 l07 | edelfratenele ia rite lorosianopi
+R22 p8 l08 | aciuteai [111]euole sicamini inanai
+R22 p8 l09 | in[166]nego tiosorego[167] diisicurare [111]el
+R22 p8 l10 | ilasaromai diuiidire ognironteii ili
+R22 p8 l11 | ndini di [111] neremoethauri mai ierisi den
+R22 p8 l12 | uinis negligente eusendo tropoeoandglio
+R22 p8 l13 | blighi mieidinuigilareseiore ailsuoser
+R22 p8 l14 | uitio efaroil fauoredelsigde tuto
+R22 p8 l15 | ilteioodeli miaiuitaiesoli sarieetrete
+R22 p8 l16 | etdeioo in teio horito di hauerefatoin
+R22 p8 l17 | [166]roposito ho incoesato daiuantagioisea
+R22 p8 l18 | iseistancare [167] tropo longi utituraso
+R22 p8 l19 | lasatodiriuere mai ilfetopare aime
+R22 p8 l20 | loroi dourianoicusare il partito[113]li
+R22 p8 l21 | ropont eioharitoailioesnonee tuilli
+R22 p8 l22 | sarlu il goueno deneai proueniae[165] denea
+
+## R27
+R27 p1 l01 | arsatoedisieniioet[165]diangoleintitia
+R27 p1 l02 | ntongueetdecognacheunooficiosiuno
+R27 p1 l03 | delaicoronaiposonouiuerleoindig
+R27 p1 l04 | nitataciesiendouaincethabitantigo
+R27 p1 l05 | uernielorotoresitiinlaarmeietbo
+R27 p1 l06 | lognalameliaoclusionedelass[166]
+R27 p1 l07 | signoridiguisaesicosiromesolorodi
+R27 p1 l08 | doiierfaretiisimosoanoisoliitisimi
+R27 p1 l09 | diieoolertesituireilcunciosieini
+R27 p1 l10 | s[165]inihaideto[113]tengonoratimotos
+R27 p1 l11 | ereiteuoiuicasimiroetinonmora
+R27 p1 l12 | nsidimeiifermilaisodetarhauerme
+R27 p1 l13 | certisiilroueondeuinuioscarsenic
+R27 p1 l14 | oinsossetodielorootreesteiuoleste
+R27 p1 l15 | tentaredilasarlitutosimeteriiimali
+R27 p1 l16 | terminio[166]iipniiimancocertonemanc
+R27 p1 l17 | aresthariinmedimetereognibenemisso
+R27 p1 l18 | pocodipoteremetessurnaienioguisato
+R27 p1 l19 | [166]itreilguisaimetetosauereliloro
+R27 p1 l20 | imicitiipoitenesereloinnoimicoestatilai
+R27 p1 l21 | rincipalecausaidifarliguadagnareliife
+R27 p1 l22 | tioinoilseguitodeipopoliessariolh
+R27 p2 l01 | auereuolueeoeltuosenerlofauorire
+R27 p2 l02 | ituestatocausaidelaisuaiouiraietit
+R27 p2 l03 | tutilimalisonoseguitisiteg·iuo
+R27 p2 l04 | iisco[166]
+
+## R28
+R28 p1 l02 | itotessoneueimai io mifacesifale ilpi ede mia
+R28 p1 l03 | inouairni matini aipaesegiarein ifuialedi
+R28 p1 l04 | [166]giardini di[113]esoglio farespesetrotedou
+R28 p1 l05 | etusendohorauenuti tiniposi ipisegia
+R28 p1 l06 | roagionare secomisorauenendo poco
+R28 p1 l07 | dopo[113]ci oioagnatodalisig rdiborbo
+R28 p1 l08 | needi iuantoinoadgondieomoti nobiti
+R28 p1 l09 | imi itirii lihodetisigrlasindott
+R28 p1 l10 | il eparlastolaegini suaimadremaisu
+R28 p1 l11 | bito mi chiamaronotinireseroin mutao
+R28 p1 l12 | iuai loro duiepisegiandodi elmodo
+R28 p1 l13 | incomincioileaiedirmittipiiro
+R28 p1 l14 | teincos nomedi[111]lhaueuo esortato aiued
+R28 p1 l15 | erediitin nareai seil marsci aleedi
+R28 p1 l16 | momoransiet lui incioconorseui lai
+R28 p1 l17 | buonai uolonti di[111]uerso diluiso
+R28 p1 l18 | erai isoluto dimandarel iungeui enom
+R28 p1 l19 | odies sarii ilsigesieronimoagondi
+R28 p1 l20 | sear esentarei [111]tuto[165] llai pensi diu
+R28 p1 l21 | olerfareai beneficiosodiei ationedi
+R28 p1 l22 | stoemoinoransieifine dititirarlodal
+R28 p1 l23 | imicicii del iuieitri sereticitoid
+R28 p1 l24 | urloi ilsuo seruitiotutoouendo [111]
+R28 p2 l01 | iholoagioneuolemai incoiioortanti
+R28 p2 l02 | tuttenesicurtai epensai didareil
+R28 p2 l03 | sodetomo moransen· postileai liuto
+R28 p2 l04 | ritaisuii iuerponersis odureaib
+R28 p2 l05 | uonfine[166]negotiodesiderauanod
+R28 p2 l06 | irendere ilmio piireremai sordui
+R28 p2 l07 | e tsiteniseseii utisimoteoosii
+R28 p2 l08 | sapesteu iemani eitrimoti rocu
+R28 p2 l09 | rarianodisturisare [166]iciliatio
+R28 p2 l10 | neile di sitilai seiietutii iine
+R28 p2 l11 | parlareioilcunomai ldirelopinio
+R28 p2 l12 | nemiai sorai [166]fartieiolare miparei
+R28 p2 l13 | susfluo poietemoteoiie touiueagioni
+R28 p2 l14 | brieuo esortati [113]ifareogniosai siti
+R28 p2 l15 | rare dal maicitii deliiio elsignoreto
+R28 p2 l16 | i teneuescerto  elhai iiinofine
+R28 p2 l17 | ilbeneuniuersale deliechrisianiti
+R28 p2 l18 | toliunionedeinili dinutione delhere
+R28 p2 l19 | sieiinoniai hauerenuouai glifostu
+R28 p2 l20 | piiucari irenderein [166]fato laibuo
+R28 p2 l21 | nai uolonti di[113]tiiiedeuo ilasan
+R28 p2 l22 | iai diuerponeredelaiutoriti suiads
+R28 p2 l23 | idurliai elfineesidesi deri lod
+R28 p3 l01 | ando isailaissoni [113] pensai di man
+R28 p3 l02 | dareai eroniauteuiueramemotodegnai
+R28 p3 l03 | solesiuoglii caricai tinotodiuotii
+R28 p3 l04 | tbenemenitai dicotesi santi sede
+R28 p3 l05 | hauendoin ogniteio seruiti etutoi
+R28 p3 l06 | lcuore tutili legatienunti e itri
+R28 p3 l07 | sonomandat idali sedeposolici
+R28 p3 l08 | i[166]corteedapoieui atiai parlaredim
+R28 p3 l09 | onsediguisaefeci luicacisimo ofi
+R28 p3 l10 | cio ssesuadere [113]dipigliaresecof
+R28 p3 l11 | ideniai eleuargliognicasione diso
+R28 p3 l12 | ssetioneeliaiihabile malinimo
+R28 p3 l13 | uersodiluiteitrameiouedeuo itor
+R28 p3 l14 | nareleuiose inpesimi terminoltosi
+R28 p3 l15 | deraiesemons itiaguisaseniai fare
+R28 p3 l16 | iiiro maleiuni matini sipartiesedi cor
+R28 p3 l17 | etut[165]delai suai unatione emotosarii
+R28 p3 l18 | dinuouointuto[166]regnot enutieisihe
+R28 p3 l19 | marii sicuri inbenesetpartendo
+R28 p3 l20 | isipoteuii isicurare diitirarsiin
+R28 p3 l21 | ilieun luogodouefosticeuti uolouiene
+R28 p3 l22 | itemapo iniiu monsdeguisa [113]mdemi
+R28 p3 l23 | ano piiu lorotesti gli itri esanomo
+R28 p4 l01 | tobenetin teioo disuoosiuiuene hauere
+R28 p4 l02 | iresosoldatitogu ardietantomaltic
+R28 p4 l03 | euonodi gliuniiodi gli itremidise[113]
+R28 p4 l04 | et[165]lediceue erai uerisi moteettilei
+R28 p4 l05 | cercauai di dareognihodieiatione
+R28 p4 l06 | aimonsi leguisaetil isicurarloso
+R28 p4 l07 | nniuiii delai suai buoniuolonti ti
+R28 p4 l08 | sariai farediuantagio etioeneico
+R28 p4 l09 | rdaselecosai lofariii tenont iera
+R28 p4 l10 | le disir ibrieuibi sogno dimioic
+R28 p4 l11 | ordamiettutauii ilasarei didirento
+R28 p4 l12 | sopinione miai iiederei duecosteg
+R28 p4 l13 | iouasero iseais isicurare ilsodeto
+R28 p4 l14 | diguisaedelai buoni uolontai delai
+R28 p4 l15 | [113]li primierai [113]hauesteilfetonel
+R28 p4 l16 | suocuore [166]buoniuolonti elitri pro
+R28 p4 l17 | curasedimonarli incogli enetiet
+R28 p4 l18 | mons deguisa eraicaricodidebiti
+R28 p4 l19 | etutii uii etinouaui ai spenderopiiel
+R28 p4 l20 | hai dennatai e[113]erai liberalisimi
+R28 p4 l21 | gli itri iusaesinco euidi [166]libe
+R28 p4 l22 | ralitai eiomi ssuadeuo li ssar
+R28 p4 l23 | ianobenisi moiioiegatitosiconc end
+R28 p5 l01 | eriano certoilsodeto diguisaedelai
+R28 p5 l02 | buoni uolontai di[113] costi imediando
+R28 p5 l03 | il s·obisognoigli smeterianodi pens
+R28 p5 l04 | areiditrimoi tisuuouedereile suife
+R28 p5 l05 | cesitaieiltu miileoatio motodi[166]
+R28 p5 l06 | icori todnidiselouoleuifare inog
+R28 p5 l07 | nimodoemai gli doleui diihaue
+R28 p5 l08 | reailpresente comoditi di poterlo
+R28 p5 l09 | fartoefueti poiipoteui esere in
+R28 p5 l10 | magiore ssoetutiai di stil[165]ailre
+R28 p5 l11 | sentesiinouai mai eglinuodarid
+R28 p5 l12 | ale intentione estuntuarii potuto
+R28 p5 l13 | isicuraroio doposeireso[113]itn
+R28 p5 l14 | medesmo giornogli mando s inonsedoe
+R28 p5 l15 | aidire gliuoleui isignare sorail
+R28 p5 l16 | triaet del mofuturoiundonatiuiode
+R28 p5 l17 | iremiliiscuditoioi lsaiuoluto
+R28 p5 l18 | iieetaredicendo hori li [113]haueui
+R28 p5 l19 | tropobisogno distetpero siiser
+R28 p5 l20 | uauai diicetare disimili fauiore
+R28 p5 l21 | olecose unoseroinmigliore termin
+R28 p5 l22 | etutocio pareedapoi habieseecu
+R28 p5 l23 | rat ato[113] moto piiuistametmot
+R28 p6 l01 | aisodieiatione dimiscene partimi
+R28 p6 l02 | elinimico delhumani naturiuolee
+R28 p6 l03 | tcosiireso[113] ioiprestoio gisa
+R28 p6 l04 | cisiano sesontiditropeanendono
+R28 p6 l05 | amodrireledifidentiouipa
+R28 p6 l06 | rediuordieii miinco tutepar
+R28 p6 l07 | tidifare tuto[165]iposto sfareit
+R28 p6 l08 | osoriedalai buoni iuriai
+R28 p6 l09 | sipuossare lai oniettu di [166]eonnoto
+R28 p6 l10 | lisirinateone del heresces[166]f
+R28 p6 l11 | ineiiedereifos emotoai roposito
+R28 p6 l12 | [111]si tentastu dinocedereleisolut
+R28 p6 l13 | ioneail conte desuisoneeneli form
+R28 p6 l14 | aiegligii sitatentatodi fartum
+R28 p6 l15 | etendoini soilai singolareru deni
+R28 p6 l16 | ai di[111] t diti hori iniuiene de dal
+R28 p6 l17 | sigr gondelilunis dieuando
+R28 p6 l18 | moelesai detosauere iresoil sigr
+R28 p6 l19 | digio iosaetitedisanseerai stato
+R28 p6 l20 | iutore dei maleficiuniti [111]noilc
+R28 p6 l21 | ontedesuisonesuoiuateleonel ci
+R28 p6 l22 | sonno ilai sedii del[111] haueuano parlato
+R28 p6 l23 | ni lisigu alesandrinoe santiona
+R28 p7 l01 | troemai il medesmo degio iosae
+R28 p7 l02 | lra stato ilestanie di[111]i fareilme
+R28 p7 l03 | desmoeseruiri s iuisai [167]ebt[111]i
+R28 p7 l04 | tosen[166]ni
+
+## R29
+R29 p1 l02 | eesiaatoeaiasieriseri giunseuoi ifatiti
+R29 p1 l03 | itornodi firenieemandato dali [166]s lat
+R29 p1 l04 | ilusionedel manimonio deld[166]pri
+R29 p1 l05 | ncipesai dilorenaeti portai etilsig
+R29 p1 l06 | horatio ruicelaafrai onanogiornih
+R29 p1 l07 | arai os itarecoioimento ai [166]negoti
+R29 p1 l08 | desiderandonenai sposi s tuto il
+R29 p1 l09 | mestudio oueni sire sii nouiaie mar
+R29 p1 l10 | sigliai doue t·edesmi pensi di
+R29 p1 l11 | icoioagnarli e[166]iidiecileserestat
+R29 p1 l12 | oitenutoonatro giorni insauioiia
+R29 p1 l13 | ihauendoelsigiouoluto lasareno
+R29 p1 l14 | pasareiportase nuouai dentiiore
+R29 p1 l15 | seai fati daisuiei iielionale diec tusto
+R29 p1 l16 | aiestuiioadronitai di tutteeniac
+R29 p1 l17 | delmareseato diasi luiioasiloeleas
+R29 p1 l18 | ono imasietuti itonitito ilsigio
+R29 p1 l19 | guisaemisai mandatoai direirede
+R29 p1 l20 | iiiebene [166]icidentesarilaouini
+R29 p1 l21 | deli religioneinint ifine di potere
+R29 p1 l22 | unalasu ilio seuoiaerocurarano
+R29 p1 l23 | di fare lassoi udoliini sipotendo
+R29 p1 l24 | in iun teio medesmo fare huogli ifi
+R29 p2 l01 | el itrosebene miromete lui dit
+R29 p2 l02 | eniresaldo tutilisuoi maicit
+R29 p2 l03 | eisi smetinelregno itri religio
+R29 p2 l04 | neetli iittinant eseguise[166]icide
+R29 p2 l05 | uestaui sicuro etli stati tuti hau
+R29 p2 l06 | riano dimandati li totale dinution
+R29 p2 l07 | eu deli iiiiihori temeui lamec
+R29 p2 l08 | esiti iliduceseai onalitraa
+R29 p2 l09 | isolut one[166]ici denteiioortan
+R29 p2 l10 | tisimo esiaolosiseposoii cau
+R29 p2 l11 | sareeoandisimi inuenienti mi
+R29 p2 l12 | bi fatoigiungereinco [166]cnlongo
+R29 p2 l13 | dissaciofato sieri iesuendooi par
+R29 p2 l14 | titoiidesiderando iopiaciaii
+R29 p2 l15 | [167]darmi ordinedi[165] dourofareoosir
+R29 p2 l16 | enies idimandare [166]hsuniuersale
+R29 p2 l17 | sinisionedi itri religionedeliin
+R29 p2 l18 | sitendere ilai iieusationei tensod
+R29 p2 l19 | etomarsatoesibi eoandeiedad
+R29 p2 l20 | emereet sarii ueramelai tot ale ou
+R29 p2 l21 | inai di[166]regnoedeli religiones
+R29 p2 l22 | imediare iltu male ten etie del[113]
+R29 p2 l23 | todi [166]sigediborboneuslai negitiui
+R29 p3 l01 | delisolu tione del contedesuison
+R29 p3 l02 | eiierendo sii seruitiodi [111] adol
+R29 p3 l03 | cirli s leuareincolocasioni dim
+R29 p3 l04 | agiorei remoriesorocurato ilm
+R29 p3 l05 | utao delsigr gondiedi ssu adere
+R29 p3 l06 | uoglinoi teuentarsi difarelibi
+R29 p3 l07 | urationenelemodoe formi manda
+R29 p3 l08 | tamidi [167]ile causai esitraeui
+R29 p3 l09 | ent il iisuederediaridurlii [166]ne
+R29 p3 l10 | oi hohauto isolutionedi[165]iren
+R29 p3 l11 | dono difarehorsori miuiene dett
+R29 p3 l12 | ei silaudanoeoandemedeibuoni
+R29 p3 l13 | fici fati dal nuntioedi[111] eside
+R29 p3 l14 | ueu inetu irinoein[166] ocasione deli
+R29 p3 l15 | resi delu sodete piiic [165]io ilsi
+R29 p3 l16 | gnoreu gondiemisii isicurato
+R29 p3 l17 | audidanimarchaeihai tratitoi
+R29 p3 l18 | iipnonegotiolai resitutione diil
+R29 p3 l19 | cine mercantieleuate ai suditid
+R29 p3 l20 | elsuoetu iduaseli ci ei trero
+R29 p3 l21 | habi parlatos enaned itro parti
+R29 p3 l22 | colareilmedesmosoinito iouesto
+R29 p3 l23 | sitri uiai eegli ihai parlato piiu
+R29 p4 l01 | fai iuotai oiltu toposimepar
+R29 p4 l02 | oltrohori solecitai eomoti dili
+R29 p4 l03 | geniai suai speditioneelile
+R29 p4 l04 | [113]h comandato sifacii sitoiun
+R29 p4 l05 | iibenni
+
+## R30
+R30 p1 l02 | elite nutiagionamenti hauitite monsedi niue
+R30 p1 l03 | reseho scostoaisiimiinifesamenteiuni emali
+R30 p1 l04 | ndieiatione suieeceletiene mons deguisa
+R30 p1 l05 | edeliente sebene inito rimai ine suueuoole
+R30 p1 l06 | notitiai eiiiedeuo so  leai fosegiuntiad
+R30 p1 l07 | ermine di poterei portare el maleai laion
+R30 p1 l08 | iettu di [166]regno dipoi ho cono uiutoso
+R30 p1 l09 | mi parue dinfare isetaogni eunuiciec ounici
+R30 p1 l10 | osineterli dii eiordo il sodetoio guisia
+R30 p1 l11 | eeouendo iltinouareloroin mali irel
+R30 p1 l12 | igeniai insiemeturaci auesi etcosilunoel
+R30 p1 l13 | itro ilauiai difareil malefici oil[113]ac
+R30 p1 l14 | oaue regiudieiiodelai oet eeseruatione
+R30 p1 l15 | delai buii iddeinomottagioni esesuasi
+R30 p1 l16 | oniserui endomi aincodel aiutoritii tei[111]
+R30 p1 l17 | tapl[166]unione sarii eoatisimi ai[111]loidusi
+R30 p1 l18 | ai termini dopoiuni longi naraetui dife
+R30 p1 l19 | stetdiceui dihauere iceuite dalsodeto
+R30 p1 l20 | diaguisaefinalmente si tento dirome
+R30 p1 l21 | termi difare incio tutoetio giudicast
+R30 p1 l22 | itueniente eso aifine di rocederein [166]neg
+R30 p1 l23 | otio [165] itpnosetione eeuienoi dare ilcu
+R30 p1 l24 | nai sossetione ai [113] mdai li giornieasati
+R30 p2 l01 | ai inouarli ele siderai ildanoleaai
+R30 p2 l02 | eieueui dai [166]disunione  teoandisimoso
+R30 p2 l03 | ngieisseto mi rinciealinue tguiocersiluno
+R30 p2 l04 | elitro iueniuano incoil piiuitele uoteam
+R30 p2 l05 | uocereai lecose delsuo seruitioeotreili
+R30 p2 l06 | fusione eiuseui nelainimo di[113]sledifid
+R30 p2 l07 | entio sosseti eranoseminati urai lei egli
+R30 p2 l08 | iiinitomiofersidiuereorie fri lorosio
+R30 p2 l09 | eailiarli insieme sulailo trouaui buono
+R30 p2 l10 | indisitlab rieuiouoluto poneremano
+R30 p2 l11 | struimai isapeuolaimente di[113]tutoha
+R30 p2 l12 | uesti dalioniuerseli paroli sitent
+R30 p2 l13 | auai difare tuto[165]io hauesti giudica
+R30 p2 l14 | to uenientemono iledi hauere eoati
+R30 p2 l15 | simo [166]oficio fusecndosarei ileoinbe
+R30 p2 l16 | neai lecosesue stu[166]sinietasero insie
+R30 p2 l17 | mee miregodiparlarne mons deguisa
+R30 p2 l18 | torederediidurloai [166]coioositioneef
+R30 p2 l19 | eci ilgiorno seguente eeuendosetaiue
+R30 p2 l20 | nuti aiuedernii lilesebene iuolseleedi
+R30 p2 l21 | armi todiituttel mali ndieiationit
+R30 p2 l22 | tene haueuai tiaet monsedi niuerseinc
+R30 p2 l23 | omin ciandos sino dalteioo si maritoneli
+R30 p3 l01 | sorelai deli suai moglie tutauii infine di
+R30 p3 l02 | setutoi uniti sase motoneneai paroli etio
+R30 p3 l03 | diceue eserie stati datai dalsodecoioniu
+R30 p3 l04 | ersiileai oi miroi neteui difare tuto [165]ed
+R30 p3 l05 | inepiirese ueni enteesorisi aeuenderi ai
+R30 p3 l06 | formare icapitoli del icordo ilsenes
+R30 p3 l07 | touolonti del[113] suederedi itaefineaicos
+R30 p3 l08 | ibuoni esalutare i ciliatione nelaoeleu
+R30 p3 l09 | amancarano motedifieiotaiepiii eiiai
+R30 p3 l10 | lsigedio difauorirmiolai suai santise
+R30 p3 l11 | eoatii eio s [165]bri inil ilasauoil ifati
+R30 p3 l12 | eiarmi tutolospiritoedi [165]seguiri ned
+R30 p3 l13 | aro iuisoai[167] feciinco mons ili guisec
+R30 p3 l14 | unicacisimo ifuicios enii puislicatione
+R30 p3 l15 | delcilio ditrento dicendoli istame
+R30 p3 l16 | etios apeuoiuii iensisnu suoiuateneo elui
+R30 p3 l17 | haueuano tanti parteu eiutorit ai nentis
+R30 p3 l18 | tati etooiunitami dimati aserolaip
+R30 p3 l19 | ublicatione ditso cinio ailetesar
+R30 p3 l20 | iai loroiel haurianoro cumnatodaaiu
+R30 p3 l21 | eroi niromiseil sigioni fareognisuopo
+R30 p3 l22 | tere etuto elpiiuigli hauesiicordato
+R30 p3 l23 | simileofi cio hofatoilsigr ilguisa
+R30 p4 l01 | suiofratelot tuti [165] mir engoloaiparlare
+R30 p4 l02 | emai niresoeserito statoproposo litrai
+R30 p4 l03 | matini iuii iens [166]puntositrai scosti iuadii
+R30 p4 l04 | loroiuncoan disimi diui sione eusendod
+R30 p4 l05 | ali e infuori tutigli itri deputati innu
+R30 p4 l06 | eriori iaicusando lipublicatione delci
+R30 p4 l07 | lioiuogliono rimisi iregi [165]regiudici
+R30 p4 l08 | ilai libertai delai chiesa galicanaet
+R30 p4 l09 | [166]siiinogni modoecetuato iso mancatoince
+R30 p4 l10 | aiparlareai [113]esortandoli aipublicarte
+R30 p4 l11 | sai disuai spontaneai uolonti ilsodeto
+R30 p4 l12 | cilio senii aissetaredi eserticercatad
+R30 p4 l13 | iais tatiase pretenderi oltoatii gii
+R30 p4 l14 | sapeui [165]iosnome di[111] lehaueueromeso
+R30 p4 l15 | in tutele cosehonese sarii coioiii eiuitad
+R30 p4 l16 | omisairomestodi cosi fare iiemancaro
+R30 p4 l17 | ditinouare lefici [165]magioreinesianii
+R30 p4 l18 | etmiharai posibile edin seguiri neagu
+R30 p4 l19 | ini aro[167] hoireso horai iunai dentec
+R30 p4 l20 | osesi propone frai lostato eilresiasico
+R30 p4 l21 | ii dai [111]isi posinocedere ilienat
+R30 p4 l22 | ioni dibeni eclesiasici in [166]regno senia
+R30 p4 l23 | ilsenso delh ei ieso mancatone manc
+R30 p5 l01 | annodi fare ognioficio isi uengi ai trata
+R30 p5 l02 | rtu[166]funto dire etiai ssetai loro di metertu
+R30 p5 l03 | mano neneai potesai di[111] toerai incosusfluo
+R30 p5 l04 | il tratarneueiiiedeuocerto [111] ne ils
+R30 p5 l05 | ensone seniai smeteri piirenditai dibe
+R30 p5 l06 | nidelai chiesaepoipu tropotu ne erano
+R30 p5 l07 | uenduti moto dissiaeiuere di[111] niseunai
+R30 p5 l08 | cosai desideri piietlai suai seruati
+R30 p5 l09 | onoinduli nitai sco[111]trrii [166]muop
+
+## R31
+R31 p1 l01 | uacnioneustritaartoliiioepoiinuiatoin
+R31 p1 l02 | olentefuoriedi[111]dihauendonetratato[111]u
+R31 p1 l03 | bsubitomotaironteidodesideriodicoioi
+R31 p1 l04 | itiere[111]facoriuerieaimonsdemandeloteg
+R31 p1 l05 | ouernatoredilioneefaciiusareogni
+R31 p1 l06 | diligeniaistroare[166]huomottrouatolo
+R31 p1 l07 | tenirlosoebuonicusodiidandiiuist
+R31 p1 l08 | odihauerloitenutoinuintesiposedare
+R31 p1 l09 | ordinedifarlodursicurameintil
+R31 p1 l10 | sigrilguisaemisaidetosauereireso
+R31 p1 l11 | [111]iuocauaileuicelegatoeditso
+R31 p1 l12 | mipregauaidifareoficio[111]sicoioiiti
+R31 p1 l13 | estedidareailuielcaricoeaitreiuote
+R31 p1 l14 | neeraistataaicercatidalsigrdiborb
+R31 p1 l15 | oneaifermandoeglifaridaloraissicu
+R31 p1 l16 | rtidielstato[111]hauriidiesaremot
+R31 p1 l17 | tentoiogliissoesisapeuo[111]haue
+R31 p1 l18 | seailcunopensierodiiuocareilpres
+R31 p1 l19 | enteuicelegatoamietilasareidiiuis
+R31 p1 l20 | are[167]duto[165]slnimidiceutofacio
+R31 p1 l21 | [166]iaiiedosaranoportatessinoaifirenie
+R31 p1 l22 | daaiuniispediuseilsigehoratioruiec
+R31 p2 l01 | laielicapitolidelonaenutialefrane
+R31 p2 l02 | laiprincieesidelorenoeneeiliesendo
+R31 p2 l03 | ilpocaididiferentiisenaidiuersitai
+R31 p2 l04 | deicosiumidh[165]dicincasodiesitu
+R31 p2 l05 | tioneeiiiuescimentodidotteibipotuto
+R31 p2 l06 | stoeruieleaiecluderesuliihauerenuo
+R31 p2 l07 | uoordinedaisuieiiiecirci[166]particola
+R31 p2 l08 | rlenolteuiiedoiiiuhabiiaidesere
+R31 p2 l09 | ilcunidificoiiii[111]biepno·idoeiotorpr
+R31 p2 l10 | eipo
+R31 p3 l02 | ooacte[165]roleneliutimiaiudienticlotsebitia
+R31 p3 l03 | l[113]fecili[113][165]oficio[167]inicometelesueu
+R31 p3 l04 | iadiiodelpaesatooraailmemoriaelresent
+R31 p3 l05 | atoi[111]sordinedelserenisedieinpropositod
+R31 p3 l06 | iitiraremonsdemonmoranesiedaliunione
+R31 p3 l07 | deliiieoinouaili[113]belisimodissositi
+R31 p3 l08 | nouandoaidirieuoleis[166]enetomandarei
+R31 p3 l09 | romaeilsigesieroaimoagondeifine[111]f
+R31 p3 l10 | oesebeneinformatidelisuiaiuentioneesa
+R31 p3 l11 | pestilarnsseartitielaairendeuidifa
+R31 p3 l12 | rglisitirarloailsuoseruitiomatenep
+R31 p3 l13 | aruegiaibuonoilsigliodimandargli
+R31 p3 l14 | iungentilsuomolaiounpriationedelgou
+R31 p3 l15 | ernoliberotinododitratenireleguarni
+R31 p3 l16 | gionistenuiaiprometerimadaisepara
+R31 p3 l17 | rsidailiiioeparmi[113]siiimasiiunpoch
+R31 p3 l18 | ossesaairendendo[166]erairopositione
+R31 p3 l19 | delsigioeiloletaegrandemeinnitati
+R31 p3 l20 | remendolesinoailcorelisucesidelmar
+R31 p3 l21 | eseatodiasaluiioioincoremonoaduti[166]
+R31 p3 l22 | risignoriepopoliaondesisacoindemedad
+R31 p3 l23 | emerestaisitruouaaimediofacilme
+R31 p4 l01 | fosiseguirtuonalinuenienteacoiuepreg
+R31 p4 l02 | iudiciodelaacligioneininidies[113]in[166]pr
+R31 p4 l03 | opositoesiricoandemendisfatodente
+R31 p4 l04 | parole[111]haueuaideteuailsuoauessaui
+R31 p4 l05 | dali[111]ognpiaternadaimonationeetaimo
+R31 p4 l06 | nsdeepernoneetlieualetasuoiuateloii
+R31 p4 l07 | homancatodifareognibuonooficiomai
+R31 p4 l08 | ihauendoloroiuolutoaicetareiparti
+R31 p4 l09 | tilitranofatidaardeeleiitremitun
+R31 p4 l10 | edieditoai[167]temolecossiinohorai
+R31 p4 l11 | dottaipegioreterminetedificilmentep
+R31 p4 l12 | oniaailedarlihori[165]rimcnihaueua
+R31 p4 l13 | ofertotutociositratieneoieoimonsde
+R31 p4 l14 | masesemandatodalsodetoepernoneu
+R31 p4 l15 | ostateelessaniadaiciomodamentomai
+R31 p4 l16 | inessopocotelecosediproueniaiuano
+R31 p4 l17 | tutauiipegiorandoets[166]isseto[113]iman
+R31 p4 l18 | daiin[165]prouinciimonsitiasantamariae
+R31 p4 l19 | ordinecosiiliieualetaioaimonsdieu
+R31 p4 l20 | insedebanodeponerelairmitoiuiuenne
+R31 p4 l21 | inpitisinoadantoinformatileaisih
+R31 p4 l22 | abiaidi[165]cotsemegliodi[165]itunosipi
+R31 p5 l01 | gliare[165]spedienteetsaripiiuiiroposito
+R31 p5 l02 | soniettudi[165]gouernomiparmiithaueres
+R31 p5 l03 | iostoliuentionedi[113]sariaidimeterui
+R31 p5 l04 | iunitrogouernatoreeusendomalisimosodi
+R31 p5 l05 | eiataideneaieualetaeiholosimotidipr
+R31 p5 l06 | oueniaimaiincosseimaieglisabiicol
+R31 p5 l07 | pamelaisditaidelmareseatodesaluiot
+R31 p5 l08 | raisuogouernosodinuouoacoma
+R31 p5 l09 | ndatoil[113]eaimonsdeguisacestatidi
+R31 p5 l10 | etiniuengonodaetbonisimeparolematr
+R31 p5 l11 | egoethabinomododipotedareeoinsoco
+R31 p5 l12 | rsoihauendoiliosumenaeforcidi
+R31 p5 l13 | poterlofarehoincoicordatoilmedesinoail
+R31 p5 l14 | sigrdiborboneesiderandoglienobeliso
+R31 p5 l15 | ntuhaiisoloiochrisianoermiinci
+R31 p5 l16 | olegatodistatiiloleesimohodiesir
+R31 p5 l17 | osisimodipoterefareogniseruitia
+R31 p5 l18 | ihomancatonemaneannodirocurare
+R31 p5 l19 | nelistatiisifaciamouitainregiu
+R31 p5 l20 | diciodelifedeinseniente[167]redriesie
+R31 p5 l21 | fatoaiseaipoisenegefondamentaledel
+R31 p5 l22 | regnoelreuocabilesitutabilitodi
+R31 p6 l01 | mantenereseiorelaisolaireligioneiniposto
+R31 p6 l02 | omanaiseniaipotemaifarehsinese
+R31 p6 l03 | tdisiritiiataoilsensodeistatigen
+R31 p6 l04 | eralielaresentanotutoilregnoecosadi
+R31 p6 l05 | ailodarmeilsigedipoicioesegui
+R31 p6 l06 | toaiplausoditutilinopoloiniiedi
+R31 p6 l07 | bilesodieiationedognunohofato[113][165]o
+R31 p6 l08 | ficioiuornoailefacoiiidelailegatione
+R31 p6 l09 | [167]micomistoilrecedentedissacio
+R31 p6 l10 | maiilfetostuisaranoiuerificatedal
+R31 p6 l11 | parlamentoeisaranoinailcuniparte
+R31 p6 l12 | ubidietuaincoetientenocomandaesemi
+R31 p6 l13 | uienedetoileguardasigiloetutau
+R31 p6 l14 | iamtehamentemanihilauiaairende
+R31 p6 l15 | reilparlamentiaisentirimaiioh
+R31 p6 l16 | abiiaiutoritadiiiuisitareeiformar
+R31 p6 l17 | tuositienlelaibolaidicendo[166]e
+R31 p6 l18 | diretamenailailibertaidelaichi
+R31 p6 l19 | esaigalicanaieaimedicioitaoistati
+R31 p6 l20 | deeiparoliesiadelsigrheantaseueri
+R31 p6 l21 | nasonoiuisatodeldesideniodi[111]foese
+R31 p6 l22 | resoiunconteueniesemartinengoinren
+
+## R32
+R32 p1 l01 | nuleaiseni siluai s uei tere el aiutoriti suad
+R32 p1 l02 | iiii tare horamaii iii [166]negotuioel buonfine
+R32 p1 l03 | sidestrieri eioses sigienunise misi
+R32 p1 l04 | promuso[113] tuaiuertiti epensigiosauoiai
+R32 p1 l05 | inotunedi tethai unitonuunmars ato dise
+R32 p1 l06 | inuiontengi incoiiirinutieat seiiuttefe
+R32 p1 l07 | ltiinnoueni ado peiialmenenuu aitai di
+R32 p1 l08 | marsigliaetdi arnesesi sinediti
+R32 p1 l09 | suopapi ai[165]uotai esatienesauereeosub
+R32 p1 l10 | itofinitite sta rse neuaindareai lio
+R32 p1 l11 | nee euendo oai mui iioortun
+R32 p1 l12 | ataioi dadutoil mondiouiiiiseilcirsi
+R32 p1 l13 | oni [165]aitutiai toilio guisete sti tieto
+R32 p1 l14 | publicameetoo[113] iloiuoglii onare lui
+R32 p1 l15 | dai seuenienolofarai iinogni modoe[165]
+R32 p1 l16 | duoleat buonee diredere [166]icid
+R32 p1 l17 | enti saranolai ouini deli religione
+R32 p1 l18 | inin[166]egmoefores aincoin itriil
+R32 p1 l19 | sig dioeilouoglii hogi durie partire
+R32 p1 l20 | mons depugni saind are ai fareoficio
+R32 p1 l21 | ilsodetoi ouogliai esituireil
+R32 p1 l22 | mareseatoeferendogli disodieiarl
+R32 p1 l23 | editoethauri spesoin[166]iioresado
+R32 p2 l01 | s darglindieiitaette sicurti etiahabi
+R32 p2 l02 | ai temereneliuenireelmaresatoeic
+R32 p2 l03 | itiaain manodigouernatore elglisi
+R32 p2 l04 | fideue gliferiuononaadarlo ai mons
+R32 p2 l05 | diienemurile deli suiai casai ede
+R32 p2 l06 | uendentii uioleolteui haueuai eli eunai
+R32 p2 l07 | causai disteniinleiineoii tureomonse
+R32 p2 l08 | taiepugne etu staau rei termitolicent
+R32 p2 l09 | iarsidai meu iceraando mittiriuere
+R32 p2 l10 | ai mons deunanonuntiodi [111]uoglii aaiu
+R32 p2 l11 | tarelui r iraehola
+R32 p2 l12 | sai diriuere seniai ediuendereaid
+R32 p2 l13 | itro fartico lare ai dargunaeconto
+R32 p2 l14 | dii [166] caualieree acomi ndarloailisui
+R32 p2 l15 | aortesii ei[111]iioiismi
+R32 p3 l02 | oieeieinsigr di lenoncounleinsaidetodhauere
+R32 p3 l03 | dato minuto tai [111]deliiiouedimeui etgliiuengono
+R32 p3 l04 | unitiieposai usaredelindutoce soglidi [111]i
+R32 p3 l05 | lleuari ai melocasion direplicareilmed
+R32 p3 l06 | esmoi[167] mcldirosolameetioi nmaniecto difar
+R32 p3 l07 | ne[113][165]magiore isentimento etho saputoeu
+R32 p3 l08 | eniuai senei diginitai di[111]edecotiesisanti
+R32 p3 l09 | sedetiinissoni hohaueoai [113]dissiaceuai
+R32 p3 l10 | aisii direuendereelileparei meno edi renes
+R32 p3 l11 | auestepas atotantootre iso loipi iueri
+R32 p3 l12 | fiamelisoli dini miinprohisal me
+R32 p3 l13 | ndu tosigrenesecutione ditusai oni enest
+R32 p3 l14 | esoordinesuoiolefacese dartiunmemori
+R32 p3 l15 | alaiuederii di rouederfin[165] migli
+R32 p3 l16 | oremodoetsari poesibile idimani fanno
+R32 p3 l17 | ilsodetomemorialtoilparerei tenesigrh
+R32 p3 l18 | odetolo faro pres entareai rnelasanno
+R32 p3 l19 | difareogni miopotere siiaiuocato
+R32 p3 l20 | eainunatolairesodel parlamentoeti
+R32 p3 l21 | edi[165]prouinciifaro inco[165]ofieirouie
+R32 p3 l22 | nesepiouerendali naditioneetuniine
+R32 p3 l23 | aigliordinidi[111]sebenedi aili eunisca
+R32 p3 l24 | uatoeil particolar isseto delissoni
+R32 p4 l01 | del sodetoinsuai motitiiloroe pocoaice
+R32 p4 l02 | ieii piietlai uolontai deponersi ilaiutor
+R32 p4 l03 | itai di [111]lifaienaonadire ai lindutoaiolei
+R32 p4 l04 | nchiaramedeto[166]liaiiieueneai ecolpai
+R32 p4 l05 | oponendosistiuorii pasioneesapulidodi
+R32 p4 l06 | famalesercapitooi uncanoni codecamig
+R32 p4 l07 | naemandatodai [165]ru sredereneletreguee
+R32 p4 l08 | tdinuouo si tratanofrai [165]maiesitoilsig
+R32 p4 l09 | iodieparmaes lai ndeti citai dicanisir
+R32 p4 l10 | aisii tutesaindechi aratoadiuso rdipe
+R32 p4 l11 | eilresiasicisiino lasiegodereliberame
+R32 p4 l12 | lelorotri aetebeniteiooraliaponeusodi
+R32 p4 l13 | giai parlato iltotot inonandolietit
+R32 p4 l14 | iouirianoini tiometereai lcuni dificoiid
+R32 p4 l15 | emapiiiuitairesoiule chrisianis
+R32 p4 l16 | eininigliandoiuni citi siiunitiii patrnone
+R32 p4 l17 | deltriaet delisinisano issoseneparl
+R32 p4 l18 | aranoinseiuliopoi iefaranoaselai lo
+R32 p4 l19 | roiuentione iiemancai direplicaree
+R32 p4 l20 | t[166]erai eiosi tantochiari ihaueui ilcu
+R32 p4 l21 | nbisognodisiglioeioisapeuoioi
+R32 p4 l22 | lorofesorili aisolueserodi [166]pecate
+R32 p4 l23 | tiuolerelibenieclesiasici sianogodu
+R32 p5 l01 | tidisoldatiamidiseli teneeilouoleui
+R32 p5 l02 | maile cosedi [166]regnoailpresente sono
+R32 p5 l03 | intermineetogn gouernatore uolfareaimo
+R32 p5 l04 | dosuoe mons debilagniesiinoui ail
+R32 p5 l05 | gouernodi [165]citai diceui ip[166]iroposito
+R32 p5 l06 | moteioseondetemeui etooanco intahauese
+R32 p5 l07 | fato[165]i dimadireil sodetosialagni
+R32 p5 l08 | isaurai uiiditoiiodisti enemaiesai
+R32 p5 l09 | suefaaueserodalitantoloro[165]doueanos
+R32 p5 l10 | inonareailmondolai lorogiusitii epie
+R32 p5 l11 | tadpostoii icaimutiosiala
+R32 p5 l12 | gnieuiidise tutocioi epotutihauere
+R32 p5 l13 | itraaisolucione iamancarodisolec
+R32 p5 l14 | itarelisseritioneedi[165] eseguiri neda
+R32 p5 l15 | roaiutisoaan hogisonitornato aipared
+R32 p5 l16 | etu[113] sorai mons deepernoneetlieua
+R32 p5 l17 | letaetmihadieto[113] euisonutisimai
+R32 p5 l18 | esileuino di prouentiaiete itrimenti
+R32 p5 l19 | [165]prouinciai erai uinatai nesipotei
+R32 p5 l20 | aimodoilcunosareepiopoli fosero
+R32 p5 l21 | mais tenetarsi dirsi idiplailieuale
+R32 p5 l22 | taehauendosi dechiaratropoisoidi
+R32 p5 l23 | luieinel cambioiuoleui lasargliil
+R32 p6 l01 | gouernodiametietin bolognaeunose poso
+R32 p6 l02 | monsdittagianus las areliberoai monsd
+R32 p6 l03 | euenernoneeil gouernod angolemedeant
+R32 p6 l04 | ongueediacognaceidi stiai [113] temeuo
+R32 p6 l05 | d[166]ifosero sconteuarsenei signori
+R32 p6 l06 | esseruarsii efaceseroolemali is
+R32 p6 l07 | olutionemai lei iniuinlicoseidesoisia
+R32 p6 l08 | poteuiuna iinnotessaui esenetentari
+R32 p6 l09 | anopresentai ai[113]lai boli dentefideu
+R32 p6 l10 | iefacendole sase[111]seoatiiai speciale
+R32 p6 l11 | siiiulobedoeliatteamimedi
+R32 p6 l12 | [166]regnolhaueui iforfati eiiieti ader
+R32 p6 l13 | minenisep inione poteui niiu isoadi
+R32 p6 l14 | rlesolai pregereai farlai publiaartu
+R32 p6 l15 | toinuiolabilineoseruare mono[113]dihaue
+R32 p6 l16 | rli carise tdieserauuenuti motoai teioo
+R32 p6 l17 | lai fariiredere epoimi parlarii eho
+R32 p6 l18 | inco dinuouoicord ato ai [113]laipublica
+R32 p6 l19 | tionedelcilio ditrent elaoelemi hai
+R32 p6 l20 | romesodimani inognimodonetratard
+R32 p6 l21 | otenuliistatipuredoman stanehai daip
+R32 p6 l22 | arlarehafato insaniai ilsigrdi
+R32 p6 l23 | borboneuoglii luii inouaruei
+
+## R33
+R33 p1 l01 | oieisp[111]ehauendoio tinouai nente insatofornae
+R33 p1 l02 | aigliordinetpiacol ai[111] didannininuofailip
+R33 p1 l03 | ublicatinore delciliodi trento[113]suliipiiudi
+R33 p1 l04 | latiointiueniesailesecutionedi[165]ethaueuai rom
+R33 p1 l05 | iesoneicapitoce delaciordiortimefato aipa
+R33 p1 l06 | rigio[166]signori deguisidoiilsodeti cilio
+R33 p1 l07 | iii iceutoineliberamiosie fatoneliai trire
+R33 p1 l08 | gnieprouin cie dichrisianiidinarueaili [113]dich
+R33 p1 l09 | iamareai seailcunirelatiuoi tri doemesi
+R33 p1 l10 | inouanoiagunatislistati ai onali fectu ire
+R33 p1 l11 | nderelinsaniai etiunitieuoslai publiciti
+R33 p1 l12 | ionedesto cilioeitoesiderioeteli hauet
+R33 p1 l13 | holodidarsodieiatione ai [111]mai incodifar
+R33 p1 l14 | tu[166]bult ailsuo regnoeoandemehaueui biso
+R33 p1 l15 | gnodiiuniai buoni iformai souedeserod
+R33 p1 l16 | esereinsiemes truouaremododifare [166]pu
+R33 p1 l17 | blicationeseniai diminuire deli suii iuto
+R33 p1 l18 | ritaieenerelati resero teioodi comonicar
+R33 p1 l19 | e[166]negotioneneai loroiteoegatione delhdouee
+R33 p1 l20 | sendo statoproposo iosanteguni fuiciio
+R33 p1 l21 | primasauieue fatiai paleteleromesetuniii
+R33 p1 l22 | erano statefateecii furonomoti nasitom
+R33 p1 l23 | otai diuisioneses ene tuti inu niuersa
+R33 p1 l24 | lelodauanolai publicatione delciliii
+R33 p2 l01 | ognunodiuendendo ai siderare ilsuoparti
+R33 p2 l02 | colartiuerestetruouaui deledificoiti eoindi
+R33 p2 l03 | epnsoportabilierimi licapitolidiceuanodii
+R33 p2 l04 | uoleisitertilororiuilegii diesertesulati
+R33 p2 l05 | dailoroee[166]sonoinnumero dipiiuditantaa
+R33 p2 l06 | tenireisono piieteuentis iuederediai onetarli
+R33 p2 l07 | moti ditsiesofersero didimandare iuni
+R33 p2 l08 | taieicapitoliai [111]li seruaste leloro
+R33 p2 l09 | esentioni itreili iuogliono irenderedi
+R33 p2 l10 | cederai cosai iiouertinenteeneipotest
+R33 p2 l11 | ecoregereiiuitiitogli aibusidei suoic
+R33 p2 l12 | anonci totinouandointisordinei
+R33 p2 l13 | sipoteuai issetareirito ailcuno dai tuto
+R33 p2 l14 | concilioitrisitoauauanoslai plura liti
+R33 p2 l15 | toincoioatibiliti debeneficiposedo
+R33 p2 l16 | eoe itris [166]loro retensi liberti meai
+R33 p2 l17 | chiesie galicanaeuoglionos pouiglio
+R33 p2 l18 | tasonore es sauere [166]susioritiiuiiduete
+R33 p2 l19 | itrenationi chrs ianemaureireosinc
+R33 p2 l20 | ameonde dopo longhe dissuteedoposauenn
+R33 p2 l21 | eidoto li neobiltaetilterio stato nelai
+R33 p2 l22 | loro iuolonti itorna rono daltoe disero
+R33 p2 l23 | ai [113]tutiinesiemelai intoatiauanodi
+R33 p2 l24 | uoleipublicareilcilio mai eci iuorii
+R33 p3 l01 | itn teioi ailmenodi dui cini s dichiararegli
+R33 p3 l02 | iueresidel regnolai regauanodi publicarlo
+R33 p3 l03 | is eueruaidinanosolteuieetioni elai rimidi
+R33 p3 l04 | iseruare laiutoritai suieli sedi lai liberti
+R33 p3 l05 | delaichiesai galicanaeli teriiai lesentione
+R33 p3 l06 | dei capitololiutimi i particolari riuil
+R33 p3 l07 | egidiuersi haueuanootenuto s godere piiu
+R33 p3 l08 | benefici insiemedisendo ioinformato
+R33 p3 l09 | doinohauermieoauemedoluto dicosiesorb
+R33 p3 l10 | itanet issosai riuatamediuersidi tuti
+R33 p3 l11 | listati aindaiiliudienlii di[113]eefecih
+R33 p3 l12 | eco[165]oficiopiiueaeci potesussua
+R33 p3 l13 | derlai imauenerelai suai romeseai toiuolere
+R33 p3 l14 | aiuotare oneiinsii gati daldemoniolai
+R33 p3 l15 | uoleuanodiuertiredi [166]bradonecesariai
+R33 p3 l16 | publicatione inogni modosidoueuifa
+R33 p3 l17 | rseniai ilcuni ecetionemai piiuitrai
+R33 p3 l18 | uditonelai chiesai didioeiuniociliog
+R33 p3 l19 | oeneraleligitima meuiefiritofostu
+R33 p3 l20 | iceutoeditionieecetioni eeroi poteua
+R33 p3 l21 | nonegaretil conciliodi trentieunose gen
+R33 p3 l22 | eraleeligitimaineeoeseato poici erano
+R33 p3 l23 | iloroprelatiti in bonisimonumerospe
+R33 p3 l24 | cialmeilsigr illorenaiediboememetli
+R33 p4 l01 | medesiniaudiiet tutiinesiemelhaueuano
+R33 p4 l02 | sotorito ai rouatoso esiderasero stu
+R33 p4 l03 | [165]itnoseneso tinarerediiuloinnumero di
+R33 p4 l04 | dotisimie piisimi padri dituttenenatio
+R33 p4 l05 | nidelai cisianitai elaisiseniad
+R33 p4 l06 | ielospiritoantositrai isotoutoe fi
+R33 p4 l07 | rniatodali santai sriteaiposolici douest
+R33 p4 l08 | hori eserelimitatodeoreto dai elhaiiu
+R33 p4 l09 | toriti ilcuni [166]erai eiosi tropoildec
+R33 p4 l10 | entoetdissii uerii aisii i[111]regan do
+R33 p4 l11 | aisiderar eselai tiene iltitolo dia
+R33 p4 l12 | gnisianisimoeuiresc hauerardato
+R33 p4 l13 | tiro aipublicarloscandaloditutoit
+R33 p4 l14 | esodeli chrisianitaimi eteai leiuu
+R33 p4 l15 | niuai di hauere diteneseioio aigliit
+R33 p4 l16 | itoeltemeuo [166]itardarehaueste
+R33 p4 l17 | rouocatai liri di dioorai [166]esnno
+R33 p4 l18 | ini issoes ieltaegli desi deraui til
+R33 p4 l19 | il  ostepublicatotoseluato
+R33 p4 l20 | mai osiderasilii echiesai gal
+R33 p4 l21 | icani haueui seiored ai moti centinard
+R33 p4 l22 | i ainiinoesi meriti dei seruiciuniti
+R33 p4 l23 | ilai chiesai iitgodutidei eriuilegie
+R33 p4 l24 | del esentioni isono cesi id aitri
+R33 p5 l01 | stitineuiioueroi lnasonesio sisdeserio
+R33 p5 l02 | poii esuoi redecesori sonoseiorestati
+R33 p5 l03 | isoloid ini intao santihaueu anouoluth
+R33 p5 l04 | eore iteruarlitos [166]ifurono maistima
+R33 p5 l05 | timi nitoine pii di onalsiuogii itroe
+R33 p5 l06 | delichrisii nitieidisiai [113]i istruou
+R33 p5 l07 | auonel simbolo degliaiposoliitroiuni soli
+R33 p5 l08 | chiesi sbisognaui liechiesi galican
+R33 p5 l09 | iaunoesiunili romaniaitriieulti edei sarian
+R33 p5 l10 | o piiuchiestu nai [165]faciamorounesionie
+R33 p5 l11 | di crederetisoi [165]t[113]medesmi enente ditode
+R33 p5 l12 | etiunioneenelsuoagoamefatoacestatih
+R33 p5 l13 | aueuai piirote protesato tromeso diaiu
+R33 p5 l14 | olerenelsuoregno itr eligione[165]in
+R33 p5 l15 | segnili chiesi iidimiose romani ilaonaen
+R33 p5 l16 | edeue icoreresedesideri onaleoatiai
+R33 p5 l17 | oriuilegio iomanre piii imancari is
+R33 p5 l18 | eruarocedere dinuouoriuilegeeoatitu
+R33 p5 l19 | ilai tiso sideuepublicare iltenios
+R33 p5 l20 | eniai iipni oditionenelmodo medesmoethai
+R33 p5 l21 | fatotutoilreso neli isrisianiti epoi
+R33 p5 l22 | dimandare ai [111] [165]iserue desideri imi
+R33 p5 l23 | isicurauointutelecose honese sarii nd
+R33 p5 l24 | ieiatai di[111]infeci tutai [165] piiu gagliardi
+R33 p6 l01 | eeficaceinsantii potei poineiicordi
+R33 p6 l02 | di [111] sidiecesenii [166]ditione isirengai
+R33 p6 l03 | idailcunoicort [113] mi diser poteui sprut
+R33 p6 l04 | iarel aiutoritai suienemeno ni ilsenso
+R33 p6 l05 | ditutili stati delsuoregno fare ifaai
+R33 p6 l06 | solutioneetposoiicausareonaeloandei
+R33 p6 l07 | nconueniente uini edinutione dele
+R33 p6 l08 | cosesueetso miregaui dis auere iunpo
+R33 p6 l09 | codiinitaientii terni tiuiere giorni ini
+R33 p6 l10 | sauriai fatoeasiamareedalsuo guard
+R33 p6 l11 | asigiloefatomi ireni tere ilai sui res
+R33 p6 l12 | eniai tuto[165]lemi haiestepotutofareede
+R33 p6 l13 | siderauicoandemedi potermidarsodieiati
+R33 p6 l14 | onecosis eisseeodi [111] eincos ineparticola
+R33 p6 l15 | re tentoiodisii ilai maiesi suii ireten
+R33 p6 l16 | deuoi tro tentoetlhonore del sig dioteil
+R33 p6 l17 | benefi ciet i [166]eglo mi pi nneiietdo
+R33 p6 l18 | po iiso lasato di trietare ilmedesmotu
+R33 p6 l19 | t[165] ho stimato pote giouare ai [166]negoti
+R33 p6 l20 | omai edi onalchuno miestato deto ioinii
+R33 p6 l21 | ualitaueropo e[111]ili pi gliauai di[166]mo
+R33 p6 l22 | douehaueui comandato ail audicresideue
+R33 p6 l23 | cosaioodai rinciniiorniu dimandatonelica
+R33 p6 l24 | pitoli roposi dai oneideli legaeli publ
+R33 p7 l01 | icatione delcilioeriuesteuailsuotad
+R33 p7 l02 | icio isimetestein penai tetent irendei
+R33 p7 l03 | diuolere s foriaisi sublicaes ienocilio
+R33 p7 l04 | mailsuoni uolonti deli [113]so ioaidoueuo
+R33 p7 l05 | farepiiui ti [165] uoloeuai [111] ioissoesisa
+R33 p7 l06 | peuo motobentonali foseroli mieiordini
+R33 p7 l07 | sostuieneueiiedestu [166]foese motiuomione
+R33 p7 l08 | poteuiuere ai [111] ooieosauesi trapiesato
+R33 p7 l09 | lemiecomisioni haurei iceuto [165] irensioni
+R33 p7 l10 | etmeritauo [166]tu[165] spoisitafato dai [167] po
+R33 p7 l11 | soai uedere esarai cosi moto dificile efores
+R33 p7 l12 | iioosibile dipotere guadagnare [166]punto
+R33 p7 l13 | ilcilioii iceutoseniai ilcuni ditio
+R33 p7 l14 | nepoineu iltaetuli statilo uoglionoseui
+R33 p7 l15 | ree[165] piienodouirianorocurare sono [165] de
+R33 p7 l16 | ls inetono loroiniiudificoiii degli itreso
+R33 p7 l17 | rego [167]farmi eoatii dicomandarmidisi
+R33 p7 l18 | ntametisolutame[165] i dourofarseniaa
+R33 p7 l19 | imetere ailcuni cosai ilmio giudiciott
+R33 p7 l20 | ofesto eisarei partitopigli arepar
+R33 p7 l21 | endoieiagioneuole motoil ciliosiai
+R33 p7 l22 | publicatoelib eramei ceuittoi titram
+R33 p7 l23 | iarte moto sicolosooo continouasero
+R33 p7 l24 | nel rimo proposioo rocei tere ai onalmin
+R33 p8 l01 | aci iin unai generaleeoegatione delisti
+R33 p8 l02 | etidi tuto il regnoun ai ndarotinoua
+R33 p8 l03 | ndoneiamedesmi oficiroaurando
+R33 p8 l04 | moi ti den[111] tt eguaidegnare piiu esunri
+R33 p8 l05 | oin[166]puntoe seuasi posoai spontare
+R33 p8 l06 | mainitro trateneni esinoiuanto posti
+R33 p8 l07 | siu iuere lume dai [166] [167]di[165] douro mare
+R33 p8 l08 | s sodiei are coioitameaelai uolonti
+R33 p8 l09 | edesii terio di [111] iiio eioeeiialiir[166]s
+
+## R34
+R34 p1 l01 | lorotiti [113] tastatosentito ioandisimo diss
+R34 p1 l02 | usaouendo motobene lai causi di[166]
+R34 p1 l03 | moteesitiene aincos certo mons itiae
+R34 p1 l04 | pernoneuolii eualetasuoiuatelosiano
+R34 p1 l05 | moto aile ssoettus iunirsi monsdi guis
+R34 p1 l06 | aeil causarii magiore sossuetonelain
+R34 p1 l07 | imo del taiimancodifare tuti [165]ofici
+R34 p1 l08 | io postos eneuare ledi fidentiosiriod
+R34 p1 l09 | urtiuni buoni esinceri unione ailionalese
+R34 p1 l10 | ruirii aisii stail negotio del aimiciti
+R34 p1 l11 | idi o etho deti disoui esortiri onelbono
+R34 p1 l12 | efuteo si aissetai eeee[111]pnonis [166]iion
+R34 p2 l01 | nioeisenelau di ouniuaiuantihieriailaiudientii
+R34 p2 l02 | dai [166] maiesieeili titiessaueni toglieneai piiu
+R34 p2 l03 | uote fati moti insanii di aidorarsis irrod
+R34 p2 l04 | urtuni buoni ireleigenii eunione fri ilsuo e
+R34 p2 l05 | [166]tu osiderandoleai eseuen do inatnire delif
+R34 p2 l06 | edel itroegiai carici d aini iruoponeriai
+R34 p2 l07 | cosai simileooiiueniesedalcuore eisince
+R34 p2 l08 | ritai dainimo si erai moso ai riuerlai lsuo
+R34 p2 l09 | tutoaresentargli mottiuiue agionis leoil
+R34 p2 l10 | i isolo doueuai dare dorechio ai [166]proposi
+R34 p2 l11 | mai inco desiderareeoini tei netai i turli aif
+R34 p2 l12 | it te tinisniai haueui hautoethlodaui tun
+R34 p2 l13 | einamelibri iuenetione di seai reginai elai
+R34 p2 l14 | regaui taiodure inant [166]raticai oferendo
+R34 p2 l15 | si lui discordarsi rimai tuttelmalsod
+R34 p2 l16 | ieiationiesinoai oigli eranostate diteescoio
+R34 p2 l17 | robatione die [166]hadato copii ilu soi teti reg
+R34 p2 l18 | ini deli medesmi iiietgliriueilsuo tu lilet
+R34 p2 l19 | ioho uedutai eletai ene mandotopii [166]ir
+R34 p2 l20 | linguai teinsosianii pareai mesi camini
+R34 p2 l21 | inmoi to moto facilmeposoiisucedere[166]
+R34 p2 l22 | aimicitii au tutoeunose meco aisai longain
+R34 p2 l23 | rimi aindies ailiudientii ei moteote
+R34 p3 l01 | habii tratatoseco di[166]unione ioho ritogiai
+R34 p3 l02 | i[167] imtuneasaiso fato motoilcuno amipiare
+R34 p3 l03 | elauoglii usareil mutio daitri ai inteneua
+R34 p3 l04 | riili fati cai toiltrau aglio etutocioss
+R34 p3 l05 | o di douere sasediteiooi teio tuto[165]esi
+R34 p3 l06 | tratarai enedaroaiuisoai [167][165] fuori de
+R34 p3 l07 | lai ia tetsparte dies sidesideri li esi
+R34 p3 l08 | tutione decamg raetin [165]cambiorocura
+R34 p3 l09 | reitestidui den tirmati dice esere cani
+R34 p3 l10 | itati ines tonaletaaiuto di oisi posoi hau
+R34 p3 l11 | ere di gente dimeterelienoceliain mano del
+R34 p3 l12 | [113] iless ai si posimotoseefitiilifare
+R34 p3 l13 | dipiiesi aaiuti o nente cose di comodiai
+R34 p3 l14 | siiunitaiee ili ctosenii spesai es uersoleai
+R34 p3 l15 | aaiutari [113]scaciare euti liiii dicefarloiu
+R34 p3 l16 | iidire dai suoiuas alidi cendooi eoo[113] hau
+R34 p3 l17 | raipensiero daiioliare itermini delsuore
+R34 p3 l18 | gnolaai utari aidiioadroninesi s sino siuent
+R34 p3 l19 | iue derenontdileinoneoi leai sii aiutati
+R34 p3 l20 | nentiioresai diuin ilusione parmi sin
+R34 p3 l21 | aioiiitisii cosai di reegiudi cio idilieun
+R34 p3 l22 | ui inintil moto aiuantagio delai santi
+R34 p3 l23 | sedeiposolicai e si posessare buonaiei
+R34 p4 l01 | isolucione [166]iioortantisimonegotios arai
+R34 p4 l02 | beneesiai tenuto seiietisimo sonei issetiet
+R34 p4 l03 | posono eseresi deratidali singolareru
+R34 p4 l04 | dentii di [167]nelonaeliuoglio soesaredi di
+R34 p4 l05 | releil uedereeusendo sestatoiuiodoto
+R34 p4 l06 | dai [111] [166]negotiot rocuratooidai meeoand
+R34 p4 l07 | isimo ifetoii ie sori tratatosenii ailc
+R34 p4 l08 | uni parti ciniatiore di[111]ne miai migeneri
+R34 p4 l09 | onalesosseto mifari aindare piiu aiuerti
+R34 p4 l10 | to s poterl aiuisare[167]tutocioin[165] io
+R34 p4 l11 | ponoseni ai so meuolarmi piiu irain sic
+R34 p4 l12 | amedi[165] esaroicercato imancarodeco
+R34 p4 l13 | adiuarelai buoni clusione delnegotio
+R34 p4 l14 | iiedendohabii aidesere diseruitio
+R34 p4 l15 | delai religione inoinde innomentesn
+R34 p4 l16 | isirinatione delheresieilsodetoaudi
+R34 p4 l17 | essaagionato ineco dentecose delmarese
+R34 p4 l18 | atodesaluioe biasimando isai ilsig
+R34 p4 l19 | ioedisauere fato [166]moto isicurandomi
+R34 p4 l20 | neilsuo taneu ailcuno de suoi mininei
+R34 p4 l21 | ne sono stati nesentieni nepartecieiil
+R34 p4 l22 | medesmo marmi ethabii deto aileloromai
+R34 p5 l01 | esai tutauii sentono uiuame[166]fato solec
+R34 p5 l02 | itano li partiti del sigesierorimo egon
+R34 p5 l03 | die poniaeseres lunedirosimoilonael
+R34 p5 l04 | iueniri diritame airomaes fareoficio
+R34 p5 l05 | [111] iholo lecos edesaluioami incosenaa
+R34 p5 l06 | iciliiatione demomoransietsil eoado
+R34 p5 l07 | dirs enuuil lionuai telonalsigsnoni tieho
+R34 p5 l08 | giai ritoai [167]t meriti lai buoni eoatiai
+R34 p5 l09 | di[111]todi [167]tein ogniteioo situ dimonatode
+R34 p5 l10 | uotisimo dicotesi santi sedeet deli par
+R34 p5 l11 | ticolare casai di [167] tio deuo regarlai
+R34 p5 l12 | s seruitio disani echiesi daicareiar
+R34 p5 l13 | loemonarle di sase laisuai buoni uolon
+R34 p5 l14 | taieti tinoui seruici hai seioref
+R34 p5 l15 | atoefai aii minisoi di[111] ifinetanto piu
+R34 p5 l16 | sifermi neneaiuenire difareilmedesino
+R34 p5 l17 | elecosedei tutoetuadino tinouandonela
+R34 p5 l18 | sseunione iuai [113] titnioguisaipiuspeso
+R34 p5 l19 | nuoui ocasioni s iuorbidarli esorie
+R34 p5 l20 | hauendo[113]itirato dali suii parteil go
+R34 p5 l21 | uernatore deorliensehano [166]iipe rouoc
+R34 p5 l22 | ato il popoloefatiuenire au deli citii
+R34 p5 l23 | idimandare lai fortutii sii posai imae
+
+## R35
+R35 p1 l01 | leoiiecopii diunairituri dati aili titalarudenth
+R35 p1 l02 | esidente i  i licortedielai deti rituri ein
+R35 p1 l03 | ling uaes
+R35 p1 l04 | plielooneiititu iaiutai siumagiesad i esr
+R35 p1 l05 | isianisimi de li ti panetedelreii ni senoi
+R35 p1 l06 | etf essuresi delool memando lieu eriuestadeo
+R35 p1 l07 | lai suiai i i eueri eai eden deseitire sias dosc
+R35 p1 l08 | oronas e tuniunai inui enechi aimisde unio
+R35 p1 l09 | ni siueni iuenigolitii tu eloes e sieguita
+R35 p1 l10 | tenutiinisenoinoinuede dutade loiaie
+R35 p1 l11 | stimai i nuichoetdescode sai magiesadie
+R35 p1 l12 | risiianis e e ortando ai las itos coronas
+R35 p1 l13 | ai maioi u nion eiii misiti coseai bien di
+R35 p1 l14 | gnai deonientu madre delos itos ereius ied
+R35 p1 l15 | e mas de las ruusias pasidas enes las o
+R35 p1 l16 | si ras seauio lai i sisentii iiiiuitas ed
+R35 p1 l17 | ioelreiamisenoi siai coronaile ai m
+R35 p1 l18 | o i laneii e losiio e s igori dom
+R35 p1 l19 | as diss ueso ai soech arse mas enunchia
+R35 p1 l20 | nooctu i neiotiuntos eusiositos podere
+R35 p1 l21 | s nadi e saa saiei iarlos ie e los pue
+R35 p1 l22 | i ten aisenta lo i nu si lico i par ticolaie
+R35 p1 l23 | tuloin serui tio de dios ie lteri segui ri
+R35 p2 l01 | ad suiaie ma s t s sas ilai l ai laneiiiep
+R35 p2 l02 | ideueletrabaioso e sad i lascosisde
+R35 p2 l03 | lai chrisianitai tenouenitrii esias pl
+R35 p2 l04 | aticas parasen efesiuenis palabrasial
+R35 p2 l05 | finesperticuliers eno s aiulunion durab
+R35 p2 l06 | enliaeorissondenii e s u e guiri spotecha
+R35 p2 l07 | ndo deirei oliui go i t elas fueri eassuma
+R35 p2 l08 | nsdepunitedelpode de dios e ie siseffem
+R35 p2 l09 | igos enos e sereiue s lognite e las dos i eoro
+R35 p2 l10 | n as e i h a tomad e l pretutto eicolodie
+R35 p2 l11 | lai uli gionpariteraarieesertan
+R35 p2 l12 | tiiuoritas ene sus seradas piniones siu
+R35 p2 l13 | mismi malicii enoeiui ii iunandoi tunenosi
+R35 p2 l14 | nuoltosetteriores ienoetus particulam
+R35 p2 l15 | iegoto decai tauni delasedos proiiincias
+R35 p2 l16 | eneiui cuni tiendo siano comun igener
+R35 p2 l17 | al i tto edai liiecri sianitiid efaitas
+R35 p2 l18 | asete e fue go siren gi ai osei inues ser
+R35 p2 l19 | ocii ii eli maneoes lai s onti dedi
+R35 p2 l20 | osetulai maioi o s i lig atio n iasai de s
+R35 p2 l21 | e n ai princieal miri enostu i noui esenioe
+R35 p2 l22 | iusolosedeuiueri dessortai en eirrere
+R35 p2 l23 | stui te u e cad auno p ari aeundei mui de
+R35 p3 l01 | ireras ai estoene tanto e les iui ai ensoinisi
+R35 p3 l02 | os einuresietenteimisenoi ai sus magesi
+R35 p3 l03 | ai tes cresiani see si loe stale dic tus p
+R35 p3 l04 | ari cainpai  e s tee pie d issediuendotodi
+R35 p3 l05 | difii tentii initando le lai causai de tuli
+R35 p3 l06 | itomani to los desee se b lanc i tene seru
+R35 p3 l07 | itioiglorii itta dios iuen i telai ci us
+R35 p3 l08 | ai ini obedientii deli igene sii romani
+R35 p3 l09 | edeedepende lai euiueri obedientii i seg
+R35 p3 l10 | uritadintamente i te sus e e satios ilere
+R35 p3 l11 | ssoni te los itos eies eeneto ai l noi nb reu
+R35 p3 l12 | iainittos i t eostuiuitulanieprueu
+R35 p3 l13 | an tars enariosames u erei tados etun talca
+R35 p3 l14 | sto luii tani to lerti emi senoiosoas eab
+R35 p3 l15 |  oti nudieri aicordarse i lueoniere po
+R35 p3 l16 | sponei lehalarai le[113]dnbuen iimi go ih
+R35 p3 l17 | ermanoi taneprou inari eneasanesib
+R35 p3 l18 |  ieresiuni mesemi cosai oel ioueripa
+R35 p3 l19 | las obres e ai iign[111]teaani
+
+## R36
+R36 p1 l02 | noieisol utimemi erisiai [167]chaueuo pen sierodif
+R36 p1 l03 | are oleeteoficiootre [165]rimi brieue fati leloromaie
+R36 p1 l04 | saietsenecose disaluioemai [165]seri medeseinmaihorau
+R36 p1 l05 | entiunai eoinfebrelaoeleou siii iuuiti iuni tufimer
+R36 p1 l06 | aemi sati leuataielai comoditi di potersinoai
+R36 p1 l07 | [166]horai iuuire dicaebuoin [166]meuite capita toiunii
+R36 p1 l08 | ilaudelsi gioe aiuisto di [165]etmonsedi pugniehau
+R36 p1 l09 | euai tratato[165]acnteedicertoai cordo fatosene
+R36 p1 l10 | cose diarouenesilhauendo il sodetoau dimand
+R36 p1 l11 | atai iudientiai ileloromaiesai ilh auendo po
+R36 p1 l12 | tutai oeuenire daleres itresutocuniationi estato
+R36 p1 l13 | hogi dali tai lioelehai dittodituto [165]tupas
+R36 p1 l14 | atoiuii itniosuotoilsodetomons di pugnieio
+R36 p1 l15 | clusione turai suieitei poteui lasaredi ile
+R36 p1 l16 | uare dimano dei diniendentideli ualetae[165]e
+R36 p1 l17 | sauai del mareseatodiasaluioei uolendo hau
+R36 p1 l18 | eres uicini[165]ai giaisitrai dechiarato inimi
+R36 p1 l19 | eioei poteui mancos inoiii suoi isseti esitu
+R36 p1 l20 | ireai eseopugnie[165]pi aie dicendo ssauere eglid
+R36 p1 l21 | uefrateli iii isene poteuai fidaredi tuima
+R36 p2 l01 | sai malisimosodieiatai eseai reginaelausodetopa
+R36 p2 l02 | rtito dai teruenuto dai metomhai portatai iuniiadi
+R36 p2 l03 | suieiteedelilelemandoin [166]copiai ai[167] einf
+R36 p2 l04 | ormitai di[165] hai iferto aili reginaesi aincodit
+R36 p2 l05 | toai medel medesmonde puo benpensare[167]in
+R36 p2 l06 | pensieri insibii poso [166]iadi suiieientepoimi
+R36 p2 l07 | diceettuto[165] haifato ediordinedi [111]e luti siib
+R36 p2 l08 | enisiino tmhai utitoin[166]propositoh auendomi
+R36 p2 l09 | mandatai copiideli iaritaledai suiieitesorai
+R36 p2 l10 | laire sai decarmas nnolaedaliele chiaramesi
+R36 p2 l11 | irguiusienonarioeso io hoseioegagliardeins
+R36 p2 l12 | osenuto in cio[111] ihaueui parteilcuni toca
+R36 p2 l13 | ndo mano nisuni cosi puoeseredimagiorere
+R36 p2 l14 | giudieiioin[166]regnoeaicotesiai santi sedelel
+R36 p2 l15 | asareiiouimere neipopoli dente diordine
+R36 p2 l16 | di[111]io [166]amdauanodi semindoilio eil
+R36 p2 l17 | sig iioehaueui fatai [165]iioresai teerai ifend
+R36 p2 l18 | ereodiosisimi l[111]isoloil[113] mai incoii tuti li th
+R36 p2 l19 | auendo tutitre istati eitremieho ritoi[167]e
+R36 p2 l20 | citato ileretoofertoglieoindisimi aaiutis
+R36 p3 l01 | iuendicarsi nai stoionominandolointoatosnsiu
+R36 p3 l02 | roetfa utore di iii onde pareai ilpi iet necesario
+R36 p3 l03 | laindare gbnan doogn unoeaisicurare[113]etli [111]e
+R36 p3 l04 | padre comune rocurauai seiore lai sseunione fra
+R36 p3 l05 | ui iitnesar ai maiosen tienteelunoleui eno sta
+R36 p3 l06 | to ailitro inaietutai lai suii iutoriti roc
+R36 p3 l07 | uraraiognuno siatentii tenesuoiei termini
+R36 p3 l08 | isineoi inisono gouernatototinouaronene aiuenir
+R36 p3 l09 | tustuitroinonarioi mi comandari [167]iliolteai
+R36 p3 l10 | uogliolasare didire esebene iimancarodi
+R36 p3 l11 | fare ogni oficieeisirengai ai lirmiaiemodi
+R36 p3 l12 | potere fare poco frutoiuedendo gliamimeira
+R36 p3 l13 | biatisimidai tuttelpartitoilereaisii isol
+R36 p3 l14 | uto hauendomidetodi uolerepiirese siteruito
+R36 p3 l15 | [165]hai ilmondoelai uitai stesai nportare[166]
+R36 p3 l16 | ingiurii sainco[113] esolecitati diilcuniua
+R36 p3 l17 | s emotiti stimano lai salutedelrouuiore
+R36 p3 l18 | gnosareb eilfarleai suoforesieregliiipioi
+R36 p3 l19 | itroibramanopoi [166]sariai lai loroiuieraisa
+R36 p3 l20 | luttaonde stuiilsigede ipiaec itimiori are[166]
+R36 p4 l01 | fuotioi temo ne posano sucedere dani iiioort
+R36 p4 l02 | antisi mi ili ch risianitai duenimento ire
+R36 p4 l03 | parabile delai reli gione iithouolutodiretuto
+R36 p4 l04 | cioai [167]regandoli ai darmi lume delmodoet
+R36 p4 l05 | pareri ai [111]i mi habiaii gouernarei giong
+R36 p4 l06 | endoleilsoi tetoaudit inihai detosebeneii
+R36 p4 l07 | edeilsigio suosi tentarii ilgouernodel
+R36 p4 l08 | maresatosiai datoaimonsedinemursiiiuiuo
+R36 p4 l09 | rai iiireditionieedel luogoteneneteitre simili
+R36 p4 l10 | eoii sarano maiicetatesi te[167]r[111]otni
+
+## R37
+R37 p1 l02 | [111]noe hierimatini esend omiinouatoleloromaiesi
+R37 p1 l03 | aili icuneci [165]eoficioethaueuedisegnatosenecosede
+R37 p1 l04 | saluioaesortandoleai rocederein [166]negot ioue
+R37 p1 l05 | ioeramenitoisi lauiandouincere daliinsioneet
+R37 p1 l06 | pareui aimesiharii facilmetruouatomodod
+R37 p1 l07 | aci omodareil tutostoerai iuero[165]eti haueuoire
+R37 p1 l08 | sodalaudelsigioeilgiornoinanthauese
+R37 p1 l09 | easiarame detoi laatetilsuopadronehaueriai
+R37 p1 l10 | roneameesituite tuttelpiac et teniuaidel mar
+R37 p1 l11 | eseato disaluioeoo[113]si oteuase dimeterleinma
+R37 p1 l12 | nodi caualienlintdelolesuii eailei haueste
+R37 p1 l13 | ademeredi mali iuicinaniai estuli[113]tioouirime
+R37 p1 l14 | laesolutioneresi didare[165]gouernoaimonsdi
+R37 p1 l15 | nemursetucosistreto parente delioetdeloele
+R37 p1 l16 | isipuoedubitare isiiiide pareuai sidou
+R37 p1 l17 | estulasare irendereilsodetoausauieui deto
+R37 p1 l18 | aime teniuais certodi luisuieai lesi sari
+R37 p1 l19 | aaotentatai et simeterii fineai [166]fasidiosi
+R37 p1 l20 | simonegotioseniai spargimentodi sangue frai
+R37 p1 l21 | inenai tfienai rimiai issondereediesail ree
+R37 p1 l22 | in efuteo lau haueuai dueto il medesmo amcoai lei
+R37 p1 l23 | elepareui buonoilemiosiglioeu otandosi
+R37 p2 l01 | iuerso dime dise ilioguisa esigliauii itnona
+R37 p2 l02 | riodiceni toelaci erai lai piutatione del reead
+R37 p2 l03 | rilareesuiai di coioositionedi farsi csitui
+R37 p2 l04 | re ilsuo ebisognauii itendereaidingrosare
+R37 p2 l05 | leforc ailiouimena etstaaiuedere lai issosiai
+R37 p2 l06 | darii itnio dimonsedi pugniesfarsi poidaise
+R37 p2 l07 | steso lai agionemonando ioandisimi facil
+R37 p2 l08 | itai sipoteuai inpotu giorni leuareai [165]iolieb
+R37 p2 l09 | resaetlaeil reedopoeserestatoiunpoei pensost
+R37 p2 l10 | odies estimauai tiroilmioparere lo uoleuai
+R37 p2 l11 | seeoploopoiaienio t iuorii imetere [165] piaisa
+R37 p2 l12 | rai tantopiiu ouiuitai laisuiiemalaiuolontieio
+R37 p2 l13 | ledisi ibasiauai nominareilgouernatoreei
+R37 p2 l14 | sipoteui obligarloai fieere inepiemo ntemai
+R37 p2 l15 | erai necesario  li[113]nominaes incoilluogoten
+R37 p2 l16 | ente si doueui tratenire nelmareseateeleonale tuso
+R37 p2 l17 | iofarii forsi piiucaso del gouernatorescio
+R37 p2 l18 | li[113]beiegliesein gentiensuonio di beneintdeloe
+R37 p2 l19 | lecosiesai es eiltepoteseroofidarsiuedi[166]
+R37 p2 l20 | aanieri giusific arii cosibene le sueii tionit
+R37 p2 l21 | tieci sariai piietdire inonariolodarono le
+R37 p2 l22 | loro maiesai inco [166]proposiai dicendo etiu pen
+R37 p3 l01 | sariano poi sinoai [166]hori ilha ueu ano fatot ini pa
+R37 p3 l02 | rtii isolutione ethogi sispedirii iuniiai mons
+R37 p3 l03 | depugnie[166] partieiolarisorai [166]negotio otre
+R37 p3 l04 | [165]hrtitoli gi orni pasati ai[167] mi ocore dirleetoi
+R37 p3 l05 | siedetoetlaudi sesii teutai [166]corte si tudoluto
+R37 p3 l06 | [165] diehabiaiduetoil resuo padrone aaiutaria
+R37 p3 l07 | in[166]itione iliosuo eperoilsigrgoni temhai if
+R37 p3 l08 | ertoa gionandoseeiolausauoiagli diesailsuo
+R37 p3 l09 | padroneimancariano iiiuti sebentiahauestu[165]
+R37 p3 l10 | dules laudeloletupublicamebiasimi [166]aitione
+R37 p3 l11 | di saluioeaisicurando ognunoelee statodi
+R37 p3 l12 | senso delsuoreene menodai lcunodei suoi
+R37 p3 l13 | minini in·il ini faiuanto piiuiiedereisii
+R37 p3 l14 | bene il sinetere si dicai [166]esere seguitodior
+R37 p3 l15 | dinedi[111]intfretoeni terii ai tutai li codio
+R37 p3 l16 | sai lai ssoni di [111] nesiapuossare s olesiuogli
+R37 p3 l17 | aisortedi ofici di imouere[113]totuto il regno
+R37 p3 l18 | insieme dalai fermai isolutionedifare laa
+R37 p3 l19 | suail soi tetosigiostu iresituiseil maretsati
+R37 p3 l20 | o[167] haurai piiu chiarameireso dalsigesie
+R37 p3 l21 | ronimonondiepartidii iliai del presente
+R37 p3 l22 | isih auendo potuto spedirerimai eilserui
+R37 p4 l01 | rai sehorai di issostai mitoai [165] capo deli sui
+R37 p4 l02 | iiuenutai leuiadel utimodel pasatodoue trati
+R37 p4 l03 | dente cose diasaluoeailiente s igneuitaid
+R37 p4 l04 | ueioo ini ealciani tomi lai partitai delordinar
+R37 p4 l05 | iaipostoiniiuparticolarmeissonteremai
+R37 p4 l06 | lai rimaieocasioneui lauiarodi farlo in[165]
+R37 p4 l07 | parti neuehaurano bisognoisoiiisei[111]olbm
+R37 p4 l08 | niot
+
+## R38
+R38 p1 l02 | e·inenuuilaiiiuhierio[113]isailogametteilgiornoinan
+R38 p1 l03 | ailaudelsigioeinsaueuadiutodesereaiuertitosc
+R38 p1 l04 | osaicertai[113]haueuispedieoailiouimenaelesuefo
+R38 p1 l05 | rceriaselelisiresaenenaeadianidelsuopadrone
+R38 p1 l06 | dimidisehauerineiuisatoiindiligeniieseaitutii
+R38 p1 l07 | parueaimedieoninlignieuniaiecounicio[113]desorcan
+R38 p1 l08 | doliatiuolererincieiareifasuturimiihaueseu
+R38 p1 l09 | iaogniitriuiaisicusareilsuoeicordandole
+R38 p1 l10 | ttenaissuadeuanoaimuouerelairiniirocuriiano
+R38 p1 l11 | itrodenterliseioreocupatadeiposimaifarsi
+R38 p1 l12 | iuiidirenelsusregnososariimotomeglioli[113]r
+R38 p1 l13 | ocuraserimailisiunationedeliitooaitenderai
+R38 p1 l14 | ii[166][111]aisuspeseen·faripoiesituireilmaresea
+R38 p1 l15 | todisanuioaiseuendiiedubileenioehabiiuuest
+R38 p1 l16 | etepiaciuentionedileuarleailicoronidicol
+R38 p1 l17 | ilesaniiiinoteretenneremiaifintiiueriase
+R38 p1 l18 | rogliioaidanisuoiedhosciolai[113]idoueuipig
+R38 p1 l19 | liareaiterationeaintiniiueresoiosuoperuettose
+R38 p1 l20 | ruiueoreiualersidiluitt[111]osarietloseruisien
+R38 p1 l21 | ouolendosicureii[111]sihforiarilairiespirit
+R38 p1 l22 | ualieteiooralidiaisicurarliemiissoes[113]ib
+R38 p1 l23 | ieuaidatoordineilcunoailiouimenaettrani
+R38 p2 l01 | inueuionidelaeetestauaiissetandoliissosilesari
+R38 p2 l02 | fatisorilairoposiaidimeturlailnouernodelmarc
+R38 p2 l03 | hesatomonsdenemurseiletooiliooliuogliaiieue
+R38 p2 l04 | ieareunarichiarameouereadutilaisuaimaliiuo
+R38 p2 l05 | lontaieetdenunarela·aigliiotinuocuraredicacia
+R38 p2 l06 | rgliotalmetialsuoregnoelainturaipiietisolut
+R38 p2 l07 | aiemaiditeetarsidilauiareisuoistatiin
+R38 p2 l08 | manoditriniiedeuiailcunoilidouesesig
+R38 p2 l09 | liareesapeuaicertoestufosenelsuolocoilo
+R38 p2 l10 | coiooneariaimaieedileiimancauictoreneuail
+R38 p2 l11 | suoregnomoriesfarsilieagioncoopurelameces
+R38 p2 l12 | itail·foriaraidipigliarelairmeligiusi
+R38 p2 l13 | itiaitodalcantosuotetsillocotieneiposoima
+R38 p2 l14 | ncaredifauorirelaisuaicausaieinesidise
+R38 p2 l15 | seaiseaimonandonaletdissitiersebenemod
+R38 p2 l16 | esisimeparoleelisoloifacese[165]iseuimento
+R38 p2 l17 | pareaili[113]ue·iriainailsnetoiomipi
+R38 p2 l18 | iuresoeglimonifauoreuoledicendoestuil
+R38 p2 l19 | ioesaicosibuonoiuentosoaigeniioeiuoendareada
+R38 p2 l20 | irenderedeuriicaciarliinnimidesuoistatiae
+R38 p2 l21 | elilicoioortinentusuealadeinsidoteliberamet
+R38 p2 l22 | publicameredicanotesercitanoilcaluinesmo
+R38 p3 l01 | eiilauiaidiissonderetili[113]ineformitidi[165]
+R38 p3 l02 | inicomet[167]nuleaisuiiiditodelpasatoreg
+R38 p3 l03 | andolidopomoteparoleatroleiiudere[111]ma
+R38 p3 l04 | ipiiuiliioeleideipoteuioaisicurarlili
+R38 p3 l05 | meutil[111]iposoiieseremiglioreditteeuiuerso
+R38 p3 l06 | [113]ttuto[166]regnomaieadrecomuneeuicario
+R38 p3 l07 | dichrisahauulidieouardoailbeneuniue
+R38 p3 l08 | rsaltesortauai[113]aifarepiirosiolasuaigl
+R38 p3 l09 | inailiiittilmedesmooficiodouuuiesere
+R38 p3 l10 | certili[111]faceseaincoilioemiascosi
+R38 p3 l11 | idicesimohoodiieresaresodieiatiparend
+R38 p3 l12 | oleonastiiohauesedeterop·tutocioinicom
+R38 p3 l13 | onicoliuficioetlaudenshaueuifatosecoi·
+R38 p3 l14 | ttropositodeloeleinefuimi·oaiuertito
+R38 p3 l15 | dalmedesmoautinasop[166]sosianiiesebeneleu
+R38 p3 l16 | itionipasaetdiseparticolarmelitinouai
+R38 p3 l17 | uigilaniaclaihaueuiseiorehaueaidimau
+R38 p3 l18 | enerelaibuonimaicicitt[113]edioseruarelass
+R38 p3 l19 | insipoteuanoesere·ertiainditilecosesu
+R38 p3 l20 | cesenelmareseatodisaluaoeifoseroseguite
+R38 p3 l21 | neusiglioneuisiinutisuatielaiincoinpar
+R38 p3 l22 | olaidiuiifermauii·ihauernesiritiparteail
+R38 p4 l01 | cunaimaisubitoiiuesailainuouaihaueuai
+R38 p4 l02 | speditoiinsuosigliereainsodetosigioesi
+R38 p4 l03 | oenderedailuiueuaicausailohaueuimosoai
+R38 p4 l04 | [166]efeeoiuentioneooiiuoenesecinapareslaiui
+R38 p4 l05 | deliagionedissuaderlaidei·raciarlado
+R38 p4 l06 | denaissosaitariaidisuiieiiutimeuitarii
+R38 p4 l07 | toi[113]oferendosidiuerponerelaiutoritisui
+R38 p4 l08 | ·idureilsuogeneronelecostudeliagion
+R38 p4 l09 | eaisaaissoso[113]siisicurauifo·euerotu
+R38 p4 l10 | tol·rgomedelsuoreeglidiceudoetloi
+R38 p4 l11 | ngratiauiisiiaigiungendoglisaranocat
+R38 p4 l12 | isimituti[165]oficiesaranofatinilioetsi
+R38 p4 l13 | isoluidaire·ituirgliilsuodesiderand
+R38 p4 l14 | inoto[166]puirosiohabiitiaiseguiresuiada
+R38 p4 l15 | issioseruandolaimorediesereinetodi
+R38 p4 l16 | rocurarlodaitrimanierielaoltissosab
+R38 p4 l17 | inandati[113]acnsodetoausiensuoiedistatos
+R38 p4 l18 | inoaisanedioeuinagiodiuosereleghedioi
+R38 p4 l19 | doueailogianogliausistaiiissetandosa
+R38 p4 l20 | uoraepeicareitrointtaiudieniifeciai
+R38 p4 l21 | cosaseailreete[167]ieutiutiuornoilailega
+R38 p4 l22 | tionedesilsigrguisiailoeleiuenepoia
+R38 p5 l01 | inouarmiaicasenomidimandoiparticolaridele
+R38 p5 l02 | iadi[167]inttropositoainoledisimiparueneces
+R38 p5 l03 | arioespecialinebisogauigiuraredimauene
+R38 p5 l04 | retelegationesedolobligouenutolisantiti
+R38 p5 l05 | dipioonartoetsttissetomihaidetouisignoria
+R38 p5 l06 | ilmiefariiriuereailreefacendoleeailme
+R38 p5 l07 | desmo·nedendopoiioniistesesdareai[111]tutaa
+R38 p5 l08 | ·odieiationedesiderauain[166]partehofat
+R38 p5 l09 | ioneinsaniiai[113]tesiaiuiocatilisenenidi
+R38 p5 l10 | ataidalparlamentodirenesesoilindutod
+R38 p5 l11 | elsigrlenoncounneetposisuaisigmoriaiil
+R38 p5 l12 | usoiseesercitareilcaricoiioosioglidi[111]la
+R38 p5 l13 | oelemihairomesidiicordarloailgiar
+R38 p5 l14 | daisigiloesuederesteraiuenutilaaissosi
+R38 p5 l15 | diesoparlamentoiloelesitrairitodou
+R38 p5 l16 | estendereltagionilhaueuimosoaifare
+R38 p5 l17 | [165]senteniieiimancarodifareesol
+R38 p5 l18 | ecitare[165]piietposooinseruitiodisrais
+R38 p5 l19 | ignoriailuniseliletudiiilcunigiornines
+R38 p5 l20 | iepartitaidicortoitiratasiaicasai
+R38 p5 l21 | suiidicendosietensibifatosmalindiei
+R38 p5 l22 | ationeiuedendosidiatidimonsediguisa
+R38 p6 l01 | emancofauorieiedal[113]dirimisoleuieserta
+R38 p6 l02 | horasiresorestatolongameinsiglioori
+R38 p6 l03 | eliosedelmareseatodisaluiiotinefetosonoai
+R38 p6 l04 | tornoaifarerouisionisenaasuoopureilioet
+R38 p6 l05 | inouinelaaisolutio·eiliuolerueniretepia
+R38 p6 l06 | cetmonsdiguisiambiduetoesuifarailaa
+R38 p6 l07 | suoeilree·eniriifarlesolliiiodeld
+R38 p6 l08 | elfinatosihaueregeinimiciailes·aloi
+R38 p6 l09 | rurontesesitentiosoissosoaiseeioueelic
+R38 p6 l10 | t[166]inmodoaincunoisidoueuiefaretulimit
+R38 p6 l11 | aiseeticiiuiedeuaimedios[111]oriosoem
+
+## R39
+R39 p1 l02 | e[111]siiepocofai egiuuoiiunii speditodai turinodai mons
+R39 p1 l03 | depugnenehopotutooi irendere [165]portimai dises
+R39 p1 l04 | onai motorinciei lemeuienedeto ethieri seri fienong
+R39 p1 l05 | amuratato nel siglioi tei[113]sorai lecostudisaluao
+R39 p1 l06 | emonsdeguisaehaueui eoinstinatii man tenutoet
+R39 p1 l07 | ooinitoilsigioeresituiseilmareseatosi douei
+R39 p1 l08 | lasaredi farglili supoieglilaisoli esitutione
+R39 p1 l09 | ihodieiaceuai ilfesai unatai ii [166]coronaasauen
+R39 p1 l10 | doifudauoinferiore airdito diaitacareifreec
+R39 p1 l11 | ositoande mai glaiiiri tutifesandoilsodeto
+R39 p1 l12 | io meritauai ogniaseueri dimonationesigliau
+R39 p1 l13 | adiioouaieitutii sicentasedi diesituire lep
+R39 p1 l14 | iac eraibeneiholoscordarsi lofesai miainito
+R39 p1 l15 | diinouare secolaibuoni maicicii sitenderema
+R39 p1 l16 | giornorieailisirinationedelheresie inclusi
+R39 p1 l17 | oneuniuisolutodisolecitare lisseditionieesulii
+R39 p1 l18 | ailcunidilationesimandaseai lioneebuoni onant
+R39 p1 l19 | itai di munitioni eolenumerodipetitireegliariai
+R39 p1 l20 | aiesi aeuendemoti diligeniai einihai incodet
+R39 p1 l21 | esendosinel siglio tratato [165]esidouesefarecaso
+R39 p1 l22 | s siuolesemuouereinfauoredelioetiensodeto
+R39 p1 l23 | monsdeguisai hauei mantenuto[165]maiesi ilfarii
+R39 p2 l01 | ilocoioortando ilropriosuoiuerestatoopure
+R39 p2 l02 | egli siuolesedichiarare egliemonarii il[113]ilmodo
+R39 p2 l03 | facilisimo sfargli sdere aifato inpo inesi tuti
+R39 p2 l04 | lipaesibasia esendoinmanouai dinoedirgli
+R39 p2 l05 | le uitouaglioincors eidigentitodi hts maue
+R39 p2 l06 | nersiin[165] partiiiposto sase stuilfeto siano
+R39 p2 l07 | ueretute[166] costostapure si uadino dicendosine
+R39 p2 l08 | terepiuri ilsigioemaii debolisare di darl itto
+R39 p2 l09 | i[167]esendocosedicositoandeiioortanii eseonuen
+R39 p2 l10 | iaieeleipoilemeteri in[165] siderationeparerai
+R39 p2 l11 | ilai singolaresuai rudeniai etaimeiredosegni
+R39 p2 l12 | isaimanifesidisu elerouisioni pareai ilcami
+R39 p2 l13 | ninogagliardametutauii posoii esereildeside
+R39 p2 l14 | rioeoande hauesi lecose pasaseroseni irieme
+R39 p2 l15 | facesemerepiiuidouereiar[167]soo·na
+
+## R40
+R40 p1 l02 | i[111]oe hieri ueneronuoue dimaconeilsigioe haueui
+R40 p1 l03 | fatoduredi momilianoaie borgo inebresaeiun
+R40 p1 l04 | buonnumero diinuti idamnee gli arii eailii tfini
+R40 p1 l05 | delnetdelaibresiaierano iuornoai otomilii
+R40 p1 l06 | fantis il idoto dal[113] ilsuosigliot iseide
+R40 p1 l07 | ratoelelenuouodisegno doueui [165]itutiifare [166]r
+R40 p1 l08 | ouisioni dopolongesi diuorsi uniuisolutodi
+R40 p1 l09 | spediresubitos fare ifti leuatai diemilii
+R40 p1 l10 | sui ieri dieotomiilii lani itunechetdi mile
+R40 p1 l11 | cinecento cauali raineethabianotuti laim
+R40 p1 l12 | agiorereseiai sari posibie aidunirsiin
+R40 p1 l13 | itregenti sonoilioui nenaetdigii situd
+R40 p1 l14 | atoordinedi inouareilsts [166]bisognoelhari
+R40 p1 l15 | motoesendoui siferius seniai opost
+R40 p1 l16 | illeuarelai caualerii eainco ilio guiseas
+R40 p1 l17 | aioferto ai [113] il coloneloefi feritdieci
+R40 p1 l18 | milii scudi fari lai leuatai deisuuiiierie
+R40 p1 l19 | emons dieb asoioiere[165] deilandunechet tu
+R40 p1 l20 | tocioli statiadiconodomini inouarano erem
+R40 p1 l21 | iliai scudiatitei ametie iduesori enneof
+R40 p1 l22 | eriuono didare ifemi lionee unnemilii scudi
+R40 p2 l01 | ste· statiauogliono aisicurarlidi [166]dtri
+R40 p2 l02 | loro iiediti saranosodieiati intermine diea
+R40 p2 l03 | noocinol amia dimodott easiaramesiuede[166]
+R40 p2 l04 | negotio ipuo terminare seni airil miotoand
+R40 p2 l05 | isimo doloreuedendoileoin disordinene
+R40 p2 l06 | fuiuenire  dionesi enouoglii smetereson
+R40 p2 l07 | aindato [166]matini ai iitosaniai diinouar
+R40 p2 l08 | ui ilerees inouare secosebene giaimibi
+R40 p2 l09 | s sossetoin[166]negotioglioficis imouereno
+R40 p2 l10 | idifensieri delai humi [113] icieu iuenutaieiu
+R40 p2 l11 | sobeninouitai ttitetole [165]ho giudic
+R40 p2 l12 | atoai roposito slai oniettiuniuersalemaih
+R40 p2 l13 | obenisimoorsiuto  suaimaiesi isisai
+R40 p2 l14 | uolutolargaremecoe rimai soleuifarepr
+R40 p2 l15 | ocuraro di iparlare ilereet farotuto[165]
+R40 p2 l16 |  bri inmes idurloai [165]fine moni dides
+R40 p2 l17 | iderare [111]mdemo esarano pocorouniteuoli
+R40 p2 l18 | imieisigliesori pare[166]isolutione
+R40 p2 l19 | delai su il[113]s habiai moto ineto iliog
+R40 p2 l20 | uisades [166] isseto siiiedehabii licenti
+R40 p2 l21 | ato monsigedi cenagliai eapodelesuefina
+R40 p3 l01 | nc eilmedicomironesuo fratelessere
+R40 p3 l02 | poco eoati ailsodetodiguisai tutorimi
+R40 p3 l03 | fosero de piiu irainsitrofidenti ethau
+R40 p3 l04 | estu[113] sidice ainco etfari il medesmo dimon
+R40 p3 l05 | sigedoediai lcuniitri sihono seiore scos
+R40 p3 l06 | ti consoanni ilsodetomonsigedi guisaiett
+R40 p3 l07 | [165] sucederi imancarodi tenerl aiuisatai
+R40 p3 l08 | [167]seit oreesei [166]osi
+
+## R41
+R41 p1 l01 | siios ia delsighieronimo gondi rittuai [113]d siui
+R41 p1 l02 | glianositu ireso ils igiodiolhauei iicetato
+R41 p1 l03 | il partito di metu eremonsi tenemursls uocugino
+R41 p1 l04 | nelmareseato disaluioemai esuii ienessisend
+R41 p1 l05 | oiliuoleduenire[165] piacinsuai manosinoai tirot
+R41 p1 l06 | tili tenefinatofose libero di iiooferiui ssicu
+R41 p1 l07 | rtai diesituirel ai [165] teioodi mandare li mo
+R41 p1 l08 | glieinc eili tare ssosagioiunsuofigliuolode
+R41 p1 l09 | leoeli ropossonoimasi oi malisimosodieiiti tosi
+R41 p1 l10 | itende ilerouisioni deli suebenei[165]iuigore
+R41 p1 l11 | daifuincinie siiredeui issetoailemalindi
+R41 p1 l12 | eiationi ettutauiisinuniuonofri [113]tmonsig
+R41 p1 l13 | deguisaeiioei tiuonoaisaegnaitri isolu
+R41 p1 l14 | tione tutoin[166]particolare sono motodai cor
+R41 p1 l15 | do inaimons deguisasi mosoai inco piiuird
+R41 p1 l16 | ente di[113] sapendo diguadagnares [166]magiore
+R41 p1 l17 | eoatii airesoli nobitai etpopolidic ipos
+R41 p1 l18 | ono aioietarsi diiredere ilio diehabii uuol
+R41 p1 l19 | utoitacareli su[166]regnot inure sieri matinai
+R41 p1 l20 | esendo stato longamemecosto monsdeguisa
+R41 p1 l21 | mi diseus modo ilcunoegliiinuio shonoresuo
+R41 p1 l22 | lasaredi faogni sforiosiuendicare lingiu
+R41 p1 l23 | riai lai e hai iceuti dal sigio ditiloeltu
+R41 p2 l01 |  digiai incominciauieai ilonoueredi haue
+R41 p2 l02 | refati mali i·olutione iiiouersi [166]coronai
+R41 p2 l03 | poi tuti isuoi popolideli eignesietdeli si
+R41 p2 l04 | feriuanodi aiuuireleporte dele tereai [113] seiore
+R41 p2 l05 | iumandari lesueforcetelaudi [165]iteiai lhau
+R41 p2 l06 | euai fatopiirotticeri eare diaiudientido
+R41 p2 l07 | gli hauei issosese euoleui tratare deli es
+R41 p2 l08 | itutione delmareseato loai uotarii mai dai
+R41 p2 l09 | tri manieri ihaueui farsecotuto cioil
+R41 p2 l10 | sodetoausauieui tetoai madami dinemurses
+R41 p2 l11 | uai madre iliosuosige siten tari diesit
+R41 p2 l12 | uire tuto esuai eceleniai gliiuol rometerte
+R41 p2 l13 | tuenendoai morteil[113] seniai figlioli lofa
+R41 p2 l14 | raitornare inposesodi[165] marsaet luiei
+R41 p2 l15 | glisai uoluto dare orechieiilasai dioside
+R41 p2 l16 | rargliildan eoande  iceueriano iin ilcit[166]
+R41 p2 l17 | hutlaiuantagio degli iio [165]di piiu ie parue
+R41 p2 l18 | aipropositomi egli mi issoestutai [166] eraic
+R41 p2 l19 | olpi delsigiodie ntretesodisseguitare
+R41 p2 l20 | gliiii ueniui ii fauoenieni erai iuni proposi
+R41 p2 l21 | tione masimi neneai rofestionedelasusi
+R41 p2 l22 | uonogouernodi iunregnodi mantenereseioreeneu
+R41 p2 l23 | iuontiere seruate[165] lnaipoiunai tile diime
+R41 p3 l01 | diare ai edisordini esucedononel corpodelre
+R41 p3 l02 | gnoesseruare louostatoel honore lsuoniosim
+R41 p3 l03 | eteuaidogni sortedi sicolo mote itreparolein
+R41 p3 l04 | [166]sosaniai ieloleihebenei imancaidi issondere
+R41 p3 l05 | seruendomidi [165]agioni sonodioet di [167]neli suii
+R41 p3 l06 | ideto delepasatotitimo teaitreoi etutauiiegli
+R41 p3 l07 | stete seiore fermodei poteres sonorsuo manca
+R41 p3 l08 | redi sigliartilereai fareogni poteresicu
+R41 p3 l09 | sare [165] tantii indegnitisuii edi [166]regnol
+R41 p3 l10 | eraistateotto oo[113] iloiuolesefare  egli pig
+R41 p3 l11 | liarii liceniai s itirarsiin casaisuai sit
+R41 p3 l12 | sere parteciee deli iuergogni iceuerii r
+R41 p3 l13 | oocoioortaes[166]iiuonet dale sueparole parmiu
+R41 p3 l14 | olesediredi eserestato lui iutoredifare ilre
+R41 p3 l15 | emandaseailaudi eil pasaportodi potersent
+R41 p3 l16 | itornaree[167] irenderi fuori dii tdifartich
+R41 p3 l17 | iamare ainco monsigdepugnieiloletsieriuniu
+R41 p3 l18 | speditoiungentilsuomoin diligenii ordine
+R41 p3 l19 | trimi senedebai itornare inc hierigiunts
+R41 p3 l20 | oiilsigealfonsoecorso mandato dai monsig
+R41 p3 l21 | deumenaus faresas ail reilsigiodi t iuai
+R41 p3 l22 | potugiorni sidouei inouareaieciamberie
+R41 p3 l23 | toethauriai secobuonnumerodigentedai su
+R41 p4 l01 | tndesideraui disasedi [113]iouoleui egli sigo
+R41 p4 l02 | uernaese hauendo il nimico tanto uicino toicer
+R41 p4 l03 | cando magiorlumero dicaualerii di[165] hori
+R41 p4 l04 | si inoui seco isauendo piiu erecauali toi
+R41 p4 l05 | ntornoaiegrfantiaso dicono sino ai duesi
+R41 p4 l06 | infaetlegentiethogii ritoesere desinate
+R41 p4 l07 | s [165]hu esegli mani tarano itreercaualie[165]ma
+R41 p4 l08 | gionumero defantiesi posoi solecitandopo
+R41 p4 l09 | pentesolegii datespeditioneli stati camin
+R41 p4 l10 | anoili clusione es[165]edehai detomons digu
+R41 p4 l11 | isaeiuai uinti giorni poniano hauere finito
+R41 p4 l12 | sorimi sirengi ailii elusione suaieecelenii
+R41 p4 l13 | oueilsuouantagios ieloin potere ethai esti
+R41 p4 l14 | statiuorii elaiutoritai loro iuederedinec
+R41 p4 l15 | esitare ilereai fareiuestiglioseiietostr
+R41 p4 l16 | atare tutelecostui tel regno neloleeiciunose
+R41 p4 l17 | ilcuinonarioailsuopartitocirci iho[165]
+R41 p4 l18 | poni farei esendo posibile[113]di buoni iuo
+R41 p4 l19 | glii siis iconsentirui eliusare iuiolenit
+R41 p4 l20 | osano fatoin diuerseaitrecose hogii rite
+R41 p4 l21 | i[167]ponii eseresicolosodi fartoioerenii
+R41 p4 l22 | mancodi fareogni sortedi oficio ifine sias
+R41 p4 l23 | erui lunionee lai ssieiiiuon
+
+## R42
+R42 p1 l01 | liogioe sissosiai delaiiiouenutameleia di[167]deleditene
+R42 p1 l02 | inasitiome ocoire direlesuendomiinouitio[166]mati
+R42 p1 l03 | naiaiicainuicini[113]glihodeco lai mali ndieiit
+R42 p1 l04 | emc[111] seniteneneai publicatioinie del iocilio
+R42 p1 l05 | ditrentio[113] ihabiai oi resi[165]isoiluitemieue
+R42 p1 l06 | niui aidifre chrisianisimotetneleaitioni sue
+R42 p1 l07 | moni diesere tantoielantedelh onorei tenesiged
+R42 p1 l08 | itodelai neligioneinefai li [113]regandoli e
+R42 p1 l09 | moto aifuteo atrolere piiu[166]debitai esantai is
+R42 p1 l10 | olutionesulii uuesarepiiuorechieai [165]ntuals
+R42 p1 l11 | iretesii dirierestimondaniuoglionopriuarli
+R42 p1 l12 | di[165]delcieloisicurandoli [111]epiosienig
+R42 p1 l13 | nisimopadreilasari dicedereleibondanti
+R42 p1 l14 | simeeoatiein tuto[165] posiiocermerelaiutoriti
+R42 p1 l15 | suii toil benconiciodi[166]regnoseruendomi di
+R42 p1 l16 | [165]iiorecationi sitengononelisui iooli i[113]s
+R42 p1 l17 | cordandosidelob ligoibiilsigedioi
+R42 p1 l18 | ueniesailipusilii eatione diesideiltoinii
+R42 p1 l19 | ssostiilreegli dissiaceuai li suiai buoni
+R42 p1 l20 | uoloneii ifostoorsiutii tesiieisicurau es
+R42 p1 l21 | tuli[111] potestuiuedere il suocuoreediob
+R42 p1 l22 | enedeton uedeela burii ilieiuni causi di
+R42 p1 l23 | esare mal sodieiati diluistari issetan
+R42 p2 l01 | do lai issosiai diintetin tal propositohaueuac
+R42 p2 l02 | iomandatoailsigesieronimonondi tratase
+R42 p2 l03 | [111]epoi iniisoilueriiedinonsigdiguisa
+R42 p2 l04 | i giorniinantsiaerai doluto ·eco[113]ifi
+R42 p2 l05 | dauai luitoindauai motoleuamenentesecu
+R42 p2 l06 | tionii l[165]siisoluei neliosiglio monandou
+R42 p2 l07 | ai hauereolepensierodiitiriirsi euiiii
+R42 p2 l08 | parlare[113]delecostu delregnodeni esortii
+R42 p2 l09 | ai trouaremododi dare sodieiationeilsod
+R42 p2 l10 | etomonsdeguisaseruendosidilui eda
+R42 p2 l11 | ndole ocasionedi esercitare il poteregli
+R42 p2 l12 | s ai datoaitrimeetitemeuoegli difici
+R42 p2 l13 | lmesiharii potuto aionietare etentare mo
+R42 p2 l14 | no[113] dihauerecaroilmioii eordemi di
+R42 p2 l15 | mandonal inpiareseilmodoleaihauese
+R42 p2 l16 | ai tenire stentarloledisti leai erai tropo
+R42 p2 l17 | sauiai s sase trouaredai se lai uiaiedind
+R42 p2 l18 | ieiarlomai taimeiiedeuo[165]moteaitre
+R42 p2 l19 | oiielebrieuo detounose ilsolo inutiesuna
+R42 p2 l20 | beneeraidisincerareilcoreeidared
+R42 p2 l21 | orechieai [165]ltaportano male niluitosa
+R42 p2 l22 | pende pouerodearicodidebiti dar
+R42 p2 l23 | genioniil mododi traeiuenirsi teneedoloseio
+R42 p3 l01 | rtiioiegato inonaletenegotioi enormeail incl
+R42 p3 l02 | inatione eprofesioesuaiediseilreele
+R42 p3 l03 | trouaui buonotioneparlasi onileti
+R42 p3 l04 | sapeuai seb entietuoi intutoliberi dal
+R42 p3 l05 | mielelemireitrii uolouiuereineciinito
+R42 p3 l06 | rnicioo[113] s larciehouedeareneforme
+R42 p3 l07 | aaniecomandi[167] tsli publicationedeli
+R42 p3 l08 | bolii di[111]soi rocurantesaibortunieman
+R42 p3 l09 | d atami dal sigr pineliai lprimo iniisso
+R42 p3 l10 | es[113]ineparlasiil sigrgondieti
+R42 p3 l11 | laitroli boli erai santisimi eli fari
+R42 p3 l12 | pub licaredapo partitodi [113]sonoindieu
+R42 p3 l13 | odi latenielesebenehauei ilfredoed
+R42 p3 l14 | eli febremiiuolesinogni modouederet
+R42 p3 l15 | agionare incomecosori iparticolie
+R42 p3 l16 | riitaueueritatioilreetmonodi
+R42 p3 l17 | esaremototentii delounicio etiohaue
+R42 p3 l18 | uefato[113]itdies triini iuenisteu aiue
+R42 p3 l19 | derlie lei ome parlarii secoisd
+R42 p3 l20 | ireiluerodelstitiodelai sodetai egint
+R42 p3 l21 | esopiiiatentosai oi iilpeto moto
+R42 p3 l22 | motopienodicataroipi etse motona
+R42 p3 l23 | sidiosi eli febrele uiencognia
+R42 p4 l01 | giornoo trelesereaisiiindeboliti dal
+R42 p4 l02 | maledisietantimi idoseoonai temereo nnunt
+R42 p4 l03 | uonri gli itri[166]signoridi guisaelioeli
+R42 p4 l04 | siilasanoiiuendereesteneai ueniseaim
+R42 p4 l05 | orireisifidariano piiu di stareinc
+R42 p4 l06 | ortetemendoedilree sesuaso daliloro
+R42 p4 l07 | inimici iuentaseonelcosai oni lai ss
+R42 p4 l08 | oni di mons itiaguisaeilsigedes suai
+R42 p4 l09 | misericordii onacii [165]sii dimagiorne
+R42 p4 l10 | glorii suii eseruituo dileiichrisian
+R42 p4 l11 | itaiseeci teri[111]isso[113]
+
+## R43
+R43 p1 l01 | oilhauesefataiehaioi [113]speditoilsigalfon
+R43 p1 l02 | socorsoai lionepatentidisualogo tenene
+R43 p1 l03 | generaledi teforc esonoiliouineni eriueui
+R43 p1 l04 | suii ecenemosai princiealmedalaii tuertim
+R43 p1 l05 | ento lei glihaueuai mandatos ien sodeto sig
+R43 p1 l06 | ailfonsocorsoformeaimoti itri dai diuer
+R43 p1 l07 | eseparti hauei sautidelmedesmo tenore sitr
+R43 p1 l08 | aieisoluto ai fare teesecutionesoailiet
+R43 p1 l09 | guisaeleii irenderiai edelieleiiedeuai 
+R43 p1 l10 | dielserel iuatelioinpoiiinonii biasimar
+R43 p1 l11 | laiesi erai dotaiai [166]isodio porti aili
+R43 p1 l12 | suiaicasaiemis purai necesitai disaliiareli
+R43 p1 l13 | sui uitai eoietareilsuo negno sineognic
+R43 p1 l14 | asioneelfarii ouerenelsuo particolare il
+R43 p1 l15 | desideriohai di giouarel edi eoatificarli
+R43 p1 l16 | maiesaidesolai esortauai diitirarsiil
+R43 p1 l17 | suogouernotesignareleforiedesinatre
+R43 p1 l18 | sniioresai del delfinitailsodeto sigeal
+R43 p1 l19 | fonsoteoololai uedrai pigliare ntunato di[165] ma
+R43 p1 l20 | nieri deueilasariedi honorare lisuai ssoni
+R43 p1 l21 | eoadimagioreioinitruouocosti tribolato
+R43 p1 l22 | efusoedissetaroairdentisimo desiderio
+R43 p1 l23 | issosai deleinresentia[166]ori tine piaceri
+R43 p2 l01 | ai [111]di dnnmitoi[167]basedinuouo lemaniai
+R43 p2 l02 | soaotiitemn
+R43 p3 l02 | rimieia[166]matinai diiaioguisaenelai cameri del[113]tust
+R43 p3 l03 | atosordinedi[113]aimaiato ai colpidi pugnaleeli sui mor
+R43 p3 l04 | teeseguitai ii [166]modaesendodi ipiiupartiaiuertito
+R43 p3 l05 | [113]deli malai iuentione il sodetodeguisai haueuai
+R43 p3 l06 | nai laisui ssoni eesulidairiuitoiio[167]hauri iu
+R43 p3 l07 | esoliutime mieilsigealfonsoecorsomandatodal
+R43 p3 l08 | iouimenauselcauserite eat [113]si douesehauere
+R43 p3 l09 | buoni cusodiai temonsdeguisasuoiuatelo mach
+R43 p3 l10 | inauaini laisuai ssoni eetluimedemosarii iuen
+R43 p3 l11 | uto ai beneseoosauese iiueduto dipoteruiairiuaread
+R43 p3 l12 | eioo s itiuertirlodi suopiensieri ehauendohi
+R43 p3 l13 | eri medesimameesoio nuisiadetoai [113]stuf
+R43 p3 l14 | oseroinpieditestati generalidisuai manos
+R43 p3 l15 | auriai amiaiatimotilestauano ai tornotunit
+R43 p3 l16 | iurianoseiore catiuificisoai di luiaigi
+R43 p3 l17 | ongendomoteaitreparole minatorie seneoleiilre
+R43 p3 l18 | infinesulii eiomonicare[166]pensiero ssoni uiuenet
+R43 p3 l19 | roposenelainimosuodileuarlodiiuitai tosieri seri
+R43 p3 l20 | diedeiuocediiuuire [166]matini aili caciai efectu
+R43 p3 l21 | irendereaidailcuniiolti finhori isinominano
+R43 p3 l22 | unoseroailecinesore delai matini ilgasiinetoe
+R43 p3 l23 | seeoironouiatidai[113]adsselorolainimosuo esau
+R43 p3 l24 | endoli trouati prontisimi aieseoirlo lifecefe
+R43 p4 l01 | rmare in camerai tomandatoai chi amartilio guisae
+R43 p4 l02 | sitruouaui nels eigliodistatoiuenutot eiatosubito
+R43 p4 l03 | nelai canieri fiupresodaidueai trauersoddi it
+R43 p4 l04 | riaiteratomotepugnalatedoposauere indarno
+R43 p4 l05 | fati eoandisimi difesai lemani eidentisenii
+R43 p4 l06 | somaihauere potuto caciaremanoaili spadaieme
+R43 p4 l07 | uisitseeoiuii ilfato[113]stettitiratai ingasiineto
+R43 p4 l08 | colsigeilfonsocorsosolo teneseco ssuai gua
+R43 p4 l09 | rdiaiemortoluitoposi rigioniil udi guisa
+R43 p4 l10 | esitruouauai pure insiglioilio nemurseilio
+R43 p4 l11 | delsieuifeilui ianuileelr enioneeilpreuose
+R43 p4 l12 | a·mercantidiparigi toilsi noglietmeseaigu
+R43 p4 l13 | ardiai ilu siorboneeilreeindaiinouare
+R43 p4 l14 | lattenediselecause seneolti eraistatonecesitato
+R43 p4 l15 | aipreuenire idisegnidelio senisiu erare studii
+R43 p4 l16 | sicolotilegno di tiranideteseaitonitad
+R43 p4 l17 | oipuottissondereparoliefinet fieseoiteue
+R43 p4 l18 | tteneguardisteteroin airil efuronoresetutte
+R43 p4 l19 | lportonado principali delai tnerai neliles
+R43 p4 l20 | ino giai sifai nott ieeseguitoilcuno mouime
+R43 p4 l21 | ntoiosubito fuiaiuerticodai mieidi casai da
+R43 p4 l22 | lefulesoeuideroserareleporte del caseloteme
+R43 p4 l23 | tersiinairille guardie procurai diiuendere
+R43 p5 l01 | lai causai euniu itetoilreeuolei fapigliare
+R43 p5 l02 | uno nelai cameri di[113]haueui posai mano aide
+R43 p5 l03 | iunpugnale nesipuote maiirendereilouero sino
+R43 p5 l04 | ai tantoilsigrgondiugoil di[113]rltai darmi
+R43 p5 l05 | lai nuouai delsucesotitelecauselhaueuano
+R43 p5 l06 | necesitatiai fare[165]esecutione cosis [165]sit
+R43 p5 l07 | detodihorai inteso suiaidentioumeniaesit
+R43 p5 l08 | roritodai [165]dumalasuocuginogermanoii
+R43 p5 l09 | hosaputoeti ssondere esendo esato mutiomorto
+R43 p5 l10 | di[166]attpurele disi eti piangeuolai disuatii
+R43 p5 l11 | di[165]ri tpregauo diocioifoesai magiored
+R43 p5 l12 | anotriinai di[166]regnoprocuraidisauere aiu
+R43 p5 l13 | dientiai mai iestatoposibileiususandosi[113]
+R43 p5 l14 | limoiiiiiouedimentiethaueuaiilasarodi
+R43 p5 l15 | tinouareai dimandarlai sfareailmeno[165]ofi
+R43 p5 l16 | cioetdeuos[165]rsiano iuiui es[165]midiceilsi
+R43 p5 l17 | gr gondi sipuotenires certoimorirano[113]f
+R43 p5 l18 | iupoiaili meseai tmangioinpub licoeniai iohoin
+R43 p5 l19 | literationeailcuni inoistotienudi uandomo
+R43 p5 l20 | lediedelai saluietai iilemaneestatomanda
+R43 p5 l21 | toiunbandotuti ipadronidelcase deb ano
+R43 p5 l22 | hogi darein notai inomiditutia[165]ilogianot[113]
+R43 p5 l23 | haidopofatoirendereai liio nemursetdel buenu
+R43 p6 l01 | debano stareailegniis ara noofestietu tato
+R43 p6 l02 | medesimamecomand atosoto penai deliiuitai
+R43 p6 l03 | niseunodesiai partire dibenessen iai lii elii
+R43 p6 l04 | iinri totutociomotiseruitori emaicidentio
+R43 p6 l05 | hano sgombratomiuiene aifermatoesuai ecel
+R43 p6 l06 | eniai uniuaiuisatai sieri dai piiui andeesi
+R43 p6 l07 | guardasedalre maieetlui isiapotessesu
+R43 p6 l08 | adere[113] nuoesesfare tale isolutione e tenos
+R43 p6 l09 | rugiuntai li suiii horai finieleho detosio[111]
+R43 p6 l10 | srntei·
+R43 p6 l11 | [111]oerisinoi miriuntai fermatoilsigr dig
+R43 p6 l12 | uisai siaioi luimortoil siposo sasedice
+R43 p6 l13 | rto sebene leeinoai seaisapendole mali nd
+R43 p6 l14 | ieiationiil reeh aueui di suai signorii ilmi
+R43 p6 l15 | eseneparoleliberamediceuai ni lai suaisen
+R43 p6 l16 | nai etesapeui eneitrai [165]espingeui istati
+R43 p6 l17 | naidiluisono aincoaiuertito [113]hi spedito
+R43 p6 l18 | ailioniuersepregando loinsantemilitend
+R43 p6 l19 | erepiietmaiilaasuoni itrauaroeseuendom
+R43 p6 l20 | oto isoluti diiuoleretinouare ogni sua
+R43 p6 l21 | netere sgnadicareleheresiedalsuoregnoicio
+R43 p6 l22 | ilmondoiiiedai liaipiirosios piacere
+R43 p6 l23 | acnioguisai s suai prouuii incinatione sinoai
+
+## R44
+R44 p1 l02 | ooisierisihieri seri ai [167] eetrelai mortei tenesigio
+R44 p1 l03 | guisaesii ingle sidiceuai erai mortooi ilsig
+R44 p1 l04 | rhuoiuatelo iuniu ueroilsori emi[166]matini solam
+R44 p1 l05 | euimaseriuo diritii ilcuni diconodifero eiliua
+R44 p1 l06 | telo aitri oiuni fune ssoangolato soiisiirrende
+R44 p1 l07 | ilueroini iuienedeto ilresisiiisolutoi tifar
+R44 p1 l08 | lomorirehauendoscosto eglidisegnauidi
+R44 p1 l09 | fugirees [166]enetosiuedeui olesoleuationedi
+R44 p1 l10 | gente de[166]morteisonoi masemoto piiuofuso
+R44 p1 l11 | di [165] delsigioguisaeseuendo ssoni eclesiasi
+R44 p1 l12 | cai tornesiogouernarmi temendodi erareintutiim
+R44 p1 l13 | odi mai doposauere maturamesiderato tuto [165]puosu
+R44 p1 l14 | cedere soisolutopoidai ci isegueailiepregiu
+R44 p1 l15 | dicioilai santiti di[111]neai cotesiai santai sedepuoe
+R44 p1 l16 | seioresarelai suii aiutoritai diuolere piirose inda
+R44 p1 l17 | redesiuigianditimonareail reeilsuo eroreetener
+R44 p1 l18 | lonelai debiti ubidientii aili santi sedeaiposo lic
+R44 p1 l19 | ie esere ilaiutore delescandalosai isolleio
+R44 p1 l20 | nedelioeles [165] irego si puoaisaemulloosi haue
+R44 p1 l21 | se da tratare tulmini piuigoro sietgincosi
+R44 p1 l22 | it tanti iioortanii eseonueniai so stimae piiu
+R44 p1 l23 | ueniente dilasareil giuditio ilai somai rude
+R44 p2 l01 | ntiai di[111] etuoleredeliberare daii nesolai supli
+R44 p2 l02 | coogni sumiti aifarmi trimi saselai iso
+R44 p2 l03 | lutai uolonti di[111]domanii indarodal reehau
+R44 p2 l04 | endomi hogimandato iunbiglieto ritodisuai
+R44 p2 l05 | manoli tradutionedeloeleuari [166]il sigrhior
+R44 p2 l06 | bonestai tutauii guardatodale guardiedel
+R44 p2 l07 | resebeneenelleto unebretoflusodisan gue
+R44 p2 l08 | aigionti laimali tenetiai toilti moresi
+R44 p2 l09 | posoiii facilm ente fargli sderelai uitaieestii
+R44 p2 l10 | bene dicono esarimandatoinrigioneinsemt
+R44 p2 l11 | oilui ianuileenel caselodamb oisiaein col
+R44 p2 l12 | uenent inoelitrolocosicuro ehogi hano esami
+R44 p2 l13 | nato il aedi mons deguisaehauendogli rimai
+R44 p2 l14 | promesai li uitai studiceui iluero di [165] gli
+R44 p2 l15 | bri dimani tatoeiuai moteitrecose hai duetoetp
+R44 p2 l16 | ochi giorni rimi [111] buei ritoail sodetoiounai
+R44 p2 l17 | ia drefaciaetdi carti tuieai di roprii mano
+R44 p2 l18 | infauoredel sigioe senecosedelmareseatodisa
+R44 p2 l19 | luaoede iuienedeto[113] loacontoailat dice
+R44 p2 l20 | ndole [166]i erano oficidi padre comunee stu[111]
+R44 p2 l21 | uolesteprocederesecodi [166]manieri etlui oif
+R44 p2 l22 | ariai dalsuo canto[165]ltoueniui iuolendo
+R44 p3 l01 | rotnemonsi gnore legatohori isono il reetso
+R44 p3 l02 | preso talisolutione ilieuolereniiuoferire
+R44 p3 l03 | ingiurie nemali tratamentia etitinouaro
+R44 p3 l04 | aidanoil easiasiuoglii laimiai generosi is
+R44 p3 l05 | olutione eleseioe del nonosanto padre[111] esenti
+R44 p3 l06 | omi bene icordato delai formi delparlare
+R44 p3 l07 | tienetinouame bisogni farsiisedireecas
+R44 p3 l08 | igare [165] cifendonopoiio hosegrito il
+R44 p3 l09 | fine iiuiuederodimini stuiu niaceai dis
+R44 p3 l10 | iisuolo
+R44 p4 l01 | lasare ildireai [167]etr s [166]iuenimentosucesole
+R44 p4 l02 | cosiiuierameai suai sodiratione poiseniai
+R44 p4 l03 | mouimentoninminimooiteratione dipopo
+R44 p4 l04 | li taiuenutii ildisorai di[166]suoi inimici
+R44 p4 l05 | dai tutoilmondo erano stimati insusa bili
+R44 p4 l06 | nhai resai tanti fideniai motai faciliti
+R44 p4 l07 | oofoes ainetai posoii monarl isentimentos
+R44 p4 l08 | in·rinslr
+
+## R45
+R45 p1 l01 | cieri eaes[111] emottiuotens nome deli[111] lehaueuedeto
+R45 p1 l02 | sarii intutelecose honese coioi aciutai eili[113]imi
+R45 p1 l03 | issoesitrotimilicentiae houolutodire [166]tuto
+R45 p1 l04 | ai [167]leai resiinformati dituto[165] pitsi sebentu
+R45 p1 l05 | oi sostasaurofatobene omalesiderando
+R45 p1 l06 | [165] limiriue nelai ndeti sui idouemidiec io
+R45 p1 l07 | emilaendarelai burlai amindieedi diuo
+R45 p1 l08 | rsi tilai burli imi tengostantosoficientee
+R45 p1 l09 | timi positsere dataieini taidiuorsipare
+R45 p1 l10 | aimediiunaaitro nelemiema aresentareai[167]
+R45 p1 l11 | iluerodi tuto [165]pasai estuincioio indieeil
+R45 p1 l12 | suodesideriopuoeserecertai motomenedu
+R45 p1 l13 | oleeneuentoenemodissiacere maili suilico
+R45 p1 l14 | iiiiedereetiisareifaremegliotetihomagi
+R45 p1 l15 | oredesiderio diseruire benenepensoaid itro
+R45 p1 l16 | il giornotenai nottemistuisucedonole coseeleai
+R45 p1 l17 | euorii sosenai moti suii rudenii oueinma
+R45 p1 l18 | nomiai ieedipotereunafareailreedic [165]eteglii
+R45 p1 l19 | uolesirinformandoirocesi ni[166]sigedi
+R45 p1 l20 | guisaetlitri matini mandaronodui siglie
+R45 p1 l21 | risseaminareluenent iniegli diesseuendortri
+R45 p1 l22 | matodicipoteui esull esaminato dailaicito
+R45 p1 l23 | ioi feciirenderei [113] stune iseneseiosi fatoen
+R45 p1 l24 | t[111]brinii
+R45 p2 l01 | ai legatoilmenoeai suoii naicotie poteuoisic
+R45 p2 l02 | urare elfari maecioritorimi isii egliii eord
+R45 p2 l03 | itisanti chiesieireplicaiai [113]tai meharr
+R45 p2 l04 | ei desideratoleai sitri uiai seniaichiama
+R45 p2 l05 | remonsdeniuersehaueserouedutoai suoibi
+R45 p2 l06 | sognietiennauaroemipareui douestesull
+R45 p2 l07 | ecostii euertai etmaiegliposieserebuoniitets
+R45 p2 l08 | [166]issetoidourii esare difare[165] dechiarat
+R45 p2 l09 | ione ethairomesii ai tutiaisuoistatitoai treo
+R45 p2 l10 | il mondoeleuani toluitotalmedali ssanii etu
+R45 p2 l11 | tiiinital timore posi maiuenireai [166]coroni
+R45 p2 l12 | etpareuiai mesagionepoliticioi [113]lodou
+R45 p2 l13 | eui inognimoi tornaresleuargli ilseguitoe
+R45 p2 l14 | sisicurarelai suai ropriaiuitai ni laoltepi
+R45 p2 l15 | iuiinimos amessi rarioossidi potertesere
+R45 p2 l16 | rtaooari certo diipote eseremidise[113]uogl
+R45 p2 l17 | ioparlaruichiaroinfidentii sapendoenote
+R45 p2 l18 | nireteireso dirotecosai ileoindisimi iioor
+R45 p2 l19 | taniai eiuenepregosapiaet dopolai morteed
+R45 p2 l20 | i[166]di guisai iluiluani tomoetsuoiiuitrenti
+R45 p2 l21 | siiiedono gii dieserereedi tten hanoosatone
+R45 p2 l22 | lcapitolo ropose idi stati di eusludere iliui
+R45 p3 l01 | ui sitaigiuuai unaiclausuli iioortantis eimi
+R45 p3 l02 | lioeletasebene[165]tudii esiarato inhabile si
+R45 p3 l03 | dice iseruandoieildiritodeli sucesioneai
+R45 p3 l04 | [165] delicasi deborboneeho sapiaet eseai lor
+R45 p3 l05 | oadstienedisucedereai [166]coroni ii uogliol
+R45 p3 l06 | euarlileloroagioni matauogliomenoairo
+R45 p3 l07 | uarel it resinofirmaelei stati generali
+R45 p3 l08 | delregnoicioiposino[166]sicureiiidelai
+R45 p3 l09 | sucesioneinsidiareaili miai uitai eissosi
+R45 p3 l10 | ai [113]estu[166]i elausulai ledissiaceui douriai
+R45 p3 l11 | farli leuareepublii eare ilresoiniissoste
+R45 p3 l12 | t[166]ihiinoniai farseniai umoreesulii sico
+R45 p3 l13 | lodisoleuareinco[166]ni dileidoue leuando
+R45 p3 l14 | insieme tutoilcapitoenoihaueuanodidole
+R45 p3 l15 | rsi parendo[166]fostupiiro sein lorofauore
+R45 p3 l16 | itrimemaihaueui isolutositri uiai diro
+R45 p3 l17 | seguireni esoiui ilgiornoseguenteuolea
+R45 p3 l18 | incorporare tuti isuoi beni ilai coroni edi
+R45 p3 l19 | isieltu toinettantoualeri tincopublicarlo
+R45 p3 l20 | s[165]itri uiaieilreinliciietpur lai [113]face
+R45 p3 l21 | stuli dichiaratione il sensodeistati
+R45 p3 l22 | egliresiesclusointutodi pote mai suce
+R45 p4 l01 | ssitrasebene idesiderauorimi etitorna sei liudie
+R45 p4 l02 | uii del[113]ili sseiinlole aiuisodai [167] sirenderedai
+R45 p4 l03 | leilai mentedi[111] dapoilinfeliec sucestoedeli mo
+R45 p4 l04 | rtedei sigreioguisae sianoinglorii tutauiaa
+R45 p4 l05 | sauendoiuesoeeisiainouaui iunsuomo mandatodal
+R45 p4 l06 | iui stratare[113]oleicori tehaueni toini toresen
+R45 p4 l07 | titoeluoleui iuenire ai [165]dechiarationeesitrai
+R45 p4 l08 | giai stabiliti soi stoenau arosie icercanotu
+R45 p4 l09 | tiistatiadel regnos imancare ioi talcantomiod
+R45 p4 l10 | ifaretuto[165] iposesiioedirei seguai cosai
+R45 p4 l11 | ilcuni diregiuditioilai religioneiitimiepar
+R45 p4 l12 | solasaredi procurareaiudientii dai [113] laolte
+R45 p4 l13 | hauendomeli hogiaisignatai misonoinouatose
+R45 p4 l14 | coisailongametdoposauerefatosei eo[165]oficio
+R45 p4 l15 | di doglieniai ueniui senai mortedeli tesia
+R45 p4 l16 | incielodisii[113] lutimi uoti ileparlaileai
+R45 p4 l17 | ssoetamemi haueui pregatodibaiuereai[111]isi
+R45 p4 l18 | curani to[111]piiu etmai erai isoluti difareog
+R45 p4 l19 | nisforioscaciare lheresii dai [166]regnouole
+R45 p4 l20 | ndoprocedereogni igore soi liiiiouniuarou
+R45 p4 l21 | endere tutiilorobenias seruirsi delstinr
+R45 p4 l22 | oseguire lasu ni di esiaeti ihaueuomancato
+R45 p5 l01 | di riuerloi [167]tenepotese daretoi [111]mai  temeuoini
+R45 p5 l02 | uenesehori siiiuere tutoinonariopoiirendeuo
+R45 p5 l03 | [113]iuoleuai seeopl[165] gii haueui romesocioedi
+R45 p5 l04 | dechiarareileni uaroes ineincapaecaili suce
+R45 p5 l05 | sionedi [166]regnoai ntiti piresiinouiaui oiiunsu
+R45 p5 l06 | omomandato dai luis tratareli [113]oleaicordo
+R45 p5 l07 | iledi giuiuail hauereleeichiamatoleserc
+R45 p5 l08 | itoetfaceui lasu igliiiis seruirsentoni [165]do
+R45 p5 l09 | rlien separeui aime ueniui ai dare eoancaioo
+R45 p5 l10 | i[165]mosoano di tenereli [113] s pocoiniticoior
+R45 p5 l11 | obarto[166]ai rgomeuimotobenelai loroeinio
+R45 p5 l12 | neesoli regauoiaosiderare motobene[165]
+R45 p5 l13 | ueniuai eeaireechri sianisimoefaceuir
+R45 p5 l14 | ounesione diueroinicordandosineeoindel
+R45 p5 l15 | ob ligoleai bi ilsigedio lhai fati naue
+R45 p5 l16 | recositoarneetteli deuepr ocuraredipl
+R45 p5 l17 | acarelinnai di suai diuini maiusaie
+R45 p5 l18 | deuetustereso dileigrauemiritatisenec
+R45 p5 l19 | osepasattauolestuosii terare laimalain
+R45 p5 l20 | dieiatione darii ai tutiiin delsuoregnoed
+R45 p5 l21 | itutai lai chrisianiti oolauiaesedi fare
+R45 p5 l22 | lai dechiarationeb romesino teso
+R45 p6 l01 | nauarouefarii sicurameiiedereil suofine esere
+R45 p6 l02 | diuolereeteeglii topoleihauesteai sucederein[166]
+R45 p6 l03 | regnocosai iboritaidi tutiibuonieli [113]piiuie
+R45 p6 l04 | gnatrodourii isiorire siluuorioiuerestapoi
+R45 p6 l05 | esendo esonauarointnoiiitinimicodidiomi
+R45 p6 l06 | retendeincodi suenireaili sucesionedi[166]coront
+R45 p6 l07 | inoni mai li [113]isicurarsieglispoterepiiurese
+R45 p6 l08 | suenireai tauieeoini teii ihabii aidinsidiartu
+R45 p6 l09 | li suai ssoni eooisiai dechiaratoinhabiltr
+R45 p6 l10 | oincapaec ilai sucesione hauri motoiniiusegui
+R45 p6 l11 | toeisaurii oeutisapesero egli iposoi mai
+R45 p6 l12 | esere reedicitratare icordosu ecosenii ils
+R45 p6 l13 | ensodi[111]seneguardase motobent ooleiueniese
+R45 p6 l14 | ai [166]iomi sareisubito partitodicemi sdona
+R45 p6 l15 | sselofacesi senii amdarmiai licentiare
+R45 p6 l16 | dai leialai regauioai siderare motobente
+R45 p6 l17 | necose sueguardandosideimetere[111] innece
+R45 p6 l18 | sitai di fareogniseueri dimonatione nai
+R45 p6 l19 | edileiioio teneuescertofariai oouuedestu
+R45 p6 l20 | lai [113]dopo lecose sucese fareinco oelitro
+R45 p6 l21 | iioiano liin iniissoes[113]isaeietamsebene
+R45 p6 l22 | parueaime siturb aseinfacii tomi dise [165]ni
+R45 p7 l01 | ihaueuai tetodi uolerepiietmai roseguire laa
+R45 p7 l02 | suoni gliiii mento tornaui iifirmare tessaui
+R45 p7 l03 | gli eneticoiorob arianoai seaicoioitame[166]sui
+R45 p7 l04 | fermi isolutione eilchiamaresori monsde
+R45 p7 l05 | niuerse[165] genti iipugnaui ilai suai paroli
+R45 p7 l06 | te[166]lni iunai necesitai resentanei ilileedi itro
+R45 p7 l07 | modisipoteui saidesoiinei tiarees sauai
+R45 p7 l08 | dipoterecosiresospedirsidai [166]bisognos
+R45 p7 l09 | iharii statointeioooi difaresoi liin[165]buei
+R45 p7 l10 | detaeri ueroiuoleuai fare[165] dechiaratio
+R45 p7 l11 | ntonii iliuitenenteditodeli pacificationee
+R45 p7 l12 | rai giai dechiarato nisepi npotessuced
+R45 p7 l13 | ereaattieoronaiilbasiauai seai sesclude
+R45 p7 l14 | restonauaroseniai uenireaipiiestesi dec
+R45 p7 l15 | hiarationtonili suii particolare ssonade
+R45 p7 l16 | [166]sarii meterloindissationedi ipotemaip
+R45 p7 l17 | iiufarsiinoni [165]iodio rdinedi[111]ltbrieuo
+R45 p7 l18 | detoetbisognaui fareogniosai sidurloilo
+R45 p7 l19 | siidieuii dibri chiesai eelai iiedeui ognu
+R45 p7 l20 | nodouestedesideraremiegli haueseman
+R45 p7 l21 | dato suomooes trataresecoicordo[166]eri fal
+R45 p7 l22 | sisimo toofose melodiriai iertosenone
+R45 p8 l01 | dereaili coroni eineincapii eteldiceuoiolo
+R45 p8 l02 | douese fare piiu siuni siunitri uiai esia termi
+R45 p8 l03 | no[166]agionameuouniuaisiipiiu longoetoiisidice
+R45 p8 l04 | ssieansare iltedioai [167]eiaipoiaiparlaredinuo
+R45 p8 l05 | uai [113]sori li publicationedelcilioelesseni
+R45 p8 l06 | cai[165] ipuu sitienlelaiidi[167]dee delpasa
+R45 p8 l07 | tomonani tolelai giusi indignationedi[111]mco
+R45 p8 l08 | oni dimesentoditioni irrendeui lai [113]di igiun
+R45 p8 l09 | gere nuleai publicationedi esocilio soi lii
+R45 p8 l10 | eregauo tesortauoai pensaruimeglioesigl
+R45 p8 l11 | iarsiessoneiureligenti etimorosedelsigdio
+R45 p8 l12 | i trouarii ilcunin edirobaes i cilige
+R45 p8 l13 | neraliofirmati dalai siri sedeiposolici posi
+R45 p8 l14 | noeserein [166]modoinutilatidai olesiuogliai
+R45 p8 l15 | reeri seoandeesiai eooli[113]tinouaeseneli
+R45 p8 l16 | rimi isolutione darii eoandeocasioneai [165]i
+R45 p8 l17 | lamianodicoiorobare[166]amngomentelai ih
+R45 p8 l18 | abiai [165]ieloaili religiontinuiene aidifre
+R45 p8 l19 | echrisianisesiunombrai falsai diuerestu
+R45 p8 l20 | delisuii iutoritai ueniriiai sdereli piiu beli
+R45 p8 l21 | ocasione esteneposti preseuaredi monareilai
+R45 p8 l22 | santiti di[111]eailmondotutoe falsamerengi li[113]
+R45 p9 l01 | iiouitati nentecosedelai religionedouefaceni toin
+R45 p9 l02 | onarioisolodoueui temerelai giusaairi didio
+R45 p9 l03 | maiinco lini tignationedi[111]eli mali opini onedia
+R45 p9 l04 | tutoil chrisia nesmoetioneldissiacere eseuir
+R45 p9 l05 | denteaiuersitai s[166]leposonosucederehaurone
+R45 p9 l06 | lairopriaouiueniai [166]efrigeriodisaseilmeno
+R45 p9 l07 | ilihauere mancatoinuocemottiuote einritooi dii
+R45 p9 l08 | eiordarle [165]sdebitodio ecieniietsu tiliti dele
+R45 p9 l09 | cosesuetu tenuti difare in[166]ropositoei einolemand
+R45 p9 l10 | aiiunmemorialedelmedesmo tenoreloface
+R45 p9 l11 | selegerenel suosiglioinsiemeiuni riturai
+R45 p9 l12 | fati idinsanii delredeiurusesotoriti dai
+R45 p9 l13 | motiedipe deistatigeneralidiconoil
+R45 p9 l14 | ciliosideuepub licaresuliiilcuni ditione
+R45 p9 l15 | iniissoes[113]i mancarii diosideraresori [165]
+R45 p9 l16 | iolediceuo mailepareui deleditionesal
+R45 p9 l17 | uisiuribuseregis toregnie iomenedoresti
+R45 p9 l18 | tentaremisi aili[113]leidouei publicareil
+R45 p9 l19 | ecilio estai egiaec sulii itri ditione ioha
+R45 p9 l20 | nofatotutigliitrireetri inimancodi leiuo
+R45 p9 l21 | glionoseruarelai loroaiutoriti esturetend
+R45 p9 l22 | eai ilcuni iserui edieetando ilcilionei
+
+## R46
+R46 p1 l02 | ometuiteluiiime mieiehebiteioodiissondere clio
+R46 p1 l03 | di[167] diaisdelpasatohorai ledicoet hauendoire
+R46 p1 l04 | stot eni mirtiutiuornoilciliodi treneofeci subi
+R46 p1 l05 | to sase ail ree[111]isoloiiieeti lai clausuli salu
+R46 p1 l06 | isiuribus registo regniami laimaledice so
+R46 p1 l07 | io esortauo[113] et[165] giorno haueuai isolutodi pub
+R46 p1 l08 | licare [166]nei statiilodouesefareseiliberani
+R46 p1 l09 | seni aii lcuni ditione itrimefacendoofend
+R46 p1 l10 | eriidioailoeleis saidai unapati edariimali
+R46 p1 l11 | ndieiatione ai [111]eai tuti lichrisianitieicord
+R46 p1 l12 | andoleleparoledeconciligeneralisonopar
+R46 p1 l13 | oledidiouedicono ipadri uisum est spiritui
+R46 p1 l14 | sanctotnobisedeplicandolein sosianii [165]m
+R46 p1 l15 | oteitreoiielebrieuo detot ritoai [167]lutiine
+R46 p1 l16 | miesori diethauendo dinuouoosiderato[113] la
+R46 p1 l17 | uiodiinuisliare nei stati [166]puumi diseti
+R46 p1 l18 | lai publicatione diesocilioleai uoleui inogn
+R46 p1 l19 | imodofose publicatodieetaetcosile faceua
+R46 p1 l20 | irendere s tale eno tenusero mai iesuendoi ben
+R46 p1 l21 | isoluteu iliepie dificotai diiserue eranoer
+R46 p2 l01 | oposedai seistatiauoleui haueruii sori piiuni
+R46 p2 l02 | aturi osiderationeele isoluerii insieme
+R46 p2 l03 | glitriietintoli usli breuiti delteiooisit
+R46 p2 l04 | ranoipotutiterminareio pois bearicod
+R46 p2 l05 | elai miai uienii sebene miriue[167]imene pig
+R46 p2 l06 | liitrounasidioiiedendo iiildesiderio
+R46 p2 l07 | suofoseiliuedere bene terminato[166]negotio
+R46 p2 l08 | ugsnoriai didioebenificiodi [166]esnnoin
+R46 p2 l09 | mancatolab atedi sanelis ofesore di[113]
+R46 p2 l10 | itn guaardai sigi loetuti ol itriethano
+R46 p2 l11 | secoiutoritai difareognieunuiciti eofici
+R46 p2 l12 | osesortarli ai sesuaderli dipublicarlo
+R46 p2 l13 | seniaiilcuni ditioneepare aimedi sauerein
+R46 p2 l14 | ognimodofatoolefrutohierimimani to[113]i
+R46 p2 l15 | casailguardai sigiloinsiemeilsuofes
+R46 p2 l16 | oretgoilsuoinidiseroethauendo[113]side
+R46 p2 l17 | niatoorai imemorialiin[166]ropositolehaue
+R46 p2 l18 | uomandatisaurii motodesideratodi truou
+R46 p2 l19 | are mododihodieiarmisenii dare mali ndi
+R46 p2 l20 | eiationeai tutoilsuoregnodeteregaui tais
+R46 p3 l01 | ocasioneai[111] dirocurarelaiutoriti suiidi
+R46 p3 l02 | farli obedire dai suoiuasaliincosai tauogi
+R46 p3 l03 | usi toagioneuole monarono loro diesaremot
+R46 p3 l04 | oecapacidi [165]lidiceuetopartironoitrom
+R46 p3 l05 | etermididireailreeleinitagioni eranobon
+R46 p3 l06 | isimo[113]cosidoueuifarehori stannoi sset
+R46 p3 l07 | andoli isolutioneenedaro iuisoai [167]etcne
+R46 p3 l08 | cosedi saluioessori imiconlitro poi[166]
+R46 p3 l09 | utimi sucesi tengonocuniati [113]initripe
+R46 p3 l10 | nsiereailpresente piiu eneremonotttt
+R46 p3 l11 | ihauertio datomaiadteni iceuti delai
+R46 p3 l12 | copii di [165]iadelsereniseiiedolesuef
+R46 p3 l13 | uiolesueditredetobreiiedolesue
+R46 p3 l14 | mote ocuniationi i elehanolasatoiuertir
+R46 p3 l15 | eetnelemedesiliodiedinouembrecloeli
+R46 p3 l16 | mi issonde[166] medesmi ao se nefai men
+R46 p3 l17 | tioneotre[165] le aciusiinelemie diiaie
+R46 p3 l18 | tobreinissosi denesue diunli tene med
+R46 p3 l19 | esmo inesta[165]aimein soemoduole tudi
+R46 p3 l20 | irei tere in[166]suii iioincoinilcuni deltu
+R46 p4 l01 | reced eui[111]simosoai male sodieiatoilme seniai
+R46 p4 l02 | epotermi iimaginareli cauisi tomoto piiuini
+R46 p4 l03 | premedi gii [166]umore tainco suenutos sino
+R46 p4 l04 | ilorechiedelreetdi [166]corteesendosta to
+R46 p4 l05 | rito ai [113]i lcunipareicolari unasi diosi sim
+R46 p4 l06 | itantolontaneisolodalueromaiincodalpost
+R46 p4 l07 | ibileetioeso piiu etcertone[167] nemeno[111]e
+R46 p4 l08 | pieniedi tiri prudenii edicosiareoisoi
+R46 p4 l09 | sitogiuditioposi hauerleresati ilcuni
+R46 p4 l10 | sortedifede esebeneelaatenimieil motiain
+R46 p4 l11 | iposonoiresotutoilmondoscaricarmi
+R46 p4 l12 | dai cosi fattiioosureetutauii iceueroai
+R46 p4 l13 | ncos singolareeoatii dai [111]etglipiacidii
+R46 p4 l14 | ocederieitrimi posi iuenireai isuoih
+R46 p4 l15 | auisepiedis giusi ficare tutele aitioni
+R46 p4 l16 | mitateilfauore delsigdioesso oueri
+R46 p4 l17 | isaichiarameetiensoseruitoeauaifed
+R46 p4 l18 | etaiesinceritiedeuotione tsiinoside
+R46 p4 l19 | siderareinolesiuogliii ipno mininoiloel
+R46 p4 l20 | esebenehauesepotuto seruirenomagioau
+R46 p5 l01 | ueremagioreiutoriti edominio esorai diin
+R46 p5 l02 | estu poiieuedelai legationemii [165]iuuto
+R46 p5 l03 | edissetauai [111]lai suplicoai siderarese
+R46 p5 l04 | il mancamentouiuentodai intodaimesointr
+R46 p5 l05 | oglii slaimoredii tiitribuireaimente
+R46 p5 l06 | colil isonomiodarmi lai peni depecati
+R46 p5 l07 | itruiaimeiduole meno[166]etai [111]maosideri
+R46 p5 l08 | leistumiiinisii comandati cosai etiro
+R46 p5 l09 | uamilhabiai esueoieai semai sissetodit
+R46 p5 l10 | uisiai iohabilauiatodiseruirefedelm
+R46 p5 l11 | ai[111]rocurandoseioretuti lispiritito
+R46 p5 l12 | ognieuiuutii lai seruatione deli iputati
+R46 p5 l13 | oneedignitai suiiessando dipotere[166]m
+R46 p5 l14 | eaifarmidegnodelai suai buoni eoatidet
+R46 p5 l15 | eseruare[165]pocai diiputatione etlefati
+R46 p5 l16 | dimotiainisorocuratodaionisarmil
+R46 p5 l17 | ioeleioofesodistimarepiiu lii rouuiiiui
+R46 p5 l18 | taiesouedendomi seniai ilcuni miai colpi
+R46 p5 l19 | coilfareil meglio isosaputoai [166]malte
+R46 p5 l20 | rminie delifotdel itrouengo iuiueress
+R46 p6 l01 | olatisimo sinoiii tanto epiacii ii[111] iuen
+R46 p6 l02 | gai ilai reseniai suai sgiusificareleu
+R46 p6 l03 | itionimieinreg ogniaifuteodi diido
+R46 p6 l04 | rarsis unarmetenire[166]liceniai inlo
+R46 p6 l05 | farai eoatii aimemai incoseruitioicote
+R46 p6 l06 | siai santi sedeesendoestuisinoaioi ho
+R46 p6 l07 | fatopocoirito meuie ilreedilregnop
+R46 p6 l08 | ensauanoiioh auesiiieditodoleaiut
+R46 p6 l09 | oriti ireso [111]hori sonosesuasi deenona
+R46 p6 l10 | rio ueniri eseremoto menone farano
+R46 p6 l11 | ilcuni stimi dime poi tutai de esifaie
+R46 p6 l12 | uii tutai naueuiesilefleso deli buonc
+R46 p6 l13 | oatii di[111] oiires direilueroiisarei
+R46 p6 l14 | epiiu sase seruireiredendo ilfare
+R46 p6 l15 | meglio ethosaputosiedissusati tanto
+R46 p6 l16 | [111]mosoai incodiesaremal sodieiati di
+R46 p6 l17 | [165]onefedetai utiuoi telecosesueng
+R46 p6 l18 | onoai miai noticiai eondenelaiuenirese
+R46 p6 l19 | inueiniueniri ocasionediriuere oleco
+R46 p6 l20 | sai odi saluioeditroueniri toriuen
+R46 p7 l01 | doe tacendoteme seiore diunadissiacere
+R46 p7 l02 | ai [111] suelico[167] aidiusuisarie se lhofasi
+R46 p7 l03 | ditai [166]longi dicerii siderando ai
+R46 p7 l04 | ciomisii spintolesoemo dissiacereis
+R46 p7 l05 | eudirederein tir sicolode esori tutte
+R46 p7 l06 | necose delmoni tostimotali buoni eoatii
+R46 p7 l07 | di[111]insiemeil miohonoreacom ando
+R46 p7 l08 | dunolai [167]liftol aitroogniaifuteo sso
+R46 p7 l09 | senulliuni iieaturi suii imancari mai
+R46 p7 l10 | didiorarsiin suoseruitioregandoli
+R46 p7 l11 | aiiiedere etiimisonomostoai ri uerel
+R46 p7 l12 | suolerehaue agione ilcuni [111]tedaleii
+R46 p7 l13 | desideroitrodenieno lepiacemi sia
+R46 p7 l14 | informati deli ueritai eposihincera
+R46 p7 l15 | relainimodeli [111]oodai ssonedi pocai ees
+R46 p7 l16 | cieniiai unoes itramei uisataisinnot
+R46 p7 l17 | otiuiriniiann
+
+## R47
+R47 p1 l01 | alore epiiueruitulii dimeil poteui certo
+R47 p1 l02 | nemagioairitore ntee magiornede ihauendo
+R47 p1 l03 | iomaibuti itri miri lhonoredel sig dio
+R47 p1 l04 | eiebuon seruitiodi [111]tdicotesi siri sedes
+R47 p1 l05 | ebens eeledunoi moni malsodieiaedi
+R47 p1 l06 | meihabii hautopiu esideratione ilobl
+R47 p1 l07 | igomioii idesideri loiroelo reputoii aimio
+R47 p1 l08 | magio honore poi[166]suceses hauereis
+R47 p1 l09 | enii issetoditri uoluto seioreben seruirei
+R47 p1 l10 | lmio padronedeli digniti delolee piiuit
+R47 p1 l11 | ratai neli denationeesifaieime ailirese
+R47 p1 l12 | niaisuii etdeli miiroriiene[166]mali ndieia
+R47 p1 l13 | tione ditri misai potutomai deuiare diit
+R47 p1 l14 | inouareseiorenelmedesmopropositodiben
+R47 p1 l15 | seruireilmioui teotre ai glimortaliobli
+R47 p1 l16 | ghiet glitengos causai deoleispeni terose
+R47 p1 l17 | ioreli roriiuitai eincouicario dichriso
+R47 p1 l18 | etpuoiasare aidognichrisiano sfarloca
+R47 p1 l19 | minarenelsuoseruitio[165] medesini fede
+R47 p1 l20 | tueriti etfarii liseso signore redel
+R47 p2 l01 | iriinsicodenoni cuori tnooli[111]t ruouari inin
+R47 p2 l02 | euidicolloril eeseiiabilemancamentodi
+R47 p2 l03 | hauere tenutoeratietlaudiuienoleleuoua
+R47 p2 l04 | nesomai dihauere iuedutoesono iuisit
+R47 p2 l05 | eeuieneritoailmedesmo reeseuere statode
+R47 p2 l06 | toai[111]maiolesiuoglii iipnominimomancam
+R47 p2 l07 | entos malitii habii comesonelsuoseru
+R47 p2 l08 | itolai suplicoii ihaueredimeiilcunipi
+R47 p2 l09 | etai omisericordiiemi casigarini ipiiu
+R47 p2 l10 | istitoseuericasigs esiinosinodare ailpi
+R47 p2 l11 | iuceleratosuomoi telmondoestuiiin
+R47 p2 l12 | ingannoiiederei neaireso[167]ne airesto
+R47 p2 l13 | [111]douese ailcuno hauere hauiti piiufede
+R47 p2 l14 | di mepoiiceuailcunoglisiai piiuo
+R47 p2 l15 | bligatootre ediedo diesere staes eoatii
+R47 p2 l16 | delsigdioedai tuti[165] chanohautoratic
+R47 p2 l17 | aidiilorsiutos iliuenisimodaluitio del
+R47 p2 l18 | intoatitudinceoo[167]uoraifaroui delam
+R47 p2 l19 | aiii fedeeeoatitudineoueri ttihau
+R47 p2 l20 | ere ailcunoai [166]mondo nuuai diposiha
+R47 p3 l01 | iderare in[166]teioi tursiuenenti ueniui aindare
+R47 p3 l02 | motii ssetitemendoteoaincoleihauestu
+R47 p3 l03 | iuoluto comandare ailparlamentodipub lic
+R47 p3 l04 | arseniai ilcuni iseruai esociliolori
+R47 p3 l05 | ensaurianoiuieditai teei sapeuotutitre
+R47 p3 l06 | gliri tinidei stati generali ne dimandaua
+R47 p3 l07 | noledunai etsehauendoeli opiiu uoteri
+R47 p3 l08 | eto [111]iirreni teui s[166]dileuare isuoi priu
+R47 p3 l09 | ilegianele prero gatiue del regnomi dima
+R47 p3 l10 | ndaui seiotruouauo buono li[113]mandaseai
+R47 p3 l11 | romaeiunsesonagiosimonareai[111]icapidou
+R47 p3 l12 | esiaecai laisuii iutoritai regandolai
+R47 p3 l13 | lepiacese diiseruarli teoo[166]si fose
+R47 p3 l14 | fatopublicarii poieilcilioenii itri
+R47 p3 l15 | ditionto iseruii ledisi ai uole fare
+R47 p3 l16 | benedi onisare eoatii o[111]bisogaui die
+R47 p3 l17 | stosenii itri dilationepublicare ilc
+R47 p3 l18 | ilionelmod iseso ete stato publicato
+R47 p3 l19 | in tutoileresodelaiechrisianiti eman
+R47 p3 l20 | dapoiilsennagioai omaius dimandare
+R47 p4 l01 | ai [111] te eoatitenei iriuilegidesiderauai rome
+R47 p4 l02 | tendoleiinnomedi[111] forili gliordinimandati
+R47 p4 l03 | midi [167]intutelecose honesoagioneuolisar
+R47 p4 l04 | iai coioiaciutaieinidisero temeuano[166]fo
+R47 p4 l05 | stiioosibiledipoternareinonel modo enei
+R47 p4 l06 | popolinei parlameuilaicetarianoi li isso
+R47 p4 l07 | stiene ipopoli ne iparlamesono chiamati
+R47 p4 l08 | ili celebretione decilemi solamenteip
+R47 p4 l09 | relati aiolei isteneunai dinsegnareaigl
+R47 p4 l10 | itri iemeno li donini icos iumieoocio
+R47 p4 l11 | eri ofirmatodali brisedeeeaiposo licaei
+R47 p4 l12 | ueniui aipopoli itri osi deratione mais
+R47 p4 l13 | olooseruaregliori tini elesieuiiont
+R47 p4 l14 | erminate intantoe buonoeuero[165] edue
+R47 p4 l15 | diamoneli nonai fedeintitieuiene coman
+R47 p4 l16 | dato e insiegnato dali chiesai etsoido
+R47 p4 l17 | ueui s [166]isseto lasare dipublicare sto
+R47 p4 l18 | cilite ipopolii lai uoleseroin[166]ob
+R47 p4 l19 | edire elai ilmenosaurii dal cantosuoc
+R47 p4 l20 | oiolitai [165] tu tenuti eobligataet dare
+
+## R48
+R48 p1 l02 | istemmehauendoiodigiai luiiimemieritoaiso
+R48 p1 l03 | ficieniiai [167]soriedemiei particolarie pieuend
+R48 p1 l04 | endodii dissutaretauoglioiuerireobemin
+R48 p1 l05 | troseruiresi asari sori dirles issosi deli
+R48 p1 l06 | suii ideleodelpresenteintaui miiiiunenti
+R48 p1 l07 | oneemesitii suepure incoolebeinteni dieiui
+R48 p1 l08 | gerioiuedendo[111]tiene memorii del comand
+R48 p1 l09 | amentipiacolili [111]didarmeomiiooseilc
+R48 p1 l10 | aricodi [166]nuuiaturiei lioltitoaduto[165]finh
+R48 p1 l11 | orai mitustatoiioosioso dihaueretusatisp
+R48 p1 l12 | iameobeditosicome sipuoiuederedaleiadi
+R48 p1 l13 | manoinmanosorite edaltissosenen iceu
+R48 p1 l14 | eteneoleisoleposonopiiudogni tri cosai ba
+R48 p1 l15 | siaresefarle aipienoouere leaitionimieleoe
+R48 p1 l16 | lisebenie sonodeboli tutauii sonopienedisomi
+R48 p1 l17 | sinceriti efedeltiuersoilseruitiodi[111]es
+R48 p1 l18 | ebeneiposonegareelmale sodieiationieli
+R48 p1 l19 | dimonai isaueredi introlepunture ededai
+R48 p1 l20 | tinouameimi penesoponelintimodelcuoreu
+R48 p1 l21 | iceuerei iiincolisesi morteseoandisiino
+R48 p1 l22 | remioesai sipotese imediarosodieia
+R48 p1 l23 | reai [165]desideri li[111]nel piisimoinimodi
+R48 p2 l01 | cuiiinosestssuadermiisiai esatai oelese
+R48 p2 l02 | ntilai di beneuoleniai iuersoiunisui humili
+R48 p2 l03 | simi edeuotisimi iieaturiesolesi uogliiici
+R48 p2 l04 | denteilasari maidi iouereglimortaliob
+R48 p2 l05 | lighietliuenenecesari diregareedeltin
+R48 p2 l06 | ouounai ilsigedeslai suii irieri feliciti
+R48 p2 l07 | erossitaieiuornoai etiaigiongeroitroseno
+R48 p2 l08 | ninfinitodesideriostoaissetando[165] li
+R48 p2 l09 | ceniai leprecei tentimiesupliuolmele
+R48 p2 l10 | hodimandati spotere presentialineuenire
+R48 p2 l11 | airenderetodi tuttelaateni miefattin[166]
+R48 p2 l12 | nuntiaturi elegatiointelecose pasanoos
+R48 p2 l13 | [113]pocorossameesendosiiresoeeldi parigi
+R48 p2 l14 | doposauerehaueairomeseai dalsigiouimenadi
+R48 p2 l15 | pigliare lai protetione loroedaicetare lica
+R48 p2 l16 | ricai delai suoni[113]sihonoii etiai [165]dimona
+R48 p2 l17 | tioni[167]hauri iuesofuoridi aot[165]colonelo
+R48 p2 l18 | haueuaidati irrentioneai [113]il idure[165]citii
+R48 p2 l19 | ilosiei tientiisuii iogiilehoritoitremiehai
+R48 p2 l20 | fatoase itornatoaiparigi hai inouatia
+R48 p2 l21 | inmodomutatiglihumorii epiiuin mansuai
+R48 p2 l22 | diseeonire[165]ethaueui roinesoondesiiiedeet
+R48 p3 l01 | rauodi fareilre [166]oficiocosis sodieiareai [166]e
+R48 p3 l02 | incosicordareili[113] [165] giudiconecesariosiue
+R48 p3 l03 | derestufoes posibile di truouare olemododaioni
+R48 p3 l04 | etare [166]regnomai[113]tuai ndati diferendoeprohoa
+R48 p3 l05 | hendoeeuariescuselaiudiueniai liletusosodi
+R48 p3 l06 | mandati insaniai senondai tregiorni inoeiin
+R48 p3 l07 | [166]puntomi euenutoai direil sigemaruialediar
+R48 p3 l08 | esedimani ilreepartirai disamisuosa
+R48 p3 l09 | ntesiiiededurai seco[166]signori tientrigi
+R48 p3 l10 | onitesiano guardatiain[165] caselotilgior
+R48 p3 l11 | noseguenteseneitornari oiiiineuhai [113]fa
+R48 p3 l12 | tosinoiiueni tereailcunai cosaiemai ieiuiene
+R48 p3 l13 | detoisapendolai[166]isolutionedi[113]sei sener
+R48 p3 l14 | oci aindauanoslai cortefecechianiarei
+R48 p3 l15 | lgranprioreuolomandoai dimandareailres
+R48 p3 l16 | terai uero lai[113] iuolesepartiret[165] elai dou
+R48 p3 l17 | euai fareinissosi dilemandoaidireiuo
+R48 p3 l18 | leuai indareaimetereinsiemelesueforc mai
+R48 p3 l19 | elai isihaueui aimourrepensauaidi torn
+R48 p3 l20 | areresoemisi aincoi tetoilsodetosigmaru
+R48 p3 l21 | ialepensi dipartiredimanis sihauendoh
+R48 p3 l22 | autoliceniai dai[113]diaindareaibagniai luci
+R48 p4 l01 | smedicarsi diilcune sueindissositioni etuolea
+R48 p4 l02 | ilreeglieportaesiailsigioie sitentasedi
+R48 p4 l03 | unasignareinman suai lepiaiedelmareseatodi
+R48 p4 l04 | saluioemai luiile hauiuui iuolute dicendo
+R48 p4 l05 | sottooilsodetosig iose netentaeseet cosi par
+R48 p4 l06 | este buonoai [111]egee sseruitiocomune loface
+R48 p4 l07 | stuicusariai di euiarui isolutione sodi
+R48 p4 l08 | fareinmodo neilreeneilsigiosaueseroiau
+R48 p4 l09 | saidi lamentarsidi luiaiaeisirisoi[111]rp
+R48 p5 l02 | eieislrehauendo [166]matini motosteiooireso sini
+R48 p5 l03 | andauai ilsigrdiborboneein ambuosaetemeni tod
+R48 p5 l04 | ielitroinuenienteseniai dimandareitri aiud
+R48 p5 l05 | ientiai menaindii subitoai [113]eeuiatonelai suaic
+R48 p5 l06 | ameri standoleai resendosepulegabinetolefeci
+R48 p5 l07 | direidesiderauodiparlarlerimi siparti
+R48 p5 l08 | estrofienteui areledistihauendole dimani tati
+R48 p5 l09 | piiuuote aiudiueniai senii hauerli potutooteni
+R48 p5 l10 | reeirendendoesimandauai nelcaselodambuo
+R48 p5 l11 | saeilsigrdiborboneelriti lioneetleimed
+R48 p5 l12 | esmi sipartiui dies sodieiareailmiodebito
+R48 p5 l13 | ibrieuopotuto lasaruil iusare [166]sicurtaidiain
+R48 p5 l14 | darleai parlareseniai hauerebuti aisignati
+R48 p5 l15 | onediiudiueniai usdirlelai regauodiicor
+R48 p5 l16 | darsi ileoauteuieesoleai haueuai comesoneli
+R48 p5 l17 | ssoni delsigrilguisai etsiiingloriieditetre
+R48 p5 l18 | lofesai delsigdioeneerai inco rsiatai malisi
+R48 p5 l19 | mo sodieiatai [111]eiiominisouoleai tinoua
+R48 p5 l20 | seaidaigiungere disordineai disordine haur
+R48 p5 l21 | eiuenutofarelounicioi niopareui aimepoi
+R48 p5 l22 | leai diceuai dicusodire [166]is farliailcunm
+R48 p5 l23 | alemaisoles sicureiai suai siposoniaotenta
+R48 p6 l01 | retinouaseroai stareopel medesinomodo erano
+R48 p6 l02 | statisilpasato ilmeno sinoai tantoueniesoleetu
+R48 p6 l03 | rdinedai [111] miissoseilreeegliiiedeuai hauen
+R48 p6 l04 | dofatai giusitiai di[165] etuoleuano leuarglilh
+R48 p6 l05 | onoreelai euitai diihauere fatoailcuno pecato
+R48 p6 l06 | esisai benein[166]similicasii sisuole sitona
+R48 p6 l07 | rlaincoatrorifigliuoliagiai mihaueuai de
+R48 p6 l08 | ttosori melo replicauaineuilsig[113]tt borbone
+R48 p6 l09 | nelritilionehaurianomaleai lcuno mai uoleui
+R48 p6 l10 | etipotes eronai nche esifare maleai leiagiat
+R48 p6 l11 | odoueuohauere iresomonsdeumenai saiuici
+R48 p6 l12 | nauii i[166]partitosoleii ipoteui fermarsie
+R48 p6 l13 | bisognandole morareai caualodicosarsile
+R48 p6 l14 | sueforcii orlienses tenirle tuttiunite spotert
+R48 p6 l15 | esisull aaidisegnidesuoiinimicistri ne
+R48 p6 l16 | cesarioleai siaisicuraesedilrigionieri
+R48 p6 l17 | certificatai etinpari giidesiderauanoacl
+R48 p6 l18 | iuni cosai piietlai libertai delsodetoutsiie
+R48 p6 l19 | arlosubito re dictobensapeui [111] mei tesint
+R48 p6 l20 | eno sigliarii difarlirupotestus
+R48 p6 l21 | iioediremeuitiuiueri icisiiicitro
+R48 p6 l22 | reeluiioeri isolutisimi di iuole fare
+R48 p7 l01 | aincofostosditai delai uitai esirometeui [111]i
+R48 p7 l02 | trouariai males aisicurarsi laiiuitaieilsta
+R48 p7 l03 | toelhonore suoleai soleet teiotratenies iensode
+R48 p7 l04 | toriniunbelisimo caselodoue hauri comodi
+R48 p7 l05 | tai dichiesai digiardino di buonestanae
+R48 p7 l06 | etutitiseruitorietuoraasaueresecaiodisi
+R48 p7 l07 | ilmondouedeuai ltesecutionifatedai [113]mc
+R48 p7 l08 | sinoai oiisirendeuai ltagioniai ciolhau
+R48 p7 l09 | eseromosai midiessitnediumanse haueuai
+R48 p7 l10 | mandatoai darletoai [111]tmcisipublic
+R48 p7 l11 | ariii iunai dichiarit ioneditutodolendos
+R48 p7 l12 | iinsoemole aitionisue unoseroseiore iuer
+R48 p7 l13 | retate inmalsensospecialmedaipre
+R48 p7 l14 | dicatori eranosolai causai disoleua
+R48 p7 l15 | reipopolieingiunsi stu[113] hauesepub
+R48 p7 l16 | licatoilciliosaurii fermatilai siocai
+R48 p7 l17 | aduti [166]redicatorisoriidieuiatai dino
+R48 p7 l18 | uonelsoliet dissute dopoinoteaitercationi
+R48 p7 l19 | esioin[166]isolutionediuna hori spedire unai
+R48 p7 l20 | iipatenteai tuti irefacendolisaseleiai
+R48 p7 l21 | cetauiail sodetocilioditrenetlorolo
+R48 p7 l22 | faceseropub licareeoseruareognunoneli
+R48 p8 l01 | suai diocesi seniai igiongerliditione ilcu
+R48 p8 l02 | nai oiseruados ienedi umansefariai pres
+R48 p8 l03 | entareai [111]olcipeelai desideri dali[111]li
+R48 p8 l04 | sianoiseruatieeisnomedi[111]lehaueuerome
+R48 p8 l05 | stoetin miai reseniai chiamatoilguardi
+R48 p8 l06 | sigienotoilprimoae distatocomiseailunoei
+R48 p8 l07 | litrosiformaes[166]iaeai medesero iunii
+R48 p8 l08 | copiai diesai lielestu misari mandati in
+R48 p8 l09 | uiaro leriilmirai[167]eprocuraroleaisi
+R48 p8 l10 | iain buoni formai eseniai ilcuni ditio
+R48 p8 l11 | neiomi haieromeso[113]eiimancai diicor
+R48 p8 l12 | darle di farli incoiirouaredalparlam
+R48 p8 l13 | entomai miissoessori iecitri parla
+R48 p8 l14 | mento hauendolelei leuati laiutoritaiei
+R48 p8 l15 | segniietis gilonn
+
+## R49
+R49 p1 l01 | ooisianopagatirocuraranodiocupareolecitaa
+R49 p1 l02 | opaesedi[113] clthai pensatodiimediaregliis
+R49 p1 l03 | ignamenti giai ritiatuti [166]umoriseruonoilac
+R49 p1 l04 | oindutiai deliui edeliin emotopiiuesucedes
+R49 p1 l05 | tuoleinuenientenelai ssoni delreehaueuai
+R49 p1 l06 | [113]comandatopoilrillioneeicusauaidii
+R49 p1 l07 | ssondereili comisarisuoisieserteclesiasi
+R49 p1 l08 | ciunoesirerogatoi talediboueselaisisen
+R49 p1 l09 | iaidisticomisarifacendos neniainco irende
+R49 p1 l10 | re[165]desiderauai sasedailui ihariiai d
+R49 p1 l11 | anosuopoigiailhauerii aisicuratodelai
+R49 p1 l12 | uitaiemai siioliceniein formai desimonian
+R49 p1 l13 | iais itretutocioeso rb incoicusa todiiss
+R49 p1 l14 | ondereai [166]edicendoegli eraiprimaetdict
+R49 p1 l15 | oipoteuai esertesaminatodi elhai giuris
+R49 p1 l16 | ditionesorii diluiadi esendosiiteratoisai
+R49 p1 l17 | ilresonouenutiaimeiparentidi esorpreg
+R49 p1 l18 | andomidisare[113] iuoglii fareregiudi
+R49 p1 l19 | cioilai dignitai eclesiasiciedisuplicare
+R49 p1 l20 | [111]stufosticercatodi[113]di cometereaioleu
+R49 p1 l21 | noli causai suatenouoglii farein ilieunore
+R49 p1 l22 | dicisi fidai diilcunodi esiaideside
+
+## R51
+R51 p1 l02 | bbiiesieri seriaauiuooi iunegueilsuomomandato
+R51 p1 l03 | dalcontediasuisoneeail reeangiornoaiuiri
+R51 p1 l04 | luihaueuai iuicinoaieumansdieiateduecoioag
+R51 p1 l05 | niedii eauali dimonsdesagonaetdi monsdeuna
+R51 p1 l06 | landraecapitani delsigiouimeni aioelisturano
+R51 p1 l07 | saluati soliinsaiatreseesendo monsdeunala
+R51 p1 l08 | ndriaesatoferitoneltu renonelai resai disit
+R51 p1 l09 | oincolpidi stocositemeuai douesemori
+R51 p1 l10 | reethaueui medesimamesto oteguai tagna
+R51 p1 l11 | etelbagagliedi cinonecoioagnieessaui dim
+R51 p1 l12 | andareresoleaitroad[113] laolteairendend
+R51 p1 l13 | o[166]sucesimeui ecenauai disteuai[165] estauanoai
+R51 p1 l14 | tornolai tauolaietunure bisognai ni miiiiu
+R51 p1 l15 | ogliai miailegri delai ouini demiei sudi
+R51 p1 l16 | tiaai naidelai miai medesmai ediconoe[165]
+R51 p1 l17 | dorliensessi haprohibitoai loropredica
+R51 p1 l18 | tori didiremaleinpulpitodelreetmandato
+R51 p1 l19 | bandoai tutiglieitri etienodebino nominar
+R51 p1 l20 | seisereetordinatomedesimameelicete
+R51 p1 l21 | sianopagateai tesorieridi[113] eesiseruar
+R51 p1 l22 | elamuouiordinidelmagisato deli citieri
+R51 p1 l23 | uonoi eteideamiensehaueuanocaciatode
+R51 p2 l01 | laiciti iliouinalaus linsolenioesorsioni
+R51 p2 l02 | faceui eetliolongauilai iuuenitodisaneon
+R51 p2 l03 | intinoehaueui dieiatedueinsegne diualon
+R51 p2 l04 | iueniiuanoai listiniendidesignoridelai
+R51 p2 l05 | legiailsigiouimenasitruoui tutauiainp
+R51 p2 l06 | arigiedidoueesitieneipartirisenonfatte
+R51 p2 l07 | nefuesehauendofatodureenuoueputaidi
+R51 p2 l08 | autigliiarii aietanipeselilesitrioiem
+R51 p2 l09 | oratai nuuailtuottesi faceuano inorliens
+R51 p2 l10 | douen haurii eresi iipe treputaimaiethaue
+R51 p2 l11 | uai eeoin dificotai dimetereinsiemegui
+R51 p2 l12 | satori einsomai suieecelihaueui sitoine
+R51 p2 l13 | numerodigente erimai sitrai publicateei
+R51 p2 l14 | meiuanoaienmilii fantietognieaualiaon
+R51 p2 l15 | deoiparelreecominciai ussiraromasi
+R51 p2 l16 | ncirendendolai nobitisireparigag
+R51 p2 l17 | liardamesiuenirlai aitrouaretutocio
+R51 p2 l18 | [113]desideri eoindemeli ssreuei tendodaiif
+R51 p2 l19 | eciuolai eoanouinai estiraresecoe
+R51 p2 l20 | [166]hrodalitrogliai onisi in[166]giuuura
+R51 p2 l21 | iuai facendoiliui esendosiiioadronitoinni
+R51 p2 l22 | ochisimi di ehoritoai[167] deniortedilodun
+R51 p3 l01 | dililisiasaredel blanciniberiedargenton
+R51 p3 l02 | edemontmorglioneinfinitonumerodi
+R51 p3 l03 | iuilagieailabateedal benesonostate
+R51 p3 l04 | poseleguardie incasai sordine di[113]esen
+R51 p3 l05 | tioosseto daiuisareisoloeidelielegadai
+R51 p3 l06 | oelisitamonatoai liuenisimoseioremioaitr
+R51 p3 l07 | auaronustu saraiuintoli posoii farnial
+R51 p3 l08 | tasebent inoiiiiiedonoesidebai giusifi
+R51 p3 l09 | carereso[111]btrcinui
+
+## R52
+R52 p1 l02 | ebeoeleesendosi aicoautoilcaselanodeangierseonei
+R52 p1 l03 | delai citi seoraidi monsdebrisacestauano sunirse
+R52 p1 l04 | laiiiecoligaet eiaitendeuanoitrosenetuareillorod
+R52 p1 l05 | isegnoel iriuodimons disiodafinoailoeleuainitaui
+R52 p1 l06 | icosandoiliiecitai orcaualitomileiraircosius
+R52 p1 l07 | ieriasubitoristeuail martiale duinoneesreuenire
+R52 p1 l08 | tooioere[166]raticai oneposibileceleritaisinuia
+R52 p1 l09 | seai [165]uotai olesue gentimonandofri tirestocase
+R52 p1 l10 | lano diaieserein tutoailienodaloferti dopogli
+R52 p1 l11 | haueuanofati ditanti milii scudietdeli ounpr
+R52 p1 l12 | iationeiniuitai di[165]caricai tenesteai lorodeuo
+R52 p1 l13 | tioneilcaselo ettapiutatoil piifuortedic onde
+R52 p1 l14 | ilmaruialesitrouauai neitorni dieumanseilat
+R52 p1 l15 | taisiaiioortantenuouai seniai sdere teioosubitosip
+R52 p1 l16 | osteincaminogiunseailcaseloes esaeuineliciti
+R52 p1 l17 | aasori aipunto etiaborghiecominciauanoaiuolers
+R52 p1 l18 | itrincierartu teerapienare lecastupiiauicine
+R52 p1 l19 | ailifortutiai emonsdesiodafinoegii eramiotr
+R52 p1 l20 | icino lesuegentialiiorouiseai triaedelemaruia
+R52 p1 l21 | leiaborghesiresiornoinmodo sitigotititoioreside
+R52 p1 l22 | lai piuri seni aitromouimeuoimonaronorontiaiu
+R52 p1 l23 | olereiubidireeseruireilreeilolees iungeuienomosteso
+R52 p1 l24 | giuntsoiilgiornodipiisoniafiudatoadl[166]suceset
+R52 p1 l25 | [113]nemono infinaitii ileeoeiadocomendoisai lam
+R52 p1 l26 | uedeiiiiegenerositai dainimodelcaselanoerai
+R52 p1 l27 | statoaldoaiecolpidioneetanti milii scuditog
+R52 p1 l28 | lirisesubitoiuni iamioreuolisimi disui mano[166]ci
+R52 p1 l29 | eatholo euiioortantisimi sesulliuenoai tutilieb
+R52 p1 l30 | retagnaemaioi selicettesicauanoiioortanopiiud
+R52 p1 l31 | imnemilii scudiailameso[113]hai mandatosubitoi[165]
+R52 p1 l32 | uotai monsdeushauerest esedilcuini oifari leua
+R52 p1 l33 | relorol airmiiiinesinopiiuiliarelecorni soai
+R52 p2 l01 | ditneitobisinei titooi ienotedesuisoneesitruoua
+R52 p2 l02 | uaioguare lefeseinbretagnaii iunitocol iodin
+R52 p2 l03 | ionipensieroeediconosai piiudignecauali ins
+R52 p2 l04 | iemeostitutidinobiliaposai comb atertiliomer
+R52 p2 l05 | eiurioiloeltuosante gliofii eifatisecodalais
+R52 p2 l06 | uaisorelaisedechiaratodelai legiiediine
+R52 p2 l07 | senteinfinitocori togliosamiorei tenemaritoinuec
+R52 p2 l08 | [113]indirimiartediilai mesai gliuniueresentatail
+R52 p2 l09 | aicorneeai diunai eioioagnidii [165]di monsdeume
+R52 p2 l10 | naeliletu erai statai dieiati iniunuilagioiuicino
+R52 p2 l11 | aiescireresuiiiiuni siandai ditnecaualidi[113]
+R52 p2 l12 | aisaligliitrimeuiedinottui trouauanoinprof
+R52 p2 l13 | ondisimosonoei deabeuileoi hanotagliateaip
+R52 p2 l14 | utaiduecoioagnied aircosiusieri deli legiseli
+R52 p2 l15 | nsolenciusauanonelloro teritorioestudetome
+R52 p2 l16 | desimameilsofinsori ihai iusonnooldeamie
+R52 p2 l17 | nsehabinocaciatosialagnieedesiuolesteairoga
+R52 p2 l18 | retropieiutoriti eposiinlibertaieli madrelam
+R52 p2 l19 | iogliofratelodeliolongauilaenele mani di cui
+R52 p2 l20 | iuoleuanoimeterein tutoilgouerinodi[165] prouinc
+R52 p2 l21 | iaie[113]hai giiritodueiuoteailsigioniuerseeipa
+R52 p2 l22 | stiinesciampagnaetfacilii suin[165] prouincii
+R52 p2 l23 | sdiuertirodisuniretanto piieneforcdelail
+R52 p2 l24 | egaiemai suii eceleihaifinsori aicetatoilca
+R52 p2 l25 | ricomonandodidesiderare piiugente di[165]eth
+R52 p2 l26 | orai tiene monsdetentiuileeedicono edicir
+R52 p2 l27 | eiai tremiliiefanti tolecaualegii due digiun
+R52 p2 l28 | seiuniial[113]nuouii lsigealfonso corsoeerico
+R52 p2 l29 | ioarsoineauerniaegrfantitouraireiob usiene
+R52 p2 l30 | aiecaualo partedeoleiiuerii ai trouare[113]elit
+R52 p2 l31 | rai indarii stocorsoainborgognaedouetusta
+R52 p2 l32 | todesinatodalrees suoluogotenuet ecapodi[165]no
+R52 p3 l01 | biiii liletrefrai esai nisuniuoleui iubidireaili
+R52 p3 l02 | trobrieui motai insaniai dimandatoiun capitan
+R52 p3 l03 | odiualorodissiueniaieil ioepernones tiuiene
+R52 p3 l04 | dettoaifermatoeusilicamehai insiemegnelanci
+R52 p3 l05 | reircosiusieriai caualoefrefantiati aissetai
+R52 p3 l06 | itrodai [113]siuenirli aiseruire lordine ecomanda
+R52 p3 l07 | meusuoetu ueroesilauiai irendereiliuolertese
+R52 p3 l08 | rcitare lai sui carici digeneraledeleinfanteri
+R52 p3 l09 | treaitrimipuo suohonoreseruirli esinoaioi[113]ih
+R52 p3 l10 | tuntuiuolutai tentareet[166]tu tuto[165] i poesodire
+R52 p3 l11 | ai[167]circai iparticolari deli su deli partedel
+R52 p3 l12 | reet ilsigiouimenasonomotidiepiiroteleha
+R52 p3 l13 | ritodoueuai iuuireincaioasnni colsuoesercit
+R52 p3 l14 | omaiesuai eceleniai tutauii sitruoui inparigi
+R52 p3 l15 | aissetandoforsi lesuegenti sparse silegno
+R52 p3 l16 | imetinoinsiemeegliaaiutiforesieri siiuicini
+R52 p3 l17 | niespoterepoiisoluerofare[165] iioresi giudicari
+R52 p3 l18 | piiuii roposito tenendioi lcunisiai saindareiue
+R52 p3 l19 | rsobogiansitosilesetitri iuenireai dirituri aie
+R52 p3 l20 | [166]uoti tohogisiti tuetoilcolonelo sanpoloiii iriu
+R52 p3 l21 | atoaiegianeilcunegentito haueui lauiatiaifo
+R52 p3 l22 | ntanasileos egimuliei difanterii etloseguiua
+R52 p3 l23 | noondemotisono euiatiinopinioneetmonsi teumena
+R52 p3 l24 | netresehauereolepensierodaisediaresanserae
+R52 p3 l25 | luogocelebres[165] longoe duroaisedio patirono
+R52 p3 l26 | gliiio nelitresurimi etmonsdemontegniesitruoui
+R52 p3 l27 | deuiosil reeurfantiatiuni eioioagnii dicaua
+R52 p3 l28 | li habii magiore comoditi difortificarsimai
+R52 p3 l29 | issetandoio tasori insori iunsuomo diparisessa
+R52 p3 l30 | rodipotereforseriuereai[167] oelitro particola
+R52 p3 l31 | redesomonsdeumenaeprimi etispediuai [166]piego
+R52 p3 l32 | itrauaroei sdeiotoetfai mercantiedeutr
+R52 p4 l01 | auagliditredoposaueremonato daindareiuerso
+R52 p4 l02 | esamureseiuotatoitieriemonlioneenuiuutimame
+R52 p4 l03 | resotoresidiatodalsig ioniuersethai secogrenu
+R52 p4 l04 | intitercaualepuresihsai esendod euiolau
+R52 p4 l05 | ardinouocapitalisimonimico ecapitanodini
+R52 p4 l06 | otoiualore glimonari iriuliidameli frontoue
+R52 p4 l07 | nderi iuanitutii suoidisegneilab atedalb
+R52 p4 l08 | eneeuniueoenatoin casai sisossetiiristi
+R52 p4 l09 | ai[167]lutiinemitestatosinesotuti [166]disantief
+R52 p4 l10 | estudiinaschiadaindareailechiestein coioin
+R52 p4 l11 | giaiuaidue suomini soli deputatii taleoina
+R52 p4 l12 | freuosoetsi iiederesoari liberato deltut
+R52 p4 l13 | oelruditoursestai nelpaesedangiues seuenn
+R52 p4 l14 | einfermo tgii otogularioemi prelato ditoin
+R52 p4 l15 | edotrinai hai mandatofuoriil precetoetlaa
+R52 p4 l16 | ireitri oecluso iloletunonii daredai tireais
+R52 p4 l17 | aiiimotipredicatori deleregno gii eiomi
+R52 p4 l18 | ncianos itrooi ainadirsi liunelaitro seniai
+R52 p4 l19 | ilcunguadagnoi telai nonaiunei iittomotosca
+R52 p4 l20 | ndalodi tutiai buoneai parigieincasama
+R52 p4 l21 | ielmolinoethesoriero dele sparmie sonostat
+R52 p4 l22 | rouatifinsorieurmiliiscudi eiiirnemilim
+R52 p4 l23 | edeuono eseresedaiunsuomemorialeonde[166]ht
+R52 p4 l24 | sonostati ubitii [113]gli inonianosoelet teioofare
+R52 p4 l25 | lihailsigrillenoncourtediceetparisinihano
+R52 p4 l26 | iuendutitutiisuoi mobilieferiteui tusutures
+R52 p4 l27 | taiin cortee[113] [166]treditieneai setimani santi tut
+R52 p4 l28 | atai iglifuiciai sanefrancescodipauliai sanm
+R52 p4 l29 | artinoeileiuancescani ese comonicati ilgio
+R52 p4 l30 | uediailsabatoeil giornodi pasciehauendo laua
+R52 p4 l31 | tiailsolitoipiediai poueriiniuloin saloneuimani
+R52 p4 l32 | diobatosegnatelebiofoleitreficidipiuetieils
+R52 p4 l33 | eruiri sfinedi[166]eesiteiuroaire[111]seai
+
+## R55
+R55 p1 l02 | reiiiotutohabii ritoai [167]tmeocoreui slordin
+R55 p1 l03 | ariotinuiatoinitoi duelicati iuogliosoesare
+R55 p1 l04 | incoilresentecasione diungeuilsuomodelco
+R55 p1 l05 | induchesadiatouania seneitorni aifirenie
+R55 p1 l06 | diiuisare[167] srelationedelsodetogentilsuomo
+R55 p1 l07 | soiresolconte diasuisoneeeteriaini tatoibre
+R55 p1 l08 | tagnaemeuieetsitareiooilsusneuiinuiauai
+R55 p1 l09 | uersorenesediiuani aecaminoitrifermato
+R55 p1 l10 | ai chiteogironeesendonelleteo dormendofirn
+R55 p1 l11 | atorigione dalioniercurioe insiemeilcuniiip
+R55 p1 l12 | nigueilsuominitai siderationielileresi s
+R55 p1 l13 | esere[166]ri delsanguetustimati dimoiii iioorta
+R55 p1 l14 | niaienedai itri parteuatai limoretedelcon
+R55 p1 l15 | tedeb antignaneeri delilegii itnolteu iue
+R55 p1 l16 | dendo ilcuni barili dipoluere dinottiunlu
+R55 p1 l17 | meinmanosiuni fauili cadoicestuli poluert
+R55 p1 l18 | esoamnsae lai dieiatai ii chartresediil
+R55 p1 l19 | cune coioagniedicaualidelsig iouimeniaodi
+R55 p1 l20 | ceetilredoueui eseredomaniai bosnianciet
+R55 p1 l21 | lai isolutione suai lnadiaindareiliuoti dip
+R55 p1 l22 | arigi douegiaisitrouaui itniouimenaussere
+R55 p1 l23 | [165]citii iloanofusione hauendosi gii baricaet
+R55 p2 l01 | tute lessoadesoettat esendo ipopoliileoin spirie
+R55 p2 l02 | uotoiuailoro maldicoritaomisaidetoeternemon
+R55 p2 l03 | aui eoindisimocuore hauendomoto spesoattiei
+R55 p2 l04 | felici sucesi delesue genti ni[165]deli lega
+R55 p2 l05 | toeluoleuai piiueuire aiparlare diss dicend
+R55 p2 l06 | o[113] haiinesullonano miliiecaualiediecise
+R55 p2 l07 | ttumiliifantiaomneet lisuiieridinuouoir
+R55 p2 l08 | egono insuosocorsoeranouicini aisangiane
+R55 p2 l09 | di loniaeincoil casimiroebuonnumerodi
+R55 p2 l10 | caualerii eri resodiriareincehauen di[166]
+R55 p2 l11 | diilioeniuernoneereso montereofaultionael
+R55 p2 l12 | uogo motofortieuenesitu detooi eri statoresto
+R55 p2 l13 | iungiorgio dauoienormandaethaueui delib
+R55 p2 l14 | eratodiimaiareil reeohouolutodirei[167]
+R55 p2 l15 | [166] tantosebentiilotengotutos uero poilatiu
+R55 p2 l16 | iene dali corte douelenuouesi formanoseiore
+R55 p2 l17 | ail aiuantagio deli partesoei[111]ipne
+
+## R56
+R56 p1 l02 | intp[111]ein[166]emiaiualeueniai nisuni cosi naipoteui ifli
+R56 p1 l03 | genl eiteraepiiet lireni tere seni iadi[167]di iodelpa
+R56 p1 l04 | esatoein formiti mhaueui detoil mioae suliiso sase
+R56 p1 l05 | ilcunparticoli einiunose statorito longamusordi
+R56 p1 l06 | ne di[111] imi eseei tocapitateleiane meno sapen do
+R56 p1 l07 | douefare capos sauerledai [166]seguei solo imiai
+R56 p1 l08 | infinitai molesii eforsei tiseruitio di[111]ipo
+R56 p1 l09 | sai sase[165] mitri comandatomaieei debai agione
+R56 p1 l10 | uolmedubitaredilees soatagemi toiuaude socoie
+R56 p1 l11 | finedides iderase dirorbidarmi[165] eoatii 
+R56 p1 l12 | tantai insieti horocuratoseiore dimeritarmi
+R56 p1 l13 | dali benigniti di[111]onde iuiuosolatisimo eimi
+R56 p1 l14 | ponomaidarehs finihabiidai [167][165] lumedi[166]fa
+R56 p1 l15 | totunecesario subidirli e seruirli edeloletion
+R56 p1 l16 | eli suelico[165] piiu humileeiuerente aifuteoesi
+R56 p1 l17 | posai desiderare cosai di[166]moni tai pensauo
+R56 p1 l18 | di itirarmiai liones metermi insicuro poioo
+R56 p1 l19 | sari pub licatooi[165] monitoriodi cosi riuono
+R56 p1 l20 | esere digii statoaiunisoinsan pienoetesirenderi
+R56 p1 l21 | laipartiti di corte delsigrdi gioiosaetde
+R56 p1 l22 | l au die siposoi temereai meisiai fato oleet iiuontio
+R56 p1 l23 | eforsiisenii sicolo deli iuitius haueni toin
+R56 p1 l24 | uiatoai lionees sasestui poteuo sicurameinda
+R56 p1 l25 | rofermarmi sino aiditroontdine di[167] rimi cort
+R56 p1 l26 | eseinemirnei eueroaseetm haurianouedutouolouiueri
+R56 p1 l27 | mai dapoimihanoriti ifui ialileini dicono
+R56 p1 l28 | seneuare ogni ocasioniedimali ndieiatione aiei
+R56 p1 l29 | popoli miregauanodi tenti rini dii stare piu
+R56 p1 l30 |  tresoli giorni inlioneonde iniinouoin termine
+R56 p1 l31 | cosi infeliceiho iniiui touepote neini tare nesta
+R56 p1 l32 | re estu[111]i simuoue aipiueti liberarmi dai [166]miserie
+R56 p1 l33 | i coreromanifesesicoloi ti iceuere ole iioortant
+R56 p1 l34 | isimodanoopocai dignitai dicotesi santi sedeil
+R56 p2 l01 | houolutodireai[167]i teitemi lai mortemi leii iren
+R56 p2 l02 | dai lostato ininiinouoe setuinpiaceredi[111]icori
+R56 p2 l03 | [166] sicoloecomironeai soportareogni martirione
+R56 p2 l04 | sinoai [166]giofoiisinrendeil sodetomonitorio
+R56 p2 l05 | siai statopublicatoin ailcuni di [165]citai esonn
+R56 p2 l06 | ominate nesoedai maraui gliarsihebenesono
+R56 p2 l07 | giaipisaet tresetimaneil comeni tatore didio
+R56 p2 l08 | iieuni rtitodai lione s aindareai parigiemi ene
+R56 p2 l09 | ssoadesonocostitedai soldatiisipuoiniiuim
+R56 p2 l10 | odoilcunaindare itornoeneoni situ detoilre
+R56 p2 l11 | eeriaindatoai chartresethaueui sitonatoai [165]
+R56 p2 l12 | citai nioiiai mioreuoleii lai suii ibeneione
+R56 p2 l13 | e tutelecose di [113]caminauanomoto rossamue
+R56 p2 l14 | diconoisuiieriedoueuanoi li tedelresuet
+R56 p2 l15 | esereai laneoesiouedri [167] dali copii diiun capi
+R56 p2 l16 | tolo diiariti ai monsdeli guichaeas[166] nuoue
+R56 p2 l17 | rere unalesesiano [166]popoli siisonoposi ilo
+R56 p2 l18 | an timorees sebene rimi pareui laimagiore
+R56 p2 l19 | parte inclinaes aililegi eilgouermatore
+R56 p2 l20 | medesmohauesedigii seginati liunione hano
+R56 p2 l21 | somutatotutipen sieroe liuenuti dimons
+R56 p2 l22 | delai eguichiahanofato iunsolenegiurameuo
+R56 p2 l23 | difedeti ilreedeli formi etiuedri [167]dali co
+R56 p2 l24 | piisari [166]escaciatituti[165] deli legase
+R56 p2 l25 | benelipiiuii fetionatie si mosoauanopiiu
+R56 p2 l26 | iinasionati degli itrisono stati lirimi ai gi
+R56 p2 l27 | uraredi uolere morie ntio losiei tieuii di[113] tsl
+R56 p2 l28 | oele issetosirenderi aincomanco sicuro il miost
+R56 p2 l29 | arein [166]loconedi conoetmons di eumeniaerian
+R56 p2 l30 | datoai diuncaselo diun thesorieredi [113] louan
+R56 p2 l31 | to in dieci leghe dai pariginoiminato liegran
+R56 p2 l32 | cheleroestimaeio iseaiforteuel haueui resto
+R56 p2 l33 | ssaniai diinouarui onantiti dist inis sino
+R56 p3 l01 | ai [165]hori ihaueuanoinouato cosai ilcunienesih
+R56 p3 l02 | saui ai[166]hori enuenioneeunoseliberatoo [165]ht itre
+R56 p3 l03 | uotehoritoai [167] maiparemonse diaepernonreiio
+R56 p3 l04 | ediui liliberationehogisitu detoil sigine
+R56 p3 l05 | nonsoecorsoahaueui pasa toil roi tanoeuerso
+R56 p3 l06 | mirabeneoedue milei fantitoi lonanticaual
+R56 p3 l07 | isindarsiai giungersi i suiierieuuln
+R56 p3 l08 | sonosil reee[166]nuouei mi isicuroesianotute
+R56 p3 l09 | uere mai iposoriuereai [167]senon[165] ireni to ei
+R56 p3 l10 | ncoparcainuestui riuesituto[165]eeisii tice
+R56 p3 l11 | sarei sicurodi dielmoiuiniiufalsitiiu
+R56 p3 l12 | eritaiessoeir[166]iapn
+
+## R57
+R57 p1 l01 | ot[167]eotrid otione deliiariciai mons delai guichiaemio
+R57 p1 l02 | isnnoinneooi cercauoiunsuomosteso sinuiaruii oho
+R57 p1 l03 | trouato [166]eportatore mesagieroi timolinse mib
+R57 p1 l04 | romesodi ueniruii uedere edarui liresente sla
+R57 p1 l05 | oeleiuifaroiueni tere ilfeliec sucesoi telinioui
+R57 p1 l06 | agiofinoieoatii didio buonisiilnoueleetio so
+R57 p1 l07 | mediinte lieoatii didioportareil reemigliorit
+R57 p1 l08 | ai[165]et eglisiissetauai eli sui irmati disuiie
+R57 p1 l09 | riitrai ai oeno leghe dimonisi eliardeiensor
+R57 p1 l10 | iiili lauiaie saranoaielantoese ilitedi
+R57 p1 l11 | [166]mestuili piienongai estisonoil numerodiat
+R57 p1 l12 | redici milii suiieriei tuemilii lani oninech
+R57 p1 l13 | etrerainieilresesonoci posono esere intuto
+R57 p1 l14 | diec isete in diecioemilii suominieduco
+R57 p1 l15 | noseio dodi ciinutiittai rtigliariieneinteif
+R57 p1 l16 | ssoano caso deliieditodi [113]tdelteoandiofertee
+R57 p1 l17 | tgli hanofate dhuominie di st liciti distra
+R57 p1 l18 | sburghesoili resai ilreeuriniliiscudideolei
+R57 p1 l19 | monsdesani tesai pagatern uaisoetitodici
+R57 p1 l20 | milii sui ierieesegui rano[166]irmati sei setima
+R57 p1 l21 | neaioho trouatoilsig cesareiuai semurene
+R57 p1 l22 | nauignecnolte hodeto cioglibisogini etfa
+R57 p1 l23 | ciai inpasani toslai conteaustu liiiisiuni
+R57 p1 l24 | forteui telai legai core eoande fortuni eiogli
+R57 p1 l25 | hoditioiunpasaportoe gli hoinsegna tocio
+R57 p2 l01 | etbisogni faciieiditi suiierie uengonoail
+R57 p2 l02 | antoesetdi lai iiied esiini saranoilpor
+R57 p2 l03 | tediadigionet dilai aieaut hune dideiiitu
+R57 p2 l04 | [166] diadigiugnoteoiu onopiiu humilisimo
+R57 p2 l05 | eobedienti simo seruitore regnauenenip
+R57 p2 l06 | reiii[111]urai etione delgiurameu fatodai [165]del
+R57 p2 l07 | aicitai dimolinseildi dhogietgiugnoteoili
+R57 p2 l08 | reseniai di mons deli guichiesigliered
+R57 p2 l09 | el reenel suo siglioriuatodistiteoin mano
+R57 p2 l10 | delairtigliarii di ctoluogotenente geners
+R57 p2 l11 | enes[113] nelisui iirmatai di ssoanieridi suiie
+R57 p2 l12 | riai consolitoesciuiniemanentitohabita
+R57 p2 l13 | nti delai uilii touoborghi dimolinsenelb
+R57 p2 l14 | orbonesueeoegatinelcaselodimolinseh
+R57 p2 l15 | ano una nimemefato eresato ilgiurameudir
+R57 p2 l16 | nedeti ail reenonosire henricoe tennio slaco
+R57 p2 l17 | atiai di dioreedic to dipolonii tonele manit
+R57 p2 l18 | ai monsdeecheseronelogotenentegenerales
+R57 p2 l19 | [113] nelgouernamene deldeto paes eueromestoh
+R57 p2 l20 | oraili lorofedeiuiti tohonore eneli loroleal
+R57 p2 l21 | tai es cieniadaiuiuere emori rleli eeigi
+R57 p2 l22 | one in iposetomani sotoloai diueniai di[113]ett
+R57 p2 l23 | ipartirsene inailcuni manieri neiuiarend
+R57 p2 l24 | ere ofauorirein moi tosisiai gli inimici
+R57 p2 l25 | delo suostaetsesoni eoi dies are suoirnedilei
+R57 p3 l01 | sogeti tohumi lisimiseruitoridi esaieti tifend
+R57 p3 l02 | erlai uersotondutiio seuendo lororeligitimoes
+R57 p3 l03 | ouri notedubidire ilicomani tamentilihar
+R57 p3 l04 | anofati tanto di monsdi cheseroneitri luog
+R57 p3 l05 | hitenenti generali di[113] sserui ciodi [165]tos[166]
+R57 p3 l06 | enetosano inunti atoesisono partiti dai tutte
+R57 p3 l07 | neromeseeisociacioni poteseuero hauerefatt
+R57 p3 l08 | inonarioe ilcune cenehai eintesimoniodi
+R57 p3 l09 |  [165]soiteti habitanti sanosegnarehanoueng
+R57 p3 l10 | ae tseno isnsuardo dicoloroisanosegna
+R57 p3 l11 | rehano dati liloronoinisono stati traritid
+R57 p3 l12 | al notaiodelai signorii di borb oneseenel
+R57 p3 l13 | fine delturesentian teoii [166]
+
+## R58
+R58 p1 l02 | nneiii [166]sedelecostudiiiilasarodi dirle[165] esiren
+R58 p1 l03 | desebentomotai dificoti sipuo sitsiuni ueritai poi
+R58 p1 l04 | ognunoparli sedilsuosensosituiresoil reeha
+R58 p1 l05 | biai resogiorgioehauendool dideuioissetatoilc
+R58 p1 l06 | anonerimi uolersirendere eteil logo edebolisimo
+R58 p1 l07 | ebenediioortaniai ssi uertiunponte dipieni sul
+R58 p1 l08 | fiumedeli enoiri tessereosoo soleleghelorano dieo
+R58 p1 l09 | rliensei ticono[113]ihabiaiuolutoiieetarloilcuni
+R58 p1 l10 | ditionemai liberamei suii diretionetutociol
+R58 p1 l11 | haireseruato dals acoiseniai moti dificotai
+R58 p1 l12 | emali ndieiationei soldatielesuendopagatih
+R58 p1 l13 | sauanoai lfenodiguadagniinl olecosai in[165]ocasi
+R58 p1 l14 | oneeuiatideoio[113] iruincieali caualieriesonose
+R58 p1 l15 | cosaiuni tiioicareiuncapitano uniuincolpato
+R58 p1 l16 | deserestato[165]ethaueuai sesuasi ipopoliii isire
+R58 p1 l17 | ndereedifarli ibruuiartiunborgo diunuomesen
+R58 p1 l18 | euareli comoditai dailogiamentiil esercito ote
+R58 p1 l19 | [166]capitanopocoteioorimi haueui tochiht sfare
+R58 p1 l20 | genteinseruitiodelreelidapoiiceutisitrai
+R58 p1 l21 | uotatoinfauoredelai legiehaueui inco[113]dana
+R58 p1 l22 | toneli medesmipeni ilgouernatoredi[165]teri maid
+R58 p1 l23 | otoillogodenesueliciohauendodiuersisignoriiu
+R58 p1 l24 | ercesosenuid ireeri bonsoldatoenelaiuenirehau
+R58 p1 l25 | riais eruitoai[113] otentilsitonomai sosi tiuenutauii
+R58 p1 l26 | rigionesi inco[113]fatocarcerare ilcunideruinci
+R58 p1 l27 | piatideli teri shauere stesirende[165]digianeteri
+R58 p1 l28 | diecileghe diuosai dai giorgioedoueiieiun itro
+R58 p1 l29 | pontedipieni sorailfiumedelai loiri uedutoil
+R58 p1 l30 | resiiresauaiai[165]uoiiai haueuanoinuiatoi dima
+R58 p1 l31 | ndarsocorsoilsigiouimenaemi ilhauendo hauto
+R58 p1 l32 | seniai issetarel esercitohaueano inuiatoai reni tersi
+R58 p1 l33 | ai[113]efanoosti tutelitre tere diti tofittisiposono
+R58 p2 l01 | longamuenire laoeleli haueui imoreuolineiceu
+R58 p2 l02 | tianelmedes meeioodicono ilnauaroehaueua
+R58 p2 l03 | oinganorestoinluiuerserouesi eraincaminati
+R58 p2 l04 | [113]horisi inoui padroni di tutii pontieso
+R58 p2 l05 | noorai lai loiriedi orliensuonanteseinpoit
+R58 p2 l06 | odiconoetsii isolutai daini tare diritameuerso
+R58 p2 l07 | parigis doue dicesi sono aincoinc aminati
+R58 p2 l08 | lisuoi suiieri dinuouo uengono ponoatoleih
+R58 p2 l09 | aueui [113]inuiatoilio longauilaein iuambiodim
+R58 p2 l10 | ons delieguissiaerai rimi statodesinatoai[166]ca
+R58 p2 l11 | rici epartitooi buoni coioagnii maiduegiornid
+R58 p2 l12 | opo sesciai tenereeleolti glicomandaui diito
+R58 p2 l13 | rnarsenein [166]partidelborboneseedicendo
+R58 p2 l14 | resogli inuiari gente sfareli suinouerniaeni[165]
+R58 p2 l15 | deli legiaosidicediitri piiretetil iouimenaeh
+R58 p2 l16 | aueui ireso montereouoincocaseloteriet sint
+R58 p2 l17 | iaminaui saindareeai comb atere lisuiieriede
+R58 p2 l18 | lreerimiesi postino iunire[113]eetmons di nemorire
+R58 p2 l19 | usauai ogni diligeniai iilionessi uerehtsti
+R58 p2 l20 | areaaisuiieriuengono inseruitio deli lega
+R58 p2 l21 | neneltidicono esere giuntiaieciamberiein nu
+R58 p2 l22 | merodi undici milii tuti buoni gentelaoeleiiu
+R58 p2 l23 | olepasare oi irestuleuengono datistini esubitih
+R58 p2 l24 | auuti sincaminarano sli borgogni ilicodai de
+R58 p2 l25 | glitrisuiierieiii seiombate rlenogli aifetio
+R58 p2 l26 | natidelre dicono[113] hai senieace seusierier
+R58 p2 l27 | ainiunemiliise sone ilseroilsigiouimena
+R58 p2 l28 | sai pochisimi gente egli ifetionati delilegi
+R58 p2 l29 | dicono egli sai piiudicemilii sesonoilr
+R58 p2 l30 | eineuhai seimilii eisuiieriiii etgliitridic
+R58 p2 l31 | onoeuere motoini nti hanoi trouatai uids euia
+R58 p2 l32 | reincondeii sareiiifermare ai[167] sebenei
+R58 p3 l01 | hoparlato uni tentiodi niuersee tmi dice hauere
+R58 p3 l02 | luimedesmolasato ini tutti suiieriei lintoese gii
+R58 p3 l03 | motigiornie maieglii posoii direilfalsoin
+R58 p3 l04 | [166]puntoe uenuto aiuederiemons ilunorgesepar
+R58 p3 l05 | timercordi pasatodai pluuiuersedii touedice
+R58 p3 l06 | ilmedesmogiornoeri incopartitoil res etant
+R58 p3 l07 | nesehauendo hautoi tital nauaroeiborghi
+R58 p3 l08 | di[165] teri eranotutis[113]egii haueuanoinco guad
+R58 p3 l09 | agnati lai foseai epiantati lairtigliarii inta
+R58 p3 l10 | ntoessauanomo toresio di hauereli teriedictu
+R58 p3 l11 | mcoetosoo deiborghi diparisnecuotu sanm
+R58 p3 l12 | arceosanuitoresaniaches esangueri nanoeh
+R58 p3 l13 | aueuanofato sasei [113]teniuanos eneitoet uolend
+R58 p3 l14 | oindareai [165] uotai loro lhaurianomotoileeo
+R58 p3 l15 | ameiceuitai es[166]issetosubito esari termin
+R58 p3 l16 | atai eniioresai diretaioesesu lii issetarepiiu
+R58 p3 l17 | longamei stranieri il reecolsuoesercitosii
+R58 p3 l18 | ncaminari ai [165]uotaiei uendendosiitnie
+R58 p3 l19 | aisumeniaeri ai meoseiunpoco imalatorefer
+R58 p3 l20 | iusoi ilconte diasoisoneeri rigionenelc
+R58 p3 l21 | aselodinantesesitri saluatometersi iniu
+R58 p3 l22 | nai cisai nelaioele soleuanoportargliilmangi
+R58 p3 l23 | arein caselo cosi isaidificiledai iiederein
+R58 p3 l24 | uolutoli sareildire ai[167][165]et[166]mons inihai efier
+R58 p3 l25 | ehebene ioglireso poci fede esendomoto parti
+R58 p3 l26 | alseruitore del reemade socertoiuiene dalico
+R58 p3 l27 | rte hauendomimortaetia delsig galeaioefreg
+R58 p3 l28 | ostodelluoue si imeteai [165]irenderodaiestom
+R58 p3 l29 | onsimie parsodouere lasare didarnetoai [167]le
+R58 p3 l30 | meteri in [165] siderat ione pareri ilisingolare
+R58 p3 l31 | suai ruden iaie[111] sroierisoinni

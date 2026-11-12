@@ -4,7 +4,7 @@ Letters that the archives and the historical cipher ledger at https://github.com
 
 One letter is a special case. Jean Bazin's letter of 1573 has been in print in clear since 1867. I found that print after my read, and it now checks the read.
 
-Two more ciphers have a known key: the Francia 346 letters of 1632 to 1634 and a letter of Melchiorre Biglia of 1565. I read them without the key, as a check of my algorithm. They have their own section below.
+Three more ciphers have a known key. They are the Morosini despatches of 1587 to 1589, the Francia 346 letters of 1632 to 1634 and a letter of Melchiorre Biglia of 1565. I read them without the key, as a check of my algorithm. They have their own section below.
 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
@@ -128,14 +128,23 @@ Bespoke count matching based on Spanish next-letter counts opened the number tel
 
 The key family may already be in print. I have not reached Narváez's 2019 book or 2025 article. `carranza-1915/README.md` gives the checks and what stays open.
 
-## Two ciphers with a known key, read as a check of my algorithm
+## Three ciphers with a known key, read as a check of my algorithm
 
-I read these two from the ciphertext alone, without the key. Their keys are online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
+I read these three from the ciphertext alone, without the key. Their keys are in print or online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
 
 | Cipher | Date | What it says | Read it |
 | --- | --- | --- | --- |
+| Morosini, 35 DECODE records between R17 and R58 (Vatican, Francia 22 and 18/3) | 1587 to 1589 | My read shows the Council of Trent, the nuncio, Guise, Navarre, Paris, Angers and Brissac, a castle and a river bridge. Where my cut matches a single-letter code, 95.1% of my letters are right (80,553 of 84,667). But my read recovers only 72.7% of all single-letter codes (80,553 of 110,821). Read in part. | [Notes](morosini-1587/README.md), [Italian and English](morosini-1587/reading.md), [Check](morosini-1587/check.md) |
 | Francia 346, DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in an appendix (Vatican) | 1632 to 1634 | My read shows Benavides, the Imperial court, Nuremberg and Regensburg, the Swedes, a universal peace, and pensions. Of the true letters that my read shows, 99.2% are right (6,953 of 7,012). But about a third of the graded shown tokens are not letter codes (3,579 of 10,591). | [Notes](francia-346-leaves/README.md), [Italian and English](francia-346-leaves/reading.md), [Check](francia-346-leaves/check.md) |
 | Melchiorre Biglia to Rome (Milan, Ambrosiana, Trotti 22) | Vienna, December 1565 | My read shows words of devotion, foot soldiers and horse, and the king. Within words, 82.2% of the aligned letter pairs agree with Brice Dudout's reading, with gaps left out (957 of 1,164). | [Notes](biglia-1565/README.md), [Italian and English](biglia-1565/reading.md), [Check](biglia-1565/check.md) |
+
+### Morosini, 1587 to 1589
+
+Codes of one, two or three digits stand for letters, syllables and words, and some codes are nulls. A. Meister printed the key in 1906. George Lasry rebuilt it in part on DECODE in 2020.
+
+My algorithm read all 35 records as one text, without the key. The read is partial. Where my cut matches a single-letter code of the key, 95.1% of my letters are right (80,553 of 84,667). In all, it recovers 72.7% of the single-letter codes (80,553 of 110,821).
+
+My cut misses the three-digit letter codes, and my key reads the digit 2 as i, not a. Three of my 18 smaller test windows ended on a wrong key, and nothing flagged them. Over the window sizes, the mean recovery on the real text is 49.7% to 72.7%. On artificial test letters of the same sizes, it is 81.1% to 96.6%. `morosini-1587/check.md` gives the details.
 
 ### Francia 346, 1632 to 1634
 
@@ -149,7 +158,7 @@ A single digit mostly stands for a letter, and some digits have both a vowel and
 
 My algorithm took each digit as a code by itself, so it misses the syllables. Even so, within words, 82.2% of the aligned letter pairs agree with Dudout's reading, with gaps left out (957 of 1,164). Words in a random order give 29.0% on average. `biglia-1565/check.md` gives the details.
 
-DECODE's images are for research only. Biglia's images carry no reuse licence. I copy no image and no transcription. Each decryption gives the place of each line: the DECODE record, page and row, or for Biglia the folio and line.
+DECODE's images are for research only. Biglia's images carry no reuse licence. I copy no image and no transcription. Each decryption gives the place of each line: the DECODE record, page and row or line, or for Biglia the folio and line.
 
 ## Files
 
@@ -168,6 +177,8 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 **The 1911 telegram:** `mexico-1911/` has the notes, the reading, the translation, the transcription, the reading of each coded word and the key card's alphabet.
 
 **Carranza's telegrams:** `carranza-1915/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
+
+**Morosini:** `morosini-1587/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
 
 **Francia 346:** `francia-346-leaves/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
 
@@ -197,6 +208,7 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 - AGAD 131: read in part. Two transcription passes agree on 88%, and about 300 differences are not yet settled on the scan. About 25 of some 460 cipher words stay doubtful.
 - The 1911 telegram: read in full with the archive's key card. Three words keep a doubt.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
+- Morosini: read in part, with no key; 95.1% of the matched single-letter codes right (80,553 of 84,667). 72.7% of all single-letter codes recovered (80,553 of 110,821). The cut is wrong for the three-digit letter codes. A second search for the missing code forms failed its test on artificial letters, so it did not run on the real text. The read is the first one.
 - Francia 346: read with no key; 99.2% of the shown true letters right (6,953 of 7,012). 65.7% of the graded shown tokens show the true letter (6,953 of 10,591).
 - Biglia: read with no key; within words, 82.2% of the aligned letter pairs equal to Dudout's reading, with gaps left out (957 of 1,164). The cut misses the syllable codes.
 
