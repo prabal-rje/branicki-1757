@@ -224,7 +224,7 @@ The cipher ledger at https://github.com/dbourdeau/cyphersolver checks contribute
 
 ## Credit: DECODE
 
-Some of the ciphers on this page come from DECODE, the database of historical ciphers of the DECRYPT project (https://de-crypt.org/decrypt-web/RecordsList). I thank the DECODE team for access to the records.
+Some of the ciphers on this page come from DECODE. DECODE is the database of historical ciphers of the DECRYPT project: https://de-crypt.org/decrypt-web/RecordsList. I thank the DECODE team for access to the records.
 
 - Morosini: DECODE records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58.
 - Francia 346: DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in the appendix.
