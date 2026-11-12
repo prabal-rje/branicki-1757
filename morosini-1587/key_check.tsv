@@ -1,0 +1,137 @@
+code	tokens	my value	shown	graded letter tokens	commonest letter in the published key's decode	its tokens	verdict	note
+17	11848	i	i	7667	i	7667	right	
+21	10305	a	a	6125	a	6125	right	
+2	9318	i	i	3398	a	3398	wrong	
+91	7080	o	o	5055	o	5055	right	
+35	7022	e	e	6714	e	6714	right	
+1	6780	null	null	679	r	678	wrong	
+5	5740	e	e	3480	e	3480	right	
+00	5663	r	r	5536	r	5536	right	
+01	5170	n	n	4567	n	4567	right	
+9	4953	o	o	3606	o	3606	right	
+26	4919	d	d	4602	d	4602	right	
+50	4508	l	l	4066	l	4066	right	
+37	4199	u	u	3993	u	3993	right	
+4	3471	s	s	2267	s	2267	right	
+15	3218	t	t	2402	t	2402	right	
+20	2925	m	m	2545	m	2545	right	
+25	2595	c	c	2407	c	2407	right	
+45	2476	s	s	2189	s	2189	right	
+3	2187	u	u	636	u	636	right	
+51	2166	t	t	1625	t	1625	right	
+7	2067	i	i	1514	i	1514	right	
+40	1849	g	g	1728	g	1728	right	
+70	1802	p	p	1632	p	1632	right	
+0	1556	n	n	554	n	554	right	
+56	1555	null	null				not graded	the check lists 56 among the word codes of the published key
+6	1449	t	t	663	t	663	right	
+8	1445	e	e				not graded	the published key makes 8 alone and 8 with any next digit nulls; so this value is wrong
+71	1117	i	i				not graded	fewer than 3 graded letter tokens
+19	1078	null	null				not graded	fewer than 3 graded letter tokens
+30	1049	f	f	930	f	930	right	
+05	1047	l	l	897	l	897	right	
+10	895	n	n	834	n	834	right	
+14	890	h	h	782	h	782	right	
+64	854	s	s				not graded	fewer than 3 graded letter tokens
+42	722	b	b	640	b	640	right	
+53	660	e	e				not graded	fewer than 3 graded letter tokens
+13	548	r	r	177	r	177	right	
+27	532	t	t				not graded	fewer than 3 graded letter tokens
+62	489	d	d	435	d	435	right	
+69	478	e	e				not graded	fewer than 3 graded letter tokens
+33	473	r	r				not graded	fewer than 3 graded letter tokens
+47	388	s	s				not graded	fewer than 3 graded letter tokens
+54	367	s	s	285	s	285	right	
+16	326	t	t				not graded	fewer than 3 graded letter tokens
+76	315	null	null				not graded	fewer than 3 graded letter tokens
+49	301	n	n				not graded	fewer than 3 graded letter tokens
+18	265	a	a				not graded	fewer than 3 graded letter tokens
+58	180	e	e				not graded	fewer than 3 graded letter tokens
+98	179	o	o				not graded	fewer than 3 graded letter tokens
+79	178	e	e				not graded	fewer than 3 graded letter tokens
+78	164	e	e				not graded	fewer than 3 graded letter tokens
+84	148	s	s				not graded	the published key makes 8 alone and 8 with any next digit nulls; so this value is wrong
+2'	146	i	i				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+34	142	u	u				not graded	fewer than 3 graded letter tokens
+96	128	e	e				not graded	fewer than 3 graded letter tokens
+87	114	i	i				not graded	the published key makes 8 alone and 8 with any next digit nulls; so this value is wrong
+36	110	r	r				not graded	fewer than 3 graded letter tokens
+67	98	l	l				not graded	fewer than 3 graded letter tokens
+07	94	e	e	36	p	36	wrong	
+65	81	null	null				not graded	fewer than 3 graded letter tokens
+38	74	a	a				not graded	fewer than 3 graded letter tokens
+21'	67	a	a				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+94	66	o	o				not graded	fewer than 3 graded letter tokens
+86	62	u	u				not graded	the published key makes 8 alone and 8 with any next digit nulls; so this value is wrong
+13'	56	r	r				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+4'	55	s	s				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+2'1	48	a	a				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+16'	47	t	t				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+2'6	44	n	n				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'6	38	t	t				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+3'	35	u	u				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'	27	null	null	1	r	1	wrong	a dotted code ('); the published key uses dotted three-digit codes for words and names; 1 graded token only
+9'6	23	e	e				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+14'	22	h	h				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'9	20	null	null				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+15'	19	c	c				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+17'	17	i	i				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+3'5	17	e	e				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+5'1	17	c	c				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'7	16	i	i				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+19'	14	null	null				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+5'	13	e	e				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+2'7	13	n	n				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+3'3	13	r	r				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+6'	12	n	n				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+26'	9	d	d				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+9'	6	o	o				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+00'	6	r	r				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'5	5	t	t				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+5'0	5	l	l				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+91'	5	o	o				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+0'0	4	r	r				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+4'5	4	s	s				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+50'	4	l	l				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+9'1	4	o	o				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'4	3	h	h				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+25'	3	c	c				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+3'7	3	u	u				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+35'	3	e	e				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+5'4	3	o	o				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+0'1	2	n	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+01'	2	s	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+2'0	2	r	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+37'	2	u	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+4'2	2	b	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+4'7	2	d	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+51'	2	z	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+6'4	2	z	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+6'9	2	a	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+7'	1	null	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+8'	1	e	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+07'	1	x	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+1'0	1	l	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+2'5	1	p	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+20'	1	p	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+3'0	1	d	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+45'	1	s	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+5'6	1	q	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+53'	1	e	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+54'	1	s	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+6'5	1	r	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+67'	1	u	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+69'	1	x	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+7'0	1	q	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+7'1	1	l	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+7'9	1	x	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+70'	1	b	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+71'	1	d	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+9'8	1	o	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+94'	1	null	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+2'1'	1	a	·				not graded	a dotted code ('); the published key uses dotted three-digit codes for words and names
+166	384	word code	·				not graded	fewer than 3 graded letter tokens
+165	312	word code	·				not graded	fewer than 3 graded letter tokens
+113	274	word code	·				not graded	fewer than 3 graded letter tokens
+111	214	word code	·				not graded	fewer than 3 graded letter tokens
+167	104	word code	·				not graded	fewer than 3 graded letter tokens
