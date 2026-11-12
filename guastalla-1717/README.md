@@ -69,7 +69,11 @@ As far as I checked, nobody has read this letter. That is not proof that nobody 
 
 The cipher part reads as sense, apart from about ten code groups and a few doubtful passages. The reading marks each one.
 
-The reading is with the cipher ledger as issue #329: https://github.com/dbourdeau/cyphersolver/issues/329
+The cipher ledger holds a page for this reading, filed as "key recovered from ciphertext-only" and read in part: https://dbourdeau.github.io/cyphersolver/guastalla1717.html
+
+- Its maintainer ran a decryption with my key again, without the scans. It matches my decryption on 95.2% of 1,668 letters.
+- He calls his word-list control weak. My key puts 35.2% of the letters in listed words, and the best of 300 shuffled keys puts 34.5%.
+- The record of this is issue #329: https://github.com/dbourdeau/cyphersolver/issues/329
 
 ## Files
 

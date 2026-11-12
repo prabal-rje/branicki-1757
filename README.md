@@ -132,11 +132,13 @@ In the number telegrams, four runs of numbers each go through the alphabet from 
 
 Bespoke count matching based on Spanish next-letter counts opened the number telegrams. It gets 65% to 77% of tokens right on the largest set, and those readable fragments gave the plan of the key.
 
-The key family may already be in print. I have not reached Narváez's 2019 book or 2025 article. `carranza-1915/README.md` gives the checks and what stays open.
+The key family may already be in print. Narváez's 2025 article does not print these tables, and it deciphers none of these ten telegrams. I have not reached his 2019 book. `carranza-1915/README.md` gives the checks and what stays open.
 
 ## Three ciphers with a known key, read as a check of my algorithm
 
-I read these three from the ciphertext alone, without the key. Their keys are in print or online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
+I read these three ciphers from the ciphertext alone, without the key. Their keys are in print or online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
+
+Francia 346 has two rows. The second row adds a full decode of the later letters with the published key.
 
 | Cipher | Date | What it says | Read it |
 | --- | --- | --- | --- |
@@ -198,6 +200,8 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 
 **Francia 346:** `francia-346-leaves/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
 
+**Francia 346, the later letters:** `francia-346-full/` has the notes, the check of my frozen read against the published key, and one page for each record. Each record page has the reading, the translation and the decode row by row.
+
 **Biglia:** `biglia-1565/` has the notes, the check against Dudout's reading, the reading, the line-by-line decryption, the key and the key check.
 
 **The French letters:**
@@ -232,6 +236,7 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
   - Records 5437, 5443 to 5445, 5447 and 5467: the same method did not read them.
 - Morosini: read in part, with no key; 95.1% of the matched single-letter codes right (80,553 of 84,667). 72.7% of all single-letter codes recovered (80,553 of 110,821). The cut is wrong for the three-digit letter codes. A second search for the missing code forms failed its test on artificial letters, so it did not run on the real text. The read is the first one. A correction of 12 November is in the Morosini section: the read under my start rule gives 95.2% and 72.4%.
 - Francia 346: read with no key; 99.2% of the shown true letters right (6,953 of 7,012). 65.7% of the graded shown tokens show the true letter (6,953 of 10,591).
+- Francia 346, the later letters: my read with no key, frozen first, gets 98.8% of the shown true letters right (6,930 of 7,017). Then the published key gives a value to 92.3% of the 10,919 code tokens. The transcription is a machine transcription, and nobody verified it.
 - Biglia: read with no key; within words, 82.2% of the aligned letter pairs equal to Dudout's reading, with gaps left out (957 of 1,164). The cut misses the syllable codes.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.
@@ -239,8 +244,12 @@ In the readings, `[195]` is a number group that stays unread, and `[?word]` is a
 The cipher ledger at https://github.com/dbourdeau/cyphersolver checks contributed readings against the contributor's files and a word list, not against the scans.
 
 - It marks the Branicki letters (446, 1398 to 1400), Charles V and AGAD 1401 as complete, and credits their keys to me.
-- It confirmed that the Carranza key decodes the telegrams. It holds that page until someone checks printed sources for the same tables.
-- Guastalla, the 1911 telegram and AGAD 131 are with the ledger as issues #329, #330 and #331.
+- It ran four more reads again from my files, without the scans, and it holds a page for each.
+  - Guastalla: filed as "key recovered from ciphertext-only", read in part. Its decryption with my key matches mine on 95.2% of 1,668 letters. Its maintainer calls his word-list control weak. https://dbourdeau.github.io/cyphersolver/guastalla1717.html
+  - Carranza's telegrams: filed as "key recovered from ciphertext-only". The page notes that the key family may be in print. https://dbourdeau.github.io/cyphersolver/carranza1915.html
+  - The 1911 telegram: filed as "read with known key", read in part. https://dbourdeau.github.io/cyphersolver/mexico1911.html
+  - AGAD 131: filed as read in part, with the key of letter 446. https://dbourdeau.github.io/cyphersolver/agad131.html
+- It applied my Sforza keys to its own tokens, and the shown shares of records 5464 and 5465 came out the same. By its own bar, both records stay read in part at most.
 
 ## Credit: DECODE
 

@@ -52,7 +52,12 @@ So this telegram may already be in print. Someone with these books should check 
 
 ## Status
 
-A short text, read in full with the period key. Three words keep a doubt. The reading is with the cipher ledger as issue #330: https://github.com/dbourdeau/cyphersolver/issues/330.
+A short text, read in full with the period key. Three words keep a doubt.
+
+The cipher ledger holds a page for this reading, filed as "read with known key" and read in part: https://dbourdeau.github.io/cyphersolver/mexico1911.html
+
+- Its maintainer ran the ten decryptions with my key again, without the scans. All agree with my table.
+- The record of this is issue #330: https://github.com/dbourdeau/cyphersolver/issues/330
 
 ## Files
 

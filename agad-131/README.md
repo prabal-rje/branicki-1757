@@ -34,7 +34,9 @@ The numbers agree with the published table of the 446 key. The value 580 is Pét
 
 The reading remains partial. Ordinary wording and syntax still have gaps.
 
-The memorial now reads “est tenoris sequentis”. Strutyński came armed to Brasław with the intent to kill. He fled because he did not trust the courts. The decrees concern his disorders. The final passage asks for the tables to be kept and refers to the council of war. The clear closing reads “obligowany sługa”.
+The memorial now reads “est tenoris sequentis”. Strutyński came armed to Brasław with the intent to kill. He fled because he did not trust the courts.
+
+The decrees concern his disorders. The final passage asks for the tables to be kept and refers to the council of war. The clear closing reads “obligowany sługa”.
 
 Open items:
 
@@ -44,7 +46,10 @@ Open items:
 - Three cipher signs remain unread. One precedes “de Russie”. Two occur in the proposed “réponse”.
 - The secretary's title, the closing extra M, “sous/soûl” and the final paragraph's subject stay open. The clear Polish remains a working reading.
 
-The reading is with the cipher ledger as issue #331, as a partial solution: https://github.com/dbourdeau/cyphersolver/issues/331
+The cipher ledger holds a page for this reading, filed as read in part: https://dbourdeau.github.io/cyphersolver/agad131.html
+
+- Its maintainer applied the key to the cipher lines with his own script, without the scans. 62 of 64 lines equal my decryption.
+- The record of this is issue #331: https://github.com/dbourdeau/cyphersolver/issues/331
 
 ## Earlier work
 

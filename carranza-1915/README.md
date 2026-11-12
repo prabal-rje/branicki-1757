@@ -45,12 +45,12 @@ Bespoke count matching based on Spanish next-letter counts opened the number tel
 
 **The key family may already be in print.** The ledger notes that Constitutionalist keys are known in print, and it names Ángel and Morales-Luna 2008 and Narváez 2025. It also notes key sheets in CEHM fondo XXI.
 
-I did not reach the two likeliest places:
+The two likeliest places:
 
-- Narváez, "Some Cryptographic Cases of the Constitutionalist Movement, 1914-1915", *Historia Mexicana* 75/2 (2025)
-- Narváez, *Criptografía diplomática, política y militar en México (1813-1926)* (2019)
+- Narváez, "Some Cryptographic Cases of the Constitutionalist Movement, 1914-1915", *Historia Mexicana* 75/2 (2025). I read it in full, with its figures. It does not print these tables, and it deciphers none of these ten telegrams. It prints other Constitutionalist cipher tables.
+- Narváez, *Criptografía diplomática, política y militar en México (1813-1926)* (2019). I did not reach it.
 
-So these readings may already be in print. Someone with a copy should check both.
+So these readings may already be in print. Someone with a copy of the book should check it.
 
 **Checked:**
 
@@ -70,7 +70,7 @@ So these readings may already be in print. Someone with a copy should check both
 - **The general in 1.42.1.** "Cosío Rovelo" is my guess at the name.
 - **A short run at the end of the first page of 1.22.1** stays unsettled.
 
-The cipher ledger confirmed that the key decodes the number telegrams to Spanish (issue #321). It holds its page until someone checks Narváez's 2025 article and 2019 book for the same tables.
+The cipher ledger ran the key again, without the scans, and confirmed that it decodes the number telegrams to Spanish (issue #321). It holds a page for these telegrams, filed as "key recovered from ciphertext-only": https://dbourdeau.github.io/cyphersolver/carranza1915.html. The page says that the key family may be in print. If someone finds the tables in print, the ledger will change the page to "read with a key from print".
 
 ## Files
 
