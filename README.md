@@ -222,4 +222,14 @@ The cipher ledger at https://github.com/dbourdeau/cyphersolver checks contribute
 - It confirmed that the Carranza key decodes the telegrams. It holds that page until someone checks printed sources for the same tables.
 - Guastalla, the 1911 telegram and AGAD 131 are with the ledger as issues #329, #330 and #331.
 
+## Credit: DECODE
+
+Some of the ciphers on this page come from DECODE, the database of historical ciphers of the DECRYPT project (https://de-crypt.org/decrypt-web/RecordsList). I thank the DECODE team for access to the records.
+
+- Morosini: DECODE records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58.
+- Francia 346: DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in the appendix.
+- Zeschau to Seebach, 1841: DECODE record R5005.
+
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository. Each folder names the DECODE record and the archive of its cipher.
+
 © 2026 Prabal Gupta. First published here, 7 November 2026. Released under CC BY 4.0: reuse it, and credit me.
