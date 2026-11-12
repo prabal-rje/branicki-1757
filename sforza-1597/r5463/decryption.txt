@@ -1,0 +1,48 @@
+# DECODE record 5463 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597): our decode, from the ciphertext alone.
+# Nobody has checked it against a key or a clear text. check.md gives what supports it and what does not.
+# One character for each sign, in the order of the cipher ledger's token file targets/sforza1597/ctts/r5463_best/tokens.txt
+# (https://github.com/dbourdeau/cyphersolver). That file is the sign transcription. This file does not copy it.
+# A reader needs that file to follow the decode sign by sign. Line n below is line n of that file.
+# All 39 lines are decoded. No hand review marks a stamp line in this record.
+# A letter shows where the display rule of check.md gives one. '·' is a sign with no shown letter.
+# The decode has 21 letters: u stands for u and v, i for i, j and y, and c for c and k.
+
+line 01 | mo··es·sc·hiame·ntonio·etrauui·mo·o·e·
+line 02 | t·a·t·ainim·a·it··aquant··e·amicici··anon
+line 03 | sar·i·aconti·lal·tr··leinp·ar·tici··are·
+line 04 | ·oil·apreh·as··ati·achemehadon·o··a·lalti
+line 05 | simod·om·aperchecognoscocheuol·e··m·a
+line 06 | tisingul·ar·menteperuostr··aham·atali
+line 07 | t·as·chelsig·noreedesidero·oimpr·e
+line 08 | ·ndi·a···elmentierodesi·r·are·opr·im
+line 09 | ·apero·edirel·aexcellenti·as··aglipe
+line 10 | rf·arecosa··r·at·ade·om·a···mbassi·mil·lmag
+line 11 | n·ificomo··str·op·atrelaqu·a·lehot·ant
+line 12 | ·ob·ligh·chenonme·t·ari·a·uos··i····t·d
+line 13 | iss··aralcun·amii·sim·ap·artede··bene··
+line 14 | ·al···r·eceuuto·chesperoreceuere·
+line 15 | r·delib·er·atoins··gn··r··inquest·ag·a
+line 16 | ···e·i·atutoquelloche·am·si·····tibile
+line 17 | perodem·andoun·alier·ascript·ains·pe
+line 18 | r··alegierisim·afacial·ac·au·a·nocomeson
+line 19 | ocerto·ar·is·poimpr·escriuatodesuege·
+line 20 | ntiamede·····percheuenescriu·aroper·alt
+line 21 | reunpocopiudis·s·ibiles·perquest··aui·a
+line 22 | de·ar··ietpertone·mentiero·en···
+line 23 | recordo·idelmen··echedeuo··gli·atie
+line 24 | ·percit·areinscriuere·a····insigr·a
+line 25 | certific·ando·icomedehodictochen
+line 26 | oncerequ··ainc·a··a·lesenonqueleh
+line 27 | ·a··iinteso··asolumperlong··exerc
+line 28 | it·atione·etperienti·a·ecogn·nce
+line 29 | per·oredei···as·o··chidicechegli·
+line 30 | ·re·u·acrediximech·ess··iuostranza·et
+line 31 | rentiaan·ochio·oeamenteronong
+line 32 | li·idim·ai··anto·e·ires·····ntedicell
+line 33 | oche·oh·anefantoniodap·a·iaf·acer
+line 34 | tereq·leinscriptopresto·i·efors
+line 35 | ·ati·e·eraetutofactoche·quest·aci·ato·a
+line 36 | ncor·a·ederea·i··honestomodoperin
+line 37 | tenderepiucope·r
+line 38 | qua·ll·i··········esso·····
+line 39 | ··ol···od··e····iaal··r···
