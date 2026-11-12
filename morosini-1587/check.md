@@ -1,5 +1,22 @@
 # Morosini, 1587 to 1589: the check against the published key
 
+## Correction, 12 November 2026
+
+A later check found a fault in the read that this page grades. My rule cuts the digits under the best of 20 first starts. This read cut them under the second-best start. The cause is not known.
+
+The read under the rule was fixed at 16:58 on 12 November 2026 (UTC−3), and graded in the same way:
+
+| Measure | The read on this page | The read under the rule |
+| --- | --- | --- |
+| Codes of the truth that my cut matches | 74.4% (91,903 of 123,582) | 74.0% (91,481 of 123,582) |
+| Matched single-letter codes right | 95.1% (80,553 of 84,667) | 95.2% (80,251 of 84,284) |
+| Single-letter codes recovered | 72.7% (80,553 of 110,821) | 72.4% (80,251 of 110,821) |
+| Code types right, of those with 3 or more matched letter tokens | 31 of 34 | 31 of 34 |
+
+- The two reads show a different value on 25 of their 135 shared code types.
+- The 12 test windows of 10,000 tokens or fewer follow the rule. The 6 larger windows are not checked yet.
+- Every number and file below is still that of the first read. I will rebuild them from the read under the rule.
+
 ## 1. What was compared
 
 - **My side:** the read of all 35 records, as fixed before the check (`key.tsv`, `decryption.txt`). Also 18 smaller windows, each read by itself in the same way.

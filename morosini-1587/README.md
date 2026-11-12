@@ -8,6 +8,13 @@
 
 The same method recovers more on artificial test letters ("twins"). Over the window sizes, the mean recovery on the real text is 49.7% to 72.7%. On twins of the same sizes, it is 81.1% to 96.6%.
 
+**Correction, 12 November 2026.** A later check found a fault in this read. My rule cuts the digits under the best of 20 first starts. This read cut them under the second-best start. The cause is not known.
+
+- The read under the rule gets 95.2% of the matched single-letter codes right (80,251 of 84,284). Its cut matches 74.0% of all codes (91,481 of 123,582). It recovers 72.4% of the single-letter codes (80,251 of 110,821).
+- The two reads show a different value on 25 of their 135 shared code types.
+- The 12 test windows of 10,000 tokens or fewer follow the rule. The 6 larger windows are not checked yet.
+- Every number and file below is still that of the first read. I will rebuild them from the read under the rule.
+
 - **Where:** Archivio Apostolico Vaticano, Segreteria di Stato, Francia 22 (records R18 to R58) and Francia 18/3 (record R17).
 - **DECODE:** records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58, 35 records in all. DECODE is the database of historical ciphers of the DECRYPT project. DECODE's volunteers made the transcriptions.
 - **Use:** research only. I copy no image and no transcription. Each line of `decryption.txt` gives the DECODE record, page and line, so that a reader with access to DECODE can follow it. When you use this material, cite DECODE and the record numbers.
