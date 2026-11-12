@@ -19,7 +19,7 @@ A sign is one written sign of the cipher text. A sign class is one label of the 
 
 ## 2. The signs
 
-- The cipher ledger's sign reader made the transcription from the DECODE images. We cannot see the images.
+- The cipher ledger's sign reader made the transcription from the DECODE images. This read did not use the images.
 - The file is `targets/sforza1597/ctts/r5465_best/tokens.txt` in https://github.com/dbourdeau/cyphersolver. We do not copy it.
 - We decode all its 89 lines. Page 2 line n is its line 45 + n.
 - The last line (6 signs) may be a stamp, a number or clear writing.
