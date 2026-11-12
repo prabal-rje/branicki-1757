@@ -142,6 +142,7 @@ I read these three from the ciphertext alone, without the key. Their keys are in
 | --- | --- | --- | --- |
 | Morosini, 35 DECODE records between R17 and R58 (Vatican, Francia 22 and 18/3) | 1587 to 1589 | My read shows the Council of Trent, the nuncio, Guise, Navarre, Paris, Angers and Brissac, a castle and a river bridge. Where my cut matches a single-letter code, 95.1% of my letters are right (80,553 of 84,667). But my read recovers only 72.7% of all single-letter codes (80,553 of 110,821). Read in part. | [Notes](morosini-1587/README.md), [Italian and English](morosini-1587/reading.md), [Check](morosini-1587/check.md) |
 | Francia 346, DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in an appendix (Vatican) | 1632 to 1634 | My read shows Benavides, the Imperial court, Nuremberg and Regensburg, the Swedes, a universal peace, and pensions. Of the true letters that my read shows, 99.2% are right (6,953 of 7,012). But about a third of the graded shown tokens are not letter codes (3,579 of 10,591). | [Notes](francia-346-leaves/README.md), [Italian and English](francia-346-leaves/reading.md), [Check](francia-346-leaves/check.md) |
+| Francia 346, the later letters: 22 DECODE records from R5626 to R5659 (Vatican) | Rome, 1633 | Rome to the nuncio Ceva: the peace talks, Benavides and his writing, Lorraine, the Swedes and the Dutch, a priory and the bull "de non infeudandis". My read without the key, frozen first: 98.8% of its shown true letters are right (6,930 of 7,017). Then a full decode with the published key: 92.3% of 10,919 code tokens have a value. Read in part. | [Notes](francia-346-full/README.md), [Check](francia-346-full/check.md) |
 | Melchiorre Biglia to Rome (Milan, Ambrosiana, Trotti 22) | Vienna, December 1565 | My read shows words of devotion, foot soldiers and horse, and the king. Within words, 82.2% of the aligned letter pairs agree with Brice Dudout's reading, with gaps left out (957 of 1,164). | [Notes](biglia-1565/README.md), [Italian and English](biglia-1565/reading.md), [Check](biglia-1565/check.md) |
 
 ### Morosini, 1587 to 1589
@@ -238,6 +239,7 @@ Some of the ciphers on this page come from DECODE. DECODE is the database of his
 
 - Morosini: DECODE records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58.
 - Francia 346: DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in the appendix.
+- Francia 346, the full decode of the later letters: DECODE records R5626, R5635, R5636, R5637, R5640, R5642, R5643, R5645, R5646, R5647, R5648, R5649, R5650, R5651, R5652, R5653, R5654, R5655, R5656, R5657, R5658 and R5659.
 - Zeschau to Seebach, 1841: DECODE record R5005.
 - The Sforza letters: DECODE records R5425 to R5430, R5464 and R5465.
 
