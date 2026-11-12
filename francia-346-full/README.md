@@ -8,13 +8,17 @@ The transcription is a machine transcription of the DECODE images, made in my pi
 
 The order of events is part of the result.
 
-1. **A key from the ciphertext alone.** My algorithm found a key from 13 earlier records of this file, without the published key. I fixed it at 01:27 on 12 November 2026 (UTC−3). `../francia-346-leaves/` has that read and its check.
+1. **A key from the ciphertext alone.** My algorithm found a key from 13 records of this file, without the published key. I fixed it at 01:27 on 12 November 2026 (UTC−3). `../francia-346-leaves/` has that read and its check.
+   - Those 13 records include an earlier transcription of 8 records here: R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648.
+   - The other 14 records here were not in that fit.
 2. **A read of the new pages, frozen.** I applied that key to the 22 records here, with no new fit. I fixed that read at 17:00 the same day.
 3. **The published key, then.** After that, I opened the published key. I graded the frozen read against it and made the full decode.
 
 ## The numbers
 
 **The frozen read** (`check.md`): of the true letters that it shows, 98.8% are right (6,930 of 7,017). All 87 wrong letters are code 07, which is h. But only 62.0% of its graded shown tokens are letter codes (7,017 of 11,324). The rest are syllables, nulls or false pairs of my cut.
+
+On the 8 records inside the key's fit, 99.0% of the shown true letters are right (3,091 of 3,122). On the 14 records outside it, 98.6% are right (3,839 of 3,895).
 
 **The full decode:** 10,919 code tokens, of which 92.3% have a value (10,081). Three-digit codes: 351 tokens have a value from the ledger, and 803 tokens have none.
 
@@ -46,32 +50,37 @@ The order of events is part of the result.
 - **Code tokens** are the two- and three-digit codes, without word spaces and nulls. **With a value** counts letters, syllables and the three-digit codes that have a ledger value.
 - **Bits per letter** measure how Italian the decoded letters look, under a letter model of 17th- and 18th-century Italian prose. Lower is more Italian. The same letters in a shuffled order give 9.4 on average.
 - **The key-free check** compared the code counts of each record with those of the earlier letters, before I opened the key. "Too small" means that no page of the record passed its page test with read digits.
-- **A check against the decipherments of the time:** for R5626, R5637 and R5646, 58% to 79% of the decoded letters align with equal letters of the decipherment leaf. Other records' leaves, cut to the same length, give 32% to 49%.
+- **A check against the decipherment leaves** of three records: 58% to 79% of the decoded letters align with equal letters of the leaf. Other leaves give 32% to 49%. `check.md`, section 7, gives the method and its limits.
 
 ## The six records that differ
 
 The key-free check found that six records differ a little in their code counts: R5642, R5645, R5649, R5651, R5652 and R5654.
 
-- **Five of them read as Italian under the published key.** Their bits per letter lie between 4.46 and 4.62. The twelve that fit give 4.52 on average.
-- **R5642 does not read** (5.77). Its main page, f. 246r, carries a tentative reading in the source, and many of its 8s seem read as 6. Its last four rows read in part.
-- So the published key reads five of the six. For R5642, the transcription fault stops this test, so it cannot show whether another key was used.
+- **Five of them read as Italian under the published key.** Their bits per letter lie between 4.46 and 4.62. The twelve that fit give 4.52 (the mean weighted by letters).
+- **R5642 does not read** (5.77). Its main page, f. 246r, carries a tentative reading in the source. The page has a high share of 6 and a low share of 8, so I suspect that the transcription reads some 8s as 6. Its last four rows read in part.
+- So the published key reads five of the six. For R5642, this test cannot show whether another key was used.
 
 ## What the letters say
 
 The readings are partial. Each record page gives the Italian, the English and the place of each name.
 
-- **The peace talks of 1633.** Rome urges the nuncio to keep the talks going between the crowns and not to "break the thread". It names plenipotentiaries, a congress "in a third place" and a suspension of arms (R5636, R5640, R5648, R5650, R5651, R5655).
+- **The peace talks of 1633.** Rome urges the nuncio to keep the talks going and not to "break the thread" (R5648, R5651). It names plenipotentiaries (R5635, R5636) and a universal [?peace] (R5640, R5650). R5655 names a meeting "in luogo terzo" (in a third place) and a suspension of arms.
 - **Benavides.** The name recurs in nine records, often with a writing and Rome's view of how to answer it (R5637 to R5654).
-- **Lorraine.** Rome reports the fortresses of Lorraine, "the invasion of Lorraine" and "the events of Lorraine" with displeasure (R5636, R5653, R5654, R5655).
-- **Germany and the Swedes.** A rumour of a fortress on this side of the Rhine held by the Swedes (R5636); aid to the Dutch under old alliances (R5651); a violated neutrality and the Imperial court (R5655).
-- **Church affairs.** A priory, offers of pensions (R5636, R5637), and the bull "de non infeudandis", which forbids exchanges of church property under censures (R5649).
-- **A woman who is ill.** Rome hopes that she will be reconciled with her son and return (R5646, R5648). The decode does not name her.
+- **Lorraine.** Rome names the fortresses of Lorraine (R5636) and "the invasion of Lorraine" (R5653). It hears of the events in Lorraine "con disgusto", with displeasure (R5654, R5655).
+- **Germany and the Swedes.** A rumour of a fortress on this side of the [?Rhine] held by the Swedes (R5636); aid to a people (code 104) under old alliances (R5651); a violated neutrality and the Imperial court (R5655).
+- **Church affairs.** A priory, offers of pensions (R5636, R5637), and the bull "de non infeudandis": the letter says that it also covers exchanges, and it names censures (R5649).
+- **A woman who is ill.** Rome hopes that she will be reconciled with a "f…uolo", perhaps her son, and return (R5646, R5648). The decode does not name her.
 
 ## The key
 
-- **The published key** gives 61 pair codes: 40 letter codes for 19 letters, and 21 syllable codes such as che, per and di. A lone 6 is a word space, and the ten pairs 2x are nulls. George Lasry reconstructed it, and it stands on DECODE with a key note of 24 October 2020.
+- **The published key** gives 61 pair codes: 40 letter codes for 19 letters, and 21 syllable codes such as che, per and di. George Lasry reconstructed it, and it stands on DECODE with a key note of 24 October 2020.
+- **The form of the cipher,** as the ledger rebuilt it from Lasry's own readings: a lone 6 is a word space, and the ten pairs 2x are nulls.
 - **The published key gives no three-digit code a value.**
-- **The cipher ledger** at https://github.com/dbourdeau/cyphersolver gives 28 three-digit codes a value, and changes two pairs (88 is del, 33 is gli). Its file is `targets/ceva1632/cipher.py`. I use these values and mark them `{word}`.
+- **The cipher ledger** at https://github.com/dbourdeau/cyphersolver gives values to three-digit codes.
+  - Its file `targets/ceva1632/cipher.py` gives 23 values.
+  - Its notes on a re-read of 22 to 23 October 2026 (`targets/ceva1632/NOTES.md`) add five values and change one: 104 is Olandesi, not Svedesi.
+  - The same notes change two pairs: 88 is del, not quel, and 33 is gli.
+  - I use these 28 three-digit values and the two pairs. The decode marks the three-digit values `{word}`.
 - **Some ledger values do not fit these letters.** For example, code 470 ("hor") stands where no "hor" can stand. Each record page lists such places, and the reading marks them `[?word]`.
 
 ## How to read the decode
@@ -89,16 +98,17 @@ Each record page ends with the decode, row by row, as the key gives it.
 | `[…]` | an unread span of the transcription |
 | `‖` | clear text stood here; this page does not copy it |
 
-The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readings keep this spelling. In the readings, `[abc]` is supplied by me, `[?word]` is a doubtful word, and `[…]` does not read.
+The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readings mostly keep this spelling. In the readings, `[abc]` is supplied or changed by me, `[?word]` is a doubtful word, and `[…]` does not read. Where a silent repair remains, the decode line is the reference.
 
 ## Who read these letters before
 
-- **At the time.** Some records hold a decipherment of the same time on another leaf: R5626 (f. 155r), R5637 (f. 212v) and R5646 (f. 269r). The ledger's note of 29 October 2026 adds R5655 (f. 324) and finds none in R5640. These leaves show that such letters were deciphered at the time. Copies in clear may also exist in other volumes. This folder does not copy those decipherments, and it takes no code value from them.
-- **DECODE.** On 12 November 2026, the public record pages of R5625 to R5659 all give the status "N/A" and the cipher type "Unknown". Their documents need a login, so I could not see them.
+- **Decipherment leaves.** Some records hold a decipherment in Italian on another leaf: R5626 (f. 155r), R5637 (f. 212v) and R5646 (f. 269r). The ledger's note of 29 October 2026 calls such leaves contemporary, adds R5655 (f. 324) and finds none in R5640. So some of these letters were read before.
+- **Copies in clear** may also exist in other volumes. This folder does not copy the decipherment leaves, and it takes no code value from them.
+- **DECODE.** On 12 November 2026, the public record pages of R5625 to R5659 all give the status "N/A" and the cipher type "Unknown". They list no decryption. Their documents need a login, so I could not check them.
 - **The cipher ledger.** Its entry 880 lists R5625 to R5686 as "N/A" with no decipherment filed. None of these records is in its files. Its notes on the file name a sample of the records and decode R5630, which is not in this set. I checked the live files on 12 November 2026.
 - **Print.** I found no edition of these letters. A. Iommelli's study of Ceva (Fondazione 1563, 2022) cites his own deciphered despatches, "Francia, 78", and Bichi's letters from Paris. It does not cite Francia 346.
 
-**No modern decipherment of these 22 records is on file at DECODE or on the ledger.** This does not mean that nobody read them: the decipherments of the time show that some were read in 1633.
+**No modern decipherment of these 22 records shows on DECODE's public record pages or is on file at the ledger.** This does not mean that nobody read them: the decipherment leaves show that some were read long ago.
 
 ## Limits
 
@@ -111,7 +121,7 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 ## The other records of the file
 
 - **R5625** is a letter in clear. It holds no cipher.
-- **17 records use other signs:** R5667, R5668 and R5672 to R5686. A test before the key found another system. Their headings name Madrid and Vienna. They stay open.
+- **17 records use other signs:** R5667, R5668 and R5672 to R5686. A test before the key found another system. Their pages name Madrid and Vienna. They stay open.
 
 ## Credits
 

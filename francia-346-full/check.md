@@ -6,7 +6,9 @@ The transcription is a machine transcription of the DECODE images, made in my pi
 
 ## 1. What was compared
 
-- **My read:** a key found from the ciphertext alone on 13 earlier records, fixed at 01:27 on 12 November 2026 (UTC−3). It was applied to the new pages with no fit, and that read was fixed at 17:00 the same day.
+- **My read:** a key found from the ciphertext alone on 13 records, fixed at 01:27 on 12 November 2026 (UTC−3). It was applied to the new pages with no fit, and that read was fixed at 17:00 the same day.
+  - The 13 records include an earlier transcription of 8 of the 22 records here: R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648. So those 8 are not independent of the fit.
+  - The other 14 records were not in the fit.
   - The cut: a lone 6 is a word space, a lone 2 is a null, and the other digits form 80 pair codes.
   - The display: 69 of the 80 pair codes show a letter. The other 11 show a gap mark.
 - **The key:** George Lasry's key, published on DECODE (key note of 24 October 2020). See G. Lasry, B. Megyesi and N. Kopal, "Deciphering papal ciphers from the 16th to the 18th Century", *Cryptologia* 45(6), 2021 (online 2020), doi:10.1080/01611194.2020.1755915.
@@ -25,6 +27,8 @@ Precision is the share right of the true letters that my read shows. Recovery is
 | The 12 that fit | 4,874 | 94.1% (4,585) | 98.8% (4,532 of 4,585) | 93.0% | 63.7% (4,585 of 7,194) |
 | The 6 that differ | 2,017 | 92.1% (1,858) | 98.7% (1,833 of 1,858) | 90.9% | 58.4% (1,858 of 3,179) |
 | The 4 too small to judge | 685 | 83.8% (574) | 98.4% (565 of 574) | 82.5% | 60.4% (574 of 951) |
+| The 8 inside the key's fit | 3,309 | 94.3% (3,122) | 99.0% (3,091 of 3,122) | 93.4% | 65.5% (3,122 of 4,767) |
+| The 14 outside the key's fit | 4,267 | 91.3% (3,895) | 98.6% (3,839 of 3,895) | 90.0% | 59.4% (3,895 of 6,557) |
 
 - **All 87 wrong letter tokens are code 07.** The key makes it h. My key reads l. The first check found the same fault.
 - **The six that differ** are as good on letter codes as the twelve that fit. So the difference in their code counts does not come from a wrong letter key.
@@ -49,6 +53,7 @@ So 61.2% of the graded shown tokens show the true letter (6,930 of 11,324). In t
 
 - True tokens with a token of mine at the same place and length: 78.7% (11,373 of 14,448).
 - My cut has no three-digit codes. The truth holds 1,054 three-digit tokens on these pages: 332 with a ledger value and 722 with no value.
+- The full decode counts 1,154 three-digit tokens. It reads a doubtful digit with its first reading, and it keeps the short stretches that my read masked. This check masks them, as my read did.
 - After a three-digit code, my pairs run out of step until the next word space.
 
 ## 5. By record
@@ -78,7 +83,7 @@ So 61.2% of the graded shown tokens show the true letter (6,930 of 11,324). In t
 | R5658 | 75 | 98.5% (66 of 67) | 68.4% (67 of 98) |
 | R5659 | 17 | 100.0% (14 of 14) | 66.7% (14 of 21) |
 
-R5642 has the lowest share of letter codes (44.0%). Its page f. 246r has the mark of a transcription fault: many 8s read as 6.
+R5642 has the lowest share of letter codes (44.0%). Its page f. 246r has a high share of 6 and a low share of 8. I suspect that the transcription reads some 8s as 6.
 
 ## 6. Limits
 
@@ -87,3 +92,20 @@ R5642 has the lowest share of letter codes (44.0%). Its page f. 246r has the mar
 - **Doubtful digits:** 927 true tokens hold one. They are not graded.
 - **u and v** count as one letter, and so do **i and j**.
 - The check ran once. It changed no value of my key and no row of my read.
+
+## 7. A check against the decipherment leaves
+
+Three records hold a decipherment in Italian on another leaf of the same record. My pipeline transcribed these leaves too, by machine. This check does not use my frozen read.
+
+- **Method:** I join the letters of the key's decode of the record, and the letters of the leaf. An edit-distance alignment pairs them. The measure is the share of the shorter text that aligns with equal letters.
+- **Control:** the same decode against the letters of the other records' leaves, cut to the same length.
+
+| Record | Leaf | Letters: leaf, decode | Equal, of the shorter text | Control |
+| --- | --- | --- | ---: | ---: |
+| R5626 | f. 155r | 870, 848 | 58.0% | 31.7% |
+| R5637 | f. 212v | 1,221, 1,023 | 71.1% | 33.6% |
+| R5646 | f. 269r | 1,891, 1,088 | 78.7% | 48.9% |
+
+- The leaves are cursive and their transcription is a machine draft. So 100% is not the target.
+- For five more records, a prose leaf of the same record is a possible decipherment: R5642, R5645, R5648, R5649 and R5651. For each, the lengths differ much, or the control comes out as high. So this check does not decide them.
+
