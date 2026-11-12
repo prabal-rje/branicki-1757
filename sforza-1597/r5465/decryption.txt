@@ -1,0 +1,98 @@
+# DECODE record 5465 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597): our decode, from the ciphertext alone.
+# Nobody has checked it against a key or a clear text. check.md gives what supports it and what does not.
+# One character for each sign, in the order of the cipher ledger's token file targets/sforza1597/ctts/r5465_best/tokens.txt
+# (https://github.com/dbourdeau/cyphersolver). That file is the sign transcription. This file does not copy it.
+# A reader needs that file to follow the decode sign by sign. Each line below names its line in that file.
+# The last line (6 signs) may be a stamp, a number or clear writing. It is decoded like the others.
+# A letter shows where the display rule of check.md gives one. '·' is a sign with no shown letter.
+# The decode has 21 letters: u stands for u and v, i for i, j and y, and c for c and k.
+
+page 1 line 01 (tokens.txt line 1) | ··i······lustr·s·i····o··i···osi·gnori··o··o·····u··ile··co
+page 1 line 02 (tokens.txt line 2) | rd··ndatis·sim·····h···r·i····t·····i·na··lidelucto··
+page 1 line 03 (tokens.txt line 3) | gli·····r···ononesc··no·······ent·l··e·ntonio
+page 1 line 04 (tokens.txt line 4) | ·d·t····a······at·orede···e··i···di·····st·ho··e
+page 1 line 05 (tokens.txt line 5) | ··r·····de·i·o·d·l····er······l·strissi··o··ig
+page 1 line 06 (tokens.txt line 6) | noriauo·str····uisat·deld·cto··io····c·sia·oi
+page 1 line 07 (tokens.txt line 7) | ··uet··eass·reauisatoc·o··e·s·on····omin····o··
+page 1 line 08 (tokens.txt line 8) | signo··libera····ate··e···ersiapar··chiato···
+page 1 line 09 (tokens.txt line 9) | cusi····dopera····requantola·elsi···di·····
+page 1 line 10 (tokens.txt line 10) | ·tra·commandaualapre·so··int·r·a··uestofacto·
+page 1 line 11 (tokens.txt line 11) | de··a·ndo·····andatoadirela·el·itudin··osi
+page 1 line 12 (tokens.txt line 12) | ·cu·····pa··a····lassasse·lpens·er·a·lia····i··
+page 1 line 13 (tokens.txt line 13) | ··········er··od·o···se·nd·s···i
+page 1 line 14 (tokens.txt line 14) | li·era···no···arest·rede·farelaim·pres·possen·
+page 1 line 15 (tokens.txt line 15) | derehauereelsuodal········s·se··a····no··an··o
+page 1 line 16 (tokens.txt line 16) | ·a·certola·elsit·ch·e··os·tra·la·o·n··ser·aan
+page 1 line 17 (tokens.txt line 17) | ·doqua···i·nan·e·ethauess····to·l····e·dexx
+page 1 line 18 (tokens.txt line 18) | uhorentenuto·i···disposs····a·deua·uat·er··
+page 1 line 19 (tokens.txt line 19) | ···i···a·nestolui·hapres··ltrop·ti·one··e
+page 1 line 20 (tokens.txt line 20) | ····ose·haue·rnato·sehabiafactose··pre··
+page 1 line 21 (tokens.txt line 21) | ······e···afacend·qu·i··epo·i···epar···a·apol·
+page 1 line 22 (tokens.txt line 22) | ·······tinuostato··npicaposito····and····er
+page 1 line 23 (tokens.txt line 23) | ·anton·oala·elsitudine·uostra·r··st·ctipr··
+page 1 line 24 (tokens.txt line 24) | ····alc··un·it·io··ecrede·u·estacosa··a·e·se·
+page 1 line 25 (tokens.txt line 25) | ·aseguire··dop·la···apartitam·andota·li··
+page 1 line 26 (tokens.txt line 26) | ·····eseriac·ommodalb·r·o·a··che·erem·a·····e·de
+page 1 line 27 (tokens.txt line 27) | ·i·l·idelprefatosignored·cauen·d··nc····e·a··er
+page 1 line 28 (tokens.txt line 28) | ·ta·····ch·eldicto··e·erlacomm··andauac·u··ta·e···
+page 1 line 29 (tokens.txt line 29) | ualea·mbas··tarlacos·sepoteua···enter·e·er··
+page 1 line 30 (tokens.txt line 30) | a····n·iael·defaci····epers··adeuo·tess·essereq
+page 1 line 31 (tokens.txt line 31) | uel·led·onte·soperati·onedeexcelsitudineu·ost··
+page 1 line 32 (tokens.txt line 32) | ra··i·dap·o··t···o·de·pertaguardo···sta····e··
+page 1 line 33 (tokens.txt line 33) | n·mandarec·onsidertoelp·es····tal·tro···ec····
+page 1 line 34 (tokens.txt line 34) | de···ste·a···o·······ur··no·e·u·lecosecta·
+page 1 line 35 (tokens.txt line 35) | percontc·ondoe··no··iosoldato··e·oicanc
+page 1 line 36 (tokens.txt line 36) | ipiuin·anzi·c·apiudisonn····esta·aniente
+page 1 line 37 (tokens.txt line 37) | ····d··ratiam·a·a·osaresta·ene··nc·oeldicto
+page 1 line 38 (tokens.txt line 38) | ·p·erantonionesta···nl·i··odes··pecto··ahauen
+page 1 line 39 (tokens.txt line 39) | ··auenirea···spect·pe·a·uostra·elsit·udine
+page 1 line 40 (tokens.txt line 40) | ···epareriapo···rehaue·etantoreg··ardo·
+page 1 line 41 (tokens.txt line 41) | piuosedeuessesi··oel··a·orestare·i·loco
+page 1 line 42 (tokens.txt line 42) | sec·ura··an·········a·uer·respostada
+page 1 line 43 (tokens.txt line 43) | ··lauotraco·si····i····a···bardar··enzaduno
+page 1 line 44 (tokens.txt line 44) | su···cto·d··c··elpossauenire····i·ter···
+page 1 line 45 (tokens.txt line 45) | ··oglioper·sta···ala·elsitudine·a·trasi·
+page 2 line 01 (tokens.txt line 46) | ·tione·m··sia·er·alaq·ue·tassi··asignori···uostra···o··ne·esansep·s·criuere·atrou·an··esser·grandi·er··tia
+page 2 line 02 (tokens.txt line 47) | ·el···ri·hauerecos·adetan··o····o····res··e····dasol·a··as··oldati·····reches··euoleun···unaltro·haue
+page 2 line 03 (tokens.txt line 48) | ·co·modo··utilitat··c·helareputassec··e·are···perefec··o·per·siper·entiael·an···eli···e·esser··
+page 2 line 04 (tokens.txt line 49) | ··ast·eperuna·u·re··agnae·icita·nd··crede·······u·····i·m·operhauer···s··is·olda···a··ss··a·es··a·a
+page 2 line 05 (tokens.txt line 50) | ·uerla··u··al····no··in···orec·e··e····t···espia·e·a··ranois······ale·p··c·io··ec···s·a··t··oafarse·i·perlate··
+page 2 line 06 (tokens.txt line 51) | llani··od··lauostra·elsitudine··a·lla··ered··fa·ct·······inoinl··fecea··roua···o·pero··nea··tr·resp···a···
+page 2 line 07 (tokens.txt line 52) | ···olan···a·e·cord··inella·orepoch·medis···ac··osasere··rouain·st··er···ni··odoc··lagelsitudne
+page 2 line 08 (tokens.txt line 53) | ···iache·e··ione···asperanza····r·ri·····econque·tauostra·li·suplicomme·····gliaperd·nare·ein·stafact·ode··
+page 2 line 09 (tokens.txt line 54) | seancora····esseueder··a··m·ndo··i·ara·onediqua·operpassi·oneinalc··no···odoiohauessefacto
+page 2 line 10 (tokens.txt line 55) | ··a···aschiauetudi·e··edelaseruit·····ersolad··per····e·sseinpiacer··ala··ostraill·ustrissi··asigno
+page 2 line 11 (tokens.txt line 56) | situdineatraala··e·o··en··eriaculo·····e·ic·osa···u··nt·inalcuno··odocum··aintentionehann·o
+page 2 line 12 (tokens.txt line 57) | ·di··u·l··u·sta·oin·ra········p···i··n·idapo··errat·i·uerso·e·lla·pri··au···ia···orire··il·euolte··a·e
+page 2 line 13 (tokens.txt line 58) | ····o·o·er·r····ehauessin·granze···n········c··sa···o·pensa·ose··rechescessecommede·s·toche··olte·a·
+page 2 line 14 (tokens.txt line 59) | tato·in··a···at·i·contra··e····cus·idelagelsi··udineuostra··eauisara··iadesuop·i·
+page 2 line 15 (tokens.txt line 60) | c·ti·u··e·tareadin··ur·a·ue··e··pec···ar···a·e···er·······and·p·eran··n·o···mandar·adirepiuapieno·
+page 2 line 16 (tokens.txt line 61) | u···le·defa·ti···ehauesser·de··ut·t·ra··a··otro·tograndespiacereperlorespectodict·o·loha
+page 2 line 17 (tokens.txt line 62) | perelan···aaldi·u·lohauutar····e··e···el··ur···e·ssuto··andarealpresente···ede···opoi·la·o
+page 2 line 18 (tokens.txt line 63) | ·o·tan···per··lodel··altr···aquesseposs·iemad·o··and·odegratiala·elsitudineuostra··eu·oglia·iu·
+page 2 line 19 (tokens.txt line 64) | t·o··el·anch··acert·laco·situdine··ostra···re···onsi·gliare·commandarepe··lo·aressea·lla···
+page 2 line 20 (tokens.txt line 65) | pri··a···andasse··sapo·it······llose·seguit···essehafare··in·l··ese···ssibilecu···iioh·no
+page 2 line 21 (tokens.txt line 66) | ···ffera···abrigato·de··r··inatoinla··en·te···con·sinest·o·oinalc··nalt·c·osaust·r·delicommanda··e
+page 2 line 22 (tokens.txt line 67) | stra··an·oprouocatodatisuo····o··dest·a·····r··n·uo··filbaillustrissi··asignoriauostraal···em·ere··
+page 2 line 23 (tokens.txt line 68) | stato·os·uol·ntierohauer·adesidera·······at········co··ef·or·ala·elsitudineuostrae··
+page 2 line 24 (tokens.txt line 69) | ····e···presa·se·ossefac·tapropri··a··mando··if·osso···r·icheperestoac·ordodel··p·are
+page 2 line 25 (tokens.txt line 70) | ··us·seriastatemp·ace·i·intes··ata·e·n···tene·ualain·enti·one···oluntale
+page 2 line 26 (tokens.txt line 71) | situdinedeuendarehauere·····ed···auostra·elspect·o···o··n····i··aper·······a
+page 2 line 27 (tokens.txt line 72) | ·au··re·cosicomme·dict·oadopera··po·pur··elsitudineu·ostrach··e·lla··teras···sapeua
+page 2 line 28 (tokens.txt line 73) | ·despect··e·tdeu·asegu··e··hauer·adeside···uacontentoadoper·re·faret····ell·o·h·end··
+page 2 line 29 (tokens.txt line 74) | rato····onealtrache·osefussefactoc··ei····e·re···or·alituct··lloseptide·nd
+page 2 line 30 (tokens.txt line 75) | ·stodel·d·oue··laueua··o·ti·it··e·u·sselointent··u··t·c···err··pecto
+page 2 line 31 (tokens.txt line 76) | considerationedepo··er·····especti·iconte·delaillustrissi··asignoriau·os·trasi·acert·o
+page 2 line 32 (tokens.txt line 77) | ··aprincipal··ente·ll·dela·elsitudi·e···t···laprincipalecosa··cheri·c····ente··nantet
+page 2 line 33 (tokens.txt line 78) | ··aco··ezodicto·a··aera··a··r··a·auerniperfare·stoa···r··s·ede·aresubsidi·receptoc
+page 2 line 34 (tokens.txt line 79) | ····oqu·a··eresto··e·operle·agionedestainfauoreal··unirsecum·luiafarec·ontrao··ne
+page 2 line 35 (tokens.txt line 80) | lamandat·e·o···eper·auer···con·lo··d·issiadanta··ialtrapers·onadicendoanchel·p·aparsegran·ese
+page 2 line 36 (tokens.txt line 81) | ac·redelrea····perhauereme·a·atoedebor···natodele··areimperlo···iosuo·omoltealtrecosec·ommenadireluo
+page 2 line 37 (tokens.txt line 82) | lu·ir··stegnordineda··n····ar··denaro·perchauere···u·al·····ommandato·n·o·i·a·enetiaauisitard·
+page 2 line 38 (tokens.txt line 83) | ·in·anzitractoell·ouen·ua···r·a·menter··eincasaiedentedar·elducenouo·rale·rar··et·······alcunealtrepa··
+page 2 line 39 (tokens.txt line 84) | s····del·····en··eriassa··e·e·rnatura··us·u··eperd··iticularitaco··eperp·eran·t··oauisar·la·elsitu
+page 2 line 40 (tokens.txt line 85) | dar··e·isognose·consi·era··a···ando·linuern·ol···ente·di·euostraala··teru····e·ecom·a·ato··
+page 2 line 41 (tokens.txt line 86) | a··t·estant·e·e··on·glile··as·pre··orda·eanc·de··ar···
+page 2 line 42 (tokens.txt line 87) | ··epar·ole··edissela·elsit··diseuostraetul·····t·ua···
+page 2 line 43 (tokens.txt line 88) | toesse·euerissi····commen·uapie·om·andar··perp·erant·n····i···
+page 2 line 44 (tokens.txt line 89) | cu····

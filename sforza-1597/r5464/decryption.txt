@@ -1,0 +1,92 @@
+# DECODE record 5464 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597): our decode, from the ciphertext alone.
+# Nobody has checked it against a key or a clear text. check.md gives what supports it and what does not.
+# One character for each sign, in the order of the cipher ledger's token file targets/sforza1597/ctts/r5464_best/tokens.txt
+# (https://github.com/dbourdeau/cyphersolver). That file is the sign transcription. This file does not copy it.
+# A reader needs that file to follow the decode sign by sign. Each line below names its line in that file.
+# Line 50 of that file (30 signs) is not decoded. A hand review marks it as the archive stamp.
+# A letter shows where the display rule of check.md gives one. '·' is a sign with no shown letter.
+# The decode has 21 letters: u stands for u and v, i for i, j and y, and c for c and k.
+
+page 1 line 01 (tokens.txt line 1) | h·uotr··onochepiupresto·ui·to·de···o·ha
+page 1 line 02 (tokens.txt line 2) | d·ifecede·to·ierofelicellore·e·ic·i·icircade
+page 1 line 03 (tokens.txt line 3) | s·issionede·per·inlasuapraticaiol·mandai
+page 1 line 04 (tokens.txt line 4) | n·douedescriuerealcunacosa·euitareoneperic
+page 1 line 05 (tokens.txt line 5) | olodele·e·ere·bergl··ihaue·egratisi·asubie
+page 1 line 06 (tokens.txt line 6) | ntia·a·s··bito·endoariuota···e·erelecose
+page 1 line 07 (tokens.txt line 7) | deimpe··rtant·ia··n·opocomale·hahauto·lo
+page 1 line 08 (tokens.txt line 8) | ··o·deferitopi·od···hauere··nclusione·poser
+page 1 line 09 (tokens.txt line 9) | uenetornare·nonhaueriefactomestamatin·
+page 1 line 10 (tokens.txt line 10) | estop·erfelice·tornato··ramoltecosegl··ir
+page 1 line 11 (tokens.txt line 11) | eportadelabonadisp·eritionede·uers·oneldicec
+page 1 line 12 (tokens.txt line 12) | ··lalihadict·ohauersempredesiderat·amicicia
+page 1 line 13 (tokens.txt line 13) | beniuolent·iainteligentia··seruationedeafini
+page 1 line 14 (tokens.txt line 14) | ta·e·ra·uno·lalt·rochahauut·osumunadispl
+page 1 line 15 (tokens.txt line 15) | icentichelsiaocumsuocosa·habiaimpeditolab
+page 1 line 16 (tokens.txt line 16) | onadispositi·onefor·ade·un·o·delaltr·o·m··l
+page 1 line 17 (tokens.txt line 17) | te·molt·eragione··e··einglia··edesimadis·o
+page 1 line 18 (tokens.txt line 18) | ·sitione·deside·io·la·osemai··etquelambaxima
+page 1 line 19 (tokens.txt line 19) | n·aententadeueniredepres·entialigatintelig
+page 1 line 20 (tokens.txt line 20) | entiadnodefesadelistatichelpaparticip·ei
+page 1 line 21 (tokens.txt line 21) | ·l··dicta·ia·terzo·loetlo·edasperaresene
+page 1 line 22 (tokens.txt line 22) | hora·nten··arequa··i··siaobligatodlaperso
+page 1 line 23 (tokens.txt line 23) | nne··legentedeluno·delaltroauenire·obedire
+page 1 line 24 (tokens.txt line 24) | ·seruire··uotietcu··acadese·s·omhauese·fare
+page 1 line 25 (tokens.txt line 25) | impres·no··po··entiadesia·inonhealtrocasol
+page 1 line 26 (tokens.txt line 26) | i··arepur·agioneu·legiode·aesserendoueli
+page 1 line 27 (tokens.txt line 27) | ·pare···sigrerop·im····on·e·as·o·acadessec
+page 1 line 28 (tokens.txt line 28) | usi·libixgnidel·c·ome··lideno·e···stouo·e
+page 1 line 29 (tokens.txt line 29) | apar··capitulochepare·esia··etractuasai·f
+page 1 line 30 (tokens.txt line 30) | actoesto·po··ercert···urbat··qu·elaltreco
+page 1 line 31 (tokens.txt line 31) | mesendol··deside·io·u·lunt·auosrand·elpo
+page 1 line 32 (tokens.txt line 32) | co··miselasa···edere·st·osuofars·i·n··haue·o·
+page 1 line 33 (tokens.txt line 33) | bligatome·la·cument·ia··alducta··ianouenza·h
+page 1 line 34 (tokens.txt line 34) | aueretiraton·onsolamenteelremaetia·el·da
+page 1 line 35 (tokens.txt line 35) | lauostrachelredicese·nonpemo··ha···u·endi
+page 1 line 36 (tokens.txt line 36) | sposto·stoeu·eromaegran·iserentia·ahauerl
+page 1 line 37 (tokens.txt line 37) | osecretoadhauerlo·publico··ndomai·nonhaue
+page 1 line 38 (tokens.txt line 38) | ·eromandato·factodelecose·hanofactodapoi
+page 1 line 39 (tokens.txt line 39) | nfe·eleg·a·loro··stanouainteligentia·d
+page 1 line 40 (tokens.txt line 40) | efe·adelistati·dela·duc··a·ia·nporiaeser
+page 1 line 41 (tokens.txt line 41) | eimput····a·n·idaloromadesimiserapiur
+page 1 line 42 (tokens.txt line 42) | eputata·es··imatademagiorprudent·ia··
+page 1 line 43 (tokens.txt line 43) | laligafacta·loron·rohibis·esimileintelig
+page 1 line 44 (tokens.txt line 44) | entia·defecionedista··i·laltraparm·eha
+page 1 line 45 (tokens.txt line 45) | ust·aresecretafinquant·ouipareradefarap
+page 1 line 46 (tokens.txt line 46) | ··ese·altr·o··paroleua·ntoalapartede
+page 1 line 47 (tokens.txt line 47) | leobligationedeloffendere·adice··abenlani
+page 1 line 48 (tokens.txt line 48) | mosuo·el·lentiamseret·rouaalpresentem·
+page 1 line 49 (tokens.txt line 49) | ede·farere··sto·sefariane··ne··sen·e··ur
+page 2 line 01 (tokens.txt line 51) | is·epauoluntadim···iolipareelsiabeneaut
+page 2 line 02 (tokens.txt line 52) | ilegente·pareprimalauluntaloro··ndolor
+page 2 line 03 (tokens.txt line 53) | oce··urisenoalorasepodeliberareeltemo·la
+page 2 line 04 (tokens.txt line 54) | op·rtunitadafarsetaleimpresesendo·iael
+page 2 line 05 (tokens.txt line 55) | megliodal·le·ndeuiar·mai··e·stosiacerta
+page 2 line 06 (tokens.txt line 56) | nchi·o·obeneinformatodelauoluntadelre·
+page 2 line 07 (tokens.txt line 57) | ·ochelnostrosignoredioha·achesoel·esia
+page 2 line 08 (tokens.txt line 58) | factaestasanctainteligentiamporadispo
+page 2 line 09 (tokens.txt line 59) | xedeandoluminel·ecosediquece·cur·e··ut
+page 2 line 10 (tokens.txt line 60) | ile·lasicu·tadelstatosuomaetiamde·
+page 2 line 11 (tokens.txt line 61) | lredouecesialoproprioint·eresede·senza
+page 2 line 12 (tokens.txt line 62) | alcunaquaparticularita·inestocaso·
+page 2 line 13 (tokens.txt line 63) | a·a·apensareapresoachihabian·astarele
+page 2 line 14 (tokens.txt line 64) | scripure·hanoas·taresecrete·siadfi·at
+page 2 line 15 (tokens.txt line 65) | oalunaparte·alaltranzionotantodesig
+page 2 line 16 (tokens.txt line 66) | noriodeuisitare·farereuerentiar·e·creda
+page 2 line 17 (tokens.txt line 67) | ·la···tisfarea·st·omioanimoiohabia·dindu
+page 2 line 18 (tokens.txt line 68) | ··iare·uederla·aspectare··ocu·aluno·
+page 2 line 19 (tokens.txt line 69) | idoica·isopradictimadbonaligentia·uolu·
+page 2 line 20 (tokens.txt line 70) | ··adelqua·elresperodeanticipareeltemp
+page 2 line 21 (tokens.txt line 71) | opurasaicheueriamandatouoluntiere·per
+page 2 line 22 (tokens.txt line 72) | quelige····pot·esegu·erirealla·duncum
+page 2 line 23 (tokens.txt line 73) | tu·ttiliragiona·entialeparoledelre
+page 2 line 24 (tokens.txt line 74) | comede·l·ebeneinfor·ato·co··etia··nnepar
+page 2 line 25 (tokens.txt line 75) | euautile··e·esariamaese·douenutoami
+page 2 line 26 (tokens.txt line 76) | lano·p·ian·dat·o·napolexcusimepareua
+page 2 line 27 (tokens.txt line 77) | fareelbi·ogno·odubitato·lasuatornata
+page 2 line 28 (tokens.txt line 78) | ·milanonfosemolestar··parendoliforza·
+page 2 line 29 (tokens.txt line 79) | lafuse··ropode·ustratione··respecto
+page 2 line 30 (tokens.txt line 80) | delredinehaueriafactopococason··nha·
+page 2 line 31 (tokens.txt line 81) | farenientelloro·o·elparera··e·uenga
+page 2 line 32 (tokens.txt line 82) | ·ig·ese·e·mandare··s··bitoel·e·a·cami
+page 2 line 33 (tokens.txt line 83) | no·endoel·mandamentde·a···leh··milm
+page 2 line 34 (tokens.txt line 84) | enten··ira···oa··odi··o····
