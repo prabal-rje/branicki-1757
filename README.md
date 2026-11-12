@@ -152,6 +152,13 @@ My algorithm read all 35 records as one text, without the key. The read is parti
 
 My cut misses the three-digit letter codes, and my key reads the digit 2 as i, not a. Three of my 18 smaller test windows ended on a wrong key, and nothing flagged them. Over the window sizes, the mean recovery on the real text is 49.7% to 72.7%. On artificial test letters of the same sizes, it is 81.1% to 96.6%. `morosini-1587/check.md` gives the details.
 
+**Correction, 12 November 2026.** A later check found a fault in this read. My rule cuts the digits under the best of 20 first starts. This read cut them under the second-best start. The cause is not known.
+
+- The read under the rule gets 95.2% of the matched single-letter codes right (80,251 of 84,284). It recovers 72.4% of all single-letter codes (80,251 of 110,821).
+- The two reads show a different value on 25 of their 135 shared code types.
+- The 12 test windows of 10,000 tokens or fewer follow the rule. The 6 larger windows are not checked yet.
+- The files of this page are still those of the first read. I will rebuild them from the read under the rule.
+
 ### Francia 346, 1632 to 1634
 
 A lone 6 is a word space, pairs 2x are nulls, and the other pairs stand for letters and syllables. Three-digit codes stand for words and names. George Lasry published the key on DECODE in 2020.
@@ -220,7 +227,7 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
   - Record 5464: a letter shows on 86.4% of the signs (2,808 of 3,249). Two blind readers find sense in 56% to 61% of all signs.
   - Record 5465: a letter shows on 68.0% of the signs (3,961 of 5,828). The blind readers find sense in 37% of all signs.
   - Records 5425 to 5430: no sentence reads yet. The read is sealed.
-- Morosini: read in part, with no key; 95.1% of the matched single-letter codes right (80,553 of 84,667). 72.7% of all single-letter codes recovered (80,553 of 110,821). The cut is wrong for the three-digit letter codes. A second search for the missing code forms failed its test on artificial letters, so it did not run on the real text. The read is the first one.
+- Morosini: read in part, with no key; 95.1% of the matched single-letter codes right (80,553 of 84,667). 72.7% of all single-letter codes recovered (80,553 of 110,821). The cut is wrong for the three-digit letter codes. A second search for the missing code forms failed its test on artificial letters, so it did not run on the real text. The read is the first one. A correction of 12 November is in the Morosini section: the read under my start rule gives 95.2% and 72.4%.
 - Francia 346: read with no key; 99.2% of the shown true letters right (6,953 of 7,012). 65.7% of the graded shown tokens show the true letter (6,953 of 10,591).
 - Biglia: read with no key; within words, 82.2% of the aligned letter pairs equal to Dudout's reading, with gaps left out (957 of 1,164). The cut misses the syllable codes.
 
