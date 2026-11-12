@@ -1,0 +1,529 @@
+# Francia 346: my decode of DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647, R5648, and in the appendix R5642, R5645, R5646, R5649, R5650, R5651. Found from the ciphertext alone.
+# Source: DECODE (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346). Research use only.
+# These lines are as the fit gave them, before the check against the published key. README.md and check.md give the check.
+# Each line starts with DECODE's page label and the row: '05_100v_R76_P2 C10' is record R76, page 2 (folio 100v), row 10. This file does not hold the transcription.
+# A code shows its letter only if the starts agree (README.md). '·' is a gap: a code with no agreed letter, a sign that the cut does not read, or a doubtful digit. A space is the word separator.
+# '|' is a break where the writer wrote words in clear. '/' is a page end. The clear words are not in this file.
+
+## Main read (13 records, one key)
+
+### R74
+01_071r_R74_P1 C01 | loeli·i·eliuitata li·uicianza·i·a·labi pasa
+01_071r_R74_P1 C02 | tol·co llc· ilacena eriane·c· pienaie sois
+01_071r_R74_P1 C03 | ·f·i puntu···raeto i·um iuia·i·alsuceso ·
+01_071r_R74_P1 C04 | ll·e·i·uolutollli iinsalla·es· procura
+01_071r_R74_P1 C05 | t·· ···tirar·alo ·menodila ag·r·aetura e·ue
+01_071r_R74_P1 C06 | nirla·d·i·i··c··o e·poterui sopra·apogiar
+01_071r_R74_P1 C07 | ·def simoli·e·lauera eferitole·oii·g·
+01_071r_R74_P1 C08 | i elpasatole poter·d·····lber··ra ·li lale e
+01_071r_R74_P1 C09 | rleto aid il·guito i·ino a·i ·gno·i·ol·a
+01_071r_R74_P1 C10 | dlgiu··ca·ili ·u······
+01_071r_R74_P1 C11 | i lalpresa eba
+### R75
+02_081r_R75_P1 C01 | le ui···orielialle ii·forza renderanoleauentura piuueio·e
+02_081r_R75_P1 C02 | ·a·eli·ili acomoeie ira a·piu ificie·asai·gi un·ne
+02_081r_R75_P1 C03 | ·n·e·ili elili sbracila trouar·eotiuili esuadereli
+02_081r_R75_P1 C04 | ·o·adeto compile l·iteresi idn l··n·nel· nelacene
+02_081r_R75_P1 C05 | ro ·cuni·i elil· nel·rua··lli·sihdi iin e·l···dol
+02_081r_R75_P1 C06 | i·o··r··a··ii·ile faralhnor acdisole llunir l·eui iin u
+02_081r_R75_P1 C07 | itor···· e·aicurar ici i·g i·iaaa·portar lelme·g··im
+02_081r_R75_P1 C08 | e ····i uitoria i·aicuraeo ilognili ilf··ra e·s··
+02_081r_R75_P1 C09 | ralascritair aldeboleza sapen·i···e·iii poino·
+02_081r_R75_P1 C10 | l ·i·i··nliimpegnate eluitor·· e·ili·i puo·sucede
+02_081r_R75_P1 C11 | r·· d·opoll·un·nelaicuraaollelco· sue·le·ili tem
+02_081r_R75_P1 C12 | poli···sarano ·mpres··i eicolo e tempo·iao·coinc
+02_081r_R75_P1 C13 | i aleoscere·i·ia eicolosa··i·n·i potenza·dlpli
+02_081r_R75_P1 C14 | cohncianoir aila pensarla co·i· ilad idrizar i
+02_081r_R75_P1 C15 | ii loro·a·l·n·eideri·i·ia oportuno··li uasiih ·
+02_081r_R75_P1 C16 | eni·eri iig nat·ne·senderei lora·dohn· ino··le·i
+02_081r_R75_P1 C17 | teraneo·le acdiso·d unanu e·e·i·buon fone·es···
+02_081r_R75_P1 C18 | poson·o seareli unasp ili· iun ·iii e·e sotopo
+02_081r_R75_P1 C19 | so··f·i··o·ulforze aritimele teresri eiderieoao
+02_081r_R75_P1 C20 | ·i····luitoria ili e··trehu forhebiel·i·nei ·i·l
+02_081r_R75_P1 C21 | t· eid··ri·o·i ·ii i·agiusano·pre·nte·elle coi··e a
+02_081r_R75_P1 C22 | ··eh saral·mpre ·lmedeia·era ·mpreloreoe alo torb
+02_081r_R75_P1 C23 | ii i·lauera oll li·sugerisca i·un sucesor·ilcle il
+02_081r_R75_P1 C24 | puo resrigerli aniera·i ·mprele labi·liberta ic
+02_081r_R75_P1 C25 | ea·ar ··lcampagna·ne· uile teali motiliternilic··o
+02_081r_R75_P1 C26 | ·gna·cercar ilcompor l·eserni i·cag·nerano e··s·m
+02_081r_R75_P1 C27 | e·nte··ano li·domesici giaso e·ariuata a·t· fra···
+03_081v_R75_P2 C01 | o· iaglor···a ·lelco· ii· ilpuo e····ag·n temereli ···f
+03_081v_R75_P2 C02 | o·rtuna er· ·ar···o·ti·cero dunded aug···me····ar··· ··i·
+03_081v_R75_P2 C03 | ar··i· ··ni ed· p··r·u·uo··· ··ii·pua··lnea···u··zl·usp
+03_081v_R75_P2 C04 | ·ari·idriz·· le·co· elitraprend··r t··letro·····a·fe
+03_081v_R75_P2 C05 | iili ··ap·e··lii··telanca ··ilfloria i·ao ··soma·e
+03_081v_R75_P2 C06 | is······d···a·n····ure··pre·de··e· ··ono···iu ··trariela·· ··
+03_081v_R75_P2 C07 | ua·······lun··ne·u p···ldeue ··e·p·m·co·ri· rirr·o···rl
+03_081v_R75_P2 C08 | rag·ni ii··la··u·a··nol
+### R76
+04_100r_R76_P1 C01 | il···e mo··rar·i ied ellano ai····· d·eider··l··· esen··nt····
+04_100r_R76_P1 C02 | il·g·······e·····sis·lae·nii·la pi··i·ol···e di······ a·li ilpot
+04_100r_R76_P1 C03 | rebe ·z··una···i··· ·······lc·d·i·i ··lentrarebea··i· ··u
+04_100r_R76_P1 C04 | i i·oaa···io·n·e erladosoa···o·io·e···muouersili acdi
+04_100r_R76_P1 C05 | sar piu·l·i·u···· la·i ·ila ····idsz·ianods· co··ii sau
+04_100r_R76_P1 C06 | anost··al·· ·u··ul····me···r· ··eo iscio·g···lc·n·····ssm·o
+04_100r_R76_P1 C07 | ····orninoa·pn i·al··eni··r·olill··eaald·o ··nes·no
+04_100r_R76_P1 C08 | f··o·is·l·ne d······a····e i·nouo ahe··a·e·····l· nelu······
+04_100r_R76_P1 C09 | ·l··s···m··lle diereli ··ropria·pr··denza a·aue·r···a dou·
+04_100r_R76_P1 C10 | elisitu··ii ···tralc·d ·ili c·l·m··tre·ra·····lo··e ·i·s·s
+04_100r_R76_P1 C11 | a ilu· h···etr·· ··u·m ·i··ifei·ili i····ole·····o hua·der··
+04_100r_R76_P1 C12 | e·e uuo······i· mod·····cu·no i···o·t···r·ato a··eraf·oso·a··
+04_100r_R76_P1 C13 | ··u··oli uole···i·u·rau······ ·····tro ·uolendoile·r··a···lp
+04_100r_R76_P1 C14 | ·adrede·mune····d·e·····tor····a········ i··uienasa······nando e
+04_100r_R76_P1 C15 | ··a· m·ede···molistaa··eso·il··u··i·i iscore··g····lis··ont·
+04_100r_R76_P1 C16 | ana··o·a i·lel··artidp·ndeuas·uiol·· ogniud·t·e ilposo
+04_100r_R76_P1 C17 | no eriidie··i····ie··ta eif· s···terpone····i·empo i··l
+04_100r_R76_P1 C18 | afez muta·n···th·ci·· ··ropo·li ilane··ro ·····e··szsu·ent
+04_100r_R76_P1 C19 | iari·· ··lluogoi·e··zo e··nohnolpr··alrne·····c··· ···o··
+04_100r_R76_P1 C20 | lpouos· sogi··nge···do i···· ·u··esi··a···ua····e· ·····otr··si··
+04_100r_R76_P1 C21 | ·c·ra·dl·tri·l·iac·i ice·ild ···i···o· i··e·· ····a······s·lcos
+04_100r_R76_P1 C22 | a ail····bita···a iaeo ···pia·cer····el···· ·tgzshi·ei· i
+04_100r_R76_P1 C23 | i·ldip····ne i·a·s·· ere·i···gelo··a ai··l·riali ··ei
+04_100r_R76_P1 C24 | lil·l···r···rol····a·ten·····eld·· i···sopra ··l··s·nti·
+04_100r_R76_P1 C25 | etro····ri a·a melpare ila· i·i·· tengo··s···l· el
+04_100r_R76_P1 C26 | sano eu··e··· t·······ibf···g·a··o o·li ···ap·ogl··· i·
+05_100v_R76_P2 C01 | gls·e posono··er geloia aa····uli lila···e·leei ei
+05_100v_R76_P2 C02 | ·sap·rano ·ei· sa·r··no·lftoes·le· ei·sabii·ro·
+05_100v_R76_P2 C03 | e ancara aniere··a·old uscir··eib·ii·· ilplm··
+05_100v_R76_P2 C04 | ·loro i···otra ire cosa·n··ale·e·ullon··a···a ·m··le
+05_100v_R76_P2 C05 | rte ian iibs e····o··no··· ·ano·i anote are·laad
+05_100v_R76_P2 C06 | ·i core elu·da··lgeloi·· ·iuera ··u· elpoter am·p··l
+05_100v_R76_P2 C07 | e·iap· par···ipria i·fii·ra ogni·cosa iirols···
+05_100v_R76_P2 C08 | fuorilli propoit·ni· uerole ipu acre·e·iuteli
+05_100v_R76_P2 C09 | riputat·ne logiill ·i·cesa·ree e·i ritira··a··
+05_100v_R76_P2 C10 | ioaile norimberga e·so ·si···c·rali ······deialisp
+05_100v_R76_P2 C11 | oi···neli ··opra···n·e······i····te··gli··i·so i
+05_100v_R76_P2 C12 | faletiua ·s·iu eial ···a····ii··aa··· ie··unsig
+05_100v_R76_P2 C13 | tod··l·tro ··uedono ·g·uire i·i·ai··at·ni eh
+05_100v_R76_P2 C14 | i a·ln ·p·· i·d sianodim···a·r· i·sosan······ha
+05_100v_R76_P2 C15 | aiz ei·puoemdhu··e i··o llap·a·re···za eliice·l
+05_100v_R76_P2 C16 | i a·easere ·limpegno ·ei so··os··ntrati ·n·
+05_100v_R76_P2 C17 | · ib·o·o·eis·e··ro ·la··rir llimportanza i··ice
+05_100v_R76_P2 C18 | ·i···ialule lor·o··potrebe··e·e proporela sar·
+05_100v_R76_P2 C19 | auertitod·ii··scor·· loro··e aue·nturalprop··
+05_100v_R76_P2 C20 | ne·roo p·orta·roed···tro·modo·u··ie·la lorol·
+05_100v_R76_P2 C21 | iig· ·u·eiln·ii ·oisl·e ib·so·toficar·odioi···o·
+05_100v_R76_P2 C22 | ca·ot·dol····i··lo ·tro··e·ali ···ce ·a·e·e e···t·· eit·
+05_100v_R76_P2 C23 | gi·· neparli e lo·propon·e· douen··o·ne e·lc· om··
+05_100v_R76_P2 C24 | s·ahelasenere· ide·i·u·mcsi···ne i···· douera·o
+05_100v_R76_P2 C25 | · eli··· ····u· ··iu··i····li l·ambas··iat······a·
+05_100v_R76_P2 C26 | e·imbara·zata ee ·ne·puode·uar·i·······sr·i··o ··l
+06_101r_R76_P3 C01 | mo··d···o ib·· ··al i··e····a lei ocore·lpar·ig· iild
+06_101r_R76_P3 C02 | ue partitilproposi ··ed i·uienale ecl ···i·e·
+06_101r_R76_P3 C03 | nohni llautori···eued····d·n··euidente utiita·
+06_101r_R76_P3 C04 | ··z lo uengo·rd·edeli·ie·de ···e elnou·· ilp·l
+06_101r_R76_P3 C05 | ·ato e·u· ·i pria elo·e erlecegnsz·a replica
+06_101r_R76_P3 C06 | ·e·ii·dio ioi circacn edeue·d·aniar··punto·e
+06_101r_R76_P3 C07 | la eiserlei aniera·prescrit·el·i resitut·ne
+06_101r_R76_P3 C08 | ···trade·uego llaetu··e ie lei lahflianil
+06_101r_R76_P3 C09 | elc· rieosco e fauso pricip··i s··f·dl·ellalr
+06_101r_R76_P3 C10 | ispo··o agiu·o·ta·e aei··uerol·ia·u·leibit·n
+06_101r_R76_P3 C11 | i elpro····eioni i·uolerlil···i sareb·e·for··aalfuo
+06_101r_R76_P3 C12 | ri ipropoito ianere ·i·eaafli fo···posa i·re·s
+06_101r_R76_P3 C13 | itut·ne ii·sudiaou ienl ·licoie d·lel···sono n
+06_101r_R76_P3 C14 | oti i·particoiri icognit··ne·i·ei laueraeso··la·
+06_101r_R76_P3 C15 | u·l·o·e ae ne·parir ·lprimolegreso la·e uerita
+06_101r_R76_P3 C16 | ·uel·ato··e ini e···esrato e·la·d·ereilpriuat··· is··
+06_101r_R76_P3 C17 | plicato a·publici elparticoir ···la·g·iilio·· elil
+06_101r_R76_P3 C18 | ·gu··m· pure apar··rl· medeimo·ns···e·procuri··i
+06_101r_R76_P3 C19 | itrin··cari··ilbp·den··a··i ·l·on ···pasi··buona·sa
+06_101r_R76_P3 C20 | ei· colegait eial···elrah puolelis··coreab·on
+06_101r_R76_P3 C21 | enti frutilile suelfatii apro ipublico·i
+### R77
+07_102r_R77_P1 C01 | ela supos·· mi·corte iab·i·e modo i·derei ili p
+07_102r_R77_P1 C02 | ricip··ilcomeso aie i·· ell·un·ne delc·a·lla
+07_102r_R77_P1 C03 | comoe·eli·a col fratelo·ili ei pensa·lad ·t
+07_102r_R77_P1 C04 | ro ila render ··pn piu poderosa li ·····eaa·
+07_102r_R77_P1 C05 | eto un toco iha e·esona priuata·a efidente·i
+07_102r_R77_P1 C06 | nih eiml lalrisposo ielera·a ilpricip··il
+07_102r_R77_P1 C07 | i·elai·i ·lpricip· i·e l un·ne eiio··a··· isa
+07_102r_R77_P1 C08 | uentura ··i tempi dllogi ila·i·le co· i·de·ro p
+07_102r_R77_P1 C09 | eime ·imtlad·io··ni ai·e·ali·e·llebe isciatol
+07_102r_R77_P1 C10 | i·z·g·i euiene ei·e propr·· ii·sua riiia ite
+07_102r_R77_P1 C11 | nt·ne loleto ipi·a·i pas·i·a ·tia··a parteed
+07_102r_R77_P1 C12 | n·r····lle sogiuntoli i··he parti e lltit··l
+07_102r_R77_P1 C13 | o iaap illeile li compagni ·lmedeimoltempo de
+07_102r_R77_P1 C14 | siati e·leld e c·ltenute ileobe ili pricip· h
+07_102r_R77_P1 C15 | ra iml·fu ditrodur pace·uniuers·e traie ie
+07_102r_R77_P1 C16 | ilpoteua·n·negareli ihi le geloie····i eranol
+07_102r_R77_P1 C17 | ie piulgraui aterie ii·eidera·ro eed·e·li·o
+07_102r_R77_P1 C18 | eranoleiderateeg i·fratelolilr ills··ld oba
+07_102r_R77_P1 C19 | in ilera piu uolte·doluto iei fo·ld auantag·
+07_102r_R77_P1 C20 | comeso ape eelpiulspii· publicat·ne iai ia
+07_102r_R77_P1 C21 | a ei·i·a face· ariuar le dereleliino a·me ie
+07_102r_R77_P1 C22 | l·ea··lpregata·e partelilrdelad iterpori epa
+07_102r_R77_P1 C23 | ·agiusa·e dolnotitia·a·e·i·i·a·alei iali
+08_102v_R77_P2 C01 | foratali·i·core eilprocuri ipu iaalu· i·l ilsa··
+08_102v_R77_P2 C02 | ia ilcag·n·· pricip·e iilsua ··hione epi·ei llla·
+08_102v_R77_P2 C03 | e·guito ei·diie uniuers·e e·e ·soi·eelei·solo·pr
+08_102v_R77_P2 C04 | opr· irahili eaalpricip·ee apogi·is·i··l·du·
+08_102v_R77_P2 C05 | ei sapralesprimere·alecio· ·ildue·lli anieral
+08_102v_R77_P2 C06 | ilpoinolgiusificar llat·ne·ole·l osenione i
+08_102v_R77_P2 C07 | e sueeu··lbisogna· e·anerle·a isponendo l·an
+08_102v_R77_P2 C08 | ih ahg un·ne ilei·deue procurare
+### R78
+09_109r_R78_P1 C01 | ···r·lile ipe·de uentitreli pasato lo·ueduto
+09_109r_R78_P1 C02 | ·gli a lei·la diolesu··ataie isnonli cui·pii
+09_109r_R78_P1 C03 | a· rimieri·a c· e·uoler sotop·or·· suo arbit
+09_109r_R78_P1 C04 | r· lla·z·i un·ne ·iel·i eice paterna·eli·ei
+09_109r_R78_P1 C05 | i·a la·ris···olo·iiimo iii e·iiferen··e ne
+09_109r_R78_P1 C06 | mezi puri·i·rdua·isca i·fhe ··e·d·ol·dlme···ato
+09_109r_R78_P1 C07 | re·ee·giuice eii ··proporlo arbitrare la·p
+09_109r_R78_P1 C08 | ure risposo·e·ad·m·ata·elsando esaztelllil
+09_109r_R78_P1 C09 | e·z·cosalii pos···cauar l·suo·poso·isnl·ra
+09_109r_R78_P1 C10 | comune siara·i·e·graira sopralogni··rracmz·
+09_109r_R78_P1 C11 | aii·glfaciita ihbe·uolezai· sa·alpi·i··uitae
+09_109r_R78_P1 C12 | ad·····l ·ni·· idil· publico i·li·i·gbc· ·iidir
+09_109r_R78_P1 C13 | esirpat·ne ··bl·i ·e·p· opose i·uorebonoe
+09_109r_R78_P1 C14 | ·· mlls·ua·lielllibl ·i corte cesareal·i·
+09_109r_R78_P1 C15 | ocercato ··hz lo aeilrisponde loro·el·t··o·
+09_109r_R78_P1 C16 | ·eiadproponelii sia ·sf·i ratisbona ··aani
+09_109r_R78_P1 C17 | etrauent·ne ···po·so iinlsopralilile uol i
+09_109r_R78_P1 C18 | uicare·i ···eicolo i·ieo soprasar ·ili li·
+09_109r_R78_P1 C19 | potenzaldeadlnoi uera·e creiamo iliriac····
+09_109r_R78_P1 C20 | ·rdi·e labi ai·aezletro·aes cosalie iasn·e
+09_109r_R78_P1 C21 | s·li riuerenzale·rispio aio··ni ca··oacoiae
+09_109r_R78_P1 C22 | e·d protiale ifesa eee piaceic inbm·def·m·
+09_109r_R78_P1 C23 | i mosrale·elianel i·ilei procu·a·le solo·i
+09_109r_R78_P1 C24 | nutrire ailacresce·re·i aicuria···i·li parte
+10_109v_R78_P2 C01 | nosra i·teralt· ·grio·i·ali·nisunol· nelpotr
+10_109v_R78_P2 C02 | a u·ere a·eno iidnlne arguir ··ia deboleza a
+10_109v_R78_P2 C03 | teniamole impatienza iluire ii·· ia uenuta a
+10_109v_R78_P2 C04 | id particoire eiinsl·eii·sp··e·e labialitri
+10_109v_R78_P2 C05 | ·cato ·ib··uo ·nso circaln···ile ueriihlelii
+10_109v_R78_P2 C06 | labio a·ridu··ehi le ificu·lta ogni at·ne·i
+10_109v_R78_P2 C07 | z a·rli·nli·i ·lun·ne i· aisenzaliili etr
+10_109v_R78_P2 C08 | o·lpm e·potraid imputata ne a·deb·oleza
+10_109v_R78_P2 C09 | ne·a timore ai esa·sara rieosciuto i·zelo·
+10_109v_R78_P2 C10 | e ilpiia ·i·adleiaoiu·logi i·nliaali er·l
+10_109v_R78_P2 C11 | ege al ··tri·ee riceueri nelsara·poc·o·acre
+10_109v_R78_P2 C12 | sciie ·ilgloria·ilnsl·l e· ·a·mesa i·piei
+10_109v_R78_P2 C13 | ioi dai cadente ·nza·lhr·riguardo ad ·cunl
+10_109v_R78_P2 C14 | rispio ne ·u· i·fori lliuitaua··· p··d·eri
+10_109v_R78_P2 C15 | ·ti i ··iu·eficace motiuo apreso isn ·lle·g
+10_109v_R78_P2 C16 | ·ii gloria·n··lo toco ahe·aeil·lne ·rua
+10_109v_R78_P2 C17 | laif·i·eler parte aai e···lii ispoit·n
+10_109v_R78_P2 C18 | ·· ilcosi la trouato·· un·ne ·etacerls· par
+10_109v_R78_P2 C19 | ticoire i·uoler ieo·ili·iscutalle prop
+10_109v_R78_P2 C20 | oseliidlht·a·e poteua caus··r niun buon·e
+10_109v_R78_P2 C21 | fie·ule icliandolllaiz·lo
+### R5626
+006_154r_R5626_P5 C01 | leau·ipe·de trentalnouembre eltre·decembre
+006_154r_R5626_P5 C02 | sopra·loe···nza·fleia elan··i lid·icliano
+006_154r_R5626_P5 C03 | ·iii ilfacia·ferare·i·fra·i botrule ·ll·
+006_154r_R5626_P5 C04 | ia·facolta i·t··atare·elh sonolcapitate ·tr
+006_154r_R5626_P5 C05 | ohn eunzl···i·ualsogio·irle ·ei·sara··ol·m
+006_154r_R5626_P5 C06 | preldegnili lodeba·ifmi·eletiuerale i
+006_154r_R5626_P5 C07 | preimrsoata·uiueza·e ·sp·denzafus··edd·s
+006_154r_R5626_P5 C08 | poorele anihlie corone·adri·p·d···rale efia
+006_154r_R5626_P5 C09 | corispondenzalu·e··doi ihganip·re illss·o
+006_154r_R5626_P5 C10 | erea· mortelio·e···colilognil·tro aciden
+006_154r_R5626_P5 C11 | te ila··z deec ueniile ferarei scriuo ··lp
+006_154r_R5626_P5 C12 | artea··nol·biolellfr·elsarai·n·rticipat
+006_154r_R5626_P5 C13 | o·i·a ilprocedere·i de···anlcol fo··erelil
+006_154r_R5626_P5 C14 | f·itaii·gli elloro ··pba··olrapre·ntar
+006_154r_R5626_P5 C15 | e ilcotesa ···tre cortile pocolprop··r···n
+006_154r_R5626_P5 C16 | ato··e d·italilc· li·ellalai leuata ··heut
+006_154r_R5626_P5 C17 | orital·· suoilu ne·u·lir···onolpartiti e
+006_154r_R5626_P5 C18 | luol·i do·ue··a··dorono···········································
+006_154r_R5626_P5 C19 | za·gli·nlcorino··lrihne·ilfa ·irm apareoat
+006_154r_R5626_P5 C20 | o azif·gs··i oln··uol·m···················································
+006_154r_R5626_P5 C21 | · eis doue sonolgia mei andole ee·dibhlto ill
+006_154r_R5626_P5 C22 | ·trole u··riilprie···i··························································
+006_154r_R5626_P5 C23 | a·i
+### R5635
+008_205r_R5635_P1 C01 | tengo nrele·ide·una decid·de····
+008_205r_R5635_P1 C02 | i·terzalde uentun·ppasat· i prima h····n
+008_205r_R5635_P1 C03 | a un·istinnoae·i··a·····illebe ··ensne i
+008_205r_R5635_P1 C04 | uantecedenteeliscor····olle· le duelet
+008_205r_R5635_P1 C05 | rade ilsua paternita laldet··dui eili
+008_205r_R5635_P1 C06 | uorei i·c·
+008_205r_R5635_P1 C07 | ·e puelpomtap ·ce uulruina iro·nderebel
+008_205r_R5635_P1 C08 | iutee·i ste·eii·rlg e·ggbteaa·asai
+008_205r_R5635_P1 C09 | onfr·pue llm iie lapasat·ei
+008_205r_R5635_P1 C10 | sua ricuperata sae··
+008_205r_R5635_P1 C11 | ··m··ita i
+008_205r_R5635_P1 C12 | el ··el
+008_205r_R5635_P1 C13 | ··no
+008_205r_R5635_P1 C14 | la·ope oport·a·a·e·esuasa lambasci··n
+008_205r_R5635_P1 C15 | a ·mb ap· glii p·r·ia·········tasno il··
+008_205r_R5635_P1 C16 | emezo iap ii·carb··n··er···e·e e··co·rne e
+008_205r_R5635_P1 C17 | adeso ··lmmim· ·pense·o· ineeo larano i·
+008_205r_R5635_P1 C18 | i··arationela··mis··one iilpleni··············
+008_205r_R5635_P1 C19 | arii am· duir· i·carbf·n··era l··l···re···r
+008_205r_R5635_P1 C20 | a lan·n·
+### R5636
+011_211r_R5636_P4 C01 | td lo int·soupoa eo eie ilprimo ilpasato
+011_211r_R5636_P4 C02 | i·caso·i·ea··iie me·ne elun cenno e ilsu
+011_211r_R5636_P4 C03 | a de····enti·i febraroiienma a io e·a·eli
+011_211r_R5636_P4 C04 | a·principiol· co·lagiori ii·n·gtrebels
+011_211r_R5636_P4 C05 | einger isnsl·ai eclusione dluna·buonali
+011_211r_R5636_P4 C06 | elua eblouar·i·g eicolilii unasp ifc p
+011_211r_R5636_P4 C07 | otralminuciar ·i·ie iaf itia·e·gcasa·
+011_211r_R5636_P4 C08 | g do·gli·elgena ·u n ·traiidizgfo··a e
+011_211r_R5636_P4 C09 | ta ilpriorato ilsan·etino ·iels·s·e··nd
+011_211r_R5636_P4 C10 | o dauantagio i·gli loh·pmtlo l
+011_211r_R5636_P4 C11 | etoe···iacere ·
+011_211r_R5636_P4 C12 | · ··di·la·elisinuato·prudente·eld pro
+011_211r_R5636_P4 C13 | ···iad·pilaser
+011_211r_R5636_P4 C14 | olpiede ·pi pareiao·e facii· capita
+011_211r_R5636_P4 C15 | le i·a·rico·ile·ee
+011_211r_R5636_P4 C16 | tale·potrebe·dlmrs·sciuto lsnil····
+011_211r_R5636_P4 C17 | elsara·tempe iluilersene i·buona··g
+011_211r_R5636_P4 C18 | ·lont·· ihaa
+011_211r_R5636_P4 C19 | s·ates·i l·medesimoanol elpiaciuta
+011_211r_R5636_P4 C20 | asai i·eilp·ocuri iantenersi ilefidenzal
+012_211v_R5636_P3 C01 | / iegan i·animarlo ue· ··o ald·eresi iieid··iius
+012_211v_R5636_P3 C02 | niltil· la ··ntore iliao mediante una·rocomp··ns
+012_211v_R5636_P3 C03 | a ipl uolnolimpadnonirsi ··l··unaluli dall re
+012_211v_R5636_P3 C04 | no·i tengono· li sueze·li a li·it e·li tedeso i
+012_211v_R5636_P3 C05 | sengono elet·iitata iep iipn eiluegono aber
+012_211v_R5636_P3 C06 | ito epopoli iptominoo ·emo e·le···i·lole
+012_211v_R5636_P3 C07 | n··e epdtrapazi·f·i popoli·doue i·trouan
+012_211v_R5636_P3 C08 | o· icz simano isara ··ocolprofiteuole ·ie
+012_211v_R5636_P3 C09 | ni·gni similacdisto·uengo ·iie ·eloibis· e
+012_211v_R5636_P3 C10 | tinente loa i·e lebellanon ·ei isinuo a
+012_211v_R5636_P3 C11 | orta ·e·i necesita delplenipoten·tiari iei
+012_211v_R5636_P3 C12 | basciata elii·solecitudine ilai replica il
+012_211v_R5636_P3 C13 | feceaoliei poteua·zi menoi isciare ··sa
+012_211v_R5636_P3 C14 | presentecn lefu iiiorenai·i sogiu···c··c·
+012_211v_R5636_P3 C15 | ili·a·sarebe un··ac··moe·elur a·fauore ii
+012_211v_R5636_P3 C16 | ·n eii·imili agiustaheigrorela er e·tolere
+012_211v_R5636_P3 C17 | e ternooportuna·ela·zisanza de umimm
+012_211v_R5636_P3 C18 | otenniari irisposta i·o·a·a·punto·e i
+012_211v_R5636_P3 C19 | medesimali ·mprees parezl··il·cune uolte u
+012_211v_R5636_P3 C20 | l·· isciato itender i·e uolerel rispeto i
+### R5637
+014_213r_R5637_P3 C01 | geloiie deca i i·arati· ns ii·esonal· ad ou
+014_213r_R5637_P3 C02 | ee cia·e l ambasciaria ·eb·fa le··lanol tengo
+014_213r_R5637_P3 C03 | ····································· acena·bi·im·lic·luii
+014_213r_R5637_P3 C04 | i euold tntra·g· au··aliitreto ica i·ullli i
+014_213r_R5637_P3 C05 | ilec· meso aogeti aortati elc eng·ali ier
+014_213r_R5637_P3 C06 | ialf ·i·corte i·i sogeti i·traualano e i·s
+014_213r_R5637_P3 C07 | antaoesa·ei·il·i amdunza ·esleo ·ilco
+014_213r_R5637_P3 C08 | rte i e ·mpre riputa·a elauanti utieluled
+014_213r_R5637_P3 C09 | ·eresi icr·i·a·aniera potra·eparlar··lun ·
+014_213r_R5637_P3 C10 | tra ····ltal sara etal· tenendosi su·r·t ·l
+014_213r_R5637_P3 C11 | ·re·iei prese····a iea potrebono iuitar ili
+014_213r_R5637_P3 C12 | a·gli desiderano e·i un·certo··odo·impegno
+014_213r_R5637_P3 C13 | ·i· priorato·ella·parlato·ie dib··era
+014_213r_R5637_P3 C14 | ··a·gli euien·zlcirca lloferte ilpensioni sop
+014_213r_R5637_P3 C15 | ra·i·e· ispiace il ··enauides ellabi·i·nela
+014_213r_R5637_P3 C16 | colta ihigufare oldubito iipo ilrafreegas
+014_213r_R5637_P3 C17 | · alforsi e· lle uoluto·ilarelnui elcoritr
+014_213r_R5637_P3 C18 | ·onder a·g ilibo feceroeln·lp·ie·aproc
+014_213r_R5637_P3 C19 | uri iellfacia aetura·t·poi ·llirocurarebe
+014_213r_R5637_P3 C20 | ········ai elfacolta circa ·i·ancanza iildil······
+015_213v_R5637_P1 C01 | / d·· ·······e·····le atoll ailadlhi giallo ·et··u· p
+015_213v_R5637_P1 C02 | iteualouar·l impegnoiz ail··rltemmo ···ham
+015_213v_R5637_P1 C03 | n·rtic·····re deuo ricerere aie ililto p····l·no
+015_213v_R5637_P1 C04 | e ·uomeseeo impegni·oi puri iscorg ··le
+015_213v_R5637_P1 C05 | i ··nelastepa·l·i oi·u·i puo piaceli····ill··bi
+015_213v_R5637_P1 C06 | easa··odicol·ndo ei·labi trouano buone
+015_213v_R5637_P1 C07 | g··s·····on··l·cusar ·andbei tarenza ii·r
+015_213v_R5637_P1 C08 | isposta
+### R5640
+017_237v_R5640_P2 C01 | ione iiei e·de suoi·sli ogni·comodo ig·
+017_237v_R5640_P2 C02 | plm·cu·aa·a ldm nel··tri pcntie·ili slitro
+017_237v_R5640_P2 C03 | ducami·dfml miister· ieee eilprocuaie
+017_237v_R5640_P2 C04 | lic ideef afine ie·i tronol· ·ellpricid·
+017_237v_R5640_P2 C05 | df·col pariae·e iscorere·i agic·stano sp
+017_237v_R5640_P2 C06 | e·lo li·co·ldoue ee·parare·f·iritano l·ani
+017_237v_R5640_P2 C07 | mile corono ·i rotuaa i·punto icn saral
+017_237v_R5640_P2 C08 | i·piu ificie·a·pl· dio ahe·uli·alpropoi
+017_237v_R5640_P2 C09 | to e·so ilagiungere imi uniuers·e·il ·e
+017_237v_R5640_P2 C10 | ifinite·ificolta e·lunglere ilpotrebono·
+017_237v_R5640_P2 C11 | ·teraa le·co··nu· i·agiusa·rolli·duelmr
+017_237v_R5640_P2 C12 | darebe·facie agiustar ll·tri···n i·cap
+017_237v_R5640_P2 C13 | i·· agiustahe faali duecr e·abracia·
+017_237v_R5640_P2 C14 | ro·il ·tri ildica puoler·neaun ricordo
+017_237v_R5640_P2 C15 | particoire·a·e·ipendendoia lhf ie piuliot
+017_237v_R5640_P2 C16 | o a·lei debr ·lne sono·etiiu ilbasano·flri
+017_237v_R5640_P2 C17 | mane i·· rimia·il·i·prudenza iee e·i·o··i
+017_237v_R5640_P2 C18 | ile aica·ne l·acortezalne relo·ome lldna·
+017_237v_R5640_P2 C19 | c de··ici·iianul uoleua uederli facolta·i ·
+017_237v_R5640_P2 C20 | enauides· ei·elnellaueuaaf·eai·ei me·ne·llbe
+017_237v_R5640_P2 C21 | eto partelae·pl· riceunf··ule lei·ii sudia ·ta
+017_237v_R5640_P2 C22 | e lolpotuoo saesmmnte iilrisposta·iai
+### R5643
+025_249v_R5643_P3 C01 | eo lel·faco··s ·
+025_249v_R5643_P3 C02 | mlcol·
+025_249v_R5643_P3 C03 | ··oi ·
+025_249v_R5643_P3 C04 | ·uer·
+025_249v_R5643_P3 C05 | ·ra·ri·
+025_249v_R5643_P3 C06 | rfe e·
+025_249v_R5643_P3 C07 | ·ae·
+025_249v_R5643_P3 C08 | u· ·
+025_249v_R5643_P3 C09 | ol·
+025_249v_R5643_P3 C10 | · |
+025_249v_R5643_P3 C11 | ·····
+025_249v_R5643_P3 C12 | abld·
+025_249v_R5643_P3 C13 | e ·
+025_249v_R5643_P3 C14 | ·so··
+### R5647
+038_272r_R5647_P2 C01 | | · iabre ili iltrece
+038_272r_R5647_P2 C02 | tralc·l·guore ·nzai·o·lrio·labi·i···n··· ·e
+038_272r_R5647_P2 C03 | f··n·e·i |
+038_272r_R5647_P2 C04 | i·glsle·ip s··ailp·or··
+038_272r_R5647_P2 C05 | ···· |
+### R5648
+042_279r_R5648_P3 C01 | entroie ebuon esorio··sag·na·eliilili un·
+042_279r_R5648_P3 C02 | ne colon i·fu opcrtuna llutesat·neli ··········· |
+042_279r_R5648_P3 C03 | ·n ricordo·ohc alpropoito·ile ilirit···ro lg·
+042_279r_R5648_P3 C04 | r·ell anih·de adle ·iaiuti ibmlnsnti ilp
+042_279r_R5648_P3 C05 | otrebono eri·· r··montl··tri·n· iee
+042_279r_R5648_P3 C06 | ilrisposalfu asa····b·g··s··ahu· po···ao·la a
+042_279r_R5648_P3 C07 | uis·ata lop ·oiaali ···lisi lalrag·natol
+042_279r_R5648_P3 C08 | ·tolaoprali· scritura etala ·be·g·des·ih·
+042_279r_R5648_P3 C09 | laueralpoi s··to ··le· ···eratoda antole ei
+042_279r_R5648_P3 C10 | calo ilrom ee r·fio·iilmlio ·lsimo
+042_279r_R5648_P3 C11 | i·ellauera·fa partelsualsi eha capolei
+042_279r_R5648_P3 C12 | rompa ilal hlisp·iace·i·cle lod i·iferis
+042_279r_R5648_P3 C13 | ca·uli erli rispose·lal scritura i·i··
+042_279r_R5648_P3 C14 | l·gua bilogna pre·ierlsbpra·ili·tlia s
+042_279r_R5648_P3 C15 | raua gante le ilrompa iif fece·ie·e·a
+042_279r_R5648_P3 C16 | ire ildoue iltrata depilile uilpuo mierla
+042_279r_R5648_P3 C17 | no ·i ·ie· |
+042_279r_R5648_P3 C18 | irome··leleli d
+042_279r_R5648_P3 C19 | pensarebe·climl ent·e ihl··o·····c·e·do
+043_279v_R5648_P6 C01 | / ueruno elentrarebe· ·ilpro·sosa ·ilscritura
+043_279v_R5648_P6 C02 | | ion aee risposa iia
+043_279v_R5648_P6 C03 | | ihi ·sl·
+043_279v_R5648_P6 C04 | i iliare |
+043_279v_R5648_P6 C05 | ·····tn·······lie adlerenze deol ispiace ila·e
+043_279v_R5648_P6 C06 | eliaaa·comunicata subito iceimituraddfi
+043_279v_R5648_P6 C07 | nbedsmuideslii elibmgml loi·esso iiihg
+043_279v_R5648_P6 C08 | i·o·negotia ea· iltrouari uiciol·i corte
+043_279v_R5648_P6 C09 | | lod ic···lonia |
+043_279v_R5648_P6 C10 | ····
+043_279v_R5648_P6 C11 | | ·n·ell cooei
+043_279v_R5648_P6 C12 | pie·ciuta llate··at·ne ih·· hlfa ia·fio ia·a ·
+043_279v_R5648_P6 C13 | · ileli lalrisposo·········a· adedata·e |
+043_279v_R5648_P6 C14 | ispiace i·l iferhta iigu ia ihg·i
+043_279v_R5648_P6 C15 | itale lano profesatolilemi··i llafari i b |
+043_279v_R5648_P6 C16 | lol·eduto·g illli h·scriuedeirca ildiianza i
+043_279v_R5648_P6 C17 | i dlideralldifi iun·emmento ilprezo ion |
+
+## Appendix: six more records, read with a second key from all 19 records. Less sure.
+
+### R5642
+021_246v_R5642_P3 C01 | cotesolciale olerillsrg·r lba·torit··· od
+021_246v_R5642_P3 C02 | epai esor··ii felzaiu ··f··a·ea··c·s
+021_246v_R5642_P3 C03 | lln·a·i ··la··lili ·ie iueil s lpldfis·aa
+021_246v_R5642_P3 C04 | elecludere |
+### R5645
+029_261r_R5645_P2 C01 | ··e ragini·lelama···lmos··le ale iteruenirels
+029_261r_R5645_P2 C02 | ilsolenit·····i·creatine ldeee |
+029_261r_R5645_P2 C03 | circa·ls anzze·llic·· |
+029_261r_R5645_P2 C04 | ·a eegna
+029_261r_R5645_P2 C05 | talilscrituralssdlbenauidesli······· |
+029_261r_R5645_P2 C06 | i·lo····aeelm··iopa elcos··ldo
+029_261r_R5645_P2 C07 | uemrisp··ndere | ilris
+029_261r_R5645_P2 C08 | posalinu | ·a eli t
+029_261r_R5645_P2 C09 | ronile ilrisprsal······· |
+029_261r_R5645_P2 C10 | elocorso daru·catal·i
+029_261r_R5645_P2 C11 | l elc··edili·elecisorolpubli···· |
+### R5646
+033_268r_R5646_P3 C01 | · loerpdlentore··sfl·d·le s·u···ds··toonoi
+033_268r_R5646_P3 C02 | ·eleficolta· ee·zfaceuanoli·acl·eu eo··cure
+033_268r_R5646_P3 C03 | zalse·sliptlfu dioaddelol eiz |
+033_268r_R5646_P3 C04 | ilente alpi··lnapsele·l
+033_268r_R5646_P3 C05 | ulenliapcle elssutelincz·ino· eleicolos
+033_268r_R5646_P3 C06 | ol ils··iolale e ieolla·a·e··aposo eliaa
+033_268r_R5646_P3 C07 | rilale sarele deiderabie eilriec·liael
+033_268r_R5646_P3 C08 | col·sl·uolo iltorrnaelelclse potra·sidpn
+033_268r_R5646_P3 C09 | spore sdli gentiluomo· anatolclrla ulita
+033_268r_R5646_P3 C10 | rilcoge·eep·onelgroso·eno·c alpro·ia·t
+033_268r_R5646_P3 C11 | olllml·ii·oaa cli modo eell la·a·to
+033_268r_R5646_P3 C12 | lod u·roe···a elamolire ···lanimi loiisali
+033_268r_R5646_P3 C13 | lscri·turalatal··lbe·nauidesl·· lo liole n
+033_268r_R5646_P3 C14 | aue·r ellian ileia··s·o ·ilesa· a·ld s··lpote
+033_268r_R5646_P3 C15 | ndololliuare elnom··a rciu··nala···ilenz·······
+033_268r_R5646_P3 C16 | ra s···pre ione ilas··u··go ··era··alee·ilfa ··a
+033_268r_R5646_P3 C17 | nie··t······ |
+033_268r_R5646_P3 C18 | ei·litereeldeidlcauar·fuori·eil ieoli·u
+033_268r_R5646_P3 C19 | i iipntondmesae ········ |
+034_268v_R5646_P4 C01 | | ilano·belici
+034_268v_R5646_P4 C02 | medeialulilsato ·ii· potrebono iid ren
+034_268v_R5646_P4 C03 | dereietiela·ole surnilcolcl·· efarme alri
+034_268v_R5646_P4 C04 | core elcarle·lito | auona oportunit
+034_268v_R5646_P4 C05 | apctrele segeriria ecii·el· elsse·tna
+034_268v_R5646_P4 C06 | lsraa··············r zararelognicosa ele buona i
+034_268v_R5646_P4 C07 | e etraria selbuonelaimeldeed elrareluo
+034_268v_R5646_P4 C08 | lteldono riuscite ale |
+034_268v_R5646_P4 C09 | iig eli pen·ca elpr·egiueciseafoii sici ui
+034_268v_R5646_P4 C10 | ennli aicura ee ilfara niente enalilegusra
+034_268v_R5646_P4 C11 | e ucdeii lauerelono ancatoialeseiei·olal·
+034_268v_R5646_P4 C12 | esegere inaepfc· eadl |
+034_268v_R5646_P4 C13 | elillab·i pari·ro son
+034_268v_R5646_P4 C14 | i ellmbiliioltro·a tolagir·ssolutale pria
+### R5649
+046_281r_R5649_P1 C01 | | ife eleli lebelcoli··ie e solecola lali
+046_281r_R5649_P1 C02 | uolute· atenderli·elerelelallli alsuo·l
+046_281r_R5649_P1 C03 | slapartera elpr·ia·rareli rtsitutine
+046_281r_R5649_P1 C04 | eln supra· ile ·eloemute |
+046_281r_R5649_P1 C05 | fildoaeledilialarieeasdm |
+046_281r_R5649_P1 C06 | propere opurelui lalislnrop
+046_281r_R5649_P1 C07 | oso pacadonilerlest genereoe eli |
+046_281r_R5649_P1 C08 | lilcl |
+046_281r_R5649_P1 C09 | e unrsldnol·i sua patienzal·· entire |
+046_281r_R5649_P1 C10 | roli
+046_281r_R5649_P1 C11 | dele ifeuanes comprendenolle emutelilp
+046_281r_R5649_P1 C12 | rloibisce sottolcen·aurenoli esce·ri lnl
+046_281r_R5649_P1 C13 | tm faralec acledere ildia loliitnel
+046_281r_R5649_P1 C14 | laues·elmlicrupo·o posalfarilucoluere
+046_281r_R5649_P1 C15 | and·esene pienalfacoltali piace ele iln
+046_281r_R5649_P1 C16 | uando·nellal·l·i··ato ilpuntol·i preced
+046_281r_R5649_P1 C17 | enza
+### R5650
+054_288r_R5650_P2 C01 | | ilraginanaltra lon ilbenauidesleial
+054_288r_R5650_P2 C02 | utielepreparar· llanimoleiola elril
+054_288r_R5650_P2 C03 | utarlsulito ilrisposale ell aral
+054_288r_R5650_P2 C04 | si scritura ii·ltpmoli cennol· med
+054_288r_R5650_P2 C05 | eimood doueraid ···tai eialelbe
+054_288r_R5650_P2 C06 | uclricorare aee elelilfacili poil
+054_288r_R5650_P2 C07 | iele ell steza ·ilrisposa·eli uenglilt
+054_288r_R5650_P2 C08 | ainoeiifoo imiano alescut·redlane
+054_288r_R5650_P2 C09 | giar lelcoeet iluano elano ilan·dlagiu
+054_288r_R5650_P2 C10 | sando celmezani ilpre·ego ··c··l······a
+054_288r_R5650_P2 C11 | i agirlscolo ait sopranaosarticoirel
+054_288r_R5650_P2 C12 | lo di···laneli eat ··ldop··n··le lolsaputo
+054_288r_R5650_P2 C13 | la··gl··rimio dubitonil·e li·o uolnolf
+054_288r_R5650_P2 C14 | iir ognilcosa·iui·r··e ecoice coele·lio
+054_288r_R5650_P2 C15 | lea· lanol·if···itils· pile eficolta e·d
+054_288r_R5650_P2 C16 | uieu it··resati ildl ilpenso eita··ue
+054_288r_R5650_P2 C17 | dendoia ilbenaui··ar· ecal···oc·pao··o·d
+054_288r_R5650_P2 C18 | ·a irlntle uolci lnnele tratare eloel
+054_288r_R5650_P2 C19 | mosrilenlun aedpitodle sllentrerala
+054_288r_R5650_P2 C20 | ere elbisogna fiirelogni cosa·linapcfimf·
+055_288v_R5650_P6 C01 | | ilpotr···le rispondere· e·usc·r··cfu·smem··
+055_288v_R5650_P6 C02 | enilco·nciarelan·nole eruira··ole ··trod
+055_288v_R5650_P6 C03 | utine elililuniuersce ale···negi ·r· el
+055_288v_R5650_P6 C04 | puredipo uorano entraruidm·r·pio·ia·dmm·uie
+055_288v_R5650_P6 C05 | ·a ·srale ellls·····elare al·d ilscuopr····
+055_288v_R5650_P6 C06 | ··lfaciia llit··ntollor·· ileli lau···ral
+055_288v_R5650_P6 C07 | ele entraruin
+055_288v_R5650_P6 C08 | | esp·ace eli ef
+055_288v_R5650_P6 C09 | erisca euli risposad··lbenau··desi
+### R5651
+062_297r_R5651_P3 C01 | · ele elatalp·o··eci··re ···gle·nel··e ··ren·tunoll
+062_297r_R5651_P3 C02 | ro· i·lo cideibi··le· lidlic···ei·d·r· laueu
+062_297r_R5651_P3 C03 | ··lgiad··tolunadia··uels··isp·l·ra ·elr·ispo··l·
+062_297r_R5651_P3 C04 | ·i······i elparele soesfa·····a··t·····ran··len
+062_297r_R5651_P3 C05 | meilaua·nzol··ildle· u··········ze·i·ataree
+062_297r_R5651_P3 C06 | to····nt·aniltro··a···l t·····fu··············anali el
+062_297r_R5651_P3 C07 | portarelianzi ilieiro lelpropos··l·i lel
+062_297r_R5651_P3 C08 | risp·ose ilagiusano ···lco··anelids·····eli
+062_297r_R5651_P3 C09 | fiol·il··le dene ··ar rispo·salogniuoltae ··e
+062_297r_R5651_P3 C10 | a·ii····li ripilazecla····c····iciarldcapo lf
+062_297r_R5651_P3 C11 | illauere·ieclcaro e··· eaonelstreuolte
+062_297r_R5651_P3 C12 | lolacen···to cercaero ilogni ·e·dole··zletiu
+062_297r_R5651_P3 C13 | arei·· ·fli ello isciar··· icalare·e ·smanal
+062_297r_R5651_P3 C14 | e risposentlposononacnirltsildeiunrure
+062_297r_R5651_P3 C15 | elci·lacioli·elsrolgiconsliifli troua i
+062_297r_R5651_P3 C16 | pieeli ele eguirebe elaucntura eli lauee
+062_297r_R5651_P3 C17 | a rimierlenuouu ei·· iraloa·s·u·as· i·ldole
+062_297r_R5651_P3 C18 | nz··l··sdll·mee··idesn·li·o·e ·sie·no·n····rt
+062_297r_R5651_P3 C19 | e ll·de·····a ·a··de loro·····a···i ·······················e
+062_297r_R5651_P3 C20 | uison·re de···ra·a els·r···o ··i·········l····i toc
+062_297r_R5651_P3 C21 | alaidlmuouerngle ap·ipmss·············r··ds· i

@@ -1,0 +1,86 @@
+# Biglia to Rome, December 1565 (letter 2): my decode, found from the ciphertext alone.
+# Source: Milan, Veneranda Biblioteca Ambrosiana, Trotti 22 (the register of Melchiorre Biglia's letters), letter 2: fol. 7r lines 33 to 45 and fol. 7v lines 1 to 23.
+# The digits come from Brice Dudout's transcription (Europe chiffrée). This file does not hold them. No DECODE record is known for this letter.
+# These lines are as the fit gave them, before the check. README.md and check.md give the check.
+# One line for each manuscript line. A code belongs to the line of its first digit, so words run on across lines.
+# '·' is a gap: a digit with no shown letter. A space is a word space of the cipher.
+
+## The shown read (this is the read that was graded)
+
+fol. 7r line 33    | le r····a·ione l· in mi a di ·e fato mal principio al ·e·ret
+fol. 7r line 34    | are e lo ·· sia ····ato adeso m· le riceua in loco de amore
+fol. 7r line 35    | uole ricordo e ne le rendo e ····· l· ma co·· magiore
+fol. 7r line 36    | na e in uolunta d· d·· tosto morire l· d· ··endere ··
+fol. 7r line 37    | · me e che l· ma piu da cas· l· di se··a mane pote
+fol. 7r line 38    | ·a·e auenire a me e per m· pace e trouenza lanima ne co
+fol. 7r line 39    | ·· ora fare l· ma l· il suplico in l· pr···a la ·· s
+fol. 7r line 40    | ui·e··a tanto ·e me uolta fare anco e che trouarmi con ch
+fol. 7r line 41    | e afermarli l· ma ueramente intratichia e ·e··er le ··
+fol. 7r line 42    | · ·osse ···e alli sono riposso di se transgre·· e ci
+fol. 7r line 43    | rca h· ma s· certo l· ·· questo ben modesfato di ·e
+fol. 7r line 44    | l· a l ··i·s· ·ostr· ben una po·a satisfactone ue
+fol. 7r line 45    | rso el re ·e··· sia ··a ··er·a deli altro milia fan
+fol. 7v line 1     | ti altro ·ue mila cauali m· certamente co·· el ····g···· o·
+fol. 7v line 2     | ·end· al ·· la ··atione deli altro ·iua fanti a me
+fol. 7v line 3     | mors· ·ia perocura liberta a ·· d· ·····re li capi di
+fol. 7v line 4     | ss· fanti et d· farli · li fanti altro li cauali e 
+fol. 7v line 5     | lo ·· cosa ·····re li cauali di e ···ti·ni lo ·e piacera c
+fol. 7v line 6     | he confirmatione de ·io ma dise al ·e l· ma credera l· ·e
+fol. 7v line 7     | ·o·ese mandare persona di su· sangue el ·ap· d· ··i ·e
+fol. 7v line 8     | ce···o dimostrar·i la uolta afezione l· ·e porto m· i· ·
+fol. 7v line 9     | u··o piu di ·e·· l· m· certifico in ·· ·· e fu··e da du
+fol. 7v line 10    | bitare d· fano piu di e ·aueria importato ······a l· ch
+fol. 7v line 11    | aueria uoluto et ques dato ieri furno a ·ransare
+fol. 7v line 12    | ···· ·l ·a··re ba·t· e il ···are questo del consilir
+fol. 7v line 13    | esposto alli r·ti···· ···o in camera m· certificano ····
+fol. 7v line 14    | ····a afezione e deuotione l· se por·a a ch e del ·o·er
+fol. 7v line 15    | obliga la li n e uenendo el particolare del ha dis···
+fol. 7v line 16    | lo et ·· ···eua con bon animo a domandarlo ma l· il po
+fol. 7v line 17    | tra ·· ·l contentarsi di e per a ·e piacera ex·endo ·er··
+fol. 7v line 18    | lo e ·· contenderli di tuto e ·er··· ·e ·e tante amo
+fol. 7v line 19    | reuoli nimostratione l· ·· sono ·i·tendeta re e in par
+fol. 7v line 20    | ticolare ·· distr· l· ·· mai sera el consentire a ca
+fol. 7v line 21    | sa la sia contra ·· alt····· d· ch e ··· et ······
+fol. 7v line 22    | ··no seruitore molti deuoti a ·· chas
+fol. 7v line 23    | s· ···n· ··· ···se di ·ecembre del seranza ···se ·u···
+
+## For reference only: the best start, with no gaps
+
+# This is not the shown read. On artificial test letters, about one letter in seven of such a start is wrong.
+
+fol. 7r line 33    | le ricomagione lo in mi a di ne fato mal principio al secret
+fol. 7r line 34    | are e lo de sia resiato adeso ma le riceua in loco de amore
+fol. 7r line 35    | uole ricordo e ne le rendo e antie la ma coso magiore
+fol. 7r line 36    | na e in uolunta di dil tosto morire lo de rhendere ch
+fol. 7r line 37    | e me e che lo ma piu da caso la di senza mane pote
+fol. 7r line 38    | uane auenire a me e per me pace e trouenza lanima ne co
+fol. 7r line 39    | so ora fare la ma lo il suplico in lo pracia la si s
+fol. 7r line 40    | uiceria tanto he me uolta fare anco e che trouarmi con ch
+fol. 7r line 41    | e afermarli lo ma ueramente intratichia e uesser le du
+fol. 7r line 42    | e posse dere alli sono riposso di se transgresa e ci
+fol. 7r line 43    | rca ha ma so certo lo et questo ben modesfato di ce
+fol. 7r line 44    | lo a l maiese uostro ben una poca satisfactone ue
+fol. 7r line 45    | rso el re senta sia sua aferta deli altro milia fan
+fol. 7v line 1     | ti altro due mila cauali ma certamente coso el trasgreto of
+fol. 7v line 2     | fendo al se la gratione deli altro uiua fanti a me
+fol. 7v line 3     | morsi mia perocura liberta a et de suegere li capi di
+fol. 7v line 4     | sse fanti et de farli o li fanti altro li cauali e 
+fol. 7v line 5     | lo de cosa suggere li cauali di e gratiani lo re piacera c
+fol. 7v line 6     | he confirmatione de cio ma dise al de la ma credera lo de
+fol. 7v line 7     | uolese mandare persona di suo sangue el capo di mei fe
+fol. 7v line 8     | ceglio dimostrarui la uolta afezione lo le porto ma in q
+fol. 7v line 9     | uemo piu di dero lo ma certifico in me di e fusse da du
+fol. 7v line 10    | bitare di fano piu di e haueria importato laseria la ch
+fol. 7v line 11    | aueria uoluto et ques dato ieri furno a transare
+fol. 7v line 12    | meco el fazare basto e il fazare questo del consilir
+fol. 7v line 13    | esposto alli retirati meco in camera me certificano usua
+fol. 7v line 14    | poria afezione e deuotione la se porta a ch e del gouer
+fol. 7v line 15    | obliga la li n e uenendo el particolare del ha disgra
+fol. 7v line 16    | lo et si houeua con bon animo a domandarlo ma la il po
+fol. 7v line 17    | tra se il contentarsi di e per a de piacera excendo certo
+fol. 7v line 18    | lo e el contenderli di tuto e cerirn de le tante amo
+fol. 7v line 19    | reuoli nimostratione la si sono uistendeta re e in par
+fol. 7v line 20    | ticolare lt distro lo ee mai sera el consentire a ca
+fol. 7v line 21    | sa la sia contra un altramon di ch e ast et etiams
+fol. 7v line 22    | tano seruitore molti deuoti a et chas
+fol. 7v line 23    | se uigna aat disse di fecembre del seranza pense pubhe
