@@ -4,6 +4,8 @@ Letters that the archives and the historical cipher ledger at https://github.com
 
 One letter is a special case. Jean Bazin's letter of 1573 has been in print in clear since 1867. I found that print after my read, and it now checks the read.
 
+Two more ciphers have a known key: the Francia 346 letters of 1632 to 1634 and a letter of Melchiorre Biglia of 1565. I read them without the key, as a check of my algorithm. They have their own section below.
+
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
 | [A letter to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/riproduzione/?id=79510) | Toledo, 1479; endorsed 31 August | An unnamed writer at the court of Castile reports on a league "for the defence of the states", an agreement with the queen, a marriage or betrothal, a papal legate and a tithe on the clergy. Read in part. | [Notes](medici-1479/README.md), [Italian](medici-1479/reading.md), [English](medici-1479/translation.md) |
@@ -126,6 +128,29 @@ Bespoke count matching based on Spanish next-letter counts opened the number tel
 
 The key family may already be in print. I have not reached Narváez's 2019 book or 2025 article. `carranza-1915/README.md` gives the checks and what stays open.
 
+## Two ciphers with a known key, read as a check of my algorithm
+
+I read these two from the ciphertext alone, without the key. Their keys are online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
+
+| Cipher | Date | What it says | Read it |
+| --- | --- | --- | --- |
+| Francia 346, DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in an appendix (Vatican) | 1632 to 1634 | My read shows Benavides, the Imperial court, Nuremberg and Regensburg, the Swedes, a universal peace, and pensions. Of the true letters that my read shows, 99.2% are right (6,953 of 7,012). But about a third of the graded shown tokens are not letter codes (3,579 of 10,591). | [Notes](francia-346-leaves/README.md), [Italian and English](francia-346-leaves/reading.md), [Check](francia-346-leaves/check.md) |
+| Melchiorre Biglia to Rome (Milan, Ambrosiana, Trotti 22) | Vienna, December 1565 | My read shows words of devotion, foot soldiers and horse, and the king. Within words, 82.2% of the aligned letter pairs agree with Brice Dudout's reading, with gaps left out (957 of 1,164). | [Notes](biglia-1565/README.md), [Italian and English](biglia-1565/reading.md), [Check](biglia-1565/check.md) |
+
+### Francia 346, 1632 to 1634
+
+A lone 6 is a word space, pairs 2x are nulls, and the other pairs stand for letters and syllables. Three-digit codes stand for words and names. George Lasry published the key on DECODE in 2020.
+
+My key reads 39 of the 40 letter codes right. But it also gives letters to codes that are syllables, nulls or no code at all. It does not read the three-digit codes. `francia-346-leaves/check.md` gives the details.
+
+### Biglia, 1565
+
+A single digit mostly stands for a letter, and some digits have both a vowel and a consonant value. Two digits together mostly make a syllable. `00` is a word space. Brice Dudout read the letter and rebuilt its key from the ciphertext (L'Europe chiffrée, 29 October 2026).
+
+My algorithm took each digit as a code by itself, so it misses the syllables. Even so, within words, 82.2% of the aligned letter pairs agree with Dudout's reading, with gaps left out (957 of 1,164). Words in a random order give 29.0% on average. `biglia-1565/check.md` gives the details.
+
+DECODE's images are for research only. Biglia's images carry no reuse licence. I copy no image and no transcription. Each decryption gives the place of each line: the DECODE record, page and row, or for Biglia the folio and line.
+
 ## Files
 
 **The Medici letter:** `medici-1479/` has the notes, the reading, the translation, the transcription, the line-by-line decryption, the key and the open code groups.
@@ -143,6 +168,10 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 **The 1911 telegram:** `mexico-1911/` has the notes, the reading, the translation, the transcription, the reading of each coded word and the key card's alphabet.
 
 **Carranza's telegrams:** `carranza-1915/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
+
+**Francia 346:** `francia-346-leaves/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
+
+**Biglia:** `biglia-1565/` has the notes, the check against Dudout's reading, the reading, the line-by-line decryption, the key and the key check.
 
 **The French letters:**
 
@@ -168,6 +197,8 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 - AGAD 131: read in part. Two transcription passes agree on 88%, and about 300 differences are not yet settled on the scan. About 25 of some 460 cipher words stay doubtful.
 - The 1911 telegram: read in full with the archive's key card. Three words keep a doubt.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
+- Francia 346: read with no key; 99.2% of the shown true letters right (6,953 of 7,012). 65.7% of the graded shown tokens show the true letter (6,953 of 10,591).
+- Biglia: read with no key; within words, 82.2% of the aligned letter pairs equal to Dudout's reading, with gaps left out (957 of 1,164). The cut misses the syllable codes.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.
 
