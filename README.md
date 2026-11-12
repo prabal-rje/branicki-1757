@@ -1,11 +1,14 @@
-# Cipher letters read: a letter to Lorenzo de' Medici, 1479, Charles V, 1542, the Duke of Guastalla, 1717, a Polish letter of 1736, five French letters, 1756-1757, and Mexican telegrams, 1911 and 1915
+# Cipher letters read: a letter to Lorenzo de' Medici, 1479, Charles V, 1542, Jean Bazin, 1573, the Duke of Guastalla, 1717, a Polish letter of 1736, five French letters, 1756-1757, and Mexican telegrams, 1911 and 1915
 
 Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed as unread when I read them. All but one were read from the ciphertext, with no key from outside. The 1911 telegram was read with the archive's own key card.
+
+One letter is a special case. Jean Bazin's letter of 1573 has been in print in clear since 1867. I found that print after my read, and it now checks the read.
 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
 | [A letter to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/riproduzione/?id=79510) | Toledo, 1479; endorsed 31 August | An unnamed writer at the court of Castile reports on a league "for the defence of the states", an agreement with the queen, a marriage or betrothal, a papal legate and a tithe on the clergy. Read in part. | [Notes](medici-1479/README.md), [Italian](medici-1479/reading.md), [English](medici-1479/translation.md) |
 | [Charles V to Ferrante Gonzaga](https://lodovico.medialibrary.it/media/schedadl.aspx?id=c710a32c-42a7-4159-8abc-472aed58f7c9) | Monzón, 11 August 1542 | The Emperor tells his viceroy of Sicily that no help can come for the infantry, the galleys and La Goleta. Spies report that the main French effort is heading for Perpignan. | [Notes](charles-v-1542/README.md), [Spanish](charles-v-1542/reading.md), [English](charles-v-1542/translation.md) |
+| [Jean Bazin to Henri de Valois](https://gallica.bnf.fr/ark:/12148/btv1b10033937d) | Cracow, September 1573 | A French envoy reports to the king elect of Poland: a diet, money and Danzig, a truce with Muscovy, the Tartars and letters of Mahomet Bascha. 84% of the aligned letters agree with a print of 1867. | [Notes](bazin-1573/README.md), [French](bazin-1573/reading.md), [English](bazin-1573/translation.md), [Check](bazin-1573/check.md) |
 | [Antonio Ferdinando Gonzaga, Duke of Guastalla](https://lodovico.medialibrary.it/media/schedadl.aspx?id=848189d6-1008-497b-bcde-0e3a3ad9757f) | Guastalla, 24 September 1717 | The duke will not sign a "lettera reversale" that gives up old claims in return for imperial land. | [Notes](guastalla-1717/README.md), [Italian](guastalla-1717/reading.md), [English](guastalla-1717/translation.md) |
 | [AGAD 1401](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28225114) | 4 February [?1736] | Polish exiles in Prussia learn that France will not keep Stanisław Leszczyński on the Polish throne. They set conditions for his abdication. | [Notes](agad-1401/README.md), [Polish](agad-1401/reading.md), [English](agad-1401/translation.md) |
 | [AGAD 446](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28224155) | Białystok, 22 March 1757 | Hetman Jan Klemens Branicki to Antoni Potocki, palatine of Bełz. Branicki plans a manifesto against an envoy's abuse of his mission. The envoy is probably Stanisław Poniatowski, later King of Poland. | [French](reading_446.md), [English](translation_446.md) |
@@ -20,6 +23,7 @@ The ledger's catalogue numbers:
 
 - The Medici letter: 2322
 - Charles V: 1560
+- Bazin: 1571
 - Guastalla: part of 1569
 - 446: 1578
 - 1398 to 1401: 1579
@@ -43,6 +47,8 @@ My bespoke count matching algorithm did the work on most of these. Each number i
 
 Charles V's letter and the Guastalla letter are the exceptions. Count matching does not read Charles V's sign-and-digit plan, so that letter needed a different bespoke fit. The Guastalla letter also came from a bespoke fit, on an Italian letter model. The 1911 telegram needed no fit, because the archive keeps its key card.
 
+Bazin's letter came from a bespoke fit on a French letter model, for a cipher with several signs for each frequent letter. It is the one text here with an outside check: 84.1% of its decoded letters that line up with the print of 1867 are equal.
+
 ## A letter to Lorenzo de' Medici, 1479
 
 One sign stands for each letter, and code numbers and symbols stand for persons. The key came from the cipher alone, with the clear words between the cipher runs as cribs.
@@ -56,6 +62,16 @@ Each base sign is a consonant, and a small digit above it adds the vowel. `charl
 A bespoke fit took the plan from the letter's own sign statistics, then solved it on a Spanish letter model.
 
 A 1906 history of Gonzaga's rule in Sicily supports the content. The letter repeats the order to pay the Count of Anguillara, and that same month the Count went over to the French with his galleys.
+
+## Jean Bazin, 1573
+
+The transcription has 53 sign labels, with several for each frequent letter. The key came from this letter alone, from a fit on a French letter model.
+
+A clear text of the letter was printed in 1867. I found it after the key was fixed. `bazin-1573/check.md` compares the two:
+
+- of my decoded letters that line up with a printed letter, 84.1% are equal, against 47% for a wrong passage;
+- my decode has three passages that the print leaves out;
+- the letter reads in the page order 191, 192, 195, 196, 193, 194, 197, 198.
 
 ## Guastalla, 1717
 
@@ -116,6 +132,8 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 **Charles V:** `charles-v-1542/` has the notes, the reading, the translation, the transcription and the line-by-line decryption.
 
+**Bazin:** `bazin-1573/` has the notes, the check against the print, the reading, the translation, the transcription, the line-by-line decryption, the key and the key check.
+
 **Guastalla:** `guastalla-1717/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
 
 **AGAD 1401:** `agad-1401/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
@@ -142,6 +160,7 @@ The key family may already be in print. I have not reached Narváez's 2019 book 
 
 - The Medici letter: read in part. 88 of 113 cipher words are read in full, 77.9%, and 663 of 730 letter positions, 90.8%. About 60 code groups and symbols stay unread.
 - Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
+- Bazin: 84.1% of the decoded letters that line up with the print of 1867 are equal (12,254 of 14,570). The reading gives the firm stretches only.
 - Guastalla: the cipher part reads as sense, apart from about ten code groups and a few doubtful passages.
 - 446, 1399 and 1400 come from reconciled transcriptions. Cipher words read: 446 376 of 389, 1399 744 of 750, 1400 490 of 493.
 - Pages 2 to 4 of 1398 come from a reread made with the key in view, checked against three blind passes and settled on the enlarged scan. Cipher words read: 590 of 613.

@@ -1,0 +1,357 @@
+# Jean Bazin to Henri de Valois, king elect of Poland, September 1573. BnF, Cinq cents de Colbert 338, pp. 191-198 (Gallica ark btv1b10033937d).
+# The working text: two independent label passes of the cipher signs, merged line by line.
+# A plain label: both passes read the same sign. 'a|b': the passes disagree (a = pass 1, b = pass 2); the fit picks one side.
+# [?]: one pass has a sign or signs that the other lacks; the fit leaves the place out. << >>: a word written in clear (pass 1).
+# Stroke signs (sl, dash) are left out. The labels are names for sign shapes, not letters.
+p191 L01: <<au>> <<gran?>> <<esclarcy?>> <<de>> <<tout>> <<lestat?>> <<de>> <<dona?>> <<Je?>> <<femme?>> <<Que?>> <<Cur?>> dag 9 m b r d|b k a pl q s [?] s [?]
+p191 L02: pi y inf sig at q del r t lam sss s k psi|phi b H 7 dag [?] lam pl g|eta m xi d s tri [?] sig dag t k 8|tri H 8 F q a b w d phi pi 9 h r H f 9 t [?] y r c eta [?]
+p191 L03: pl dag pi tri s ss phi <<para?>> F a m 8 eta f 9 k tri a z s phi eta|p t r pl h s lam phi pi s xi|psi w k bow 7 9 s pl|H pl eta m t m a h f F phi s 9 tri r H
+p191 L04: c eta s dag c t a k b d pl phi xi ss [?] eta [?] pi lam s phi bow F phi r the 8 2 s 9 ss a k pl dag r F q H s f|g ss phi del 8 t h e 9 bsl k pi xi z F r t lam q s h a H 7
+p191 L05: the|g eta m dag a r phi del pi t pl bow ss phi pl r 9 eta 7 s|9 a sig 8 d m H 8 H q|g 9 q pi b m|eta dag 7 F r m a 9 del s k r bsl h phi pl dag sig|inf a dag 9|g F k [?] eta c
+p191 L06: t pi dag bow m 8 b|6 dag a k q r ss f psi F o xi 8 9 ss r1 m s [?] t a dag pi F n|o w 4 b|6 phi q a 2 eta|p s k a 9|g a bow k xi phi r m lam|bsl k pi s z|8 9 r t d|psi k
+p191 L07: q lam c tri pi m [?] bsl xi dag pl a k b r d s a s m eta|p t a pl [?] m [?] eta s r phi w tri s eta dag a sig H q|g phi bow h c t r d m r <<dautres>> ss s c eta a
+p191 L08: t inf gam sig H s phi a sq phi pi q r bsl F f b|6 h s k eta|p eta s m t pl bow k 7 xi phi b m|eta a [?] s 9 dag 9|g H 6 xi s r r xi m y bow k phi bsl tri k c a s m
+p191 L09: eta|p t a bsl o 7 H ss pi k b pl d m s y m|eta the pi 9 del r k c t s the a bsl s m k pl at a H 9|g bsl phi q s m pl sig d eta at a [?] phi w pi 9 eta f the r
+p191 L10: B m t k s s e|t H bsl a phi del xi tri r d k pi bsl m s ss phi H a bsl sig1 m|eta a|c H s F 4|phi 4 r phi a 9|q xi H xi|8 k pl|F del pi a|c gam|7 phi bow f 9 ss r
+p191 L11: t m e c t f|s pl eta s bow a 9 phi t pl a 7 d xi k s [?] h s|6 q sig|r t pl F phi k m|eta 9 6 pl H phi i 6 d dag f d bsl del pi m r dag s ss phi xi s F q a m t 9
+p191 L12: s del r k c eta a the pi k dag s h phi d a bsl s xi|8 the s F t r H dag pi tri|inf 9 r ss 7 [?] m [?] bow s [?] s 9 ss a b pl h c t pi phi g ss s [?] eta a <<may>>
+p191 L13: <<Januier>> b t s at s t r m|eta xi d m s|f 9 phi s 9 phi bow f F del eta q s ss phi <<Cur?>> <<torum>> <<sit>> <<profectum>> s phi ss 7 [?] s dag phi f|F h 9
+p191 L14: s m a dag pi h phi r s 9 [?] xi ss phi a q r <<may>> <<Januier>> [?] del s F pl a f|s s b a k phi s m [?] H a sig1|r1 e|t k c t r the lam sig H xi|8 phi bow
+p191 L15: c eta a bsl w eta h tri F k bsl a xi z|8 9 pi eta H bsl del a [?] r d 7 [?] m dag r pl sig|t H m|eta s s 9 phi b d r k psi phi s m 7 H|hash a xi the pi sig1
+p191 L16: f eta d pl a s b|6 H r k phi a dag w m s F k phi d t s ss gam r phi bow dag o|sig eta bsl c|s tri r <<may>> <<Januier>> 9 lam a b 7 the 7 6 phi d pl 9 q H
+p191 L17: r ss gam|lam ss the pl a sig m t phi f phi m|p eta s tri pi 4|hash bsl m r dag m|eta s k q a gam|y H k sig d s h phi 9|g xi F q r phi w 9 phi c t s pi 9 eta|p eta r dag s|p 9|eta
+p191 L18: t a bsl w at pi y sig|inf m r k H a ss eta 9 bsl [?] t sig xi|8 d [?] phi gam del s <<cur?>> k a bsl s H s bow r 9 phi xi|8 q a 9|g F ss s [?] q a
+p191 L19: h|b d m|eta sig f k a H pi phi dag r h phi|psi H s a 9 q r m s 4 s d pl phi xi s F tri 9|q r F s [?] the pi the|psi a the pi ss phi 7 F r 9 h xi|8 k
+p191 L20: c t r <<may>> <<Januier>> F s t s 9 phi q r del xi|8 9 bsl m r xi m|eta eta d q r dag w k 8 bow F phi y s ss n|o r dag r phi s k phi 7 xi phi
+p191 L21: xi|8 ss H w bow 9 q d s k [?] t pi m a bsl h p [?] m k lam b 9|g at pl at r F|pl phi sig m tri bsl pl eta xi|8 F phi s k del s a 9 r bsl phi s 9 a pi
+p191 L22: bsl dag a sig d r y s a H q r ss pi y f xi k b pl d phi 7 a phi m r k b|6 8 dag pl phi s 9 w bsl [?] F s a bsl phi r k phi a [?] c t pi w eta
+p191 L23: a h m r k dag s ss phi d a k q r a 7 [?] sig <<Januier>> s s dag pi k t xi|eta bsl sig d a k s F phi pi r 9 ss s H 7 [?] t dag y a [?] w eta c eta
+p191 L24: a m pl the 8 F phi s psi phi r 4 s r 9 xi F o d dag pi sig w H dag a k r s r|2 F s t d f sig xi|8 m bow 9 c eta xi y w d lam h o z|8 m
+p191 L25: del a <<may>> ss 7 a d phi|psi r phi xi|8 the pl 9 phi sig w H eta|p t s dag c a pi h m|eta tri 8 F s [?] at xi|8 9 ss r1 c a s xi 9|g gam|s q r k
+p191 L26: 9|g dag|r pl bow d a bsl del s sig 7 m m|p F r 9|g at s k bow t [?] a dag r 9 phi k a H phi m|eta eta phi m a bsl phi 8 phi xi w gam b d o k d s k pl|e m t
+p191 L27: phi s 7 9 q r F eta 7 s a H 9|g tri pi h t F r pi sq phi d r y a del s dag bow 8 a 9 ss s sig pl [?] d phi 7 a phi r bsl m s k q s [?]
+p191 L28: s k psi|a dag w 2|r H pl 9 del pi r phi sig s phi xi phi s B m|eta m f 9 a dag s ss phi d pi bsl r phi b w H s h s the a k o pl xi d a r 9 phi
+p191 L29: r F q H s 4 bow pi 9 xi|8 dag sig m r y r 9 phi H|hash a bsl h [?] r F del s y pi 9 phi bsl c|s eta s s pl t s bow k H s ss a a pi k del r tri s sig
+p191 L30: <<Januier>> s phi m r a d q 7 t F a H pl eta dag phi xi|8 9 phi q r r 7 a bsl psi c t s m dag s k a d m|eta xi phi b|s f at bow inf dag a del a <<may>>
+p191 L31: w ss psi r dag 6 9 [?] 9 [?] phi [?] m s k q s ss phi a bsl dag pi h phi H r k lam ss H s b|6 phi lam 9|g the pi d phi H f the a d m pl H ss
+p191 L32: p s a|r a k c eta pi b 7 t d dag tri the sig d r k a 9 phi r H m lam dag pi ss phi d s k del r a s|d sig <<Januier>> xi|8 9|q H [?] at pl 9 phi s
+p191 L33: 9|g t e a k phi w phi gam ss 7 [?] pi r k phi pl F phi h s m t gam c eta s d r ss a 7 xi phi m pi k del r bsl sig|pi s k h p a k sig [?] H
+p191 L34: dag xi|8 del a bow bsl r phi q r m 6 4 a d 9|g phi xi 7 F q s k del bow ss phi gam r bsl phi pl phi sig [?] xi s F a t at pi b xi|8 k ss d t k bow H pi i
+p191 L35: c eta s h a bsl phi r q s k sig gam k h p r pl xi 9 k bow sig H eta [?] y 6 phi a dag s F phi t y|g s ss phi r pi eta k phi sig s a d a 9 h m|eta F phi H
+p191 L36: s H phi w 9 phi q r tri r h phi pi phi d pl sig m|eta H phi s d phi w 9 phi del a o H t s ss phi c a s the a 9|g i|o t 8 xi h phi ss|s pl d [?]
+p191 L37: r the a w pi 9 eta F 8 bow F k phi w 9 phi [?] lam phi xi|8 s y phi phi eta t k dag pi bsl h f 9 k a xi dag gam|lam eta|p tri sig|6 k a del s o|psi 4 c t [?]
+p191 L38: 7 [?] s F phi b d m|eta sig f k a H r 9 bsl pi k q xi a [?] s k r phi w pl m|y h|f 7 d phi pi a 9 s k 8 H 9|g F q a bow f gam s c t r sig 8 H
+p191 L39: phi s eta phi f 9|q pl ss p 9|g 9 phi pi sig 7 eta H 9|h s k phi a n|o r a H s eta k a F 7 the r the pi phi s del r a y m w t q xi|8 dag tri bsl
+p191 L40: r psi dag pl phi 9|g 9 phi xi|8 ss c eta xi k q psi|p 7 a r t d [?] eta eta|psi w m pl k s|h eta the pi f F k [?] del r H w phi xi s 9 q bow h s the eta xi dag|r
+p191 L41: s t pl s ss phi r k phi xi dag a H phi d f sig n|o s a H s eta sq h|q xi|8 tri 7 s d H s ss a phi|psi t m s h [?] pi F del a y r 9 phi q r
+p191 L42: a [?] <<Januier>> del s t a 9 s H bow ss gam r phi w gam s k phi a bsl s|p xi|8 b [?] 7 sig m|eta bsl 9|g xi 9|q s r phi k a h f a [?] H eta del t q s ss a
+p191 L43: k [?] r a H dag w d r k h p pl m q r dag w h f a H phi q n|o s [?] s k a phi q r h p pi eta xi|8 t sq sig|o 7 t H t pl s H s ss 7 a
+p191 L44: d xi H m r k q [?] h phi s k del s b a bsl ss p pi k s [?] t xi dag pl 4 bow s 9 t 9|g s ss phi b xi|8 H 7 s k phi H r [?] F 9 a k phi [?] a phi [?]
+p192 L01: <<Comme>> <<il>> <<a>> <<tousiours>> <<faict>> <<combien>> <<vre>> <<seruice>> <<luy>> <<est>> <<affectionne>> r phi b 7 a d t m|eta eta k H <<agab?>>
+p192 L02: [?] w d phi ss a m xi s H s dag pi F phi d 8 bow k 7 9 m s ss r c eta s 8 a k phi pi t w xi h phi a bsl del 6 r 2|d a bsl bow s <<Juno>> q s d 9|g gam c t s a xi|8
+p192 L03: q a ss s the pi k del s dag pl 8 d 8 9 del r b|6 7 m m|eta F a k psi|phi r 9 eta pi w h p s H s del 8 dag bow m F pl s k phi a phi H 8 s ss phi a c a
+p192 L04: phi H 7 s k pl del|d phi xi ss m s k dag a 9 h 7 F ss s H 9 a m r <<atque>> 9|g ss s c eta pi <<may>> <<Januier>> k [?] r F t a s the pi m a the h eta
+p192 L05: del pi ss p f bow k 6 H r phi s sig phi s d dag|hash eta 9 q|m a bsl del r t e s k phi xi|8 phi sig c|t a s|g m phi xi s F phi eta|p eta 6 bsl s 9 phi ss s m eta the
+p192 L06: r phi F|dag w tri phi H s dag w d s k h n|o pl dag del eta d f [?] m y pi [?] H ss r m|eta t a 7 9 phi bow s F phi m r k q s ss phi a bsl f|eta xi|r
+p192 L07: r bsl phi d s [?] 9 ss s|d y sig 8 phi xi sig m a k ss r c a xi eta bow r F phi [?] d phi 9|g sig H f b f k b 7 a d phi r 9 bow d m r
+p192 L08: <<atque>> r 9 del s 4 a 7 s d m r c a s dag pl a k phi r phi m|eta eta bsl m|bow f tri H k m r sig dag a k ss 7 9 phi H pl xi d s w <<may>> [?]
+p192 L09: m s k a h f 9 q pl d phi bow ss dag pi H s r 6 d q r a F s H s del|d xi phi bow 7 9 q r ss m|eta y sig phi pi c eta a dag pi k lam phi pl phi pi|w
+p192 L10: del pi F phi q s c eta a m eta|p t r k q r F s s H k dag xi|8 9 bow r k bsl 7 a 4 [?] m r t s t H s gam m s phi d m|eta s r k dag s r bsl phi
+p192 L11: m w ss 7 F t r q a d pl|f phi s 7 F phi 7 a [?] p 9|g 9 phi m pl dag xi sig r d phi s q r k H a m s|gam r bow f F bsl c t s r k phi s F k
+p192 L12: c eta 6 9|g a k phi pi t w xi h phi r F m pl q xi s [?] pi b|h eta sig pl m 9|g phi s F|H w phi del pi m pl 9 ss xi k h bow ss pl s k phi a h m|eta 9
+p192 L13: eta|p a s <<may>> <<Januier>> k s d 7 s phi bsl a b dag 6 2 s ss s the pi r k phi w F phi t r 9 eta a q pi h pl at a d s phi H 7 y phi d a [?]
+p192 L14: r k sig H m|eta dag s at a bsl s phi q 7 F k c a s the pi b 7 eta 6 m|eta s ss phi pl eta f xi H t 9|g bow h phi q r k r k phi xi|8 phi gam r phi 7 xi|hash
+p192 L15: q r h s d 7 H a m dag r w t [?] sig pl d w eta xi|8 F phi c t s the r [?] t k phi r F|dag xi ss r the a the s 9 dag w sig r phi s phi
+p192 L16: m|eta 9 r c a xi r k phi m s F q d 7 s ss phi c a xi s k phi m a sig 7 m t k pl h|9 d xi|8 s F del H s pi phi dag a bsl y s k dag|pl r [?]
+p192 L17: f|s F 9 phi q r ss d pl h 7 a gam r|r1 dag r k m r ss phi H s k eta s 9 del H xi F phi k [?] pl b H 7 b m|eta k c a r pl b d s k c a pl|phi i|r
+p192 L18: H r F phi m r a s k 7 9 dag s phi phi 7 a phi pi k q r m xi 4 r d w phi bow f 9 k r 9 [?] a t|a H ss r 9|g F h s s t k c eta
+p192 L19: pl a r F t r q s <<may>> <<Januier>> k 9|g a t c a s dag o eta phi w q tri xi [?] r c t pi b pl H m r bsl del a sig eta phi s k q [?]
+p192 L20: w m pl phi bow 9 8 phi <<may>> <<Januier>> k r d m|eta s ss phi k a [?] r bsl s k phi pl phi k eta|p a s k s d 7 9 phi phi r F t [?]
+p192 L21: bsl 7 c [?] q pl f 9 w sig H s k <<may>> ss 7 F H m|eta a pl phi 6 f F q s 9 phi d s phi a 9 xi H m 9|g dag xi 4 s d phi s q s m xi|8 4|d r|a
+p192 L22: 7 F q a k phi H|pl 4 dag xi H a F dag r s the s eta H 7 d del H s c a r ss pi m a gam sig t the pl r k phi r dag s k s tri bsl c t|a s xi
+p192 L23: m r t 9|g s ss phi q s m w s a k phi bow h r1 s phi q 9|g a s F phi w s 8|sig r c a r [?] w d m r k q s ss xi q r b|the t phi lam xi dag k|bsl
+p192 L24: phi w t|q f k a pl a pi h m s k r F w phi b 7 t H phi d m|eta the r H c a s m c t|a pi dag m|eta s a F sig 7 a d pl ss H [?] f
+p192 L25: <<may>> d s a [?] pi F t r phi del a pl a 8 dag s F [?] phi r H eta s bsl q H m|eta s ss phi k r phi s k phi h pi c tri 6 w a k phi r t 9|q
+p192 L26: a q s h phi sig pl m 9|g phi xi q w phi c a pl 9 phi pl m xi|8 H eta at bow s r phi sig m del 7 dag gam s dag f 9 k s a t d q pi a pl m r
+p192 L27: the w t f xi phi k [?] k w 8 s y r 9 phi b 7 a H a r eta 9|g t b pl d phi s H q|9 xi ss bow i B m|eta eta H xi|8 eta 7 o d s k h H s s|pi
+p192 L28: sq b|6 d xi F ss s b|6 pl eta e k r s 8 9 s eta H k r phi gam pl a 7 s H s F t f bow pi eta 9 o H pl pl|F ss 7 the k c eta s r k phi del q|s w|h
+p192 L29: m s c a r dag t 7 eta k w t 9|g s ss phi a phi r 9 h r tri 7 s pl r a pi phi r F m s dag a ss phi s m|eta 9 4 s w a ss f eta sig p|pl
+p192 L30: a xi h s c a r 9|g s 9 k xi eta|p t s H gam w m|y h|y d o|6 k i|psi q eta del s h phi o H w F ss 7 the k c a xi eta bow s F phi 9|q pl 6 [?]
+p192 L31: inf H r k pi F phi r y a F phi phi sig|7 eta phi a bsl h p m|eta k lam gam k f|pl F|dag phi r 9 phi r m r k phi w 4|phi c t|a r <<may>> <<Januier?>>
+p192 L32: b|B r eta m phi k 7 a p f [?] pi d r phi c eta s m r <<Coram>> bsl s H pi k f eta dag phi sig m t k eta|p a bow dag F r t phi [?]
+p192 L33: pl <<Juno>> H r F i|q d a s sig [?] s at pl 9 ss r s phi b|h w H ss r c a s h r k phi a 9 4|del r k k [?] F s eta H k|pl q r phi sig|pi
+p192 L34: ss r d m|eta gam pl a m dag r [?] r k phi m r b dag k pl r 9 phi H s phi r F [?] s H b 7 a d pl a m|eta s pl|H s k phi pi eta 9|o ss 9|p s 7|r
+p192 L35: sig xi|8 d phi r phi pl a 7 [?] H t F 9|g eta at xi sig s m pi 9 phi s F q r dag a 9 phi c a s m gam pl bow phi r 9 b 7 m m|eta F k|s
+p192 L36: [?] bow H pl gam phi H 7 the r d w a b m eta k phi 7 k phi r p|phi m eta the 9 m|eta n|a s H w gam phi 7 tri phi r k m s k dag pi b|6
+p192 L37: r k b pl d 7 6|i the s k c a s m y a k s H pl sig 7 at s 4 m r b m|eta eta H m|eta s d pi r pl H q del r ss pi tri sq q r del w F k|t
+p192 L38: pl bow dag k 7 9 phi s k phi r dag pl m w q r k k bow H s|psi del r y s lam dag r dag pl m w q [?] pi c a s m a k pl a m phi H r bsl [?]
+p192 L39: w del s H s dag pl m xi F k phi d a bow h phi k r phi b|B r d k a pl q s k c t a m pl q b|6 9|g ss eta dag phi r del s k b xi|8 at w [?]
+p192 L40: a 7 eta k k s H m|eta s phi d s F del a pi k xi 8 H w 9 q s eta t pi <<Juno>> F r b 7 eta 9|q xi s k bow w dag pl xi k sig 8 d t
+p192 L41: r F h r H 7 gam pl a m y r1 pi phi sig m|eta tri H ss s eta|p t s 9|q pl a m phi H [?] b pl d p|phi m s a H k a k b H 6 phi k
+p192 L42: dag 9|g m q xi k b 7 k r k 7 F phi s k phi pi b m a k xi|8 s k s y r F phi 8|g pl s r F r k sig w H m r k pl H phi
+p192 L43: s k q pi <<cur>> m r c a a m dag s eta d pl k s the|s pi 9 phi s k h d f sig phi xi m k k s k 7 F phi m|eta eta pl [?] bow
+p192 L44: r 9 psi|sig 9|g a ss sig|7 t sig q r F del H 7 s phi k h w d pl b H s k k r bsl phi H s o 7 b|d phi dag pl m b 7 H phi s s k pl m r [?]
+p192 L45: 7 xi ss phi q dag m|eta 9 k bow r [?] eta H del r m w F at pl ss xi dag k 7 9 phi m s eta r 8 r F k del r b [?] q a phi del pi k|h
+p192 L46: w m H r k c a r m k s m q k r F phi H r phi xi s at a 9 phi r F ss 7 H pi k pl a bow 7 eta H q o t gam r phi t|pi 7 [?]
+p192 L47: o f|s H phi xi t bow r H m s a d t s the s pl eta r ss tri F a 8 H pl 9 q s del xi m 6 r s F ss a r phi h 7 dag 4 xi pi F|8
+p192 L48: m s dag pl d r k ss p|psi w dag 7 sig w dag 6|o F bsl eta|psi c eta bow 6 s phi r k phi s t pi H bsl s a r1|e b 7 eta d m s a H d a y s k phi d s H
+p192 L49: 2|r H w F q r t 6 a dag phi r c a s m k o pl xi bsl f bow s 9 phi s phi sig m|eta a|t H m s t d b pi H k tri 9|g del a H c|s t
+p192 L50: s eta at r dag|F phi|p pl m [?] xi ss r F h bow pi H m s eta H k k s dag del pl phi bsl pi phi 8 r 9 bsl q a 2 eta s 6 s a phi m H|pl s|xi a
+p192 L51: dag s a H bsl m|eta a d pl f 9|g pi k 7 psi|dag H 6 F phi o pl s d s eta|p a w eta 9 y r bsl dag s eta|xi F k phi 9|g 9 phi dag r [?] ss w k phi|b
+p192 L52: the 6 F q s del pl F k 6 h pl|pi r d m|eta s phi m r k s y 4 m pl sig dag s B|6 pl H ss r c a s xi t k c eta bsl|lam pl m 7 H k
+p193 L02: ss pi g|y p del a m pl sig s phi s phi r b 7 m f|a dag s w m g a s|y bsl del r k sig|8 g|y m phi H r bsl b f a d a 9 r H w s k m dag c g|y r
+p193 L03: bow pl z|s c g|y s phi f a phi r bsl m r k g at r psi 4 m 2 bsl dag s k 7 dag phi xi pl psi w s k 4 s r dag ss s H phi pl s dag r bsl m w dag 7 the m
+p193 L04: r at s a dag sig f|r m f 9 8 dag r t g s ss phi a phi dag r 9 phi H pi sig H a dag q s pl psi w xi bsl d|b s r dag c g|y pl a p|sq 8|xi at r psi 4 m
+p193 L05: 2 f|h r phi del xi s 9 r bsl a phi m r psi 7 s 9 k c a r the lam b r1 the a dag phi s k phi H a phi pi dag a k r k phi m [?] B m g|y lam r
+p193 L06: g|y H a phi sig inf H phi 8 dag phi bow g|y bsl c a s k pl ss hash|psi eta g|y pi xi r bsl pl ss p s c a s <<may>> <<Januier>> [?] k 7 s phi 4 xi r dag 8 a w [?]
+p193 L07: dag phi s dag g the s psi w s sig dag r s phi c a a m pi b g s k s dag bsl 7 s phi phi s the the|a psi r dag phi ss r H phi w bow 9 c g|y xi m dag [?] H phi [?]
+p193 L08: c a r q 7 g|y the|inf phi r bow s tri eta [?] m del d f s k H|hash 7 psi d r phi s the pi bsl q xi a phi r k dag 7 9 k bow H r c a s s r dag s a 7 [?] s [?]
+p193 L09: phi f a phi r k ss p f k a bsl 4 xi pi dag del bow k b 7 k 2 bsl k xi dag 8 a m xi r H s psi pi dag phi del r sig a xi bsl m pl dag 7 g|y the r the a eta tri
+p193 L10: r xi pl z|s pl m f 7 H phi 2 psi pl s k the pl H ss r c g|y s bow s del pi bsl s d m s k ss p 7 k pi bsl s k phi H r phi f g|y k bow f tri H k psi pl
+p193 L11: b|B dag phi s dag g|y s k pi phi ss 7 dag k r H a 2 k r dag a 9 4 7 dag r phi pl at s a H s pi k phi pl phi f|s pl|the z|s phi xi H r pl ss s k phi w del g s k
+p193 L12: m r ss p w dag h s the xi a H q s ss r H 7 z|s pl g|y m psi pi r phi w the t 8 xi ss phi c a r m pl H ss p s g|y pi k eta a s a dag 8 s k
+p193 L13: 9 H xi b|6 phi pl m s a a k c a|t r q r ss H h f g|y bow s c tri xi r bsl phi w del eta a lam|bsl a m b s a r k q bow ss s s phi a r d k m s c g|y a
+p193 L14: m xi r psi a dag g|y pl z|s del r psi pl s dag bsl s bow s dag r b g|y s k H 7 psi sig H pi ss a q r at r f|g dag bow r k a the [?] f m xi s phi H a k p [?]
+p193 L15: dag 4 m s psi r dag phi <<may>> <<Januier>> bsl [?] xi H s c g|y r the s phi H 7 the pi the f dag c a s bow r psi a phi H pi the r xi ss s pl h s bow f g|y d [?]
+p193 L16: r phi c tri s xi r k a sig a H bsl pi q s del pl the s H r dag m xi phi p a pl 9 bow s psi pl xi k 4 s r dag c g|y s b [?] s dag a 7 the pi b f g|y H
+p193 L17: m r tri H t pl s d r pi dag phi s dag del H a m r psi s k y pi c a the xi pl z|s o pl s ss phi r dag sig 7 m f dag r s k sig r H pl dag phi
+p193 L18: c a r psi pl b H s k pi dag ss a xi ss bow o r H pl b|2 m|eta a k del r t H g|y xi ss phi c a s bow r dag a sig f g|y 6 7 xi k t pl xi|y H r s dag
+p193 L19: m xi phi p a w dag 9|g s s bow m psi r H a k phi r k xi H r pl <<Juno>> q s H r c a r m xi dag o pl dag phi r k s q s k b|6 7 bsl r
+p193 L20: 8 H pl dag q r psi s dag phi b eta [?] a H <<may>> [?] a s dag g|y r t pl s ss phi o w xi H a sig m k xi r a H|hash k d xi|2 ss p r k n|sig pl 4 xi the s psi pi 7
+p193 L21: dag phi k bsl a psi s k del the t m r g|y H bsl q s g|y m the bsl a phi dag f psi pi phi H xi r 9 sig f tri d phi r k y f bow 8 9 s d m r ss 7 dag r
+p193 L22: phi a dag phi s psi r 9 phi pi phi m r k sig s H pl dag ss r c a the pi pl dag r k bsl r xi r dag pi a H bsl del bow ss z|s sig r g|y s a|e ss pi b|6 phi <<uer?>> H
+p193 L23: the k dag s phi eta [?] r H 7 9 phi bow pl psi w s k del r ss s k phi pl q a s|y bsl c a s m eta g|y a h p 7 k r bsl pi b pl H t w ss r [?]
+p193 L24: 6 a r ss s the pi h f psi 4 s a dag c a s k bow H s k f dag 4 s r dag c a|t xi psi 7 dag phi r sig m g|y k [?] q r k r sig phi ss r 9 pl|t
+p193 L25: phi psi s m t m 7 H bow dag k g|y dag s pi f z|s bsl sig pl s r k dag f 9 ss eta psi sig H s bsl m r dag s r k w r the pi o pl s ss phi b|6 pl t
+p193 L26: H m s p del r o a dag ss phi d 7 z|s del r|y m w psi s xi the pi g|y H a b pl H phi q s k a bsl psi r a 4 m s k del 7 a dag r 4 at
+p193 L27: xi s dag 8 H pl dag del r f the pl k xi f dag q the sig r dag k pi H psi pl bow k 6 r ss H f z|s bsl xi H s c a s <<may>> <<Januier>> psi|t
+p193 L28: a r dag tri s pi the s phi H 7 the r H pl 4|psi r xi s dag sig w d m r k g del g|y xi bsl q r k a|the bsl phi pl phi k c a xi t r H 7 q s
+p193 L29: dag phi r dag ss the k phi r dag q H 7 xi phi r phi s dag phi f g|y bsl w tri m phi H r k h s c a r <<may>> <<Januier>> phi H 7 the r H pl a
+p193 L30: 4 f dag del r b H pl dag q d r tri dag r the|sig f a s h 7 dag ss m a k s f dag k g|y d phi f a phi ss r dag r 8 7 ss r 4 xi r dag <<Juno>> c
+p193 L31: b a xi k bow r pl at r a H a d c a s ss r k s H pl m w b H s psi xi r H s ss p 7 k pi q 7 dag phi xi m k r H w sig w H t|dag
+p193 L32: m s dag|psi a m r dag del s psi pl xi dag del a <<may>> ss 7 H f dag r psi a dag phi k bow H pi k xi del r phi a phi ss r c tri pi del r at a k
+p193 L33: xi r b a s k d r ss g|y r xi the s H c a r m eta g|y s h p f k s r phi k xi bow pl z|s c tri s m eta a r xi a 8 r psi r dag phi q r [?]
+p193 L34: k pl r|r1 pl s H r k del r q s ss pl r phi k xi bow pl a 7 bsl ss r k phi p 7 at|a r a H del s k phi H pi ss f 2|r 4 dag del r q r s H
+p193 L35: <<may>> <<Januier>> q r a 4|f g|y bsl q xi H s ss r c g|y s bow pi bsl r dag k xi a b r dag k s c tri s ss f tri r xi m pl del a s r [?]
+p193 L36: dag phi k 7 the r dag phi eta a dag r dag t w 9 phi psi r phi m r o s g|y s dag g|y 9 r H w dag del psi pl m g s bsl s phi 8 sig m f 7 H
+p193 L37: phi r the|sig s pl a ss f g|y 6|2 del r H tri xi dag r pl s 9 k s c a s m r a k phi b f|r g|y s k phi H r a a r m eta g|y s phi H 7 a the m [?]
+p193 L38: r s dag ss a d eta [?] pl g|y m psi r k xi <<may>> <<Januier>> dag s g|y k phi del r k sig a bsl ss p s q r del s ss pl psi 8 xi k m r ss 7 H [?]
+p193 L39: lam s phi ss a bsl phi pi 8 H 7 at s psi pl at r c tri xi g phi 7 a k z|xi 7 a H bsl s phi r del s q xi 2 pl <<may>> k r H a xi ss pi
+p193 L40: q r psi s a H r pi dag phi xi r H s a phi dag 7 9 bsl a a m r psi r dag phi ss r the r m pl psi pl xi k del r pl a ss 7 g|y b del pl a|t m phi F|dag phi
+p193 L41: H r bsl c g|y xi a|c 7 xi r dag phi s k phi r del pl q a xi k ss f dag phi H pl xi d|del s pi phi 9|h r eta g|y s H r k phi r pl t w xi H r s k phi c a a|c pl
+p193 L42: s k 7 the a 9 phi <<may>> <<Januier>> r dag the|a 7 [?] s s ss xi|y p 7 2|tri lam [?] c g|y xi sig 7 H phi a dag phi 9 7 the pi the lam del r <<may>> [?]
+p193 L43: pl ss p s psi xi dag psi a dag phi pi phi del g|y b g xi bsl c a r q s the the pi bsl k a xi g|y H r phi c a r sig pl d psi r k psi s psi 7 xi r dag m
+p193 L44: r k pl psi del pl at pl del r|the a H bsl 4 r b 7 m sig dag r lam ss H xi g|y r dag phi <<Juno>> phi H 7 the r H s k a dag a dag 7 del m pi at r
+p193 L45: b H f psi phi pi s phi del r q xi 2 a [?] <<pour>> <<seruir?>> <<et?>> <<obeir>> <<auetant?>> <<que>> <<nation>> <<e>> <<u>> <<monde>> <<Jalouse>> <<de>> 7
+p193 L46: <<ce>> <<que>> <<concerne>> <<vre>> <<maiesté>> <<de>> <<grandeur>> <<et>> <<qui>> <<Enuille?>> <<pour>> <<accroistre>> <<voz>> <<maiesté>>
+p193 L47: <<grandeur>> <<et>> <<puissance?>> r phi k xi del pl a w dag phi g|y H s <<Juno>> q|g tri pi [?] phi H 7 the s pl a m ss g|y dag k
+p194 L01: q r k pl H phi xi ss m lam c g|y xi f dag phi s k phi pi sig H 7 b f k lam a dag t H pl dag ss a phi H f b p|B H a q r bsl xi
+p194 L02: xi k bsl bow H s c g|y r pl a s ss <<may>> q 7 g|y m ss s tri H pl h f g|y k phi a psi 2 <<Juno>> H s psi xi at xi lam pl a m phi w
+p194 L03: <<Juno>> bsl r H 7 xi phi f 7 at xi 4 m s dag|psi a phi f g|y phi w dag g a xi bsl del r k s k phi pl phi bsl r phi m 7 H bsl c a s
+p194 L04: bow ss xi <<may>> b H s k a dag ss pi bsl pl dag k q xi t xi ss a m phi s m r bsl H s dag 8 pi H pl <<Juillet>> 4 <<Juno>> ss 7
+p194 L05: s r phi 7 4 r s H s phi k ss pl s sig 7 a H tri H pl z|s c a s dag lam pl psi the|sig w at g q r g|y H bsl f dag phi h p pl r|H
+p194 L06: pi b H s at r H b f xi dag phi <<may?>> <<Januier>> s dag ss pi c a xi m bsl ss 7 psi 8 dag|psi f xi bsl phi H f dag phi c a
+p194 L07: pl a H w sig the|g lam|bsl 8 b m pl xi k xi H k xi bow r dag s ss H pl s r dag 7 s k <<Juno>> r h a z|s r H phi H 7 b [?]
+p194 L08: del xi H f s k bsl bow H s c a s phi s m bsl pl H phi xi w|ss m lam f dag phi s k phi s b H 7 sig eta [?] k lam pi phi del H|pl
+p194 L09: b pl H w a g dag phi m s dag r ss phi s|f 7 dag b pl H ss r a|t p|sq m s k c a s m k 7 dag phi a eta [?] m [?] t pl xi d r
+p194 L10: phi 7 a phi s g|y 7 m 7 m phi s pl a p|sq b H s dag ss s k lam phi H w dag 8 s s H k q w k sig xi H r d pl ss s H eta [?]
+p194 L11: b 7 a d m s H a k a a H r phi b s a m phi s k phi H a m pi del r b pl H phi s H s dag phi H s r a sq bsl
+p194 L12: g m pl ss p pl H phi 7 g|y phi s dag|r1 7 s k q pl a 7 s d g|y dag ss p s t del r m s a H bsl ss f d sig bsl c [?] dag [?] ss
+p194 L13: pl k phi c a s ss xi g|y xi m r psi r dag phi pl b H s k c tri s b pl H m s k a tri|the pi bsl del a phi s psi m
+p194 L14: pl a H lam k bow H pi w g|y del 7 s 8 phi pi phi pl m 7 s s m ss f g|y r m a a|t phi r m bsl pl H phi xi t w|bow
+p194 L15: <<Juno>> k s H pl g|y dag psi f xi s dag m r bsl t w s k w dag phi tri f s H g a at xi pl m w dag 7 4 m s at
+p194 L16: psi b H s s phi ss pl at pi d phi s m bsl w H phi s ss m pi bsl r phi <<Juno>> d r F|dag del H s H 7 z|s ss
+p194 L17: w dag phi g|s g a m phi pl F|dag phi b m r xi dag s psi r dag phi r phi g 4 k 7 m psi r dag phi c a s H [?] s [?] del s ss c|8
+p194 L18: dag phi s k bow H r m s k bsl s xi 8 dag r a H bsl q xi ss s 7 dag phi phi H 7 the s psi r H a s xi m the a g|y k s psi pi
+p194 L19: the w s k c a s m pl k c g|y s w s phi del s g|y w dag ss r|m bsl|lam a k ss 7 dag b pl|H xi 8 dag|psi f 9 bsl psi pl s k f dag phi lam phi|a
+p194 L20: bsl pl phi s t w s phi bsl c g|y w dag del bow s m r g|y H g the q s ss phi c tri bow m F|dag pl a 7 xi phi r a pl a del s [?] dag ss r
+p194 L21: dag c a r c a r pl a s ss m r k pl a m phi H lam w psi the g at w q r a H bsl ss r c a f|g m s k w ss 7 [?]
+p194 L22: phi a m pi ss 8 H [?] s [?] dag pl m h eta [?] tri r dag q f dag s k phi H r a 7 h c g|y s b pl H m s b w sig pi
+p194 L23: a pl q|p s [?] dag k q s xi p|sq 7 a del f g|y t|gam s s f g|y H bsl bow s <<Juno>> k a m f s r phi H r bsl p g|y psi 4 m s psi pi dag
+p194 L24: a|t 7 g|y m f s H b pl H a dag s b H 7 psi phi s q r k sig r k ss p r psi s t pl s H r pi dag phi s dag del H s ss s c a
+p194 L25: xi H r k b 7 dag q H pi w ss s a p|sq c g|y s k r dag c a xi r H a dag phi q a b pl eta|at pl s z|8 r r phi del a|t ss p
+p194 L26: <<may>> <<Januier>> q 7 xi ss phi phi r dag s H ss pl H bow m k dag r k s b r the s dag phi a 9 ss 7 H lam pl at r g|y H
+p194 L27: s del a ss pl g|y r a bsl phi r pl xi phi w tri|the 7 H q s m r b pl at w [?] 8 s bow 7 4 psi r 9 f f|s k w <<Juno>> d s dag q H
+p194 L28: bsl bow H r del r ss s c g|y s psi pl s psi b r bsl h p a c g|y s b pl H m r s k dag pi h phi d r k m s k c g|y r the a bsl
+p194 L29: ss H s b phi pi bsl w c p|sq s k pl k xi s dag r m r a|t H pl the t w s ss phi pi dag phi s dag del H s eta [?] s a 7 pi
+p194 L30: phi r k q r 4 a 7 s pi dag phi t w xi H s phi r dag s H s ss z|s m pl k 7 tri r q s del r a [?] ss s dag [?]
+p194 L31: m s a H r k b 7 a H bsl a|c g|y r dag xi H pl a a a|c w dag|the g xi H s k q r m pl 8 a s 6 r ss w H [?] s pl
+p194 L32: f the r ss r H 7 the pl a m psi r s dag b pl s r|e b 7 a H m s H r 8 pl d q del r k sig H s dag ss r k lam phi H|pl
+p194 L33: H bsl xi r psi r k a s k phi r dag a ss 7 the s H phi h H pl s 8 dag pl 9 phi c a s k s xi r dag 7 the H f s k m pi
+p194 L34: p r s dag t s dag f dag psi r a 7 g|y m a|t k phi sig r H k a pl del pi s H c g|y s m z|s r a k phi 8 a r b|6 s|t
+p194 L35: s k c a r phi 7 a phi o a|t k phi r dag b pl s a|r pl o s dag 4|del r phi s H r H ss r bsl phi r k 7 tri s pi phi|a
+p194 L36: s c a pi xi r ss 7 a 8 dag f s k c g|y s m eta tri r b [?] m p a psi r g|y H del s k 8 pi dag bsl q a ss pl
+p194 L37: <<Januier>> psi s b H w H q 7 at s H pl bsl xi bow r m pl k a m f m s r phi H lam q g|y psi pl|4 m r psi pi
+p194 L38: s m r psi 7 s dag bsl c g|y 7 dag b f tri 6 pl m r t 7 dag del q a tri f lam|gam t s dag pl 9 ss s k bsl f xi phi q r ss 7|pl
+p194 L39: pl t s dag c a r dag s k 7 s r h|6 s dag b 7 H phi a dag r del s q r psi pl dag q pi k pi phi q r del 7 dag bsl del r bsl c
+p194 L40: <<Juno>> pl a H xi lam w at a k w t pl s H s g <<Juno>> r e ss a bsl r H k xi m bsl <<Juno>> k r dag phi
+p194 L41: c a s m eta g|y s w H [?] 8 s dag phi ss 7 tri s m r 4 H a xi phi r dag w xi pl ss 7 a H g|y del r q s ss pl eta H|pl
+p194 L42: <<Juno>> t pl s H s a dag phi s dag 4 r k bow H s m r k phi pl phi del r ss r H 7 z|s pl a m psi r pl m r dag del H
+p194 L43: del r k b H xi m ss r bsl r k phi H pl F|dag 8 xi r H bsl b H r psi s s H a psi r [?] dag phi b 7 a H m r H s 8 pl H
+p194 L44: f dag 9 r a s 7 [?] phi a dag k r g|y m pl m f H r k phi del r 8 a r 6 s dag the pl m f pl H r dag ss s [?]
+p194 L45: bow m xi phi r k r a m r psi s dag phi pl xi m t pl s phi H 7 psi H r m s k b 7 bsl phi a k q s ss s pl a [?]
+p194 L46: phi t pl s ss phi phi r dag s H m s k i 6|b pl at s 8 lam psi s H a pi s the a g|y k r psi s dag phi ss m 7 bsl c a g|r H
+p194 L47: m pl q s t s ss a m phi r 8 H pl dag del s b 7 a H m [?] s k q a k b r lam ss q r k s dag t H pl dag ss r s [?]
+p194 L48: m r ss p s psi xi dag phi H 7 b m 7 dag 8 b pl H m w the r psi pl xi 8 dag r del 7 H r k dag pl a pl dag phi k ss
+p194 L49: phi c g|y r <<may>> <<Januier>> k pl ss p r psi xi dag pl dag phi k pl m f H 7 ss b|the p r H w phi 7 a k xi
+p194 L50: r phi phi 7 a phi s tri|r1 pl eta [?] xi k bow pl z|s b H s k m r p pl [?] pl H del q a t w xi H r b pl at r H ss [?]
+p195 L02: g|9 F b|6 7 a H m s k H pl xi bsl 7 9 k c g|eta r <<may>> <<Janvier>> 8 y|eta d w k ss s tri pl q r dag|psi 7 F k o r t H del a eta w m r 9 ss pi
+p195 L03: k s F pl m r q xi h phi dag|psi pl H pi k ss p 8 dag H s s 9 k ss a eta 8|sig 8 xi 2 9 pi H bsl a d r t sq k|lam phi r F 7|t s 9 pl s phi r q s h
+p195 L04: 7 6|f s H phi c a r b|6 pl H ss s p eta s m k bsl 7 F phi H r q s a dag|F 4 m r k g <<may>> <<Janvier>> q r phi H 7 xi bsl eta a c y|eta pl
+p195 L05: phi d r ss s F phi dag|psi bow m t dag 7 H s 9 bsl q|psi r k g 6 s H pl s 8 a bsl q a b|6 pl at s del pi dag pl k eta dag|psi s q r ss s F c|t eta 8|6 9 phi s [?] dag [?]
+p195 L06: t m 7 d o F bsl c a s m k b pl xi r 9 phi [?] pl eta tri e q r b|6 7 m eta F pi sig w H h o pl ss a 9 g F r phi b g d ss at eta s m k 7 F phi i [?]
+p195 L07: lam phi r pl a h a r y a F phi pl q t s H bsl w s|y H pi k r 9 <<may>> <<Primua>> a phi c t r del r m 7 F 8 eta [?] pl s F m s [?]
+p195 L08: <<fortitudo>> q r H F xi a d del pi ss s q r pl s a bow F phi r 9 phi s 7 9 q [?] 4 pl k phi o H eta F r [?] phi pl del r b|f r1|r c a s m bsl 7 F phi
+p195 L09: [?] eta b|6 s [?] d c a a <<may>> <<Janvier>> s pl 6 s a pl 9 phi 7 t m s k m|eta eta w phi d a dag|psi bow xi m 8|sig pl k ss eta F bsl e|the b d r F 8|e 9 phi
+p195 L10: phi s 6 s f|psi F bsl r k pi H eta s bsl phi q r ss s k phi pi 7 [?] pl bsl s r|a 9 sig F a d m r bsl xi F t a k phi s H s phi [?] m g 6 at r H i
+p195 L11: a F r sig 7 a s 8|sig g d F s k eta g|q lam|s k phi ss r m s t 7 F del q a phi f a|t phi ss s dag|psi pl m s r k a xi bsl s F phi H pi q pl a r phi
+p195 L12: F phi w s 8|sig s 4|r F bsl 7 eta b|6 h eta o c eta s 9 phi d a pi eta sq m r <<Doctur>> a phi dag s <<stature>> sig|the r eta k phi c t s m
+p195 L13: [?] tri a bow F phi r f s 8|sig r F H s b [?] H h s c a r m a <<Doctur>> q pi F g 8|sig t xi a d r k pl|H t 8 s ss phi w 6 s k
+p195 L14: phi a H phi 7 a k m lam eta w s at r pl a e c|s t eta|s phi xi H eta s r 9 phi 8 q pl F k ss s h b 7 a H r eta sq phi d eta 6|f s H pl
+p195 L15: tri F r 8|sig H pl F q r o 7 s H s c a xi k s phi s 9 eta bow phi s phi 8 t pl s ss phi 7 4 m s 8|sig r d b pl d k r H dag|psi r F phi dag
+p195 L16: a k y w [?] bsl phi H lam q r k F w a s H r bsl del s 9 xi q a k h|y s 9 del d r|r1 b 7 s F ss phi y pl s k 4 r del s ss s F del H [?]
+p195 L17: a pl H r 8|sig s 7 dag|psi eta 9 phi c a s r k phi pl t <<stature>> 7 eta pl r m 4 xi F 8|sig eta t s r k phi a F s [?] f s q eta i
+p195 L18: <<nouua>> r phi c t s m a bsl del xi ss phi k q r del pl F k h xi h b|6 7 eta H g 2|lam f 4|pl xi k r H m s <<Doctur>>
+p195 L19: r phi H w ss p s sig phi r H m w dag s 4 r H phi r [?] q r m r t H k ss 7 2|tri r H ss pi k g a H eta s F phi ss 7 dag|psi sig
+p195 L20: f k s pl a s h m t a w q r eta sq ss r phi dag|psi xi m t dag 7 H bow F k q|4 r bsl c eta s m bsl s m k dag t s r F 8|xi a H
+p195 L21: 7 s r F phi pi|t eta eta H 9 s sig H eta dag|psi phi s y s 9 phi r1|ss r F phi dag|psi xi m 4|gam m 7 H bow F bsl r phi q 7 s 4 a s 9 phi o|i 7 t H F
+p195 L22: xi H m r k pl a m phi H r bsl ss r F phi dag|psi xi m [?] s a|del w 9 bsl t F ss a H phi 8 xi F phi r dag|psi 6 k dag|psi pl [?] h 7
+p195 L23: y sig b|6 a F c t r1|r m r k del|4 s ss phi bsl [?] q s del r q pl F bsl ss s h [?] 9 r k r b|6 a s at s F phi a a ss a k r H bsl bow H [?]
+p195 L24: q w t 7 s d h m y b f k r w t s h m s <<Doctur>> k 8 F bsl m r ss 7 z|tri s F q r dag|psi s 9 phi q r <<may>> <<Janvier>> H|pl
+p195 L25: pl m 8 c eta s f pi ss r m 8 phi 7 eta h p s o H 8 F q s dag|psi a 9 phi r phi k g F bsl s 9 pl q t [?] H phi s d m s k
+p195 L26: k r xi tri|sig F r eta H bsl s phi ss eta F k s xi f xi r H bsl q r ss s H 7 s pl t m dag|psi s pi phi c a xi m bsl 8 s [?] F phi t pl
+p195 L27: xi ss phi t F s t pl t m phi s phi H 7 b|6 m eta t H q r q r k lam phi H tri|a ss eta s k s 6 s phi pl t eta s H [?]
+p195 L28: m s a pi q a F xi r d k bsl eta H r a sq s phi s h s eta e t 7 a H F xi bsl w t <<Doctur>> k pl F bsl <<may>> b|6 r H dag|psi s at
+p195 L29: bow eta 9 bsl s r k phi ss s c a a h pi eta eta a bow s ss H pl s 8|sig F 7 s k m s 6 dag a bsl F s [?] r phi b|6 eta s 9 ss phi
+p195 L30: c a s r bsl phi t F r xi 9 phi s f s 8|sig r F ss r pi phi b H pl phi bow ss c a a bsl 7 t H q r s F phi d a eta e m r q s
+p195 L31: ss phi <<Doctur>> r phi m a <<stature>> q r dag w c a s f pi c w t|a t eta bsl phi h p a o k i s w sig|the k ss s eta g a
+p195 L32: t H pl [?] s c a r m s q xi r a H s F phi q r F phi H r F|dag <<Doctur>> s phi a eta sq F r bsl phi b 7 xi 9 ss phi a
+p195 L33: F r ss phi|p 7 k r t pl s 9 [?] phi s eta t q s at s dag|psi eta m r <<Juing>> a s H s phi pl 4 dag a r phi m c t s dag b|6 d r F
+p195 L34: q k w bsl 7 a H ss r q s 6 m eta k m 7 s F dag pi t s a <<fortitudo>> k bow H r F r a 7 t dag pl F phi
+p195 L35: sig w k r F phi d s phi f 9 s H a [?] F r 8 H dag|psi o|the k t H y pi d sig 7 t H r dag|psi b|6 s k ss p a H m r phi d pl
+p195 L36: t xi ss q s dag|psi 7 k h eta a b|f a o t bsl phi c t s m k s bsl r F phi s k phi s dag|psi sig a|t bow at F phi b|6 7 t H ss s t pl s H
+p195 L37: r 7 t c eta xi m F r a 7 eta m tri k phi b|6 8 bsl t w 6 H s m pi bsl o H 8 s k b|6 s H dag|psi xi phi 8 c a r m eta eta s k
+p195 L38: b|6 s H w phi r bsl q a phi s F xi H m pl dag|psi r d s phi 8|sig 8 H q r H m r k b|6 H at w 8|sig lam k 8 F bsl k pl t 7 eta [?] H
+p195 L39: q s m a the phi 7 a phi s dag eta [?] lam r phi del pl 6 r k phi s H phi 7 a k m [?] bsl eta pl xi at a w a e c a s phi xi d s H 7 [?] r F phi
+p195 L40: r F dag|psi eta bsl ss 7 t s s g m pl h p 8 H 8|sig s q r m a s t eta eta d F xi H dag pi eta eta pl H phi 7 a m r c a bow 9 phi q a b H
+p195 L41: o b|6 h phi r phi inf|sig a phi s F c t xi F|dag bsl t r H f xi r 9 phi ss lam sig s H pl phi r1 k g s F k xi m bow ss a 9 phi xi s tri|t k pi y s F phi
+p195 L42: bsl H|pl F k del s k h H s phi xi b|r 9 sig s f eta bow r F phi phi 7 a phi ss s c t xi b|6 H at f s phi a phi 7 F phi h|f eta d phi [?] 4 a pl
+p195 L43: eta ss 7 a sig q r del 7 z|tri pl 2|eta s k pl ss r a sq q pi del g at|q r dag|psi 8 H h bsl pl F bsl c a r m s <<fortitudo>> dag r eta t pi m 9 s
+p195 L44: m lam w q [?] tri f bow phi 6 f|s F phi r 9 eta 7 a|t m t k phi 7 F ss c a r k t w s H d pl xi k 7 F r phi sig pl H ss r
+p195 L45: eta [?] s m k bsl r d a phi xi H 7 s s 9 phi pl a b|6 7 H phi q pi del g F [?] h m r <<Doctur>> k r bsl phi k s H a s [?] lam ss
+p195 L46: r k phi s 7 [?] pl bsl s 7 F q r sig eta xi k m pl dag|psi 7 H phi del c t r eta <<fortitudo>> [?] q r dag|psi b|6 s k ss p pi H m r ss 7
+p195 L47: z|tri s H h a q r del pl F bsl ss xi h pl t s d q r k a t w F 2 s H q pi ss r a e q a dag 8 eta s f s m s k eta eta [?] m bsl
+p196 L01: bow m pl 7 b|6 F s eta 9 8 a f xi H t pl a 7 d s k r m bsl|lam q s ss phi k sig gam|y d w phi a k b|6 2|r eta H m a k g a 7 xi d H r|eta
+p196 L02: pi F m r eta H b|6 f d phi s phi ss s eta|at eta xi dag|psi r o pl s ss phi q w t phi H s b|6 8 H phi b m a k pl [?] r y a F phi h d H|pl
+p196 L03: c a s|f dag 9 xi pl 9 eta f r xi F phi s f s 8|sig a 9 ss r r bsl phi c eta s m pi q s ss phi <<Doctur>> g|9 pl sig 8 k g bsl phi H w s xi 9|xi phi
+p196 L04: ss [?] s y r F phi m r k t pl s at a 8 eta sq m a bsl c t r dag k xi m pl w 6 r k phi s k q s del pi k ss a F q H s 9
+p196 L05: r g|tri 7 y r F phi dag|psi pl s bsl m r a H g sig r H dag|psi s k q w f s H g s dag 4 s 9 8 eta eta xi r k phi [?] a F r eta s f s y H
+p196 L06: dag|psi lam 7 a 4 k <<may>> the g|s at w F ss r s phi 8 eta at xi c a r m pi <<stature>> pl s k ss H xi b|6 phi pl w sq 9
+p196 L07: k r ss 7 F 8|sig H pl phi a m pl 9 phi q r m s dag r ss phi s 7 F o pl xi ss phi r q pi <<may>> <<Janvier>> s phi m t s eta [?]
+p196 L08: phi f 4 eta at w F ss s h [?] pi bow m k a tri s 7 s phi b|6 w H m g [?] ss phi s dag r h phi H a q r m 8 [?] a [?] f
+p196 L09: r F o s H y pi a F s ss 7 4|lam f [?] r s F ss pi b|6 8 h c eta s phi eta H eta t 7 the p|eta r|eta s m s 7 xi phi s r F a t pl
+p196 L10: 9 ss phi q s del 7 eta 4 phi r c eta r k s phi f bsl phi c eta r h|9 s t sq q r sq|del 8 F bsl [?] h s 9 phi a F q H 7 F phi c eta [?]
+p196 L11: a k [?] phi r k pl h p pi y s F r s phi c eta s m a bsl 8|sig 8 k ss 7 F bsl F s tri xi r at pi phi sig pl k c a xi m k F r k a H [?]
+p196 L12: phi s 9 phi 2 d|b pl F q r dag|psi r 9 phi del 8 a s H t pl s ss phi h r c eta s m bsl 7 F phi o g xi ss phi r phi eta tri bow F bsl F s k a sig H
+p196 L13: phi r 9 phi pl <<may>> <<Janvier>> sig 7 eta H m a s d r F q H s f sig a xi at 8 9 ss r s phi c a s dag k g|9 r m xi ss r dag|F h [?] H
+p196 L14: m r eta bsl k 7 dag del pl bsl r phi g a m phi H r k 8|sig s F bsl q s 8|sig a pi 6 a k m s k eta eta r m bsl s m r bsl phi xi y b f at bow 4|del dag [?]
+p196 L15: dag bsl sig a g at r F phi s F phi H a phi pi F s H 8 b|6 d s k pl eta 7 xi H t 2|f tri H F s d eta F r bsl s 2|r H pl F p a k f [?] s del pi q w
+p196 L16: <<Doctur>> pl eta at xi c eta 4|r m s dag|psi r F a sig a eta b|6 m pi q s k phi b|6 4 bsl q a F y r k dag|psi r pl [?] 7 H del r phi pl q eta s k w a
+p196 L17: a bsl sig H xi F h s b|6 8|sig t m e del r m pl a s f s a phi k 7 9 phi del s eta xi bsl r k a F phi del|d pi a eta sq r phi F pl gam|s phi H 7 6 r|eta
+p196 L18: t dag del r phi f a bsl m r k bsl s xi 8|sig F a eta H bsl del r ss pi d 7 s pl eta m dag|psi a 8 a r ss m r k c eta s m bsl p|f pl del|the h
+p196 L19: 9 xi c a r d eta s w s phi pl a m ss eta F r h H 8|inf f|s F phi s c eta s c w r 8|sig pl xi 2 9|q s H bow a 9 k eta d s tri e sig pl H
+p196 L20: m pl 9 a h s at xi phi r q r m s a H phi d pl t s ss r phi b|6 7 a H m w q r 4 xi phi r [?] r phi b|6 7 eta H dag a ss 2|f 6|f H s dag|p a
+p196 L21: q r k dag|psi g H ss p pl F q s k r bsl m r k h f F phi H w xi F phi q r del s dag|psi 7 a H a d k 2|f eta 4 bsl <<may>> 7 sig eta xi at pl dag
+p196 L22: <<Juing>> 8 a ss 4|f phi H pl s d r s k phi s dag|psi a 9 phi c eta s m pi tri H bsl del r sig 7 H phi pi y r F phi k <<Juno>> k r
+p196 L23: 7 F phi 8|sig H pl F del r dag|psi s 9 phi w m lam d s F|dag 2 r H s F <<may>> 7 sig a xi at pl 9 ss a r phi 8 the|a f H 7 tri|sig H bsl phi
+p196 L24: s a 7 bow H h s c eta xi a 7 eta bsl s k phi sig 8 H a tri e q r tri w phi pl [?] H 7 xi k phi H s h r c eta xi m k b|6 pl
+p196 L25: phi sig pl H ss phi|p pl h a F pl 9 q xi F r dag|psi 7 s phi xi s b|6 7 eta H m s dag|psi 7 xi 9 bsl pl a sig w eta H g eta 8 F phi k bow H s c eta
+p196 L26: t pl ss r pi 9 phi s F q H r pl <<may>> <<Janvier>> w eta m [?] t F r h y|o 2|f k r1|r q s dag s k phi pl phi del r q s p H
+p196 L27: d eta gam|s w eta dag dag|psi s xi pl ss p pi eta r H pl the bsl xi m a 7 a k b|6 m pl bow k phi [?] ss s c a xi ss 2|f F h r H F s m a q pi
+p196 L28: h r q 7 F|dag phi f 9 del s m xi 4 a H pi w eta bow eta eta H q p a s [?] m r sig m eta bsl r k phi del a dag s F phi s 6 pi y r dag
+p196 L29: t s eta <<fortitudo>> sig 7 a H m r c t s m dag s k k r bow 8|sig F s eta H bsl del r ss s H 7 xi pl eta m dag|psi r1|r k [?]
+p196 L30: pl a m ss a r dag|psi s F phi pi F q xi z|tri r H s F phi <<Locasion>> <<en>> <<est>> <<quaux>> <<estatz>> <<tenuz>> <<a>> <<Varsovie>>
+p196 L31: <<Lors>> <<de>> <<lelection>> <<le>> <<Jour>> <<de>> <<vre>> <<coronnement>> <<fut>> <<prefixe>> <<au>> <<troisiesme>> <<de>> <<octobre>>
+p196 L32: <<et>> <<par>> <<mesme>> <<moyen>> <<advise>> <<que>> <<lenterrement>> <<dudict>> <<feu>> <<Roy>> <<seroit>> <<faict>> <<huict>>
+p196 L33: <<auparavant>> <<Ceulx>> <<de>> <<la>> <<petite>> <<polone>> <<ont>> <<adverty>> <<la>> <<noblesse>> <<auJour>> <<dela>> <<S>>
+p196 L34: <<michel>> <<pour>> <<se>> <<trouver>> <<audict>> <<enterrement>> <<et>> <<font>> <<apporter>> <<le>> <<corps>> <<a>> <<Varsovie>>
+p196 L35: <<ceste>> <<ville>> <<avec>> <<lequel>> <<seroit>> <<lInfante>> <<La>> <<Lithuane>> <<remonstrent>> <<que>> [?]
+p196 L36: <<que>> <<vre>> <<maiesté>> <<coronnement>> <<ne>> <<peult>> <<estre>> <<le>> <<troisiesme>> <<de>> <<Octobre>> <<Ilz>>
+p196 L37: <<Raisonable>> <<que>> <<lenterrement>> <<soit>> <<differe>> <<Jusqua>> <<ala>> <<sepmaine>> <<precedente>>
+p196 L38: <<vre>> <<coronnement>> <<et>> <<quautrement>> <<Il>> <<leur>> <<reviendroit>> <<a>> <<grande>> <<Incommodite>>
+p196 L39: <<a>> <<grande>> <<fraiz>> <<de>> <<faire>> <<deux>> <<voiaiges>> <<de>> <<Lithuanie>> <<Icy>> <<et>> <<que>> <<satisfaict>>
+p196 L40: <<a>> <<ce>> <<qui>> <<a>> <<este>> <<cydevant>> <<advise>> <<Ilz>> <<pourront>> <<estre>> <<soulagez>> <<en>> <<sorte>> <<que>>
+p196 L41: <<avoir>> <<assiste>> <<aux>> <<obseques>> <<dudict>> <<feu>> <<Roy>> <<Ilz>> <<pourront>> <<tout>> <<dun>> <<mesme>>
+p196 L42: <<par>> <<aller>> <<audevant>> <<de>> <<vre>> <<maieste>> <<Larchevesque>> <<et>> <<ceulx>> <<de>> <<la>> <<grande>>
+p196 L43: <<polone>> <<sont>> <<de>> <<ce>> <<mesme>> <<advis>> <<mais>> <<ceulx>> <<de>> <<la>> <<petite>> <<polone>> <<ne>> <<se>> <<peuvent>>
+p196 L44: <<Vaincre>> <<et>> <<sexcusent>> <<sur>> <<les>> <<frais>> <<que>> <<seront>> <<plus>> <<grands>> <<a>> <<lentretien>>
+p196 L45: <<de>> <<ceulx>> <<qui>> <<sont>> <<pour>> <<la>> <<garde>> <<du>> <<corps>> <<et>> <<sur>> <<ce>> <<quilz>> <<ont>> <<a>> <<ce>> <<Jour>>
+p196 L46: <<Les>> <<premiers>> <<voisins>> <<qui>> <<y>> <<feront>> <<trouver>> <<leurs>> <<ambassadeurs>> k xi H r [?]
+p197 L02: dag 7 F q a k s r t eta H ss pl 4|H m pi bsl 7 a|d q H s F psi pl w q H s at a|r c a s k xi <<may?>> <<Januier?>> s F t w xi k s a F phi
+p197 L03: phi 7 a ss p s d c eta s m at a r psi 7 phi w c w r bow s ss H f s c t xi m F s k f|s H 7 s phi del s tri xi ss xi m r q s t H H r
+p197 L04: H s psi a ss bsl|2 d s m r k q s ss phi lam b 7 k phi a bsl m s k c a r inf r bsl bow psi f H phi s F phi z w F q r psi s F phi b|6 f eta H m pl
+p197 L05: F s z f phi xi phi w phi xi 7 F q xi phi pl m s r c a pl F phi w eta a bsl h w c xi w the h f tri tri F s ss c a s g t s ss h a m eta s m r
+p197 L06: c a s m pl a 7 s phi s k phi a pi F a f s r a s H m a the b g H m pi bsl 2 [?] w a b 7 a H m s phi H xi|8 s phi a q s m pl b
+p197 L07: w f sq m w z|8 H pl F del pi d a F tri 2 q s a 7 gam|bsl eta s H phi t k bsl bow H s r phi q a bsl a s|f ss phi f [?] H pi bsl m pi k c a s inf|d a k
+p197 L08: q xi sq a <<Juno?>> pl del f a 2 k m pl H s F q a s phi m r phi s r F phi r k phi 7 a s r phi w g 6 7 H del r m phi H s a r
+p197 L09: b 7 t H eta F w F m pl c eta s inf r f F m tri s q a psi pl F q f s phi k r t m r psi pi 9|g phi xi eta k c a bsl pl t <<may?>> h 7 H s|f at r [?]
+p197 L10: s F phi s phi psi pl q xi ss phi h s m a the m eta s pi 9|g d a phi at t H F 7 xi phi c a s ss r phi s|f H pl F m a s w t g s ss phi t F r
+p197 L11: pi inf r o H [?] s a H c a s m dag|F pl ss m|at 9|g phi H g s F phi q s m a s b s H y r bsl|2 H a c eta s k f|s <<may?>> <<Januier?>> r
+p197 L12: phi 7 s phi s ss xi pl m w bsl pl xi F phi psi pl H phi s 9|g m lam s k phi pl phi k m w k bsl a sig|7 f|eta s H 7 xi s F phi q r t|pl w s H r a F s 6
+p197 L13: pl xi sq sig m a k a bsl phi H 7 s 2 s pi phi w at s a H 2 pl a s ss m eta s c t pi inf s F pl r F ss 7 H a|f k lam phi r tri|8 a s h dag|F s
+p197 L14: sig H q r tri h r at s a H k d f the bsl s phi c eta r k s <<may?>> <<Januier?>> F r tri s 9 at s phi pl a psi ss phi xi sig t H del pi m tri|8 bsl pl xi F q
+p197 L15: psi g H phi xi F bow m k r H 7 s phi b f ss s q pi w a 9|g s F 7 d|f r inf r pi dag s ss phi s 7 F pl m w c a s inf pi xi m pl q r dag xi
+p197 L16: a|f H s del r F a 7 s r H sig 7 t H q s psi pl F del s H h a d at the tri|8 tri dag psi r r phi k lam phi pi a|r ss t bsl r del r ss s c a pi
+p197 L17: h xi pl|del s eta pl F phi s m pl eta 7 s phi f pl a r h bsl xi sig r a q pi H lam b r h phi a k H s b phi pl a r r k phi pl phi the|sig del r ss s d 7 s
+p197 L18: w a m psi r s phi q pi ss s c a f dag F the pl a 7 s phi eta|r F a 7 s a bsl r k pl psi sig w at w q r a H bsl r phi phi pl F phi sig 7 [?] a H
+p197 L19: ss f F t r H y r H m pl psi ss phi r phi H s a r w t pi h <<mau?>> <<Januier?>> c a s b 7 eta H k pl ss c tri r H xi H c t
+p197 L20: a dag at eta r b pl H phi r F ss r H f s pl a m psi pi r F ss pl s c a pi <<mau?>> <<Januier?>> F r t s F phi xi ss s q r del psi|phi pl F k|bow
+p197 L21: F w bsl pl|H s F phi psi g H phi s F xi m pl del r bsl b pi k h o r q r bsl s pl k r bsl w psi 4 tri|8 at H q r a H bsl m r k c a s dag k bsl 7 m|H
+p197 L22: phi bsl a H m pl t d f dag phi s r H s q r m xi phi a pl F s s r phi 7 F phi r 9|g a f s r del a q pi ss w b 7 t H del r psi pl F
+p197 L23: q s H dag r k pl a t ss at 9|g q eta xi ss phi c a pl F q w m g del r tri pl xi ss phi r c eta 7 F w t 7 xi phi o tri|8 s ss phi sig d a bow s
+p197 L24: c a s|f m pl a 7 xi phi H r ss s a q|psi del lam phi pl d phi w H s k xi m F s 9|g pi bsl phi H f|s r F w xi F k s c t r psi H q s ss phi dag r
+p197 L25: q s ss phi w psi 4 pl at g del r a H k|4 sig s f|r F del xi phi bow m c a s q pi pl|tri pl 4 w phi g xi inf r c eta s t t phi r F phi H s m s
+p197 L26: psi 7 k ss m|at a xi phi r s phi m pi k phi pl H phi w H s k s pl q s eta sq w F k bsl r k t 7 H h a bsl k f tri|psi 9|g phi s phi H
+p197 L27: F phi q xi psi a F a 2 k c a s|f m 9|g pl b w k psi 7 xi r F q r F phi H s b H s 9|g q H pi 4 s w a ss 7 a b sig [?] eta d m pi xi 7 [?] a H
+p197 L28: del p|psi eta the w xi F k xi r bsl phi m pl dag s phi inf|o a pl F s r|r1 b pl xi k s 4 m s s phi 9|g the pl H xi r F w tri H w s F q d r s F ss pi
+p197 L29: bsl phi r q s r bsl|2 r phi r F a s w ss H w h 7 a [?] s s|p at F phi pi bsl phi r m r a s k dag pi ss phi H s k q a psi r|f w a r phi
+p197 L30: q a psi pl p 7 y r phi 4 pl bsl ss o pl b pl H m s k c eta s inf pi k xi m k bsl r ss 7 F 8 H w phi tri m r F phi q r ss s c a
+p197 L31: s k t xi eta pl F phi m r a H psi g F q s psi pi F phi bow dag k <<Juno?>> 7 F phi r k m pi a k xi H r b a lam c tri pl xi F
+p197 L32: bsl s r k phi 7 s phi c a r bow m bsl 9|g 7 F phi phi H 7 d|f r|w s 9|g phi H s the|tri r a sq p at tri r H at r gam|bsl q xi 7|r F s b 7 a H
+p197 L33: phi r F s H m r H 7 s pl a m psi r gam|s phi r F f t m phi H s 4|pl q a r H phi s at s y phi dag r k b 7 m f F f xi k q s F phi
+p197 L34: H s phi s F s H m pi bsl pl inf xi pl F ss r k a phi pl psi s phi xi r k w F ss xi r a s k del s b pl xi r H w a xi phi pl H phi [?]
+p197 L35: w d r k m s a H b r F k bow 7 F ss r c a s o pl xi k w F phi m s psi f w a m r a H 7 tri H pi bsl a ss at a H k ss
+p197 L36: f F phi H s m pi a bsl h w c ss 7 tri s pl a at xi bow m bow|bsl m r k w q a r H phi xi k phi c a xi m H 7 psi H pl m w b g xi sq
+p197 L37: at t xi m bsl 7 F phi s F k r psi 4 m r bsl xi m k bsl|b r ss 7 psi b at H phi s F phi pl a m phi H s psi r F phi a|del r b a xi k ss w|a
+p197 L38: bsl m s ss phi H r bsl s k ss H s b phi r bsl b pl H m s psi f w a m r k bsl 7 m q w phi bsl c a r dag lam b 7 m at F f|s k phi xi r
+p197 L39: a r F phi k a H m pl t H 7 F phi xi s H a q r m pl b 7 the|bow del at m xi r s phi m s k c a r m bsl xi m k pl sig f r F phi ss
+p197 L40: 7 k pl c t r bsl k 7 F phi s 9|g phi H lam k a H m lam phi pl H phi w H r bsl r phi 7 F phi sig xi inf r a F 8 H w F q
+p197 L41: b pl xi bsl psi xi k r F H 7 a phi r c tri s m n|at a r bsl phi H 7 a sig f r k q a z|8 H pl F q k r xi r F s eta H r phi b H xi k p [?]
+p197 L42: eta xi ss phi b xi r ss lam q pl H phi xi inf r H bow r h pi c a xi pl psi r H a s b inf r a k a psi pi F phi bow H xi phi r m s q [?] ss phi
+p197 L43: 8 H pl F del k r xi r F s a H m s c a s m b pl H dag pi psi pl p 7 psi r phi 4 pl k c a w g t w s ss phi r bsl ss H xi b H r c a r
+p197 L44: bsl xi ss s phi 7 H phi F s m a s s k phi [?] xi phi d pi b pl d bow m m r t r H 7 xi phi a xi eta r psi s 9|g phi H r k s F phi xi H pl|4 a sq
+p197 L45: b 7 dag at 9|g s|f xi bsl m r k c a s m k dag r q xi ss phi 4 pl k ss p pl del xi bsl 7 s phi k r m s ss r F phi xi s H b pl H ss r c a s
+p197 L46: w m pl t w a r eta H r phi H a ss 7 tri s F q r psi pi F phi q a psi f w a xi m k pl a H 7 xi s F phi r k m pi eta <<mau?>>
+p197 L47: <<Januier?>> psi pl xi k c a r ss r k phi r bow F xi a H r phi 7 a ss p 7 xi phi q r bsl s b H r k m s q [?] ss phi z|8 H w F del bsl r xi r
+p197 L48: F r a H c eta r at t pl F phi ss r k s H 7 xi phi bsl at F b H 7 sig d r t xi m k c tri xi bsl r H 7 xi phi [?]
+p197 L49: xi m F r dag a s b 7 a 6 g|s phi b pl H q 7 a r H s phi c a s dag r [?] r k phi xi psi 7 s phi b m a k eta 9|g del r k pi bsl k a
+p198 L01: bow r ss phi k c a r del xi sq h|b 7 m at dag f s k f F pl q s k b pi bsl ss o bow|a del xi ss s a s H bsl dag r q s h phi z|8 H pl F q k xi r a
+p198 L02: r phi a pi H k dag pi k phi pl H phi w H s k m s k c eta r bow|tri dag k pl a at xi r bsl phi 7 xi r F phi pi F pl H psi r k w o f|F m
+p198 L03: g del 7 a m ss s H r phi t pl xi H r bow a k phi xi ss r q r k del xi ss phi bsl k at m q pl phi bsl r phi H r b pl H s H m del 7 r
+p198 L04: c a xi dag k at F phi t pl xi ss phi r phi k s H r F q m s B|b pl xi k del pi ss r h 7 bsl phi r m pl b w xi k s 4 dag r phi 7 a phi
+p198 L05: k bsl bow H pi <<mau?>> <<Januier?>> pl q a xi k r H w bsl s m k r H w 4 at F del r F pi|t k ss H xi b H r pl a [?]
+p198 L06: psi 7 F k xi r t tri H del pl ss c k w t xi F c a r b r F q w F phi <<may?>> eta r F a s xi m F r k 7 xi phi H s [?] r
+p198 L07: r b H xi dag k bsl s H r xi r H s b sq|H pi F q H pl s m r del r q pl F k q r m pl b 7 dag at F 4 b 7 a H <<Juno?>> t w xi H s
+p198 L08: phi s F q H s c a s F ss pi k phi r a xi inf r del r h H w ss 7 a xi r del r b a xi k q r eta sq at t phi H 7 xi k phi 7 s [?]
+p198 L09: t F ss pl k phi r inf pl F bow r a F r z|8 r F phi xi dag p 7 tri r H xi ss o r m r c a s|f dag s F phi H s phi xi r F phi del r a sq
+p198 L10: h p s a pl eta sq r phi b m a k xi r a H k bsl 7 dag q pl phi bsl pl t xi F q xi ss phi xi dag del r phi s F xi H m r k ss p 7 k lam r F [?]
+p198 L11: H s phi pi ss 7 F phi H s o pl y w [?] tri s phi b pl H ss r c eta s xi r ss 7 t g|8 F at s c eta r xi dag k pl bsl|2 r F q del pi H s ss 7 a|o
+p198 L12: ss s phi r del r k b r F k F 7 F z|8 H w F q r psi s F phi F r ss s at H xi H s xi s k a sig f xi r <<mau?>> <<Januier?>> q r
+p198 L13: tri pl F q r H ss s c a xi dag m eta s b dag pl xi H w s F r k phi H pi t pl xi phi <<Et?>> <<voila?>> <<Sire>> <<tout>> <<lestat?>> <<de?>>
+p198 L14: <<Duquel>> <<je>> <<ne>> <<fauldray>> <<de>> <<donner>> <<encora?>> <<aduertissement?>> <<a>> <<vre>> <<maieste>> <<aussi>> <<tost>> <<que>> <<je?>>
+p198 L15: <<peu>> <<apprendre?>> <<quelque>> <<chose>> <<qui>> <<soit>> <<digne>> <<delle>> <<Laquelle>> <<je>> <<supplie>> <<tres>> <<humblement>>
+p198 L16: <<Vouloir>> <<pardonner>> <<si>> <<par>> <<ceste>> <<longue>> <<depesche>> <<et>> <<mal>> <<digeree>> <<je>> <<lay>> <<ennuyé?>> <<mais?>>
+p198 L17: <<desir>> <<de>> <<nobmettre?>> <<chose>> <<quelconque>> <<ma>> <<faict>> <<estendre>> <<plus>> <<longuement>> <<a>> <<ce>> <<que>> <<de?>> [?]
+p198 L18: <<disonna?>> <<vre>> <<maieste>> <<leconoillist?>> <<a>> <<qui>> <<feroit>> <<pour>> <<son>> <<seuice>>
+p198 L19: <<Atant?>> <<Sire>> <<je>> <<prie>> <<dieu>> <<quil>> <<tienne>> <<vre>> <<maieste>> <<en>> <<parfaicte>> <<sante>> <<tres>> <<heureuse>> <<et?>>
+p198 L20: <<Sre?>> <<De>> <<Cracouye>> <<a>> <<XXe?>> <<sepbre>> <<1573>>

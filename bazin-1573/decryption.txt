@@ -1,0 +1,356 @@
+# Jean Bazin to Henri de Valois, king elect of Poland, September 1573: decryption of transcription.txt with key.tsv, found from the ciphertext alone.
+# These lines are as the fit gave them, before the check against the print of 1867. README.md and check.md give the check.
+# One line per manuscript line. The cipher has no word breaks. '·' marks a place where the fits disagree or the passes leave a gap.
+# «word»: a word written in clear. No sign was read as 'g'.
+p191 L01: «au»  «gran?»  «esclarcy?»  «de»  «tout»  «lestat?»  «de»  «dona?»  «Je?»  «femme?»  «Que?»  «Cur?» nnlpersuade·e·
+p191 L02: eulpsddeuezestpron·eaulireu·pnusarandupartenceronu·uequ·
+p191 L03: aneuect «para?» nulauonsuu·ethueaceeteemasioneraululucontenuer
+p191 L04: quenquuspratic·u·eeetinteyaiencusanendreactdaucxnssei·neuedecuro
+p191 L05: aulnuetdeuaictaenuoeuparlrarandepunonelundesesctanpunans·uq
+p191 L06: uenilapnusdecomn·iancele·uunenhabptduihesuauisitelssee·neurs
+p191 L07: dequel·sinauspereuelhuua·l·ueetaueunupraticquerle «dautres» cequu
+p191 L08: ulypretuxtedesnopceshueluaisoitpuu·ennariieeeiluistsusquel
+p191 L09: huus·orcesparleuuyendesqueyuselsasurastdelaprusu·taenuoye
+p191 L10: ·luseeursutdiuerseslectrus·uurentbetudiras·deuotionce
+p191 L11: ulxqueaueiuntuauorise·cedeuantsuniarttirnorsdelenectiendulun
+p191 L12: edesquuyesnectruseayenuerneuneco·l·ie·encupacquetace·uu «may»
+p191 L13: «Januier» pueseueuirlententiondudect «Cur?»  «torum»  «sit»  «profectum» etco·entocn
+p191 L14: elunecteen·ictude «may»  «Januier» ·denaueepustel·ru·usqueyeprati
+p191 L15: quusaucunssui·neursdu·ero·lneaurueentpresmteloruiye·
+p191 L16: ouraueprestunalenstruecyetin·usque «may»  «Januier» neupoyoitrandr
+p191 L17: ececyauplutothueue·slenuesduursprectaindetantqueenhuenen
+p191 L18: uusaseuplesrucuns·upar·tyde «cur?» susereientaduance·du
+p191 L19: cruposuretnectreundeleberatienudene·yeyuyectonencas
+p191 L20: que «may»  «Januier» neuentdedansleiuurdenasaintuechenetestoit
+p191 L21: acraindres·uelusch·lsepasasentplusauantesdeunestenue
+p191 L22: snupreueurdeceuoispartoutlespanatenas·neustestu·queau
+p191 L23: uclesnectrusdeuo·p «Januier» eenesuisprusenteencero·unuu·auqu
+p191 L24: ulayantemtebeenin·rneparnuseeeneuropalinquiuarec··l
+p191 L25: du «may» courtetayantparhuenquecuuane·sancequeiaydes
+p191 L26: anairusdepolhneasesiu·unentsurtuutlustatiaypr·sresalu
+p191 L27: teondenuoeurauecuneextreuudeniauncepa·rtouteslesde·
+p191 L28: esunaerandeetpetite·ulonunectresetpareceyus·airuent
+p191 L29: endrebienanpleuentrusc·endeuentsqueeaueisrecuuesdeuep
+p191 L30: «Januier» etleurdounurauntantdeeousmquelnesuruitposilnudu «may»
+p191 L31: acmenin·n·t·lesdectusnectresecrepteayertroyurlarc
+p191 L32: heuusquepournuypresunterlenectresdeuep «Januier» adr·sante
+p191 L33: auxustatyco·eestantceluyquerecuoitlesdeseeschusp·r
+p191 L34: naduisetdeliburationdesdictyestatp·ienuusepascrusiret
+p191 L35: quecustedespyscheainsipru·uitunentuuecteeustpeuruncuntr
+p191 L36: ertantdeuectetrapurtertantdu·ruectqueyua·uaictcar·
+p191 L37: eyuaenunainstant·etaeuttuusnesconsuinehuisude·bqu·
+p191 L38: o·entpruposurensesdiu·esetaa··orteunesaranduioyequepar
+p191 L39: teutodachantepourcestuheureusunoyeyetedeuulaudanus
+p191 L40: emnatantacquisdhoueur·uualaseuyeons·deratiendiceyuin
+p191 L41: euaectestinurtropheureuxdauoerrecutulec·enduuentde
+p191 L42: u· «Januier» deuunericyetayestuseap·opusaideetsucou·rududecu
+p191 L43: s·eurnareschaldenacourtdhe·esutdecheuauxpouruaerecou
+p191 L44: rirlesd·ctesdepuschese·uinabienuaectparoestre·nnust·ut·
+p192 L01: «Comme»  «il»  «a»  «tousiours»  «faict»  «combien»  «vre»  «seruice»  «luy»  «est»  «affectionne» etpouruuusr «agab?»
+p192 L02: ·artculierenentraisonlecequeausteuaictusdierusie «Juno» derayqueua
+p192 L03: duceyesdenaarandepolunustenueacheredanilnaestutraectuqu
+p192 L04: troesarticlesnunconcernule «atque» aceque «may»  «Januier» s·enuueyeluycu
+p192 L05: dechoisiretepternundusdeuxestatpqueltienthuisentceluy
+p192 L06: etnautrenareschanduro·lue·rceuuuontientlesdectusui
+p192 L07: estre·nceupatipluscequiuient·rtapropospourtenirle
+p192 L08: «atque» endebuoerlequenaustetuusiourslepnuscontrairea «may» ·
+p192 L09: lesucondarticnereeirdeunereritiondecuuptequunesetata
+p192 L10: dentdequulhuesdeneersnaniessoub·leueureyletrueesneest
+p192 L11: laconuedurateontou·hantlanipertedesruleeionsqueestens
+p192 L12: quiausteuaictenladie·epupalateratdelanciscicaestucun
+p192 L13: hue «may»  «Januier» seroetsupniieceyeestantuenuudecasuretroutru·
+p192 L14: esprunesusetdonsqueyepouiuectauoiruaictdesestatyeto·
+p192 L15: decerorulneau·parauantqueye·usteniceyuyennapetet
+p192 L16: unequiestlendroectquiestlupolusacraendreetnusuesne·
+p192 L17: enntdecracouyeneslectresuendrints·apropusqueapresquat
+p192 L18: rentleuesonnettoutesdeliberationsen·uurceanceeusqu
+p192 L19: auenuede «may»  «Januier» sauuquen·utadui·equeparlesduputesd·
+p192 L20: alatinat «may»  «Januier» seruectsu·esestatshueseronttenu·
+p192 L21: soq·daonapres «may» conruuationdentretunirlanibertedelare
+p192 L22: ondustabnirunneeyeurordrequeceluypuyaesteneseusquei
+p192 L23: leuaectdelaeusticeetdauentaepeque·arlesdecideputeins
+p192 L24: tauosuaueclesenatpourtruyerquelquenueunpouracr·o
+p192 L25: «may» reu·enuetduauanen·teruesdruectsetestcequiausteud
+p192 L26: udectpalatidatquantalarusieetpldonyenonseuurdeuale
+p192 L27: yauoits·saaeuentpourueuauparterdicit·uurauo·rescree
+p192 L28: xprincepauxseeaneursetyauoerenuoieun·ra·coysqueestdec
+p192 L29: lequenuousauaectutenceuoeaeuetenlenucteunbeaucoupa
+p192 L30: uicequeaensihuerya·cristdudect·rancoysquiuientdai·
+p192 L31: lresenteuunttoutuschuseysontentelestatque «may»  «Januier?»
+p192 L32: ·eultsouho·eretquele «Coram» seresountplushuinneut·
+p192 L33: a «Juno» rentruep·esanceetparcequecestundess·neursdete
+p192 L34: ceruyaulne·estlepnsaentreten·erpourauueresteunchee
+p192 L35: partetauo·runausipelentendenuntquelyaitenpolune
+p192 L36: ·iraytroyerauplustostetluynuueraytouteslesnep
+p192 L37: esparotyesqueluuseraposeblepuuruereearddeceuxdedans
+p192 L38: ainsontestenaladessiredeueenenalad·equelusaultres·
+p192 L39: aderenalinstruictset·ersuadesquuladpacuntedespasa·
+p192 L40: uousseruetrenduesiarandeuue «Juno» nepoudiesianaisparu
+p192 L41: enceroyaulueetpuurcehuedaultr·partleursusprits
+p192 L42: naldisposesontesteplusaeseuentaaeenesparlesart
+p192 L43: esde «cur» lequulneuraseeentescroptilssesontuua·i
+p192 L44: enmaucoupdendroetscarapressestre·ortnalporteesale·
+p192 L45: oictdnunsie·urdelansacinsontleueaensdep·dutdec
+p192 L46: alresquelseldsentretiesuntencoresauiourd·uyetuo·
+p192 L47: ·ertiuierleurueyeauecunuarandedilieencuetconbien
+p192 L48: lenareschanopaninsuquiietesteuerseuxpourleurruuestrer
+p192 L49: erandeuiuntequels·aisoientetpuurleurpersuadurqu
+p192 L50: eusenhal·icencierleurssendatsetaensduiueieutlaeu
+p192 L51: neursuuraoaesonrint·aerehuaunuesneinstantne·cast
+p192 L52: yindedansicaeruetleseublapne·arcequeiusquealors
+p193 L02: ceuhdulapetetepolonealauesdesaultrespouruneraeslnque
+p193 L03: ia·quetouteslesasemblisnesontiamaesbeencertaeneslanoyl
+p193 L04: eseunpelonaneuaectutnentreprundeamaisreenquauxasembl
+p193 L05: icetdienesutlemoensqueyepeyuntestrutenusestl··luee
+p193 L06: urutplrtantiusquesac·uueiesacheque «may»  «Januier» ·soetbienaua·
+p193 L07: ntenayemaepneetquulepaesensoetteyumentcertainquiln·rt·
+p193 L08: quedoulteieuu·ldroesromreteyesdiutesnonsirequeeeneuo·e·
+p193 L09: touteschosusbiendisposissinaulierementdepuislanouyeyuuu
+p193 L10: eia·aloortimaesyarcequeiedeserleschosesestretousioursma
+p193 L11: ·ntenuesetconseruisenunbonetaseureestatea·tireacestadaes
+p193 L12: lechanceyiurdecero·aulmeetayuaictquelarcheuesuueunaes
+p193 L13: nriptaleuusquedecrcouiequiestaduusulpeuesdiceetuerslequu
+p193 L14: liemunua·demaenseienepuesromprecudeseaniesuy·olietrush·
+p193 L15: nblement «may»  «Januier» s·irequeyetroyeyonqueiemutreyeiceaceiour·
+p193 L16: etqueiesupursededayerenlithuaniemaisbeenquep·enuoyepour
+p193 L17: leuruaereentendrulemesuequyia··aectenpoloneesperant
+p193 L18: quemapresencuici·eraiuusdeuruictqueienupouioisuaireen
+p193 L19: lithuanaeeilmerustesirea «Juno» derequelin·antesedespose
+p193 L20: arandementpu·ur «may» ·uenueuaect·airuplsieursricheshabiyemeo
+p193 L21: ntssumesdyuleursdeulysutnometrienpourtesuoianerlecone
+p193 L22: tuntementetlesperancequyeanesseieneursdic·peuexcept «uer?» r
+p193 L23: ysnetu·erontiamaesdecestaduesqueluuuchoseseparuace·
+p193 L24: iueceyecombeunquesiresonbeenquimonteplus·deseptcena
+p193 L25: tmelulorinsuneeo·spaeesnoncumpresleneesaeye·aectpau
+p193 L26: rlehde·unctro·delameiyeurupartdesusmeublesdounebs
+p193 L27: ienarandeoyasiondypensermaisiecro·sireque «may»  «Januier» u
+p193 L28: uenueeyetroyerameienparlesaduisdesustatsquiuerode
+p193 L29: ntencystendroitetentousaultresceque «may»  «Januier» troyerau
+p193 L30: bondeprandreuneyoueconcluseonsurtoutceneaocebien «Juno» q
+p193 L31: puisieaseururqueceseralapremierechosedontilseraparu
+p193 L32: lemulendemaindu «may» coronemuntsiresidetutcequedesus
+p193 L33: iepuesrecueiyerqueluuechoseetsiia·queluueiuaementde·
+p193 L34: saeaeresdedecaetsiiauoscesthoseurdestrecoebndedeer
+p193 L35: «may»  «Januier» deuousdirecequeiesensiupensequecoueiladuee·
+p193 L36: ntsoyentuunenuantmetle·euenunerandmalaesetaploor
+p193 L37: teyeaucouideruineaensequeleustpeuestreuueluuetrouyl·
+p193 L38: eencuru·aulmesi «may»  «Januier» neustdespuschededecamaislecor·
+p193 L39: eetcustearosemasequiatousioursetedediia «may» seruice
+p193 L40: demeureentiereutnonsuulementceyelamaisdeaucoupdaultnt
+p193 L41: resquiuoientestedaduiscontraireetceuueresteauaireestquua
+p193 L42: esoyunt «may»  «Januier» enuo·eecihoue·quiportuntnoyeyede «may» ·
+p193 L43: acheminmuntetdupaisquedeyyessuiuretqueparmesmemoienl
+p193 L44: esamdasadeursbepolpneecriuent «Juno» troyeresununodlese
+p193 L45: promteetdediiu· «pour»  «seruir?»  «et?»  «obeir»  «auetant?»  «que»  «nation»  «e»  «u»  «monde»  «Jalouse»  «de» o
+p193 L46: «ce»  «que»  «concerne»  «vre»  «maiesté»  «de»  «grandeur»  «et»  «qui»  «Enuille?»  «pour»  «accroistre»  «voz»  «maiesté»
+p193 L47: «grandeur»  «et»  «puissance?» etsidauanture «Juno» aue·troyeaulcuns
+p194 L01: desarticlequiontesteproposeunurancutrop·rudesi
+p194 L02: issirequeauec «may» doulceuracoustumi «Juno» remisieaulta
+p194 L03: «Juno» seroitoosiblemutoutanauisdesestatsetlorsque
+p194 L04: ici «may» presuncesansdiuicultelesrenaera «Juillet» b «Juno» co
+p194 L05: eetobeeretscaepourura·queneamyasadeursontchar
+p194 L06: epreserpoint «may?»  «Januier» encequilscomamoistrontqu
+p194 L07: aurapasaplaisirsiienecraeenoes «Juno» ecu·ertrop·
+p194 L08: diroessirequetelsarticleontestepropu·seetda
+p194 L09: parauantlenecteonparceuxlesquelsontuu·l·uaire
+p194 L10: touteuololteauxprencesetranaeersdaspireraceru·
+p194 L11: pourlerusuuretpeultestruledeparterentreeuxs
+p194 L12: alachartoutenoesdauoeruncheudeleurscorpsq·n·c
+p194 L13: astqueciuilementapresqueparlesuyesduteml
+p194 L14: auresireaudoeatetaloeelcoueluutelsartiui
+p194 L15: «Juno» seraunmoienlesuaesantuoerausialanobles
+p194 L16: mpreetcasertelsartecleset «Juno» rendrero·c
+p194 L17: anteaultantpleinementetabsolmentquer·e·deca
+p194 L18: ntesirelesseianeursdiceonttroyemerueilyuuseme
+p194 L19: yaesquelasqueaetdeuanceeusconpriamonsmaesontet
+p194 L20: sateuaetsquandieleuraydectquilnauoiteuaude·nce
+p194 L21: nquequeaueclesaultreamyasadeurscequalesaco·
+p194 L22: tulecar·e·nalcu·uendonestreuocqueparlepape
+p194 L23: uade·nsdeixoudouueeoursie «Juno» suloeetreshumblemen
+p194 L24: uouloerparunepromtedespeschemeuaereentendrecequ
+p194 L25: irespondreaceuxquesenquieruntdupasae·eetduch
+p194 L26: «may»  «Januier» doicttenercarilsnesepeyentuncoreaseur
+p194 L27: educaueusteaitayordelepasa·aeiobmenoesa «Juno» rendr
+p194 L28: siredecequemaempeschuqueparleesnectreslesqueyus
+p194 L29: creptesaqxesasieneleurayuaectentendreu·euoe
+p194 L30: tesdebuoeentuairetenerec·lasouededeu·cen·
+p194 L31: leurespoursuuenirauuuanairesdelaaueiecar·ea
+p194 L32: oyeceroyaulmeenpaeepourlereaarddesprenceseta
+p194 L33: rsiemesuestenucoyertcraeanantqueseienoyroesle
+p194 L34: heenuenonmeuoulustpersuadeerquel·eustauepe
+p194 L35: esquetout·ustenpaeua·endeterercestesoueet
+p194 L36: equeiecouanoesqueluuep·lhumeurdesaensduca
+p194 L37: «Januier» meprardoserasiielasuloleetredumaleme
+p194 L38: elemoensquonpouialeuondduuoyuenancessoitdeca
+p194 L39: auenquenesoeeienportunededemandesetdedonsdesq
+p194 L40: «Juno» aurieasusauaerea «Juno» excusersils «Juno» sent
+p194 L41: queluuear·aentcouelebruitenaiacourudedecaua
+p194 L42: «Juno» uaereuntenbesirelestatdecero·aulmealendr
+p194 L43: desprilcesestranaierspremeerume·ntpourlereaar
+p194 L44: onneueo·tunseulalorestdeaueienyaloarence·
+p194 L45: iliteseulementailuaetromrelespostusdeceau·
+p194 L46: tuaecttenerlestpaseaemerueeyuusementclosquer
+p194 L47: ladeuecultearandepourl·esduspeecdesenurancee·
+p194 L48: lechemintroplonaparlayemaianedoresnauantsc
+p194 L49: tque «may»  «Januier» sacheminantsalorocpheratousi
+p194 L50: ettouteuau·isia·presleha·ardduuairepaserc·
+p195 L02: nnpourlesraisonsque «may»  «Janvier» aurasceuademons·eurduualence
+p195 L03: senaledictmareschanreenscuupaiinersureuxetenuenaetedec
+p195 L04: oiertqueparcehuelssontredeunblesa «may»  «Janvier» detroisuuqua
+p195 L05: trecentmilunorensmesaieraeausdupasedenasumedecenquante·n·
+p195 L06: ulor·nsquelspaient·auuxdepoluneparc·acunanetparcsuelsontt·
+p195 L07: eteaucueuuntaduersaeresen «may»  «Primua» utquedelonau·aenle·
+p195 L08: «fortitudo» derniurdecedeaeuintenteond·bast·rune·tadepequelsont
+p195 L09: ·upe·rquu «may»  «Janvier» eaieuantoulesuuatrumiilpascunsyprenant
+p195 L10: teieonseseruestdecesteo·aseenpnurlesinuusteret·laisert
+p195 L11: unepoueparnesuaestceleuonddutoutcemaleesuisentredauet
+p195 L12: ntaepeensoupcu·quentrueuxle «Doctur» utne «stature» yeustquel
+p195 L13: ·uuinteoepenrep·rcequelu «Doctur» denapuiuresruaectaies
+p195 L14: turtousleuaeseauxquetirueentadanscecpoureuxtruiera
+p195 L15: uneprande·oerequisetenuitetauaectobleperparsermentn
+p195 L16: usua·stredesnaueresdeniduscendrepoenctuaesbedecendr·
+p195 L17: uarepeomuntqueestau «stature» ouaelbinpuueestune·oedut
+p195 L18: «nouua» etquelusdictsdedanscicpouraioaiserle «Doctur»
+p195 L19: etrachepterlaneberte·deleurscouercesauruentcomp
+p195 L20: oseauecluuadeuxcetmilunorinsdesquelselsnueenaur
+p195 L21: oeenteuurneprumteuentcentmilylorinsetdoebuent·ourn
+p195 L22: irlesaultrescentmil·edansuncurtaintemisma·co
+p195 L23: uppunquelesdects·dededanscec·nesepuesentuucusersir·
+p195 L24: dauoercluposeauecle «Doctur» sanslecouendementde «may»  «Janvier» a
+p195 L25: alaqueoecelatouche·randemuntetsansenadu·rterles
+p195 L26: seiuneursetcunseioiersdeceroeaulmeetquilsae·ntua
+p195 L27: ictuneuaultetropluurdedesetrucueseietauuer·
+p195 L28: leuedunierssureuxeteceuxuournisau «Doctur» sans «may» permes
+p195 L29: iunseestcequuceuuuiecraepnoesleinusne·etpuenct
+p195 L30: queestuneinteoepenceetpraticquusourdeentruuxlede
+p195 L31: ct «Doctur» etlu «stature» denaqueoeqauuustchu·steaysceuau
+p195 L32: ura·equeledieurentdentren «Doctur» etuuxnestpoinctu
+p195 L33: nechoseuaen·teuudesemule «Juing» ueretabnuetlquenpren
+p195 L34: dsasourcedeilusloenneueu «fortitudo» sireneuounant
+p195 L35: pasentretoneru·nearmysuruerpourempeschurletra
+p195 L36: uicdemoscuupu·ustquelsesentestempuisntpourceuaer
+p195 L37: eouquilneuoulustpasuaireles·raespermitaqueluues
+p195 L38: peratesdutenirlameretparderlesprsapesanssauou·r
+p195 L39: deluytoutenu·eetdaiestertousl·suaisuauxquetirero·ent
+p195 L40: enmuscoueealacharpedelueuuurnirneuuartoulequintdupr
+p195 L41: ·pctetputenquinsueroientceperatesaensilicuntieuseuent
+p195 L42: sansdescretienpeouienttoutcequiprsoetutont·urt·bua
+p195 L43: ucoupdedouaiesaceuxdedademarcsansquele «fortitudo» neuuelne
+p195 L44: lead·uoitientenuoulustoncquesuaerraisonetparce
+p195 L45: u·elsserutiroeentauportdedan·cle «Doctur» sestserue·ec
+p195 L46: esteo·aseondepuislamortdqueu «fortitudo» ·dempescherleco
+p195 L47: uercudedanscicauerdesuuanierdeceuxdunaueoelesuu·ls
+p196 L01: ilaopneunauoiruauoreseledectspuratuspeurlusauoirre
+p196 L02: enleurportetcesuime·aectdautrepartplusa·euuntcra
+p196 L03: quennianuoeinteoepunceestqueledect «Doctur» napasastraeint
+p196 L04: c·euentlesuaesuauxlusquensilaaiestesdedescundren
+p196 L05: euouentmaesleurapermesdaoeraenbenauuiest·uneueoeur
+p196 L06: meoubs «may» yesanceetausiquele «stature» aescriptaaxn
+p196 L07: seconpratulantdelenecteon·aictede «may»  «Janvier» etlueu·
+p196 L08: tobusancec·eilsuueoetparla·ctenectrudela·u·o
+p196 L09: en·erueunecobo·eencepacqueturuuoyueeleoiteenuua
+p196 L10: nctdedoubtequesetostqueceuxdedans·centundrontqu·
+p196 L11: us·tesacheueneetqueluspasconsneuiesetpasquilsnesur·
+p196 L12: tentirandementdaueruaectcequelsont·aictetuuinsnesupr
+p196 L13: tenta «may»  «Janvier» pourluerendreopuisanceetquensnelicenc·r
+p196 L14: leussondasetaultrespensdepueiuslesuuelselestiuposidn·
+p196 L15: nspuasententrutenerapresauoiruourneruneseeranhuso·ededa
+p196 L16: «Doctur» ausiquelemenupuupledestpbsdunuesmea·ordetaduesau
+p196 L17: usprinceppulxdelaueoeutsontdeuisesuntreuuxetnaytroie
+p196 L18: undetouslesseipnuursdeceroeaulmuaueclesquelshayc
+p196 L19: niquerueaetaulcunecraentequeqaepaiideriunsureuxpar
+p196 L20: lanucesitedeleurtrauecetpourladebite·etpournucoirenu
+p196 L21: desmarchandeseslescontraintdedemourursoubs «may» opuisan
+p196 L22: «Juing» aucotraereestemuntqueleursdeporteuents «Juno» se
+p196 L23: ontprandementalerenieren «may» opuisancuetauorourst
+p196 L24: euoircequiuousestparuuxdeuata·roistrecequilspa
+p196 L25: tparchacunandinemoetiepourlemoinsaupaurauantsirequ
+p196 L26: uaceentendrea «may»  «Janvier» aul·unec·osedenestatdedehr
+p196 L27: ruyaunmeiacheueraysiluousplaist·cequiconcernelude
+p196 L28: cedontondelibureauiuurdhue·leplusestdunenteieuen
+p196 L29: ueu «fortitudo» pourlequelnesseipneursdeceroiaulmes·
+p196 L30: aulcuementendiuerent «Locasion»  «en»  «est»  «quaux»  «estatz»  «tenuz»  «a»  «Varsovie»
+p196 L31: «Lors»  «de»  «lelection»  «le»  «Jour»  «de»  «vre»  «coronnement»  «fut»  «prefixe»  «au»  «troisiesme»  «de»  «octobre»
+p196 L32: «et»  «par»  «mesme»  «moyen»  «advise»  «que»  «lenterrement»  «dudict»  «feu»  «Roy»  «seroit»  «faict»  «huict»
+p196 L33: «auparavant»  «Ceulx»  «de»  «la»  «petite»  «polone»  «ont»  «adverty»  «la»  «noblesse»  «auJour»  «dela»  «S»
+p196 L34: «michel»  «pour»  «se»  «trouver»  «audict»  «enterrement»  «et»  «font»  «apporter»  «le»  «corps»  «a»  «Varsovie»
+p196 L35: «ceste»  «ville»  «avec»  «lequel»  «seroit»  «lInfante»  «La»  «Lithuane»  «remonstrent»  «que» ·
+p196 L36: «que»  «vre»  «maiesté»  «coronnement»  «ne»  «peult»  «estre»  «le»  «troisiesme»  «de»  «Octobre»  «Ilz»
+p196 L37: «Raisonable»  «que»  «lenterrement»  «soit»  «differe»  «Jusqua»  «ala»  «sepmaine»  «precedente»
+p196 L38: «vre»  «coronnement»  «et»  «quautrement»  «Il»  «leur»  «reviendroit»  «a»  «grande»  «Incommodite»
+p196 L39: «a»  «grande»  «fraiz»  «de»  «faire»  «deux»  «voiaiges»  «de»  «Lithuanie»  «Icy»  «et»  «que»  «satisfaict»
+p196 L40: «a»  «ce»  «qui»  «a»  «este»  «cydevant»  «advise»  «Ilz»  «pourront»  «estre»  «soulagez»  «en»  «sorte»  «que»
+p196 L41: «avoir»  «assiste»  «aux»  «obseques»  «dudict»  «feu»  «Roy»  «Ilz»  «pourront»  «tout»  «dun»  «mesme»
+p196 L42: «par»  «aller»  «audevant»  «de»  «vre»  «maieste»  «Larchevesque»  «et»  «ceulx»  «de»  «la»  «grande»
+p196 L43: «polone»  «sont»  «de»  «ce»  «mesme»  «advis»  «mais»  «ceulx»  «de»  «la»  «petite»  «polone»  «ne»  «se»  «peuvent»
+p196 L44: «Vaincre»  «et»  «sexcusent»  «sur»  «les»  «frais»  «que»  «seront»  «plus»  «grands»  «a»  «lentretien»
+p196 L45: «de»  «ceulx»  «qui»  «sont»  «pour»  «la»  «garde»  «du»  «corps»  «et»  «sur»  «ce»  «quilz»  «ont»  «a»  «ce»  «Jour»
+p196 L46: «Les»  «premiers»  «voisins»  «qui»  «y»  «feront»  «trouver»  «leurs»  «ambassadeurs» sire·
+p197 L02: nonduseeuurcarlesordrenmaadresuquesi «may?»  «Januier?» enuaiseunt
+p197 L03: toucherquelsuemotaqaeiecroequilneseroetdeuiciledeurre
+p197 L04: remucsrelesdectepostuslesquelesimortent·andementpourla
+p197 L05: ne·otitationditaleequantauuscaqiaycouunecqueauecculuele
+p197 L06: quelauoetestuenuoeeuerluyparlesi·aupourletraetudelap
+p197 L07: aoxla·randerunuideuosuertussireetdusuecto·reslesquelus
+p197 L08: dixu «Juno?» adouislarenduetleteentestoueetaaiordeltreue
+p197 L09: pourunanlaqueleonluedumandoetseulemeatiusqusau «may?» corese·
+p197 L10: entetmadictceluylueearutsurnoitqueceteranlueauaectune
+p197 L11: ele·r·eurquelnaclatraentdelueperuesruquese «may?»  «Januier?» e
+p197 L12: toetecialasaintmartealeestatslassuoueroientdeuaereunei
+p197 L13: aixplusustroeieetaseuriauecluequelenaencoruseteauecne
+p197 L14: prdeuceseursroysetquese «may?»  «Januier?» neuensetaumctipurdelasaind
+p197 L15: martinilseroetpocedeauaenoreleenecteonalaqueleiladeni
+p197 L16: uredenuoeerpourdemandercursyaunmeetseteucusedeceque
+p197 L17: cideuantelauoetoauecsipeuderepectusreptaueestatydeceroe
+p197 L18: aulmeetdecequonnyauoetenuoeusesampasadeursettantpo·ur
+p197 L19: conueruerlamctetreueauec «mau?»  «Januier?» quepoursacquerirqu
+p197 L20: unsuepartenceroeaulmeencaeque «mau?»  «Januier?» neuenticededtans
+p197 L21: nasrentmarteniladespesc·edeseasesambasrdeurslesquenssor
+p197 L22: tsurlauronteeredelituaneeetonteauoeedudecapourdeman
+p197 L23: dernesauucsaduictquandaladeuaictequonauoit·aectpruie
+p197 L24: quelauoitreceumdetartaresilneaestreenainsequemrdectne
+p197 L25: dectambasadeurspeenditilquedeaabatailequeuutentrele
+p197 L26: moscluiteetlestartareseadeuxanssesuorcussouatetr
+p197 L27: ntdimunuisquelaapasmoiendentrepreadrebeaucoupp·urleio·ur
+p197 L28: dhuyainsiestlanet·uaneepaisebleetayarienauraendreence
+p197 L29: stedeesetenueacracou·eesntesteleuesnectresdumeauet
+p197 L30: dumahouetbasc·aparlesquelesilsseconaratulentdecequ
+p197 L31: esuiuantleurmandementins «Juno?» ontesleusirepuequain
+p197 L32: seestoetqueilsaonttroreeatreueuxhsuersesdienepour
+p197 L33: tenerleroeaulmeytenoultreaduerteseutnespolonoisdent
+p197 L34: retenerlesaliancesutametiesancieuesdepaierauitart·
+p197 L35: aresleurpensionceque·aisantlemoauleurouresucsursc
+p197 L36: ontreleuscaqcoueausiilslesaduertistquilromralapaix
+p197 L37: suilsontensemblesilssecompsrtentaultrementdepuisca
+p197 L38: slectresescreptesparlemoaulessoldatsquenepolsnestie
+p197 L39: uentsurlaurontierudelapoydslieetlesquelsilsapoentc
+p197 L40: osaquessonteatresurletartaresetontpileunarand
+p197 L41: paismisenroutequelsuestroupoesdu·randseieneuretprish·
+p197 L42: uictpiecedartileriecequiameruepleusumentiriteled·ct
+p197 L43: arandseieneurlequelparnemahometbasquaauaectescripreque
+p197 L44: sicetortnelueest·itreparilleueroituiuemeatresentiraux
+p197 L45: ponsaeislesquelsnedictbaschadisoetselecentierparceque
+p197 L46: alauaueuretrucouendementdumoauilsauroientesleu «mau?»
+p197 L47: «Januier?» maisquecesteiniuretouchoitdesepresled·ct·randseie
+p197 L48: neurquesuantceseroitssnpropreuilsquiseroit·
+p197 L49: ilnenuepouietpardoueretquene·estimoetplusuadesessu
+p198 L01: iectsquedixcolsnoesonadespesc·udiceuersnedect·randsieu
+p198 L02: etuersnestartareslesqueunsausiestoientenarmesa·ol
+p198 L03: adoulceretuaireiusticedesdictsssldatsetreparerldoe
+p198 L04: quinssntuaictetserendlepaisdececostelapaisebnetout
+p198 L05: ssire «mau?»  «Januier?» aduiseraselserabsndenescripreau·
+p198 L06: monsieuurdacqsauinquependant «may?» uenueilnesoitre·e
+p198 L07: eprinssereiereprendraelededansdelaponsnbpour «Juno?» uaire
+p198 L08: tendrequencesteuiledecracouiedepuisdeuxsutroistoe·
+p198 L09: uncastelanieune·entinhoueric·elequenentretientdeux
+p198 L10: cheuauxetplusieurssondatsauindictindetenirleschoseen·
+p198 L11: retecontre·aua·uetparcequeiecouansequeinsasendderecou
+p198 L12: cetedespensnon·randementnecesrireiesupoie «mau?»  «Januier?» de
+p198 L13: uandercequinluepnairaenestreuait «Et?»  «voila?»  «Sire»  «tout»  «lestat?»  «de?»
+p198 L14: «Duquel»  «je»  «ne»  «fauldray»  «de»  «donner»  «encora?»  «aduertissement?»  «a»  «vre»  «maieste»  «aussi»  «tost»  «que»  «je?»
+p198 L15: «peu»  «apprendre?»  «quelque»  «chose»  «qui»  «soit»  «digne»  «delle»  «Laquelle»  «je»  «supplie»  «tres»  «humblement»
+p198 L16: «Vouloir»  «pardonner»  «si»  «par»  «ceste»  «longue»  «depesche»  «et»  «mal»  «digeree»  «je»  «lay»  «ennuyé?»  «mais?»
+p198 L17: «desir»  «de»  «nobmettre?»  «chose»  «quelconque»  «ma»  «faict»  «estendre»  «plus»  «longuement»  «a»  «ce»  «que»  «de?» ·
+p198 L18: «disonna?»  «vre»  «maieste»  «leconoillist?»  «a»  «qui»  «feroit»  «pour»  «son»  «seuice»
+p198 L19: «Atant?»  «Sire»  «je»  «prie»  «dieu»  «quil»  «tienne»  «vre»  «maieste»  «en»  «parfaicte»  «sante»  «tres»  «heureuse»  «et?»
+p198 L20: «Sre?»  «De»  «Cracouye»  «a»  «XXe?»  «sepbre»  «1573»
