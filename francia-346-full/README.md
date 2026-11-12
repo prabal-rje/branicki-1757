@@ -64,10 +64,10 @@ The key-free check found that six records differ a little in their code counts: 
 
 The readings are partial. Each record page gives the Italian, the English and the place of each name.
 
-- **The peace talks of 1633.** Rome urges the nuncio to keep the talks going and not to "break the thread" (R5648, R5651). It names plenipotentiaries (R5635, R5636) and a universal [?peace] (R5640, R5650). R5655 names a meeting "in luogo terzo" (in a third place) and a suspension of arms.
-- **Benavides.** The name recurs in nine records, often with a writing and Rome's view of how to answer it (R5637 to R5654).
+- **The peace talks of 1633.** Rome urges the nuncio to keep the talks going and not to "break the thread" (R5648, R5651). It names plenipotentiaries (R5635, R5636) and a universal [?peace] (R5640, R5650). R5655 names something "in luogo terzo" (in a third place) and a suspension of arms.
+- **Benavides.** The name recurs in nine records, often with a writing and Rome's view of how to answer it (R5637, R5640, R5645, R5646, R5650, R5651, R5652, R5653, R5654).
 - **Lorraine.** Rome names the fortresses of Lorraine (R5636) and "the invasion of Lorraine" (R5653). It hears of the events in Lorraine "con disgusto", with displeasure (R5654, R5655).
-- **Germany and the Swedes.** A rumour of a fortress on this side of the [?Rhine] held by the Swedes (R5636); aid to a people (code 104) under old alliances (R5651); a violated neutrality and the Imperial court (R5655).
+- **Germany and the Swedes.** A rumour of a fortress on this side of the [?Rhine] held by the "Svezesi", probably the Swedes (R5636); aid to a people (code 104) under old alliances (R5651); a violated neutrality and the Imperial court (R5655).
 - **Church affairs.** A priory, offers of pensions (R5636, R5637), and the bull "de non infeudandis": the letter says that it also covers exchanges, and it names censures (R5649).
 - **A woman who is ill.** Rome hopes that she will be reconciled with a "f…uolo", perhaps her son, and return (R5646, R5648). The decode does not name her.
 
@@ -102,10 +102,10 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 
 ## Who read these letters before
 
-- **Decipherment leaves.** Some records hold a decipherment in Italian on another leaf: R5626 (f. 155r), R5637 (f. 212v) and R5646 (f. 269r). The ledger's note of 29 October 2026 calls such leaves contemporary, adds R5655 (f. 324) and finds none in R5640. So some of these letters were read before.
+- **Decipherment leaves.** Some records hold a decipherment in Italian on another leaf: R5626 (f. 155r), R5637 (f. 212v) and R5646 (f. 269r). Brice Dudout's notes in the ledger (29 October 2026) call such leaves contemporary. They add R5655 (f. 324) and find none in R5640. So some of these letters were read before.
 - **Copies in clear** may also exist in other volumes. This folder does not copy the decipherment leaves, and it takes no code value from them.
 - **DECODE.** On 12 November 2026, the public record pages of R5625 to R5659 all give the status "N/A" and the cipher type "Unknown". They list no decryption. Their documents need a login, so I could not check them.
-- **The cipher ledger.** Its entry 880 lists R5625 to R5686 as "N/A" with no decipherment filed. None of these records is in its files. Its notes on the file name a sample of the records and decode R5630, which is not in this set. I checked the live files on 12 November 2026.
+- **The cipher ledger.** Its entry 880 lists R5625 to R5686 as "N/A" with no decipherment filed, and says that none of them is in the repository. Its notes of 29 October 2026 name R5626, R5640 and R5655 in a sample, and say which leaves hold decipherments. They decode R5630, which is not in this set, and none of these 22 records. I checked the live catalogue and notes on 12 November 2026.
 - **Print.** I found no edition of these letters. A. Iommelli's study of Ceva (Fondazione 1563, 2022) cites his own deciphered despatches, "Francia, 78", and Bichi's letters from Paris. It does not cite Francia 346.
 
 **No modern decipherment of these 22 records shows on DECODE's public record pages or is on file at the ledger.** This does not mean that nobody read them: the decipherment leaves show that some were read long ago.
