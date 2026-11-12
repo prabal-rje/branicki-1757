@@ -133,7 +133,7 @@ This control shuffles the signs of record 5463 and keeps the count of each pair 
 | Control L | about 6% | about 5% | third |
 
 - As a share of all 1,372 signs, the first line is 51% (Grok) to 59% (Sol).
-- Reader 1 gave its shares over the letters and the gaps. We convert them to the 1,070 shown letters.
+- For our decode, 70% to 75% is reader 1's own share of the shown letters. For the controls, reader 1 gave its shares over the letters and the gaps, and we convert them to the shown letters.
 - **Control W keeps real words.** Reader 2 finds 60% of its letters in words that it knows, but only 30% in phrases. So the difference is in the sentences, not in the words.
 - Reader 1 on our decode: "It reads as damaged prose, probably correspondence." Reader 2: "It does read as sentences, with damaged patches."
 - Both readers quote the same stretches, on lines 5, 14, 20, 27 to 28 and 36 to 37.
