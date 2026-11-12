@@ -1,6 +1,8 @@
-# Cipher letters read: a letter to Lorenzo de' Medici, 1479, Charles V, 1542, Jean Bazin, 1573, the Duke of Guastalla, 1717, a Polish letter of 1736, five French letters, 1756-1757, and Mexican telegrams, 1911 and 1915
+# Readings of historical cipher letters
 
-Letters that the archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed as unread when I read them. All but one were read from the ciphertext, with no key from outside. The 1911 telegram was read with the archive's own key card.
+This page holds my readings of cipher letters from 1479 to 1915. The table below lists each letter, with its date, its content and its files.
+
+The archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed these letters as unread when I read them. All but one were read from the ciphertext, with no key from outside. The 1911 telegram was read with the archive's own key card.
 
 One letter is a special case. Jean Bazin's letter of 1573 has been in print in clear since 1867. I found that print after my read, and it now checks the read.
 
