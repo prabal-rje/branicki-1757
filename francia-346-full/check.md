@@ -4,6 +4,8 @@ This page grades my read of the 22 later digit records against the published key
 
 The transcription is a machine transcription of the DECODE images, made in my pipeline. Nobody verified it.
 
+Credits: DECODE (DECRYPT project), records R5626 to R5659 of this folder; Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346; the key: G. Lasry, B. Megyesi and N. Kopal (2020); the ledger values: the cipher ledger, https://github.com/dbourdeau/cyphersolver.
+
 ## 1. What was compared
 
 - **My read:** a key found from the ciphertext alone on 13 records, fixed at 01:27 on 12 November 2026 (UTC−3). It was applied to the new pages with no fit, and that read was fixed at 17:00 the same day.
@@ -109,3 +111,48 @@ Three records hold a decipherment in Italian on another leaf of the same record.
 - The leaves are cursive and their transcription is a machine draft. So 100% is not the target.
 - For five more records, a prose leaf of the same record is a possible decipherment: R5642, R5645, R5648, R5649 and R5651. For each, the lengths differ much, or the control comes out as high. So this check does not decide them.
 
+
+## 8. The frozen read on the records added on 13 November
+
+This is a check on records that carry a decipherment of the time. I applied the frozen key-free read of 12 November, unchanged, to the 22 records with "Inline Plaintext: Yes". There was no fit and no change of key, cut or rule. The key was known when I ran it, so the check is not blind.
+
+| Record | Shown true letters | Right, of shown | Shown tokens that are letter codes | Pages that pass the key-free page test |
+| --- | ---: | --- | ---: | --- |
+| R5627 | 534 | 99.8% (533) | 67.0% | 2 of 2 |
+| R5628 | 895 | 99.3% (889) | 68.6% | 2 of 2 |
+| R5629 | 485 | 98.1% (476) | 63.2% | 2 of 2 |
+| R5630 | 240 | 98.8% (237) | 68.2% | 1 of 1 |
+| R5631 | 479 | 99.4% (476) | 66.7% | 1 of 1 |
+| R5632 | 378 | 97.9% (370) | 70.7% | 0 of 1 |
+| R5633 | 857 | 99.6% (854) | 69.6% | 1 of 2 |
+| R5641 | 16 | 100.0% (16) | 41.0% | 0 of 1 |
+| R5644 | 60 | 96.7% (58) | 61.9% | 1 of 1 |
+
+- On the eight records that read, the frozen read is as good as on the first 22 records (section 5).
+- **The 13 records in another cipher** (R5634, R5638, R5639, R5660 to R5666, R5669 to R5671) give 99.2% to 100% "right" by this measure. That number means nothing there. The "truth" is the published key, and the published key does not read them. Both keys give the same letters to most pair codes, so they agree. Their letter-code share is 32% to 44%, against 62% to 71% for the records that read.
+- The key-free page test fails on 23 of the 24 pages of R5660 to R5671. R5666 f. 398v passes only because it has too few runs to judge (17). The test passes on five of six pages of R5634, R5638 and R5639.
+- For these 13 records, sections 8 and 9 count all their cipher rows, by the rule of `README.md`. These are the rows that the transcription labels as cipher, and 117 rows that it labels as text.
+
+## 9. Against the decipherment of the time
+
+A clerk wrote a decipherment between the cipher rows of these 22 records. My pipeline transcribed it with the cipher, by machine. I compared each read with the clerk's line just above each cipher row, by the method of section 7. The control is the same read against the other records' decipherments, cut to the same length.
+
+| Record | Clerk's letters | Decode with the published key: equal, of the shorter text (control) | Frozen key-free read: equal (control) |
+| --- | ---: | --- | --- |
+| R5627 | 1,090 | 81.8% (34.1%) | 69.7% (40.5%) |
+| R5628 | 1,573 | 74.8% (31.3%) | 65.1% (33.3%) |
+| R5629 | 1,092 | 77.1% (36.3%) | 65.7% (39.1%) |
+| R5630 | 505 | 82.4% (30.3%) | 72.4% (40.6%) |
+| R5631 | 823 | 73.8% (32.7%) | 67.1% (31.0%) |
+| R5632 | 688 | 73.2% (32.8%) | 67.5% (36.3%) |
+| R5633 | 1,628 | 77.5% (33.3%) | 74.2% (38.0%) |
+| R5644 | 157 | 63.7% (37.0%) | 57.1% (42.9%) |
+
+- **The eight records that read** agree with the clerk at 64% to 82%, against 30% to 37% for the control.
+- **The 13 records in another cipher** give about the same share for their own decipherment and for the control. So neither key reads them.
+  - Eleven records enter: R5662 and R5666 are left out (see below).
+  - The decode with the published key: 29.7% to 68.7% own, 28.3% to 67.0% control; own minus control lies between −2.3 and +1.7 points.
+  - The frozen key-free read: own minus control lies between −3.4 and +1.6 points.
+  - R5663 gives the highest shares (68.7% own, 67.0% control), because its decode has only 115 letters.
+- R5641 (46 clerk letters) and R5662 (21) are too small. R5666 has almost no clerk's text beside its cipher rows (5 letters).
+- Both sides are machine transcriptions, so 100% is not the target.

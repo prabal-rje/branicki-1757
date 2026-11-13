@@ -200,7 +200,13 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 
 **Francia 346:** `francia-346-leaves/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
 
-**Francia 346, the later letters:** `francia-346-full/` has the notes, the check of my frozen read against the published key, and one page for each record. Each record page has the reading, the translation and the decode row by row.
+**Francia 346, the later letters:** `francia-346-full/` has the notes, the check of my frozen read against the published key, and one page for each record. Each record page of the first 22 has the reading, the translation and the decode row by row.
+
+- Nine more records, which carry a decipherment of the time, and the earlier leaves R74 to R78 have pages with a summary and the decode.
+- Thirteen records use another cipher. Their short pages give no decode; a blind read of them is in progress.
+- `key-and-key-free-read/` holds the key table and the frozen key-free read. `rereads.md` decodes ten pages that were read again.
+
+**Francia 32:** `francia-32/` states the work on this file of 1590 to 1592, in another cipher. It decodes nothing.
 
 **Biglia:** `biglia-1565/` has the notes, the check against Dudout's reading, the reading, the line-by-line decryption, the key and the key check.
 
@@ -259,7 +265,8 @@ Some of the ciphers on this page come from DECODE. DECODE is the database of his
 
 - Morosini: DECODE records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58.
 - Francia 346: DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in the appendix.
-- Francia 346, the full decode of the later letters: DECODE records R5626, R5635, R5636, R5637, R5640, R5642, R5643, R5645, R5646, R5647, R5648, R5649, R5650, R5651, R5652, R5653, R5654, R5655, R5656, R5657, R5658 and R5659 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346; key by George Lasry, Beáta Megyesi and Nils Kopal).
+- Francia 346, the full decode of the later letters: DECODE records R74 to R78, R5626 to R5666 and R5669 to R5671 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346; key by George Lasry, Beáta Megyesi and Nils Kopal).
+- Francia 32: DECODE records R5612 to R5621 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 32).
 - Zeschau to Seebach, 1841: DECODE record R5005.
 - The Sforza letters: DECODE records R5425 to R5430, R5463, R5464 and R5465.
 
