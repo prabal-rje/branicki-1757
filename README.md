@@ -6,7 +6,7 @@ The archives and the historical cipher ledger at https://github.com/dbourdeau/cy
 
 One letter is a special case. Jean Bazin's letter of 1573 has been in print in clear since 1867. I found that print after my read, and it now checks the read.
 
-The Sforza letters are another special case. The ledger's maintainer read part of record 5464 before me. He also saw fragments of record 5463 before me. My reads use his transcription of the signs.
+The Sforza letters are another special case. The ledger's maintainer read part of record 5464 before me. He also saw fragments of record 5463 before me. My earlier reads of records 5463 to 5465 use his transcription of the signs. My second reads of those records, and my read of records 5425 to 5430, use my own machine transcription of the DECODE images, not verified.
 
 Three more ciphers have a known key. They are the Morosini despatches of 1587 to 1589, the Francia 346 letters of 1632 to 1634 and a letter of Melchiorre Biglia of 1565. I read them without the key, as a check of my algorithm. They have their own section below.
 
@@ -24,7 +24,7 @@ Three more ciphers have a known key. They are the Morosini despatches of 1587 to
 | [AGAD 131](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/28223838) | Wilno, 11 July 1757 | Probably Matuszewicz. Requests for French subsidies for the Tribunal, and the Strutyński affair: a killing at the Brasław dietine, shielded by Apraksin. Read in part. | [Notes](agad-131/README.md), [Polish and French](agad-131/reading.md), [English](agad-131/translation.md) |
 | [A telegram to González Garza](https://www.cehm.org.mx/) | Mexico City, 19 May 1911 | Two Maderistas pass on General Huerta's warning: a military mutiny against the addressee is feared in the capital. Read with the archive's key card. | [Notes](mexico-1911/README.md), [Spanish](mexico-1911/reading.md), [English](mexico-1911/translation.md) |
 | [Carranza's telegrams](https://www.cehm.org.mx/Buscador/FichaBasica/38647?Tipo=A) | Veracruz, May and June 1915 | Ten telegrams in the war against Villa: ammunition for Obregón, a million pesos for Pablo González, rifles to buy in New York. | [Notes](carranza-1915/README.md), [Spanish](carranza-1915/reading.md), [English](carranza-1915/translation.md) |
-| Sforza chancery letters, DECODE records 5463, 5464 and 5465 (Milan, Carteggio Sforzesco, cartella 1597) | No date read | 5464: a league for the defence of the states, in which the Pope takes part; troops bound to serve; the writings must stay secret; Milan and Naples. Read in part. The ledger's maintainer read part of it first. 5463: a lord's wish, letters to come, and long practice and experience. Read in part, with a rival key as a stated limit. 5465 reads in patches only. The read of records 5425 to 5430 is sealed. | [Notes](sforza-1597/README.md), [5463 in Italian and English](sforza-1597/r5463/reading.md), [5463 check](sforza-1597/r5463/check.md), [5464 in Italian and English](sforza-1597/r5464/reading.md), [5464 check](sforza-1597/r5464/check.md), [5465 check](sforza-1597/r5465/check.md) |
+| Sforza chancery letters, DECODE records 5425 to 5430, 5463, 5464 and 5465 (Milan, Carteggio Sforzesco, cartella 1597) | No year read; some days are read in part | 5464: a league for the defence of the states, in which the Pope takes part; troops bound to serve; the writings must stay secret; Milan and Naples. The ledger's maintainer read part of it first. 5463: writing in cipher: a request for a letter in a very light cipher, no rule but long practice and experience, and Zohane Antonio da Pavia, who sets down [?rules] in writing. Its earlier read has a rival key as a stated limit. 5465: written at Naples; Antonio da Trezo, ambassador of the lord; a plea for pardon. 5425 to 5430, read together: a league and its proposals, the investiture of the lordship of Milan, his Majesty and his Holiness, the Swiss and Bern. The letter model's text names the Swiss and Bern often, so such a name alone proves little. All are partial reads; the reading pages mark the doubts. An earlier read of 5425 to 5430 is sealed. | [Notes](sforza-1597/README.md), [5463 in Italian and English](sforza-1597/r5463/reading.md), [5463 check](sforza-1597/r5463/check.md), [5463, second read](sforza-1597/r5463/second-read/reading.md), [5463, second check](sforza-1597/r5463/second-read/check.md), [5464 in Italian and English](sforza-1597/r5464/reading.md), [5464 check](sforza-1597/r5464/check.md), [5465 check](sforza-1597/r5465/check.md), [5464 and 5465, second read](sforza-1597/r5464-r5465/reading.md), [5464 and 5465, second check](sforza-1597/r5464-r5465/check.md), [5425 to 5430 in Italian and English](sforza-1597/r5425-r5430/reading.md), [5425 to 5430 check](sforza-1597/r5425-r5430/check.md) |
 
 The ledger's catalogue numbers:
 
@@ -194,7 +194,7 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 
 **Carranza's telegrams:** `carranza-1915/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
 
-**The Sforza letters:** `sforza-1597/` has the notes. For records 5463 and 5464, it has the reading, the line-by-line decryption, the key and the check. For record 5465, it has the line-by-line decryption, the key and the check. The read of records 5425 to 5430 is in one sealed file.
+**The Sforza letters:** `sforza-1597/` has the notes. For the earlier reads of records 5463 and 5464, it has the reading, the line-by-line decryption, the key and the check. For the earlier read of record 5465, it has the line-by-line decryption, the key and the check. The second reads are in `r5463/second-read/` and `r5464-r5465/`, and records 5425 to 5430 are in `r5425-r5430/`. Each of these folders has the reading, the row-by-row decryption, the key, the fitted table and the check. My sign transcription of these letters is not here, because DECODE marks their ciphertext as private. An earlier read of records 5425 to 5430 is in one sealed file.
 
 **Morosini:** `morosini-1587/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
 
@@ -228,11 +228,13 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 - AGAD 131: read in part. Two transcription passes agree on 88%, and about 300 differences are not yet settled on the scan. About 25 of some 460 cipher words stay doubtful.
 - The 1911 telegram: read in full with the archive's key card. Three words keep a doubt.
 - Carranza's telegrams: 96.5% of the number tokens give the reading's letter as typed. The others are mostly the clerk's slips, repaired by sense.
-- The Sforza letters: read in part, with no key. No key sheet and no clear text checks them.
+- The Sforza letters: read in part, with no key. No key sheet and no clear text checks them. By the ledger's read bar, they are partial reads, not readings.
   - Record 5463: a letter shows on 78.0% of the signs (1,070 of 1,372). Two blind readers find sense in 51% to 59% of all signs. A rival key scores almost as well.
   - Record 5464: a letter shows on 86.4% of the signs (2,808 of 3,249). Two blind readers find sense in 56% to 61% of all signs.
   - Record 5465: a letter shows on 68.0% of the signs (3,961 of 5,828). The blind readers find sense in 37% of all signs.
-  - Records 5425 to 5430: no sentence reads yet. The read is sealed.
+  - Second reads, on my own machine transcription, not verified. Record 5463 shows a letter on 97.6% of the signs (1,110 of 1,137, real). Records 5464 and 5465, read as one text under one key, show a letter on 94.2% (8,186 of 8,691, real). Twins of these sizes get 87% and 94% of the shown letters right (twin). Two blind readers say that each record reads as sentences. Records 5464 and 5465 share most of one key at least. One test statistic of two cannot judge whether they share all of it.
+  - Where the earlier and the second decode of a page both show a letter, they agree on 93% to 97% of the places (real). Different pages give 49% to 69% by the same count.
+  - Records 5425 to 5430: a partial read from the ciphertext alone, not checked against a key, on our own machine transcription of the DECODE images, not verified. A letter shows on 87.1% of the signs (12,963 of 14,888, real). Twins of this size read .95 of the shown letters right (twin). Two blind readers read each record as Italian sentences; where a reader stated its base, 40% to 60% of all signs make sense to it (real). An earlier read of these records is sealed.
   - Records 5437, 5443 to 5445, 5447 and 5467: the same method did not read them.
 - Morosini: read in part, with no key; 95.1% of the matched single-letter codes right (80,553 of 84,667). 72.7% of all single-letter codes recovered (80,553 of 110,821). The cut is wrong for the three-digit letter codes. A second search for the missing code forms failed its test on artificial letters, so it did not run on the real text. The read is the first one. A correction of 12 November is in the Morosini section: the read under my start rule gives 95.2% and 72.4%.
 - Francia 346: read with no key; 99.2% of the shown true letters right (6,953 of 7,012). 65.7% of the graded shown tokens show the true letter (6,953 of 10,591).
@@ -249,7 +251,7 @@ The cipher ledger at https://github.com/dbourdeau/cyphersolver checks contribute
   - Carranza's telegrams: filed as "key recovered from ciphertext-only". The page notes that the key family may be in print. https://dbourdeau.github.io/cyphersolver/carranza1915.html
   - The 1911 telegram: filed as "read with known key", read in part. https://dbourdeau.github.io/cyphersolver/mexico1911.html
   - AGAD 131: filed as read in part, with the key of letter 446. https://dbourdeau.github.io/cyphersolver/agad131.html
-- It applied my Sforza keys to its own tokens, and the shown shares of records 5464 and 5465 came out the same. By its own bar, both records stay read in part at most.
+- It applied my three earlier Sforza keys to its own tokens, and the shown shares of records 5463, 5464 and 5465 came out the same. By its read bar, these are partial reads, not readings.
 
 ## Credit: DECODE
 

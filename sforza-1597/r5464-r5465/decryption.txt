@@ -1,0 +1,242 @@
+# DECODE record 5464 and record 5465 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597): our second read,
+# a partial read from the ciphertext alone, not checked against a key; twins of this size read .94 of the
+# shown letters right (twin). check.md gives what supports it and what does not, and the credits.
+# DECODE's images are for research use only. No DECODE image is in this repository.
+# The signs: our own machine transcription of the DECODE images, not verified. It is not in this repository,
+# because DECODE marks the ciphertext of these letters as private.
+# One character for each sign token of our transcription, in the same order: the shown letter, or · when the read
+# shows no letter. Each break token of the transcription (a gap, joined ink, an unclassed sign, clear text, the edge
+# of struck signs) shows as …. The marks _, /, [at:...] and [above:...] give no character.
+# The decode has 21 letters: u stands for u and v, i for i, j and y, and c for c and k.
+# The decode is not the key applied to the labels. It uses a fitted table (channel.tsv) and an order-4 letter model,
+# so one label can take other letters in context. The key letter of key.tsv equals the shown letter on 0.965
+# of the shown signs (real). An exact rebuild needs the letter model and our code, which we do not publish here.
+
+R5464 P1 L01 | xxxuoiononhopiuprestoauisato·ue·llo·ha
+R5464 P1 L02 | biaerestopiero·elice·loredesic·iliacircale
+R5464 P1 L03 | quissionede·perfinlasuapraticaioli·mandai
+R5464 P1 L04 | nondoue·escriterealcunacosa·e·itareoneperic
+R5464 P1 L05 | ulodeleletereaben·luihaue·egratisima·udie
+R5464 P1 L06 | ntiada·subito·endoariuotamen·eserelecose
+R5464 P1 L07 | deimportantia·ellopocomale·hahauto·lo
+R5464 P1 L08 | hadeferitopiudiachauereha·clusione·poser
+R5464 P1 L09 | benetornare·nonhaueriafacto·esta·ati…
+R5464 P1 L10 | es·op·er·elice··ornatoafrauoltecose·luir
+R5464 P1 L11 | eportadelabonadispositionedequerso·eldice·
+R5464 P1 L12 | ellalihadictohauersempredesideratoamicicia
+R5464 P1 L13 | benitolentiainteligentia··seruationedeafini
+R5464 P1 L14 | tadefralunoalaltrochahautosummadispl
+R5464 P1 L15 | icentiadelsiaocursocosa·habiaimpeditolab
+R5464 P1 L16 | onadispositioneforzadeluntadelaltro·mol
+R5464 P1 L17 | te·molteragione·le·ueinel·amedesimadispo
+R5464 P1 L18 | sitione·desiderio·lafosemai··i·uedanda··ma
+R5464 P1 L19 | ncae·tentadeueniredepregentialigaaintelig
+R5464 P1 L20 | entia··ade·esadelistatiadelpaparticipei
+R5464 P1 L21 | nl·ductabia·ter·o·loalo·edasperaresene
+R5464 P1 L22 | horaa·tentarea··a·iosiaobligato·laperso
+R5464 P1 L23 | naa·legentedelunoadelaltroauenireobedire
+R5464 P1 L24 | sseruire·quotienscuneacade·e··ehaueseafare
+R5464 P1 L25 | impresadaelpotentia·esiafinonnealtrocasol
+R5464 P1 L26 | ifarepurragioneuole·iodebresserendoueli
+R5464 P1 L27 | pare·iosiaaproposito·onnecaso·acadessec
+R5464 P1 L28 | usi·libisognidelacome··lide·odequestouole
+R5464 P1 L29 | apara·capituloimeparesesiaretractoasaiaf
+R5464 P1 L30 | actoesto·poexercerta·d·retuctelaltreco
+R5464 P1 L31 | sese·dolodesiderio·uoluntauosra·…elpo
+R5464 P1 L32 | co·amiselasausedereestosefaasai···ihauendoo
+R5464 P1 L33 | bligato·e·la·curentiaala·ductabia·uene…h
+R5464 P1 L34 | aueretiratononsolamenteelremaetia·elada
+R5464 P1 L35 | lauostra··elsedicese··onnemo…·ualoabendi
+R5464 P1 L36 | spostoestoeuero·aegrandiserentiadahauerl
+R5464 P1 L37 | osecretoadhauerlopublicomandomaignonhaue
+R5464 P1 L38 | seromandatoafactodelecosechanofactodapoi
+R5464 P1 L39 | ·fecelequa·loro·estanouainteligentiaad
+R5464 P1 L40 | e·esadelistatiadela·ductabia·nporiaeser
+R5464 P1 L41 | eimputataan·idaloromadesimiserapiur
+R5464 P1 L42 | eputata·esti·atademagiorprudentia·i
+R5464 P1 L43 | laligafacta·loronproxibiscesi·ileintelig
+R5464 P1 L44 | entia·de·ensionedistatialaltraparteha
+R5464 P1 L45 | hastaresecretafintantouipareradefarap
+R5464 P1 L46 | alese·altroi·parole··antoalapartede
+R5464 P1 L47 | leobligationedeloffendregodice··sabenlani
+R5464 P1 L48 | mosuonelalextiamseretrouaalpresentema
+R5464 P1 L49 | edeparere·esto·sefariane··ne·ose·ce·cur
+R5464 P2 L01 | isselauoluntadi·a·ciolipareilsiabene·ut
+R5464 P2 L02 | iledetempareprimalauluntaloromandolor
+R5464 P2 L03 | ocerc·risenoalorasepodeliberarealtemoala
+R5464 P2 L04 | op·rtunitadafarsetaleimpresesendosiael
+R5464 P2 L05 | megliodalalquadeuiaramai·deestosiacerta
+R5464 P2 L06 | ···iosobeneinformatodelauoluntadelre·
+R5464 P2 L07 | ·ochelnostrosignorediohara·me·o·l·esia
+R5464 P2 L08 | factaestasanctainteligentia·poradispo
+R5464 P2 L09 | rede·nsoluminel·ecosedouecercurrealut
+R5464 P2 L10 | ilealasicurtadelstatosuo·aetiamdee
+R5464 P2 L11 | lredouecesialoproprioinmeresede·senza
+R5464 P2 L12 | alcunasuaparticularita·inestoca·oh
+R5464 P2 L13 | ara·apensareapresoachihabianoastarele
+R5464 P2 L14 | scripure·hanoastaresecrete·sia·fidat
+R5464 P2 L15 | oalunaparte··ualtratoiohotantodesid
+R5464 P2 L16 | eriodeuisiuare·farereuerentiaa··acreda
+R5464 P2 L17 | elai·satisfareqestomioanimo·ohabiaadindu
+R5464 P2 L18 | tiarequederla·aspectare·locuralunod
+R5464 P2 L19 | idoica·isopradictima·bonalicentia·uolun
+R5464 P2 L20 | tadelaadelresperodeanticiparealtemp
+R5464 P2 L21 | opurasai·haueriamandatouoluntierepier
+R5464 P2 L22 | ofeli·ea··ipotese…eferire··laaduncum
+R5464 P2 L23 | tut·tiliragionamentialeparoledelre
+R5464 P2 L24 | comedeel·ebeneinformatoacome·ia·mepar
+R5464 P2 L25 | e·autile·necesariomaesendouenutoami
+R5464 P2 L26 | lano·poian·dato·napolexcusimepareua
+R5464 P2 L27 | fosealbi·ogno·odubitato·lasuatornata
+R5464 P2 L28 | amilanonfosemolestaa·aparendoliforza·
+R5464 P2 L29 | lafusetropode·ustratione··respecto
+R5464 P2 L30 | delrenonehaueriafactopococaso·nonhaa
+R5464 P2 L31 | farenientelloro·o·elpareraa···uen·a
+R5464 P2 L32 | di·nesedelmandare·isubitoelseraacam·i
+R5464 P2 L33 | nosendoel·mandamentde·alaalehumilm
+R5464 P2 L34 | ente·mira··m·a·n·d·o··…·i
+R5465 P1 L01 | …llustrissimedominemisi·cularissimeposoqualemco
+R5465 P1 L02 | mandationem…per·inoantoi·quianapolidetucto
+R5465 P1 L03 | elloo·urse·ocon·erecum…lospectabileantonio
+R5465 P1 L04 | datrezoambas·atoredela·elsitudineuostracomb
+R5465 P1 L05 | eramiodebitoadaluisocertoquallustrissimonsig
+R5465 P1 L06 | noriauostratoauisatadelducto·…·cusianco
+R5465 P1 L07 | nquetoreessereauisatacom·…sponendoomnemi·pas
+R5465 P1 L08 | sioneuoliberamenatemeoffers·aparechiator··
+R5465 P1 L09 | cusim·adopera·afarequantola·elsi·todine·o
+R5465 P1 L10 | stracomandauaapressofintornoa…uestofacto
+R5465 P1 L11 | delihauendomimandatoadirela·elsitudineuos
+R5465 P1 L12 | tra··idelfacto·rolassasseelpensiero·ellag
+R5465 P1 L13 (interlinear) | cumla·otober…a·delial…riamici…menteam·…seafactariael·…·omio
+R5465 P1 L14 (cancelled) | mefa…resauouireelsuo·apermodoc·heindusse
+R5465 P1 L15 | liberamentearestarede··arelaimpres·possen
+R5465 P1 L16 | dorehauereelsuodalch…·cusisenza··iunomando
+R5465 P1 L17 | acertola·elsitudineuostra··acosanseriaan
+R5465 P1 L18 | datapiuinnanzese·hauessefactoellode··an
+R5465 P1 L19 | darentenutolimodisposseua·d·ueuatenere
+R5465 P1 L20 | …mainestoluinhapresooltropartitoneme
+R5465 P1 L21 | glioseegoue·rnatochehabiafactosemprein
+R5465 P1 L22 | omnesuafacenda…depo·iomepariidanapoli
+R5465 P1 L23 | s·contilhostatoinpopositodemandarepier
+R5465 P1 L24 | antonioala·elsitudineuostra·restec·ipri
+R5465 P1 L25 | maalcundi··io·ecredechiestacosanzauesse
+R5465 P1 L26 | aseguire··depolamiapartitamandolanapoli
+R5465 P1 L27 | meseriacomodalborgo·ancon·eremando·unode
+R5465 P1 L28 | e·lidelprefatosignoreducauennean·oame·acer
+R5465 P1 L29 | tauamineldictomeseriacomoandauacumta·e
+R5465 P1 L30 | taleambasiatag·acosasepoteuamenterreper
+R5465 P1 L31 | a·un·iae··defacilimepersuadeuapotesseessere
+R5465 P1 L32 | ueromediantelloperationedela·elsitudineuost
+R5465 P1 L33 | ra…dapoigio·oideaperreguardohostatode
+R5465 P1 L34 | ·mandareconsidertoelpaesenestatotropone·to
+R5465 P1 L35 | dep·st··an·o…uiin·r·inodequal·cose··a·
+R5465 P1 L36 | percontgionedeunomiosoldato·mapon·ando
+R5465 P1 L37 | piuinnanzihabiapiudisonnon·eestatonien·e
+R5465 P1 L38 | ·diogratiahoralacosarestabene··andoeldicto
+R5465 P1 L39 | pierantonionestatoinlocodesuspectomahauen
+R5465 P1 L40 | doauenirealconspectodelauostra·elsitudino
+R5465 P1 L41 | nmepareriapot…rehaueretantoreguar·o·
+R5465 P1 L42 | piunsedeuessersig…elfazorestare·inloco
+R5465 P1 L43 | secura··ano·tantogiahauerorespostada
+R5465 P1 L44 | lauostra·elsitudine·acamparerasenzaniuno
+R5465 P1 L45 | suspectoodubio·lpossauenire·…interim
+R5465 P1 L46 | uoglioperestamia·a·elsitudineuostraqua·
+R5465 P2-left L01 | chiarainpartedeellouoleamandareadire·adelainten
+R5465 P2-left L02 | tionemiasiacertalallustrissimasignoriauostra
+R5465 P2-left L03 | ·ionporiahauerecosadetantomiohonore·demio
+R5465 P2-left L04 | comodotutilita·ion·e·areputassen·e·arepu
+R5465 P2-left L05 | tasseperunasupremainte·icitaandocredessha
+R5465 P2-left L06 | uerlacumalcunominimorecresceme·…odespiacerede
+R5465 P2-left L07 | lanimodelauostracelsitudine···ellaiohodedi
+R5465 P2-left L08 | catolanima·e·corpo··inellahorepostaomne
+R5465 P2-left L09 | miafede·omnemiasperanzaam·reriama·econtento
+R5465 P2-left L10 | seancoraion·esseuederealmondo·l·paragonede
+R5465 P2-left L11 | lam·aschiauetudine··edeleseruituuerso·acel
+R5465 P2-left L12 | situdinequestraalaadebondenegaria·ultralo
+R5465 P2-left L13 | di·anti…uostatoinfra·amiapiunimodidapoi
+R5465 P2-left L14 | ·io··i··eraranmehauessinograndementeesci
+R5465 P2-left L15 | tato·in·iambatocontradelui·cusidapoielsuo
+R5465 P2-left L16 | cotinu·septarea·ingiuriar…endespectarmede
+R5465 P2-left L17 | parole·defactinmehauesserodeuutatirarea
+R5465 P2-left L18 | darelanimaaldiauol··aiutarmepemezodeltur
+R5465 P2-left L19 | contanoperall·deliqualtronhauessepossu
+R5465 P2-left L20 | toindemanc·i·acertolacelsitudineuostra·
+R5465 P2-left L21 | prima·imandassean·polituctoellose·seguito
+R5465 P2-left L22 | peragiafaericatoadeterminatoinlamente·nelcon
+R5465 P2-left L23 | ceptodel···estatomancoincitatodal·ne
+R5465 P2-left L24 | mancoprouo·atodalisuoimodi·estial
+R5465 P2-left L25 | statoiohauoluntierehaueriadesideratoprima
+R5465 P2-left L26 | ·taleimpresansefossefactapoi·intes·…ta·e…
+R5465 P2-left L27 | …amprefa…cusiseriastatelpiaceredelauostracel
+R5465 P2-left L28 | situdinendeuendorehauereelmiocomeellameman
+R5465 P2-left L29 | dauadire·acosicomeedictoadoperai·apoi·pur
+R5465 P2-left L30 | ·despectodel·deunaseguireiohaueriadeside
+R5465 P2-left L31 | rato··omnealtromezosefussefacto··e
+R5465 P2-left L32 | stodel·adoueioaueuamoltirespectiamolte
+R5465 P2-left L33 | considerationededouermi·aredesiderare·cusi
+R5465 P2-left L34 | maprincipalmenteellodelacelsitudine…stra
+R5465 P2-left L35 | macomezodictolacosaeragiadirizata·peresta
+R5465 P2-left L36 | quia·perestomezoperlecagionedissiadantoio
+R5465 P2-left L37 | datre·o·c·oeperhauereomnino·determinatodel·uar·
+R5465 P2-left L38 | adelreame·aperhauerlighadatoeldenaro·aperchauerealp
+R5465 P2-left L39 | regentegnordinedad·gnigiare·…matantoe·ioconons
+R5465 P2-left L40 | ignanzitractoel·oueniuaadireamentermeincasalegentedar
+R5465 P2-left L41 | medel··consideriassaibenelanatura·custumedelegente
+R5465 P2-left L42 | darme·isognose·considerai·siandonelinuernonseposseua
+R5465 P2-left L43 | a·starestantiesenongli·e·aua·recordimealco·ece·r
+R5465 P2-left L44 | teparolemedissefacelsitudineuostra·tuctohotroua
+R5465 P2-left L45 | toesse·euerissimocomepiuapienoman·aroperpierantonio
+R5465 P2-left M01a (margin) | …mezodis·
+R5465 P2-left M01b (margin) | ·oacel
+R5465 P2-left M01c (margin) | tudine
+R5465 P2-left M01d (margin) | ostra
+R5465 P2-left J01-upper (interlinear) | in·ocredosuo
+R5465 P2-left J01-lower (interlinear) | …mesia
+R5465 P2-left M03 (interlinear) | nelmio
+R5465 P2-left M04a (margin) | poil·o
+R5465 P2-left M04b (margin) | p·i·
+R5465 P2-left M04c (margin) | l·onuo
+R5465 P2-left M04d (margin) | ·acor
+R5465 P2-left M04e (margin) | niuno
+R5465 P2-left M04f (margin) | moui
+R5465 P2-right L01 | ·omnecosanseposcriuerequatrouoanchesseregrandi·erentia
+R5465 P2-right L02 | da·ol·atiasoldatiapiurechesceuoleuno·unaltrochoue
+R5465 P2-right L03 | ·utoperefectoaper…perientiaeldannoadelimie·essere
+R5465 P2-right L04 | grandissimoperhauereestisoldatiad·sso··q·estato
+R5465 P2-right L05 | factopocomale·po·ouegenosi··ct·oafarseli·perlotem
+R5465 P2-right L06 | podelinuernoinlae·eceatrouamoaperomnealtrorespecta
+R5465 P2-right L07 | siglacosaseretrauainesti·ermini·iodicoalacelsit…dine
+R5465 P2-right L08 | uostra·iosuplicomeuogliaperdonareseinestafactodel·
+R5465 P2-right L09 | permpet·operpassioneinalcunomodo…hauessefacto
+R5465 P2-right L10 | cosa·nfusseinpiacer·alauostraillustrissimasigno
+R5465 P2-right L11 | ria·certamenteinalcunomodocumlaintentione·an·o
+R5465 P2-right L12 | erratouersodeella·primauoriamoriremilleuolte·fare
+R5465 P2-right L13 | cosagiopensasselirechescessecamedeestoademolteal
+R5465 P2-right L14 | trecosese·acelsitudineuostrameauisaranziadesuapia
+R5465 P2-right L15 | cere·iomandipierantaniquimandaroadirepiuapienon·
+R5465 P2-right L16 | hotroppograndespiacereperlorespectodicton·oha
+R5465 P2-right L17 | uerepossutamandarealpresente·…ademumpoi·laco…
+R5465 P2-right L18 | e·adomandodegratia·acelsitudineuostrameuoglia·iut
+R5465 P2-right L19 | re·consigliareacomandaredeelloparesse·ellaioha
+R5465 P2-right L20 | uesse·afare··in…lomese·apossibilecum·iohonor
+R5465 P2-right L21 | maiinestoognalcunaltracosauscirodelicomandamen
+R5465 P2-right L22 | tidelaillustrissimasignoriauostraal···emereco
+R5465 P2-right L23 | mando·…·comeforza·acelsitudineuostraea…
+R5465 P2-right L24 | ·auenne·fossomeroneperestoacor…del··perre
+R5465 P2-right L25 | specto·ioantendeualaintentioneauolunta·e
+R5465 P2-right L26 | celsitudineuostracomeellap…terasaper·iorema
+R5465 P2-right L27 | neuacontentoadoperareafaretuctoellosapeua
+R5465 P2-right L28 | adimandare·recor·alituctoellosepoidebene
+R5465 P2-right L29 | ··seguisse·ointentosuostuctoperrespecto
+R5465 P2-right L30 | delaillustrissimasignoriauostran·i·acerto
+R5465 P2-right L31 | ··aprincipalecosanofferisseamentein·ante·
+R5465 P2-right L32 | perfareestoacordosie·edaresubsidiorecepto
+R5465 P2-right L33 | afauorealchunirsecumluiafarecontraomne
+R5465 P2-right L34 | altrapersonadicendoanco···poffesegrandebe
+R5465 P2-right L35 | nperlomch·suoamoltealtrecosecome·adirelui
+R5465 P2-right L36 | h…·iohomandatounomihauenetiaauisitare
+R5465 P2-right L37 | elduhenouo·ralegrarme·…acumalcunealtrepar
+R5465 P2-right L38 | ticularitacomeperpieraq…nioauisarolacelsitt
+R5465 P2-right L39 | ·ineuostraala·iterummerecoma……
+R5465 P2-right I01 (interlinear) | con
+R5465 P2-right I02 (interlinear) | ·

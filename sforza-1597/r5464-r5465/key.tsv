@@ -1,0 +1,166 @@
+sign	letter	firm	tokens	table_letter	shown	shown_as_key
+G004	a	yes	116	a	62	0.82
+G015	c	yes	182	c	181	0.98
+G016	m	yes	35	m	32	1.00
+G018	b	yes	13	b	13	0.77
+G020	d	yes	1	l	1	0.00
+G021	s	yes	49	s	48	1.00
+G022	a	yes	227	a	226	1.00
+G023	e	yes	1011	e	1011	1.00
+G024	u	yes	1	f	1	0.00
+G025	f	yes	15	f	15	1.00
+G026	o	yes	111	o	103	0.83
+G033	d	yes	184	d	184	0.99
+G037	a	yes	518	a	514	0.99
+G040	i	yes	281	i	280	0.99
+G041	l	yes	2	h	2	0.00
+G042	d	yes	1	d	0	
+G046	m	yes	47	m	41	0.90
+G047	u	yes	53	u	50	1.00
+G050	a	yes	3	a	2	1.00
+G051	o	yes	416	o	416	1.00
+G053	s	yes	270	s	255	0.97
+G057	l	yes	273	l	272	0.99
+G058	n	yes	321	n	310	0.99
+G059	t	yes	501	t	498	1.00
+G060	c	no	1	c	0	
+G061	l	no	35	l	0	
+G062	p	yes	241	p	240	1.00
+G063	r	yes	519	r	519	1.00
+G064	i	yes	38	i	14	0.64
+G065	i	yes	13	a	11	0.00
+G066	e	yes	56	e	54	0.98
+G067	l	no	25	l	0	
+G068	g	yes	24	g	21	0.86
+G069	r	yes	35	r	34	0.91
+G070	u	yes	11	o	6	0.33
+G071	l	yes	1	u	1	0.00
+G072	d	yes	1	t	1	0.00
+G073	o	yes	88	o	85	0.98
+G074	a	yes	1	a	0	
+G075	a	yes	5	a	5	1.00
+G076	o	yes	3	o	3	0.67
+G077	m	yes	193	m	188	1.00
+G078	n	yes	1	n	1	1.00
+G079	i	yes	40	n	15	0.33
+G080	i	no	9	i	0	
+G081	i	no	4	i	0	
+G082	o	no	1	o	0	
+G097	n	yes	5	n	3	0.33
+G105	s	yes	1	s	1	1.00
+G107	c	yes	4	c	4	1.00
+G113	r	yes	3	r	2	1.00
+G117	l	yes	3	l	3	1.00
+G118	o	yes	86	o	86	1.00
+G119	a	yes	76	a	69	0.71
+G120	u	yes	64	u	64	1.00
+G121	n	yes	165	n	165	0.99
+G122	e	yes	10	e	10	0.70
+G123	z	yes	10	z	9	1.00
+G124	h	yes	40	h	39	0.90
+G125	d	yes	97	d	97	1.00
+G126	l	yes	9	l	4	0.50
+G128	o	yes	1	f	0	
+G129	f	yes	25	f	17	0.76
+G130	r	yes	1	n	1	0.00
+G131	g	yes	44	g	43	0.98
+G132	u	yes	2	f	1	0.00
+G133	m	yes	2	a	2	0.50
+G134	q	yes	2	q	2	1.00
+G135	i	yes	37	g	14	0.00
+G136	n	yes	1	n	1	1.00
+G137	o	yes	3	o	3	0.67
+G138	o	yes	1	o	1	1.00
+G139	r	no	6	q	0	
+G140	n	yes	12	n	12	0.67
+G141	u	yes	1	u	1	1.00
+G142	x	yes	1	x	1	1.00
+G143	x	yes	1	x	1	1.00
+G144	z	yes	1	u	1	0.00
+G145	q	yes	1	q	1	1.00
+G146	m	yes	1	m	0	
+G147	c	yes	1	f	1	0.00
+G151	a	yes	4	a	3	0.67
+G152	o	yes	1	e	1	0.00
+G153	o	yes	1	e	1	0.00
+G154	d	yes	1	d	1	1.00
+G155	q	yes	1	q	1	1.00
+G156	e	yes	37	e	29	0.76
+G157	x	no	1	g	0	
+G167	s	yes	1	g	1	0.00
+G168	s	yes	1	s	0	
+G169	g	yes	1	s	0	
+G170	h	no	2	e	0	
+G173	q	yes	1	q	1	1.00
+G178	i	yes	90	i	89	1.00
+G179	z	yes	2	z	2	0.50
+G180	a	yes	148	a	145	0.99
+G181	h	yes	12	h	11	1.00
+G182	a	yes	2	h	1	0.00
+G183	a	yes	11	n	7	0.00
+G184	a	yes	2	a	2	1.00
+G185	o	yes	1	o	0	
+G186	n	yes	1	o	1	0.00
+G187	b	yes	1	p	0	
+G188	d	yes	1	i	0	
+G189	x	no	1	m	0	
+G231	l	yes	72	l	66	0.97
+G232	u	yes	58	u	55	1.00
+G233	s	yes	68	s	66	0.95
+G234	i	yes	9	i	8	1.00
+G235	s	yes	62	s	62	1.00
+G236	i	yes	60	i	57	0.95
+G237	d	yes	61	d	61	1.00
+G238	e	yes	88	e	80	0.82
+G240	a	yes	52	a	49	0.96
+G241	o	yes	60	o	59	1.00
+G242	c	yes	79	c	59	0.83
+G255	b	yes	2	b	2	1.00
+G257	n	yes	1	a	0	
+G258	r	yes	2	r	2	1.00
+G260	a	no	1	a	0	
+G261	i	yes	163	i	162	1.00
+G262	u	yes	67	u	65	1.00
+G263	i	yes	2	g	2	0.00
+G265	h	yes	26	h	26	0.92
+G266	b	yes	19	b	19	0.89
+G267	c	yes	57	c	56	0.98
+G268	e	no	22	l	0	
+G269	f	yes	23	f	18	1.00
+G270	l	yes	8	d	4	0.25
+G271	a	yes	2	s	1	0.00
+G272	s	yes	5	s	4	0.75
+G273	d	yes	1	d	1	1.00
+G274	t	yes	1	r	0	
+G275	m	yes	1	c	1	0.00
+G276	x	yes	1	x	1	1.00
+G277	t	yes	3	l	3	0.00
+G278	f	yes	1	q	1	0.00
+G279	n	yes	1	f	1	0.00
+G280	u	yes	3	u	2	1.00
+G303	l	yes	1	p	1	0.00
+G313	i	yes	48	i	47	0.98
+G314	a	yes	31	a	25	0.68
+G315	e	yes	44	e	34	0.82
+G316	l	yes	54	l	42	0.88
+G317	u	yes	70	u	70	0.99
+G318	s	yes	62	s	62	1.00
+G319	e	no	19	e	0	
+G321	d	yes	1	d	1	1.00
+G330	l	yes	59	l	49	0.90
+G331	o	yes	29	o	28	1.00
+G332	d	yes	3	d	3	1.00
+G333	l	yes	1	c	1	0.00
+G334	q	yes	1	h	1	0.00
+G335	q	no	1	x	0	
+G336	c	yes	1	i	0	
+G337	n	yes	1	n	1	1.00
+G338	i	yes	19	i	16	0.75
+G340	o	no	2	a	0	
+G341	x	no	1	r	0	
+G342	l	yes	1	u	1	0.00
+G343	h	yes	3	h	2	0.50
+G344	s	yes	23	s	23	1.00
+G345	u	yes	68	u	68	1.00
+G346	i	yes	44	i	42	0.98
+G347	o	yes	6	o	6	0.83
