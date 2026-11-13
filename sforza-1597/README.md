@@ -2,7 +2,13 @@
 
 This folder holds our partial reads of nine cipher letters of the Sforza chancery. The letters are DECODE records 5425 to 5430, 5463, 5464 and 5465 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597).
 
-We read these letters from the ciphertext alone. We used no key from outside. For these reads, we opened no key sheet of this box and used no letter value of any key sheet. We opened no deciphered text of these letters. For our twins, we took the shape of one sheet (no. 14) from the ledger's transcription of it. That was on 7 November 2026, before we adopted the rule to read from the ciphertext alone. No key sheet and no clear text checks the reads. By the read bar of the cipher ledger, they are partial reads, not readings.
+We read these letters from the ciphertext alone.
+
+- We used no key from outside, and no letter value of any key sheet.
+- For these reads, we opened no key sheet of this box, and no deciphered text of these letters.
+- For our twins, we took the shape of one sheet (no. 14) from the ledger's transcription of it. That was on 7 November 2026, before we adopted the rule to read from the ciphertext alone.
+- No key sheet and no clear text checks the reads.
+- By the read bar of the cipher ledger, they are partial reads, not readings.
 
 A sign is one written sign of the cipher text, as a transcription gives it. A shown letter is not a letter read. "94% of the signs show a letter" does not mean "94% read".
 
