@@ -2,7 +2,7 @@
 
 This folder holds our partial reads of nine cipher letters of the Sforza chancery. The letters are DECODE records 5425 to 5430, 5463, 5464 and 5465 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597).
 
-We read these letters from the ciphertext alone. We used no key from outside. We opened no key sheet of this box, and no deciphered text of these letters. No key sheet and no clear text checks the reads. By the read bar of the cipher ledger, they are partial reads, not readings.
+We read these letters from the ciphertext alone. We used no key from outside. For these reads, we opened no key sheet of this box and used no letter value of any key sheet. We opened no deciphered text of these letters. For our twins, we took the shape of one sheet (no. 14) from the ledger's transcription of it. That was on 7 November 2026, before we adopted the rule to read from the ciphertext alone. No key sheet and no clear text checks the reads. By the read bar of the cipher ledger, they are partial reads, not readings.
 
 A sign is one written sign of the cipher text, as a transcription gives it. A shown letter is not a letter read. "94% of the signs show a letter" does not mean "94% read".
 
@@ -19,11 +19,11 @@ A sign is one written sign of the cipher text, as a transcription gives it. A sh
 
 - **Our transcription** is our own machine transcription of the DECODE images, not verified. It is not in this repository, because DECODE marks the ciphertext of these letters as private. We share it with DECODE and with the archive on request.
 - **A twin** is an artificial letter: real Italian, enciphered with a key of the same shape and read by a simulated sign reader. On a twin we can count the right letters. A twin value describes the twins, not the real read.
-- **Two readings of one page agree.** We aligned the earlier and the second decode of each page. Where both show a letter, they agree on 93% to 97% of the places (real; records 5463, 5464 and page 1 of 5465). The same alignment gives 49% to 69% for two different pages. The two second-read check pages give the counts.
-- **Two blind readers** read each record as Italian sentences, by a rule that we declared before they ran. They are two large language models. Each saw our decode and two shuffled copies, with no name, date or source. Their shares are estimates, not counts:
+- **Two readings of one page agree.** We aligned the earlier and the second decode of each page. Where both show a letter, they agree on 93% to 97% of the places (real; records 5463, 5464 and page 1 of 5465). The same alignment gives 49% to 69% for two different pages (real). The two second-read check pages give the counts.
+- **Two blind readers** judged each read. They are two large language models. Each saw our decode and two shuffled copies, with no name, date or source. By a rule that we declared before they ran, each record of the second reads and of records 5425 to 5430 reads as Italian sentences. The earlier read of record 5465 reads in patches only. Their shares are estimates, not counts, of the shown letters:
   - earlier reads: 5463, 65% to 75%; 5464, 65% to 70%; 5465, about 55% of the shown letters (real);
   - second reads: 5463, about 87% and 72%; 5464, about 75%; 5465, about 70% (real);
-  - records 5425 to 5430: 40% to 69% (real);
+  - records 5425 to 5430: 40% to 69% of the shown letters (real);
   - twin pages with 94% to 95% of their shown letters right: 55% to 70% (twin).
 - Each `check.md` gives the tests, the controls and the limits. Each `reading.md` gives the stretches that read, in Italian with an English translation.
 
@@ -53,11 +53,11 @@ A sign is one written sign of the cipher text, as a transcription gives it. A sh
   - `channel.tsv`: the fitted table that the decode uses;
   - `check.md`: what supports the read, and what does not.
 - The columns of `channel.tsv` differ between these folders. In `r5425-r5430/`, `weight` is the share of the label's signs, and `emission` is P(sign | letter). In the two second-read folders, `weight` is P(sign | letter), and `share_of_label` is the decode's share of the label's signs. Each `check.md` defines its own columns.
-- The `.tsv` files have no header of their own. This page and each `check.md` give their source.
+- The `.tsv` files have no source-credit header of their own. This page and each `check.md` give their source.
 - `sforza-1597-a-sealed-2026-11-12.tar.gpg`: our read of records 5425 to 5430, sealed on 12 November 2026.
   - GnuPG encrypted it (symmetric, AES-256).
-  - We will publish its passphrase here when we have a better version.
-  - Then anyone can decrypt it with `gpg --decrypt sforza-1597-a-sealed-2026-11-12.tar.gpg` and see what we held on this date.
+  - We keep its passphrase. We will show it when the date of this read must be proven.
+  - With the passphrase, anyone can decrypt it with `gpg --decrypt sforza-1597-a-sealed-2026-11-12.tar.gpg` and see what we held on this date.
   - It holds an earlier read of these six records. The read in `r5425-r5430/` is a new one.
 
 ## Dates

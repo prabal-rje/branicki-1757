@@ -2,7 +2,7 @@
 
 Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 5425 to 5430. Six letters, which we read together with one key. Italian, in cipher.
 
-**A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right.** No key sheet and no clear text checks this read.
+**A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right (twin).** No key sheet and no clear text checks this read.
 
 The signs are our own machine transcription of the DECODE images, not verified. Nobody has checked a decoded word against the ink.
 

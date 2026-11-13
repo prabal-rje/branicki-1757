@@ -1,6 +1,6 @@
 # DECODE records 5464 and 5465, second read: what supports the read, and what does not
 
-Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 5464 and 5465. Two letters, each of two pages. Italian, in cipher.
+Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 5464 and 5465. Two letters. Record 5464 has two pages. Record 5465 has three pages in DECODE's count; its second image shows two of them, which we transcribe as two faces. Italian, in cipher.
 
 **This is a partial read from the ciphertext alone, not checked against a key. Twins of this size read .94 of the shown letters right (twin).** No key sheet and no clear text checks it. Nobody has checked a decoded word against the ink.
 
@@ -22,7 +22,7 @@ This is our second read of records 5464 and 5465.
 | Measure | Record 5464 | Record 5465 | Both |
 | --- | ---: | ---: | ---: |
 | Sign tokens decoded (real) | 3,156 | 5,535 | 8,691 |
-| Rows (real) | 83, on two pages | 145, on two pages (three faces) | 228 |
+| Rows (real) | 83, on two pages | 145, on two images (three faces) | 228 |
 | Sign tokens that show a letter (real) | .934 | .947 | .942 |
 | The key letter equals the shown letter (real) | .971 | .962 | .965 |
 
