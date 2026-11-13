@@ -1,5 +1,5 @@
 # DECODE records 5425 to 5430 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597): our decode, from the ciphertext alone.
-# A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right.
+# A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right (twin).
 # Nobody has checked it against a key sheet or a clear text.
 # check.md gives what supports it and what does not.
 # The signs are our own machine transcription of the DECODE images, not verified. It is not in this repository,

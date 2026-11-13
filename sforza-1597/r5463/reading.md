@@ -2,7 +2,7 @@
 
 Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE record 5463. One page. Italian, in cipher. No date, sender or addressee is read.
 
-**These are partial readings from the ciphertext alone, not checked against a key.** No key sheet and no clear text checks them. `check.md` gives what supports them and what does not.
+**These are partial reads from the ciphertext alone, not checked against a key.** No key sheet and no clear text checks them. `check.md` gives what supports them and what does not.
 
 The ledger's maintainer saw fragments of this letter first: "desideroso", "sperare" and "perche".
 

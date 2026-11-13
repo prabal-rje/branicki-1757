@@ -2,7 +2,7 @@
 
 Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 5425 to 5430. Six letters, which we read together with one key. Italian, in cipher. No sender, addressee or year is read.
 
-**A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right.** No key sheet and no clear text checks this read. `check.md` gives what supports it and what does not.
+**A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right (twin).** No key sheet and no clear text checks this read. `check.md` gives what supports it and what does not.
 
 The signs are our own machine transcription of the DECODE images, not verified.
 
@@ -45,11 +45,11 @@ The letter model learned from printed Milanese dispatches of the 1460s and 1470s
 | L18 | `sarianopiaciuteetseno` | sariano piaciute, et se no[n] | would have pleased, and if not |
 | L18 | `haueriamscriptoperc··e` | haveria [?m] scripto, perc[h]e | would have written, because |
 | L19 | `delam··asatore··enetiano` | de la m··asatore ··enetiano [?de l'ambasatore venetiano] | of the m··asatore ··enetiano [?Venetian ambassador] |
-| L20 | `adarneaduiso` ... `perleonardo` ... `uenetiaquestoe···elochescriuoa` | a darne aviso ... per Leonardo ... Venetia. Questo e […]elo che scrivo a | to give notice of it ... through Leonardo ... Venice. This is what I write to |
+| L20 | `adarneaduiso` ... `perleonardo` ... `uenetiaquestoe···elochescriuoa` | a darne adviso ... per Leonardo ... Venetia. Questo e […]elo che scrivo a | to give notice of it ... through Leonardo ... Venice. This is what I write to |
 | L22 | `prefattoetlo·scripse` | prefatto, et lo· scripse | the aforesaid, and he wrote it |
 | L23 to L24 | `eramoltomalconento` ... `mandoloperelprefa` / `to` | era molto mal con[t]ento ... mandolo per el prefa/to | he was very discontented ... sending it by the aforesaid |
 | L25 | `dice··hequelifustriliuostatos·iadibonauogliache·non` | dice [c]he quel ifustriliuo [?illustrissimo] stato s[t]ia di bona voglia, che· non | says that that most illustrious state should be of good cheer, that not |
-| L26 | `c··esequelno·idar·adiuto` | c[h]e, se quel no· i dar·a [?daria] adiuto | that, if he no· i dar·a [?would not give] him help |
+| L26 | `c··esequelno·idar·adiuto` | c[h]e, se quel no· i dar· [?daria] adiuto | that, if he no· i dar· [?would not give] him help |
 | L27 to L28 | `elqualueneperahauer·inuestitura` / `delducatodiui·ano` | el qual vene per a haver · investitura / del ducato di ui·ano | who came to have the investiture / of the duchy of ui·ano (a place; the decode does not give "Milano" here) |
 | L28 | `andilimaquantitadedenari` | [gr]andilima [?grandissima] quantita de denari | a very great sum of money |
 | L30 | `difarnestimaperc··e··auendolo` | di farne stima, perc[h]e [h]avendolo | to set store by it, because, having it |
@@ -95,12 +95,12 @@ The letter model learned from printed Milanese dispatches of the 1460s and 1470s
 | L35 | `inuestirediquelasignoriadimilanoeldicto` | investire di quela signoria di Milano el dicto | to invest the said [person] with that lordship of Milan |
 | L35 to L36 | `randilimaquantitadeduca` / `ti` | [g]randilima [?grandissima] quantita de duca/ti | a very great sum of ducats |
 | L37 | `edendodictiononpotereobtenirquestaproposeroch·e` | [v]edendo dictio [?dicti] non potere obtenir questa, proposero ch·e | seeing that the said could not obtain this, they proposed that |
-| L38 | `dalqualesua·a·estanondo·iadiscrepareda·a··olontadisuasanc·it` | dal quale sua [M]a[i]esta non do[v]ia discrepare da [l]a ··olonta [?volonta] di sua Sanc[t]it[a] | from which his Majesty should not depart from the will of his Holiness |
+| L38 | `dalqualesua·a·estanondo·iadiscrepareda·a··olontadisuasanc·it` | dal quale sua [M]a[i]esta non do[v]ia discrepare da [l]a ··olonta [?volonta] di sua Sanc[t]it[a] | from which his Majesty should not differ: the will of his Holiness |
 | L39 | `iliqualia··ianograndili·einteligentieconelpopulo` | […]i li quali a··iano [?habiano] grandili·e [?grandissime] inteligentie con el populo | who have very great understandings with the people |
 | L40 | `ch·esuasansti·anodubi··a` | ch·e sua Sansti[t]a no dubi··a [?dubita] | that his Holiness does not doubt |
 | L42 to L43 | `questo·isp·oseroch·esietnon` / `potendo` | questo [r]isp·osero ch·e si, et non / potendo | to this they answered yes; and not being able |
 | L44 | `alpresenteno·altroseno` | al presente no[n] altro se no | at present nothing else but |
-| L45 to L46 | `scriptaingle·dieui·e` / `si··oc·aua` | scripta in gle· [?], die vi[g]e/si[ma] oc[t]ava | written in gle· [?], on the twenty-eighth day |
+| L45 to L46 | `scriptaingle·dieui·e` / `si··oc·aua` | scripta in gle· [?], die vi[g]e/si[ma] oc[t]ava | written in gle· [?], on the [?twenty-eighth] day |
 
 ## Record 5427 (R5427-P)
 
@@ -146,13 +146,13 @@ The letter model learned from printed Milanese dispatches of the 1460s and 1470s
 | L13 | `oratoricongrande··ectione` | oratori con grande [af]ectione | envoys with great affection |
 | L15 | `questaest·talarisposta` | questa e st[a]ta la risposta | this has been the reply |
 | L16 | `periaparl·rneperchelacortedeli` | [sa]peria parl[a]rne, perche la corte de li | would know how to speak of it, because the court of the |
-| L16 to L17 | `noncor·diprincipenela·qualeconuenganogentil` / `homini` | non cor· [?corte] di principe ne la ·quale convegnano gentil/homini | not a prince's court, in which gentlemen gather |
-| L17 | `ononpo·iaaduisaruideleco·esecrete` | [?]o non po[t]ia avisarvi de le co[s]e secrete | ... could not inform you of the secret things |
+| L16 to L17 | `noncor·diprincipenela·qualeconuenganogentil` / `homini` | non cor· [?corte] di principe ne la ·quale convengano gentil/homini | not a prince's court, in which gentlemen gather |
+| L17 | `ononpo·iaaduisaruideleco·esecrete` | [?]o non po[t]ia advisarvi de le co[s]e secrete | ... could not inform you of the secret things |
 | L19 | `cioeperc·naparteelre·atoelprotonotariode` | cioe per c·na [?una] parte el re·ato [?legato], el protonotario de | that is, on one side the re·ato [?legate], the protonotary of |
 | L19 | `·eantonio·ralisetperlaltra` | ·e Antonio ·ralis, et per l'altra | ... Antonio ...ralis, and on the other |
 | L20 | `elqualpartendo·idiqua` | el qual partendo ·i di qua | who, leaving here |
 | L20 | `etdiladiceuoreandaredal` | et di la dice vore andare dal | and from there he says that he wants to go to the |
-| L21 | `etperlaltrocaua·ronedaroaduiso` | et per l'altro caua·rone [?cavallaro] daro aviso | and by the other caua·rone [?courier] I shall give notice |
+| L21 | `etperlaltrocaua·ronedaroaduiso` | et per l'altro caua·rone [?cavallaro] daro adviso | and by the other caua·rone [?courier] I shall give notice |
 | L22 | `·econdohopotutointendere` | [s]econdo ho potuto intendere | as far as I have been able to learn |
 | L23 | `haintaligentiaethafacto` | ha intaligentia [?intelligentia] et ha facto | has an understanding, and has made |
 | L24 | `nonsiextimaaltro` | non si extima altro | nothing else is expected |

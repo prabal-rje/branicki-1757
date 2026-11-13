@@ -25,7 +25,7 @@ The stretches speak of these things:
 - friendship and enmity, and the grace of God;
 - great obligations to a "magnificent" person, called "father";
 - a request for a letter written in a very light cipher, and letters a little more difficult to come;
-- practice in writing in cipher: no rule, but long practice and experience;
+- practice in writing in cipher: no [?rule], but long practice and experience;
 - a man named Zohane Antonio da Pavia, who sets down [?rules] in writing.
 
 We give these as our reading of the stretches, not as a checked summary of the letter.
@@ -36,11 +36,11 @@ We give these as our reading of the stretches, not as a checked summary of the l
 | --- | --- | --- | --- |
 | L01 | `miserzohane` ... `ntonio` | miser Zohane […]ntonio | Messer Zohane […]ntonio (a name; "Antonio" is one fit, see L33) |
 | L02 to L03 | `tantainimicitiaquantaeamicicianon` / `sariacosiliberaleinparticipare` | tanta inimicitia quanta e amicicia non saria cosi liberale in participare | so much enmity as friendship ... (I) would not be so free in sharing (the sense of the opening words is not clear) |
-| L04 to L07 | `uoilapochagratiachemehadonatalaltis` / `simodiomaperchecognoscochemeama` / `tisingularmenteperuostrahumani` / `ta` | voi la pocha gratia che me ha donata l'altissimo Dio; ma perche cognosco che me amati singularmente per vostra humanita | with you the little gift that God Most High has given me; but because I know that you love me singularly, by your kindness |
+| L04 to L07 | `uoilapochagratiachemehadonatalaltis` / `simodiomaperchecognoscochemeama` / `tisingularmenteperuostrahumani` / `ta` | voi la pocha gratia che me ha donata l'altissimo Dio; ma perche cognosco che me amati singularmente per vostra humanita | you the little grace that God Most High has given me; but because I know that you love me singularly, by your kindness |
 | L07 | `chelsignoreedesidero·o` | chel signore e desidero[…]o | that the lord ... and desirous ("desideroso" is one fit) |
 | L08 | `elmentierode·ifrare` | el [?mentiero] de […]ifrare | the [?craft] of […]ciphering ("mestiero" and "cifrare" are one fit) |
 | L09 | `perobedirelaexcellentia` | per obedire la excellentia | to obey the excellency |
-| L09 to L10 | `apoipe` / `·rfarecosagrata` | a poi per fare cosa grata | and then to do a welcome thing |
+| L09 to L10 | `apoipe` / `·rfarecosagrata` | a poi pe[…]r fare cosa grata | and then to do a welcome thing |
 | L10 to L11 | `mag` / `nificomonstropatre` | magnifico [?nostro] patre (shown `monstro`) | magnificent [?our] father (a title) |
 | L11 to L14 | `alqualehotent` / `ioblighichenonmesariaposibilesat` / `isfarliunamilesimapartedelbened` / `aluireceuuto` | al quale ho [?tanti] oblighi (shown `tenti`) che non me saria posibile satisfarli una milesima parte del bene da lui receuuto | to whom I have [?so many] obligations that I could not repay him a thousandth part of the good received from him |
 | L14 | `chesperoreceuere` | che spero receuere | which I hope to receive |
@@ -50,7 +50,7 @@ We give these as our reading of the stretches, not as a checked summary of the l
 | L20 to L21 | `percheuenescriuaroperalt` / `reunpocopiudifficilesperquestauia` | perche ve ne scrivaro per altre un poco piu difficiles per questa via | because I shall write to you by other (letters), a little more difficult, by this way |
 | L22 | `defarliexperto` | de farli experto | to make him expert |
 | L23 to L24 | `chedeuogliatie` / `xercitareinscriuereasaiinzifra` | che de [?vogliati] exercitare in scrivere asai in zifra | that you [?should] practise writing a great deal in cipher |
-| L25 to L26 | `certificando·icomedehodictochen` / `oncere·ula` | certificando[…]i, come de ho dicto, che non c'e re[…]ula | assuring you, as I have said, that there is no rule |
+| L25 to L26 | `certificando·icomedehodictochen` / `oncere·ula` | certificando[…]i, come de ho dicto, che non c'e re[…]ula | assuring you, as I have said, that there is no [?rule] |
 | L26 to L28 | `senonqueleh` / `au·iintesomasolumperlong·exerc` / `itatione·experientiasecognosce` | se non quele hav[…]i inteso; ma solum per long[…] exercitatione […] experientia se cognosce | except those that you have heard; but it is learned only by long practice and experience |
 | L32 to L33 | `sedicebe` / `nchezohaneantoniodapauia` | se dice ben che Zohane Antonio da Pavia | it is well said that Zohane Antonio da Pavia (a name) |
 | L33 to L35 | `facer` / `terequleinscriptoprego·iueforz` / `atiuederle` | fa certe [?regule] (shown `requle`) in scripto; prego[…]i ve forzati vederle | sets down certain [?rules] in writing; I beg you to make an effort to see them |

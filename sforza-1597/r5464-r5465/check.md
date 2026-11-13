@@ -1,6 +1,6 @@
 # DECODE records 5464 and 5465, second read: what supports the read, and what does not
 
-Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 5464 and 5465. Two letters, each of two pages. Italian, in cipher.
+Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 5464 and 5465. Two letters. Record 5464 has two pages. Record 5465 has three pages in DECODE's count; its second image shows two of them, which we transcribe as two faces. Italian, in cipher.
 
 **This is a partial read from the ciphertext alone, not checked against a key. Twins of this size read .94 of the shown letters right (twin).** No key sheet and no clear text checks it. Nobody has checked a decoded word against the ink.
 
@@ -22,7 +22,7 @@ This is our second read of records 5464 and 5465.
 | Measure | Record 5464 | Record 5465 | Both |
 | --- | ---: | ---: | ---: |
 | Sign tokens decoded (real) | 3,156 | 5,535 | 8,691 |
-| Rows (real) | 83, on two pages | 145, on two pages (three faces) | 228 |
+| Rows (real) | 83, on two pages | 145, on two images (three faces) | 228 |
 | Sign tokens that show a letter (real) | .934 | .947 | .942 |
 | The key letter equals the shown letter (real) | .971 | .962 | .965 |
 
@@ -157,7 +157,7 @@ Each twin is real Italian, enciphered and then read by a simulated sign reader.
   - record 5465, page 2 left: 26 letters, `llustrissimasignoriauostra`;
   - record 5465, page 2 right: 31 letters, `delaillustrissimasignoriauostra`.
 - The seven twins give 13 to 54 letters by page (twin). The shuffle gives 12 to 14 letters by page (real tokens, shuffled). So this check separates the read from the shuffle, not from the twins.
-- **Names.** The decode shows "Antonio da Trezo", "Pierantonio", "Iacomo dal Borgo" and "Piero Feli·e". In the letter model's text, "antoniodatrezo", "pierantonio", "iacomodalborgo" and "pierofelice" occur 0 times (real). So the letter model did not copy these names. The decode also shows "uenetia" (Venice); that text holds it 84 times.
+- **Names.** The decode shows "Antonio da Trezo", "Pierantonio", "Iacomo dal Borgo" and "Piero Feli·e". In the letter model's text, "antoniodatrezo", "pierantonio", "iacomodalborgo" and "pierofelice" occur 0 times (real). So the letter model did not copy these names. The decode also shows "uenetia" (Venice); that text holds it 84 times as a string, often inside "uenetiani".
 
 ## 8. The earlier reads and the second read, side by side
 
