@@ -63,7 +63,7 @@ A sign is one written sign of the cipher text, as a transcription gives it. A sh
 - `sforza-1597-a-sealed-2026-11-12.tar.gpg`: our read of records 5425 to 5430, sealed on 12 November 2026.
   - GnuPG encrypted it (symmetric, AES-256).
   - We keep its passphrase. We will show it when the date of this read must be proven.
-  - With the passphrase, anyone can decrypt it with `gpg --decrypt sforza-1597-a-sealed-2026-11-12.tar.gpg` and see what we held on this date.
+  - Then anyone can decrypt it with `gpg --decrypt sforza-1597-a-sealed-2026-11-12.tar.gpg` and see what we held on this date.
   - It holds an earlier read of these six records. The read in `r5425-r5430/` is a new one.
 
 ## Dates
