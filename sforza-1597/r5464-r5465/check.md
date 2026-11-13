@@ -157,7 +157,7 @@ Each twin is real Italian, enciphered and then read by a simulated sign reader.
   - record 5465, page 2 left: 26 letters, `llustrissimasignoriauostra`;
   - record 5465, page 2 right: 31 letters, `delaillustrissimasignoriauostra`.
 - The seven twins give 13 to 54 letters by page (twin). The shuffle gives 12 to 14 letters by page (real tokens, shuffled). So this check separates the read from the shuffle, not from the twins.
-- **Names.** The decode shows "Antonio da Trezo", "Pierantonio", "Iacomo dal Borgo", "Piero Feli·e" and "Venetia". In the letter model's text, "antoniodatrezo", "pierantonio", "iacomodalborgo", "pierofelice" and "venetia" occur 0 times (real). So the letter model did not copy these names.
+- **Names.** The decode shows "Antonio da Trezo", "Pierantonio", "Iacomo dal Borgo" and "Piero Feli·e". In the letter model's text, "antoniodatrezo", "pierantonio", "iacomodalborgo" and "pierofelice" occur 0 times (real). So the letter model did not copy these names. The decode also shows "uenetia" (Venice); that text holds it 84 times.
 
 ## 8. The earlier reads and the second read, side by side
 

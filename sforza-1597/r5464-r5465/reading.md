@@ -158,7 +158,7 @@ The two lists of topics below are our reading of the stretches, not a checked su
 - "the aforesaid lord duke": page 1, L28.
 - Venetia (Venice) and "the [?new doge]": page 2 right, L36 to L37 (shown `duhe`).
 - el Turco (the Turk): page 2 left, L18 to L19.
-- These names do not occur in the text of our letter model: "antoniodatrezo", "pierantonio", "iacomodalborgo", "pierofelice", "venetia" and "ducenouo" occur 0 times (real). "trezo" occurs once and "felice" 8 times.
+- These names do not occur in the text of our letter model: "antoniodatrezo", "pierantonio", "iacomodalborgo", "pierofelice" and "ducenouo" occur 0 times (real). "trezo" occurs once and "felice" 8 times. "uenetia" (Venice) occurs 84 times, so that name alone proves little.
 - No date is read.
 
 ## Notes
