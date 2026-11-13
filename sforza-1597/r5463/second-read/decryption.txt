@@ -1,0 +1,51 @@
+# DECODE record 5463 (Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597): our second read,
+# a partial read from the ciphertext alone, not checked against a key; twins of this size read .87 of the
+# shown letters right (twin). check.md gives what supports it and what does not, and the credits.
+# DECODE's images are for research use only. No DECODE image is in this repository.
+# The signs: our own machine transcription of the DECODE images, not verified. It is not in this repository,
+# because DECODE marks the ciphertext of these letters as private.
+# One character for each sign token of our transcription, in the same order: the shown letter, or · when the read
+# shows no letter. Each break token of the transcription (a gap, joined ink, an unclassed sign, clear text, the edge
+# of struck signs) shows as …. The marks _, /, [at:...] and [above:...] give no character.
+# The decode has 21 letters: u stands for u and v, i for i, j and y, and c for c and k.
+# The decode is not the key applied to the labels. It uses a fitted table (channel.tsv) and an order-4 letter model,
+# so one label can take other letters in context. The key letter of key.tsv equals the shown letter on 0.972
+# of the shown signs (real). An exact rebuild needs the letter model and our code, which we do not publish here.
+
+R5463 P L01 | miserzohane…ntonionetraexi··i·ose
+R5463 P L02 | tantainimicitiaquantaeamicicianon
+R5463 P L03 | sariacosiliberaleinparticipare·
+R5463 P L04 | uoilapochagratiachemehadonatalaltis
+R5463 P L05 | simodiomaperchecognoscochemeama
+R5463 P L06 | tisingularmenteperuostrahumani
+R5463 P L07 | talchelsignoreedesidero·oimpre
+R5463 P L08 | ndiatielmentierode·ifrare·oprim
+R5463 P L09 | aperobedirelaexcellentianoapoipe
+R5463 P L10 | ·rfarecosagrata·educadui·aliamalmag
+R5463 P L11 | nificomonstropatrealqualehotent
+R5463 P L12 | ioblighichenonmesariaposibilesat
+R5463 P L13 | isfarliunamilesimapartedelbened
+R5463 P L14 | aluireceuuto·chesperoreceuereh
+R5463 P L15 | odeliberatoinseguar·iinquestama
+R5463 P L16 | teriatutoquellochea·isiaposibile
+R5463 P L17 | perodemandounale·rascriptainzi·e
+R5463 P L18 | ralegierisimafaciolacauaticomezon
+R5463 P L19 | ocertofarlippoimerescriuatiperes
+R5463 P L20 | samedesmapercheuenescriuaroperalt
+R5463 P L21 | reunpocopiudifficilesperquestauia
+R5463 P L22 | defarliexperto·elmentierobenuti
+R5463 P L23 | recordo·idelmentechedeuogliatie
+R5463 P L24 | xercitareinscriuereasaiinzifra
+R5463 P L25 | certificando·icomedehodictochen
+R5463 P L26 | oncere·ulaincauallesenonqueleh
+R5463 P L27 | au·iintesomasolumperlong·exerc
+R5463 P L28 | itatione·experientiasecognosce
+R5463 P L29 | berroredelapagnoschidixeche·lie
+R5463 P L30 | requlacreditimechesso·inganalet
+R5463 P L31 | rentaannichiodoelmenteronong
+R5463 P L32 | liuidimairasonenirequlasedicebe
+R5463 P L33 | nchezohaneantoniodapauiafacer
+R5463 P L34 | terequleinscriptoprego·iueforz
+R5463 P L35 | atiuederleq…factoche…efaciatia
+R5463 P L36 | ncorauedereami·honestomodoperin
+R5463 P L37 | tenderepiucose·
