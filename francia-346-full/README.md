@@ -167,7 +167,7 @@ R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the publ
 - **R5634, R5638 and R5639** use digits only. The digit 6 is 2.9% to 7.7% of their digits. This is an observation; it does not show what 6 does there.
 - **R5660 to R5671** mix digits with letter forms: 12 to 24 letter forms that the transcription reads without doubt (none in R5661, which has 55 doubtful ones). Each record page gives its counts and the rule. The key-free page test finds no pair structure on 23 of their 24 pages. The other page, R5666 f. 398v, passes only because it has too few runs to judge (17).
 - The cipher ledger's notes of 29 October 2026 already say that R5670 uses a different system.
-- **Each of the 13 carries a decipherment of the time.**
+- **Twelve of the 13 carry a decipherment of the time between the cipher rows,** in my transcription. R5666 shows none there. A letter in clear stands on its later leaves, and I take it as the text of that cipher letter. This is my inference.
   - **R5634, R5638 and R5639:** a blind read is in progress. Their pages give no decode and no content yet.
   - **R5660 to R5666 and R5669 to R5671:** my tests found no cut of their rows that fits a letter cipher. No decode of mine exists. Their pages say what each letter says, in my words. The source is the clerk's decipherment of the time, or a clear copy on the leaves of the same record. The pages do not copy these texts.
 - One page, R5669 f. 407r, has no transcription yet.
@@ -241,7 +241,7 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 
 **Most records added on 13 November were read at the time too.**
 
-- Each of the 22 records with "Inline Plaintext: Yes" carries a clerk's decipherment between the rows.
+- Of the 22 records with "Inline Plaintext: Yes", 21 carry a clerk's decipherment between the rows in my transcription. R5666 has a letter in clear on its later leaves.
 - Lasry, Megyesi and Kopal (2020) published readings of R74, R77, R78 and R82.
 
 **A book of 1920.** A. Leman (1920) used the Barberini library's minutes of the cipher despatches to Ceva. So clear drafts of letters of this series were in use in print in 1920. I did not check which letters those minutes hold.
@@ -275,6 +275,6 @@ DECODE's images are for research use only. They may not be redistributed or publ
 - `check.md`: the grade of the frozen read against the published key, and the checks of 13 November
 - `r5626.md` to `r5659.md`: one page for each of the first 22 records, with the reading, the translation, the names and the decode row by row
 - `r5627.md` to `r5644.md` (nine pages) and `r74.md` to `r78.md`: the records added on 13 November, with a summary, the names and the decode
-- `r5660.md` to `r5666.md` and `r5669.md` to `r5671.md`: ten records in another cipher: what each letter says, from the decipherment of the time; no decode
+- `r5660.md` to `r5666.md` and `r5669.md` to `r5671.md`: ten records in another cipher: what each letter says, from the decipherment of the time or a clear copy; no decode
 - `r5634.md`, `r5638.md`, `r5639.md`: three records in another cipher, without a decode or content; a blind read is in progress
 - `rereads.md`: the decode of ten pages that my pipeline read again
