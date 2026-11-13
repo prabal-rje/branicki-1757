@@ -203,7 +203,7 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 **Francia 346, the later letters:** `francia-346-full/` has the notes, the check of my frozen read against the published key, and one page for each record. Each record page of the first 22 has the reading, the translation and the decode row by row.
 
 - Nine more records, which carry a decipherment of the time, and the earlier leaves R74 to R78 have pages with a summary and the decode.
-- Thirteen records use another cipher. Their short pages give no decode; a blind read of them is in progress.
+- Thirteen records use another cipher. The pages of ten of them report what a decipherment of the time or a clear copy says, with no decode. One of the ten holds only one short line. A blind read of the other three is in progress.
 - `key-and-key-free-read/` holds the key table and the frozen key-free read. `rereads.md` decodes ten pages that were read again.
 
 **Francia 32:** `francia-32/` states the work on this file of 1590 to 1592, in another cipher. It decodes nothing.

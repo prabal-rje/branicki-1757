@@ -13,7 +13,8 @@ DECODE holds 73 records of Francia 346 (260 scans).
 | R5626, R5635 to R5637, R5640, R5642, R5643, R5645 to R5659: the first 22 digit records | 22 | read with the known key; a summary and a reading for each | the sections below; `r5626.md` to `r5659.md` |
 | R5627 to R5633, R5641, R5644 | 9 | read with the known key (R5641 is too small to judge); each carries a decipherment of the time | [The records added on 13 November](#the-records-added-on-13-november-2026) |
 | R74 to R78, the earlier leaves | 5 | read with the known key from my pilot transcription; R74 to R76 in fragments | the same section |
-| R5634, R5638, R5639, R5660 to R5666, R5669 to R5671 | 13 | do not read with the known key: another cipher; each carries a decipherment of the time; my blind read is in progress | the same section |
+| R5660 to R5666, R5669 to R5671 | 10 | do not read with the known key: another cipher; content from the clerk's decipherment or a clear copy; no decode | [Thirteen records in another cipher](#thirteen-records-in-another-cipher) |
+| R5634, R5638, R5639 | 3 | do not read with the known key: another cipher; each carries a decipherment of the time; a blind read is in progress | the same section |
 | R5667, R5668, R5672 to R5686 | 17 | other signs; a blind fit is in progress | [The other records](#the-other-records-of-the-file) |
 | R79 to R84 | 6 | my pipeline has no transcription yet | the same section |
 | R5625 | 1 | a letter in clear | the same section |
@@ -107,6 +108,7 @@ The readings are partial. Each record page gives the Italian, the English and th
 - **Germany and the Swedes.** A rumour of a fortress on this side of the [?Rhine] held by the "Svezesi", probably the Swedes (R5636); aid to a people (code 104) under old alliances (R5651); a violated neutrality and the Imperial court (R5655).
 - **Church affairs.** A priory, offers of pensions (R5636, R5637), and the bull "de non infeudandis": the letter says that it also covers exchanges, and it names censures (R5649).
 - **A woman who is ill.** Rome hopes that she will be reconciled with a "f…uolo", perhaps her son, and return (R5646, R5648). The decode does not name her.
+- **Letters of other nuncios.** Ten records in another cipher hold letters from Vienna and Madrid, 1632 to 1634. Their content comes from the clerks' decipherment of the time or from a clear copy in the same record, not from a decode. See [Thirteen records in another cipher](#thirteen-records-in-another-cipher).
 
 ## The records added on 13 November 2026
 
@@ -165,8 +167,35 @@ R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the publ
 - **R5634, R5638 and R5639** use digits only. The digit 6 is 2.9% to 7.7% of their digits. This is an observation; it does not show what 6 does there.
 - **R5660 to R5671** mix digits with letter forms: 12 to 24 letter forms that the transcription reads without doubt (none in R5661, which has 55 doubtful ones). Each record page gives its counts and the rule. The key-free page test finds no pair structure on 23 of their 24 pages. The other page, R5666 f. 398v, passes only because it has too few runs to judge (17).
 - The cipher ledger's notes of 29 October 2026 already say that R5670 uses a different system.
-- **Each of the 13 carries a decipherment of the time.** My blind read of their cipher is in progress. Their pages give no decode and no content yet.
+- **Twelve of the 13 carry a decipherment of the time between the cipher rows,** in my transcription. R5666 shows none there. A letter in clear stands on its later leaves, and I take it as the text of that cipher letter. This is my inference.
+  - **R5634, R5638 and R5639:** a blind read is in progress. Their pages give no decode and no content yet.
+  - **R5660 to R5666 and R5669 to R5671:** my tests found no cut of their rows that fits a letter cipher. No decode of mine exists. Their pages say what each letter says, in my words. The source is the clerk's decipherment of the time, or a clear copy on the leaves of the same record. The pages do not copy these texts.
 - One page, R5669 f. 407r, has no transcription yet.
+
+**What the ten letters say.** They come from Vienna and Madrid, 1632 to 1634.
+
+- The address of R5670 names the extraordinary nuncio at Paris. Most of the others speak to a nuncio "costì" (there). In R5664, R5665, R5666 and R5671, the content points to the French court.
+- A cover sheet in R5660 (f. 383r) says, in short, that it holds ciphers written to Mons. [?Ceva] by other nuncios.
+- The pages report what the clerks' text, or a clear copy, says.
+
+| Record | Place and date | What the letter says, in one line |
+| --- | --- | --- |
+| [R5660](r5660.md) | Vienna, 1 Sept. 1634 | Should the addressee find out, or disclose, a will for friendship with the Emperor? (sparse) |
+| [R5661](r5661.md) | Madrid, 17 [?month] [?1632] | A good disposition at Madrid toward a settlement (sparse) |
+| [R5662](r5662.md) | Madrid, 24 Sept. 1632 | One short line only; no summary |
+| [R5663](r5663.md) | 1632; and Vienna, 20 Oct. [1632] | Bautru and Spain (sparse); a clear copy of R5664 |
+| [R5664](r5664.md) | Vienna, 20 Oct. 1632 | The Imperial view of a union with France; Richelieu's letters to the Swede; a third place for talks |
+| [R5665](r5665.md) | Vienna, [?3] Nov. 1632 | The Imperial side wants a sign of French good will, but not in its own name |
+| [R5666](r5666.md) | Madrid, 20 Nov. 1632 | Bautru at Madrid, with no faculty to treat |
+| [R5669](r5669.md) | Madrid, 19 Jan. 1633 | No peace talks before satisfaction for a French approach at Brussels |
+| [R5670](r5670.md) | Madrid, 19 Feb. 1633 | [?Benavides] brings Spain's answers; the addressee may enter the treaty |
+| [R5671](r5671.md) | Madrid, 9 [?March] 1633 | A commission for [?Benavides] and Aitona to enter the peace treaty |
+
+**Three striking items.** Each comes from the clerk's text or a clear copy, in a machine transcription that nobody verified.
+
+1. **Richelieu's letters to the Swede.** At Vienna on 20 October 1632, people at the Imperial court told the writer that they held letters of Cardinal Richelieu. In them, they said, Richelieu assured the Swede that the French King would never leave his alliance (R5664 f. 392r; the clear copy in R5663 f. 391r agrees).
+2. **A message that must not look Imperial.** At Vienna in November 1632, the Imperial side asked for a sign of French good will. A letter of the King, or a spoken message in his name, would do. The addressee was to present the idea as his own, never as the idea of the Emperor or his ministers (R5665 ff. 395r, 396r and 396v).
+3. **A commission to treat.** At Madrid in [?March] 1633, the writer obtained an order of the King of Spain. Ambassador [?Benavides] may now enter the peace treaty, and so may the [?Marquis] of Aitona in Flanders (R5671 f. 416v). A later letter notes that Bautru could not get such a faculty (R5671 f. 418r; see R5666).
 
 ## The key
 
@@ -212,7 +241,7 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 
 **Most records added on 13 November were read at the time too.**
 
-- Each of the 22 records with "Inline Plaintext: Yes" carries a clerk's decipherment between the rows.
+- Of the 22 records with "Inline Plaintext: Yes", 21 carry a clerk's decipherment between the rows in my transcription. R5666 has a letter in clear on its later leaves.
 - Lasry, Megyesi and Kopal (2020) published readings of R74, R77, R78 and R82.
 
 **A book of 1920.** A. Leman (1920) used the Barberini library's minutes of the cipher despatches to Ceva. So clear drafts of letters of this series were in use in print in 1920. I did not check which letters those minutes hold.
@@ -246,5 +275,6 @@ DECODE's images are for research use only. They may not be redistributed or publ
 - `check.md`: the grade of the frozen read against the published key, and the checks of 13 November
 - `r5626.md` to `r5659.md`: one page for each of the first 22 records, with the reading, the translation, the names and the decode row by row
 - `r5627.md` to `r5644.md` (nine pages) and `r74.md` to `r78.md`: the records added on 13 November, with a summary, the names and the decode
-- `r5634.md`, `r5638.md`, `r5639.md`, `r5660.md` to `r5666.md`, `r5669.md` to `r5671.md`: the 13 records in another cipher, without a decode
+- `r5660.md` to `r5666.md` and `r5669.md` to `r5671.md`: ten records in another cipher: what each letter says, from the decipherment of the time or a clear copy; no decode
+- `r5634.md`, `r5638.md`, `r5639.md`: three records in another cipher, without a decode or content; a blind read is in progress
 - `rereads.md`: the decode of ten pages that my pipeline read again
