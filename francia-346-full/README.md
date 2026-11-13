@@ -174,7 +174,7 @@ R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the publ
 
 **What the ten letters say.** They come from Vienna and Madrid, 1632 to 1634.
 
-- The address of R5670 names the extraordinary nuncio at Paris. The other letters speak to a nuncio "costì" (there); their content points to the French court.
+- The address of R5670 names the extraordinary nuncio at Paris. Most of the others speak to a nuncio "costì" (there). In R5664, R5665, R5666 and R5671, the content points to the French court.
 - A cover sheet in R5660 (f. 383r) says, in short, that it holds ciphers written to Mons. [?Ceva] by other nuncios.
 - The pages report what the clerks' text, or a clear copy, says.
 
@@ -185,7 +185,7 @@ R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the publ
 | [R5662](r5662.md) | Madrid, 24 Sept. 1632 | One short line only; no summary |
 | [R5663](r5663.md) | 1632; and Vienna, 20 Oct. [1632] | Bautru and Spain (sparse); a clear copy of R5664 |
 | [R5664](r5664.md) | Vienna, 20 Oct. 1632 | The Imperial view of a union with France; Richelieu's letters to the Swede; a third place for talks |
-| [R5665](r5665.md) | Vienna, [?3] Nov. 1632 | The Emperor's ministers want a sign of French good will, but not in their name |
+| [R5665](r5665.md) | Vienna, [?3] Nov. 1632 | The Imperial side wants a sign of French good will, but not in its own name |
 | [R5666](r5666.md) | Madrid, 20 Nov. 1632 | Bautru at Madrid, with no faculty to treat |
 | [R5669](r5669.md) | Madrid, 19 Jan. 1633 | No peace talks before satisfaction for a French approach at Brussels |
 | [R5670](r5670.md) | Madrid, 19 Feb. 1633 | [?Benavides] brings Spain's answers; the addressee may enter the treaty |
