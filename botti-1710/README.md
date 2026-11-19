@@ -58,6 +58,7 @@ The rows come from my own transcription of the DECODE images. Each English gloss
 - `records/r<number>.md`: one page for each letter: the English gloss, the rows as read, and the state of each page.
 - `key.tsv`: each code, its value, the source of the value, its count, the clerk's agreement at its places, and its doubt.
 - `key-page-signs.tsv`: sign labels that some pages without dots use, with their letter on that page.
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows, in `transcription/`, and how to read it.
 
 ## Credit
 
@@ -65,4 +66,4 @@ The rows come from my own transcription of the DECODE images. Each English gloss
 - **The archive:** British Library, Add MS 20443: papers of Cardinal F. A. Gualterio, correspondence with Abbé C. C. Botti.
 - **DECODE's record pages:** https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/8659.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row is in this repository.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. The cipher rows in `transcription/` are my own transcription of the DECODE images.
