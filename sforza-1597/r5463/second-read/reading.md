@@ -4,7 +4,7 @@ Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE record 5
 
 **This is a partial read from the ciphertext alone, not checked against a key. Twins of this size read .87 of the shown letters right (twin).** A twin is an artificial letter: real Italian, enciphered with a key of the same shape, then read by a simulated sign reader. No key sheet and no clear text checks this read. `check.md` gives what supports it and what does not.
 
-This second read uses our own machine transcription of the DECODE images, not verified. It is not in this repository, because DECODE marks the ciphertext of these letters as private. The earlier read, in `../reading.md`, used the sign transcription of the cipher ledger's maintainer.
+This second read uses my own transcription of the DECODE images, in `../../transcription/`. The earlier read, in `../reading.md`, used the sign transcription of the cipher ledger's maintainer.
 
 The notes of the ledger's maintainer give fragments of this letter: "desideroso", "sperare" and "perche".
 

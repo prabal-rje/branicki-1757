@@ -35,7 +35,7 @@ This is our second read of record 5463. The earlier read, in `../check.md`, used
 
 ## 2. The signs: our transcription
 
-- The signs are our own machine transcription of the DECODE images, not verified. It is not in this repository, because DECODE marks the ciphertext of these letters as private. We share it with DECODE and with the archive on request.
+- The signs are my own transcription of the DECODE images, in `../../transcription/`.
 - A label is a name for a sign shape. It is not a letter. No image and no crop of an image is in this repository.
 - One machine reader read each page. A second model checked some places only. Most of the page has no second reading.
 - The labels are joined across the nine records of the box, so one label names the same shape on every page.

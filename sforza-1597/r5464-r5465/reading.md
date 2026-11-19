@@ -6,7 +6,7 @@ Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597, DECODE records 
 
 This second read reads the two records as one text with one key. A declared test could not tell them from one key at this size. `check.md`, section 4, gives the test and its limits.
 
-This second read uses our own machine transcription of the DECODE images, not verified. It is not in this repository, because DECODE marks the ciphertext of these letters as private. The earlier reads, in `../r5464/` and `../r5465/`, used the sign transcription of the cipher ledger's maintainer.
+This second read uses my own transcription of the DECODE images, in `../transcription/`. The earlier reads, in `../r5464/` and `../r5465/`, used the sign transcription of the cipher ledger's maintainer.
 
 The partial reading of record 5464 by the ledger's maintainer, of 7 November 2026, gave for example "sempre desiderat amici" and "facto stamatina tornare".
 

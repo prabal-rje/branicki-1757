@@ -130,7 +130,7 @@ The reference for DECODE:
 
 - Mihály Héder and Beáta Megyesi, "The DECODE Database of Historical Ciphers and Keys: Version 2". HistoCrypt 2022, pp. 111 to 114. https://doi.org/10.3384/ecp188397
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository, and I copy no transcription file of DECODE. The cipher rows in the `transcription/` folders of Botti, Cosimo I, the 160 Sforza records, Sessa and Francia 32 are my own transcription. Each folder names the DECODE record and the archive of its cipher.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository, and I copy no transcription file of DECODE. The cipher rows in the `transcription/` folders of Botti, Cosimo I, the nine and the 160 Sforza records, Sessa, Francia 32 and the two Francia 346 folders are my own transcription. Each folder names the DECODE record and the archive of its cipher.
 
 | Group | DECODE records | Archive |
 | --- | --- | --- |
@@ -263,7 +263,7 @@ The key family may already be in print. Narváez's 2025 article does not print t
 
 **Carranza's telegrams:** `carranza-1915/` has the notes, the reading, the translation, the transcription, the line-by-line decryption and the key.
 
-**The Sforza letters:** `sforza-1597/` has the notes. For the earlier reads of records 5463 and 5464, it has the reading, the line-by-line decryption, the key and the check. For the earlier read of record 5465, it has the line-by-line decryption, the key and the check. The second reads are in `r5463/second-read/` and `r5464-r5465/`, and records 5425 to 5430 are in `r5425-r5430/`. Each of these folders has the reading, the row-by-row decryption, the key, the fitted table and the check. My sign transcription of these letters is not here, because DECODE marks their ciphertext as private. An earlier read of records 5425 to 5430 is in one sealed file.
+**The Sforza letters:** `sforza-1597/` has the notes. For the earlier reads of records 5463 and 5464, it has the reading, the line-by-line decryption, the key and the check. For the earlier read of record 5465, it has the line-by-line decryption, the key and the check. The second reads are in `r5463/second-read/` and `r5464-r5465/`, and records 5425 to 5430 are in `r5425-r5430/`. Each of these folders has the reading, the row-by-row decryption, the key, the fitted table and the check. The cipher rows of these reads are my own transcription of the DECODE images, in `transcription/`. An earlier read of records 5425 to 5430 is in one sealed file.
 
 **Morosini:** `morosini-1587/` has the notes, the check against the published key, the reading, the line-by-line decryption, the key and the key check.
 

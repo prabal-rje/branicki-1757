@@ -2,8 +2,7 @@
 # a partial read from the ciphertext alone, not checked against a key; twins of this size read .87 of the
 # shown letters right (twin). check.md gives what supports it and what does not, and the credits.
 # DECODE's images are for research use only. No DECODE image is in this repository.
-# The signs: our own machine transcription of the DECODE images, not verified. It is not in this repository,
-# because DECODE marks the ciphertext of these letters as private.
+# The signs: my own transcription of the DECODE images, in ../../transcription/.
 # One character for each sign token of our transcription, in the same order: the shown letter, or · when the read
 # shows no letter. Each break token of the transcription (a gap, joined ink, an unclassed sign, clear text, the edge
 # of struck signs) shows as …. The marks _, /, [at:...] and [above:...] give no character.

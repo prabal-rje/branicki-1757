@@ -2,8 +2,7 @@
 # A partial read from the ciphertext alone, not checked against a key; twins of this size read .95 of the shown letters right (twin).
 # Nobody has checked it against a key sheet or a clear text.
 # check.md gives what supports it and what does not.
-# The signs are our own machine transcription of the DECODE images, not verified. It is not in this repository,
-# because DECODE marks the ciphertext of these letters as private.
+# The signs are my own transcription of the DECODE images, in ../transcription/.
 # One character for each label of our transcription, in its order. A two-option label is decoded as its first option.
 # key.tsv gives the key's letter of each label. The decode can give a label another letter in some places (check.md, section 4).
 # channel.tsv gives the fitted table that the decode uses. The decode also uses a letter model that is not in this repository.

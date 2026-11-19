@@ -65,7 +65,7 @@ These times rest on my own record. This folder adds no hash table and no other r
 - The transcription is a machine transcription of the DECODE images. Nobody verified it.
 - A. Leman (1920) used the Barberini library's minutes of the cipher despatches to Ceva. I did not check which letters those minutes hold.
 - The scripts of the read, the grade and the decode are not in this repository.
-- No row of cipher digits is in this folder.
+- The rows of cipher digits are in `../transcription/`, not in this folder.
 
 ## Credits
 

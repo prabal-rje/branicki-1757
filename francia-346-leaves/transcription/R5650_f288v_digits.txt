@@ -1,0 +1,13 @@
+# DECODE record R5650, f. 288v (DECODE page 6; 055_288v_R5650_P6 in decryption.txt). Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Credit: DECODE, the database of historical ciphers of the DECRYPT project, https://de-crypt.org/decrypt-web/RecordsView/5650.
+# My own transcription of the DECODE image. No DECODE image is published.
+# One cipher row per line, in page order. The labels are the rows of the decode lines in decryption.txt. [gap: cleartext dropped] marks clear text, which this file does not copy.
+# Marks: [d?] = a doubtful digit; [a|b?] = two or more readings, the left one is the reconciled reading; [?] = a sign not read. TRANSCRIPTION.md lists the marks.
+C01 9523583140703[7?]77918659170304313009377037[glyph count disputed]644214496571[7?]2598868718049[3?]87019401[glyph count disputed]7
+C02 37644125713914301017385918277464[9|7?]813928446947049355919[6|0?]43925846[3|4?][4|3?]40703148
+C03 754054813761325836153274930179837700377372693259968[9|6?][3|9?]301891546882598869421
+C04 584970186735258316493170193039618814070195998176701[glyph count disputed]70[3?]0497312[glyph count disputed]1738[3?]670178[glyph count disputed]75839
+C05 4[3|9?]386[7?]737019214469421336043[1|9?][4|1?][0?][3?]7942174593767423[3|9?]48695210310493104701[7?][5?]9
+C06 [3|9?]8278038715323474657233440[3|7?]730853123903959[3|2?]16972537578360738497[3?]770196
+C07 99927846373085591970491764[rule to the right]
+C08 [gap: cleartext dropped]8403047191018644219568480
+C09 37701703711968498258367017030431433867[7|9?][3|2?]2808378147754[1?]0918032342[rule to the right]

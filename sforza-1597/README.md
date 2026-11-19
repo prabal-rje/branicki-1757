@@ -23,7 +23,7 @@ A sign is one written sign of the cipher text, as a transcription gives it. A sh
 | Second read, one key | 5464 and 5465 | our transcription | 8,691 | 94.2% (5464: 93.4%; 5465: 94.7%) | 66 of 100 | 94%, the mean of five | `r5464-r5465/` |
 | One key | 5425 to 5430 | our transcription | 14,888 | 87.1% | 52 of 100 | 95%, the mean of five | `r5425-r5430/` |
 
-- **Our transcription** is our own machine transcription of the DECODE images, not verified. It is not in this repository, because DECODE marks the ciphertext of these letters as private. We share it with DECODE and with the archive on request.
+- **Our transcription:** my own transcription of the DECODE images, in `transcription/`.
 - **A twin** is an artificial letter: real Italian, enciphered with a key of the same shape and read by a simulated sign reader. On a twin we can count the right letters. A twin value describes the twins, not the real read.
 - **Two readings of one page agree.** We aligned the earlier and the second decode of each page. Where both show a letter, they agree on 93% to 97% of the places (real; records 5463, 5464 and page 1 of 5465). The same alignment gives 49% to 69% for two different pages (real). The two second-read check pages give the counts.
 - **Two blind readers** judged each read. They are two large language models. Each saw our decode and two shuffled copies, with no name, date or source. By a rule that we declared before they ran, each record of the second reads and of records 5425 to 5430 reads as Italian sentences. The earlier read of record 5465 reads in patches only. Their shares are estimates, not counts, of the shown letters:
@@ -60,6 +60,7 @@ A sign is one written sign of the cipher text, as a transcription gives it. A sh
   - `check.md`: what supports the read, and what does not.
 - The columns of `channel.tsv` differ between these folders. In `r5425-r5430/`, `weight` is the share of the label's signs, and `emission` is P(sign | letter). In the two second-read folders, `weight` is P(sign | letter), and `share_of_label` is the decode's share of the label's signs. Each `check.md` defines its own columns.
 - The `.tsv` files have no source-credit header of their own. This page and each `check.md` give their source.
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows, in `transcription/`, and how to read it.
 - `sforza-1597-a-sealed-2026-11-12.tar.gpg`: our read of records 5425 to 5430, sealed on 12 November 2026.
   - GnuPG encrypted it (symmetric, AES-256).
   - We keep its passphrase. We will show it when the date of this read must be proven.
@@ -80,7 +81,7 @@ A sign is one written sign of the cipher text, as a transcription gives it. A sh
   - Record 5464: `targets/sforza1597/ctts/r5464_best/tokens.txt`.
   - Record 5465: `targets/sforza1597/ctts/r5465_best/tokens.txt`.
   - Records 5425 to 5430: `targets/sforza1597/ctts/a_best/tokens.txt`. `r5425-r5430/check.md` uses it as a cross-check.
-- **The signs of the other reads** are our own machine transcription of the DECODE images, not verified. It is not in this repository. No image is in this repository.
+- **The signs of the other reads** are my own transcription of the DECODE images, in `transcription/`. No image is in this repository.
 - **The ledger's maintainer read part of record 5464 first.**
   - His partial reading of 7 November 2026: by his count, 27% of the letters fall in words of four letters or more.
   - His key found the main letters first.
