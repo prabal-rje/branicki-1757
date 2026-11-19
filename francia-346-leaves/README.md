@@ -9,7 +9,7 @@
 - **Where:** Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. The cipher ledger at https://github.com/dbourdeau/cyphersolver calls this cipher the Barberini-Ceva cipher of 1632 to 1634 (its file `targets/ceva1632/cipher.py`).
 - **DECODE:** records R74, R75, R76, R77, R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648. The appendix adds R5642, R5645, R5646, R5649, R5650 and R5651. DECODE is the database of historical ciphers of the DECRYPT project.
 - **The digits:** for R74 to R78, from a transcription that rests on human readings. For the later leaves, from a reconciled draft transcription.
-- **Use:** research only. I copy no image and no transcription of these records. Each line of `decryption.txt` gives the DECODE record, page and row, so that a reader with access to DECODE can follow it. When you use this material, cite DECODE and the record numbers.
+- **Use:** research only. I copy no image. The digit rows of the later leaves are my own transcription of the DECODE images, in `transcription/`. Each line of `decryption.txt` gives the DECODE record, page and row, so that a reader with access to DECODE can follow it. When you use this material, cite DECODE and the record numbers.
 
 ## What the letters say
 
@@ -87,3 +87,4 @@ From the ciphertext alone, with no key, no crib and no other cipher.
 - `decryption.txt`: the full decode, row by row, with gap marks
 - `key.tsv`: my key, one row for each pair code
 - `key_check.tsv`: each pair code's value beside the published key
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows of the later leaves, in `transcription/`, and how to read it

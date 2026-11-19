@@ -1,0 +1,25 @@
+# DECODE record R5651, f. 297r (DECODE page 3; 062_297r_R5651_P3 in decryption.txt). Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Credit: DECODE, the database of historical ciphers of the DECRYPT project, https://de-crypt.org/decrypt-web/RecordsView/5651.
+# My own transcription of the DECODE image. No DECODE image is published.
+# One cipher row per line, in page order. The labels are the rows of the decode lines in decryption.txt. [gap: cleartext dropped] marks clear text, which this file does not copy.
+# Marks: [d?] = a doubtful digit; [a|b?] = two or more readings, the left one is the reconciled reading; [?] = a sign not read. TRANSCRIPTION.md lists the marks.
+C01 360025718684277485192804[glyph count disputed]314[3?]377705[glyph count disputed]459186[1?]9214912384[glyph count disputed]641128[6|0?]9456[glyph count disputed]0591830[7?]409881312790
+C02 75931[5|6?]654[5?]22931677836713170853[glyph count disputed]72344[glyph count disputed]65725509608377[3|1?][0?][1?]9983548[3?]70360738493798
+C03 [7|9?]82391354767[glyph count disputed]4853124493038679593[7?]775452803[glyph count disputed]7170358[glyph count disputed]57[5?]59386[glyph count disputed]842159[7?]350358394[glyph count disputed]338
+C04 [left margin point: not a baseline digit]8[7|3?]25488[0?][6?][9?]421441611230438701825446033184878047[1?][1?][0?][5|3?]5293[4?]485[glyph count disputed][5|3?][5?][5|3?]7701964[1|7?]4234564
+C05 782945428384947[?]30503125[8?]888369892311[?]675[glyph count disputed][3?][7?][4?][2|3?][4?][4|7?][7?][0?][9?]508421405[1|9?]198519593728
+C06 485231[1|7?][6?][7?][6?]81850388135258570314[?]938[3?]079640[glyph count disputed][9?][5|1?][1|5?][7?]5198[glyph count disputed][1?][2?][7?][8?][?][5?][4?][glyph count disputed][7?][8?][1?][1|3?]3386474219769921
+C07 583159851970182534473050356972834849770316573721047039583143[3|7?]725[glyph count disputed]976901827
+C08 [left margin point: not a baseline digit]59350304[glyph count disputed]3943376952138913575434730396[4?][7?][1|4?]231015[9|0?]493644421956703[1|5?][7?][8?][0|8?]4372153
+C09 80533127888369[6|8?]925006093781186[glyph count disputed]11970659170304314733824159130357531904038446[8?]421
+C10 [left margin point: not a baseline digit]819[8?]8317[5?][5?][9|3?]12395670175841331925084103319[glyph count disputed][1?][6|9?][6?]713[glyph count disputed][7?]83410173870257487119043162480
+C11 65425071949377018[glyph count disputed]3584712710197039644214[1|4?]160021931644427734059374931908545
+C12 073125387118303[glyph count disputed]840396101870711994703163427399181176[0?]11509312984[6|0?][4|6?]502100403449
+C13 387018235[glyph count disputed]36[3?]80259761123903168303103519703[glyph count disputed]76341019334770182[9|1?]136[9?]030119647423
+C14 846701703043143376485210431033930156493773035592740731760091355758170497037
+C15 [left margin point: not a baseline digit]4425101768073810343127536813794370312891547115647321536380219564070399838634
+C16 583537842553644211169491493570370818613233849773085755919694219560738493794
+C17 386701778971859218430983175492611253[glyph count disputed]76355938691547[3?]03775[3|5?]1903[7|6?]683[glyph count disputed]2748153318
+C18 8150[7|3?]825[glyph count disputed]8865092379[3?]781199[glyph count disputed]83509370364[2|4?]213568312[5?]116[4?]031711[0|9?]81312[7?]811[glyph count disputed][3?]77085
+C19 1863325[9|3?]8911[7?][4?][9?][glyph count disputed]3386[4?]742[?]948186903170152[glyph count disputed][3?][3?][3?][8|5?]477[glyph count disputed]0176[9?][0?][3?][2?][1?][4?][9?][2?][7?][6?][4?][2|9?][3?][2?][5?][0|9?][5?][8|6?][6|5?][8?][1?][3|5?][9|3?]1
+C20 349170315819703760937[4?][4?]570192147469922103[9?]700[glyph count disputed]3316[8|5?]8863[2?][1?][9?][8?][9?][6|8?][6?][9|7?]721[5|6?][8?][3|8?]1176403910
+C21 4723386348210149317537706491274463804[1?]9704017373[0?][1?][8|3?][6?][6|8?][3?][8|3?][2?][5|0?][9?][0?][3|8?][1|7?]701[5|6?]6743[glyph count disputed]2653
