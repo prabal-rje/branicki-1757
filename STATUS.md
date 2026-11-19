@@ -68,4 +68,4 @@ Notes on the table:
 
 DECODE, the database of historical ciphers of the DECRYPT project, holds the records named here. Its record pages: https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository. I copy no DECODE image and no transcription of a DECODE record.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository, and I copy no transcription file of DECODE. The cipher rows in the `transcription/` folders of Botti, Cosimo I, the 160 Sforza records, Sessa and Francia 32 are my own transcription.

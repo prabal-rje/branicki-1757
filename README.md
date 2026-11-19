@@ -120,7 +120,7 @@ A single digit mostly stands for a letter, and some digits have both a vowel and
 
 My algorithm took each digit as a code by itself, so it misses the syllables. Even so, within words, 82.2% of the aligned letter pairs agree with Dudout's reading, with gaps left out (957 of 1,164). Words in a random order give 29.0% on average. `biglia-1565/check.md` gives the details.
 
-DECODE's images are for research only. Biglia's images carry no reuse licence. I copy no image and no transcription. Each decryption gives the place of each line: the DECODE record, page and row or line, or for Biglia the folio and line.
+DECODE's images are for research only. Biglia's images carry no reuse licence. This repository copies no image. Its cipher rows are my own transcription, and none of them is from these three ciphers. Each decryption gives the place of each line: the DECODE record, page and row or line, or for Biglia the folio and line.
 
 ## Sources and credit
 
@@ -130,7 +130,7 @@ The reference for DECODE:
 
 - Mihály Héder and Beáta Megyesi, "The DECODE Database of Historical Ciphers and Keys: Version 2". HistoCrypt 2022, pp. 111 to 114. https://doi.org/10.3384/ecp188397
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository. I copy no DECODE image and no transcription of a DECODE record. Each folder names the DECODE record and the archive of its cipher.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository, and I copy no transcription file of DECODE. The cipher rows in the `transcription/` folders of Botti, Cosimo I, the 160 Sforza records, Sessa and Francia 32 are my own transcription. Each folder names the DECODE record and the archive of its cipher.
 
 | Group | DECODE records | Archive |
 | --- | --- | --- |

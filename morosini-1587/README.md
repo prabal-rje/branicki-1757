@@ -17,7 +17,7 @@ The same method recovers more on artificial test letters ("twins"). Over the win
 
 - **Where:** Archivio Apostolico Vaticano, Segreteria di Stato, Francia 22 (records R18 to R58) and Francia 18/3 (record R17).
 - **DECODE:** records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58, 35 records in all. DECODE is the database of historical ciphers of the DECRYPT project. DECODE's volunteers made the transcriptions.
-- **Use:** research only. I copy no image and no transcription. Each line of `decryption.txt` gives the DECODE record, page and line, so that a reader with access to DECODE can follow it. When you use this material, cite DECODE and the record numbers.
+- **Use:** research only. I copy no image and no transcription of these records. Each line of `decryption.txt` gives the DECODE record, page and line, so that a reader with access to DECODE can follow it. When you use this material, cite DECODE and the record numbers.
 - **The key:** A. Meister, *Die Geheimschrift im Dienste der päpstlichen Kurie* (Paderborn, 1906), pp. 393 to 394, no. 40. George Lasry's partial reconstruction is attached to DECODE record R18 (October 2020).
 
 ## What the read says
