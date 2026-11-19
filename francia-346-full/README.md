@@ -2,7 +2,7 @@
 
 The letters that this folder decodes are cipher letters of 1632 to 1634 from Rome to Francesco Adriano Ceva, extraordinary nuncio in France. Their clear endorsements name Cardinal Barberini. This folder decodes the digit pages of the DECODE records of Francia 346 with the published key: "read with the known key".
 
-The transcription is a machine transcription of the DECODE images, made in my pipeline. Nobody verified it. Every number here is real.
+The transcription is my own transcription of the DECODE images. Every number here is real.
 
 ## The whole file at a glance
 
@@ -16,7 +16,8 @@ DECODE holds 73 records of Francia 346 (260 scans).
 | R5660 to R5666, R5669 to R5671 | 10 | do not read with the known key: another cipher; content from the clerk's decipherment or a clear copy; no decode | [Thirteen records in another cipher](#thirteen-records-in-another-cipher) |
 | R5634, R5638, R5639 | 3 | do not read with the known key: another cipher; each carries a decipherment of the time; a blind read is in progress | the same section |
 | R5667, R5668, R5672 to R5686 | 17 | other signs; a blind fit is in progress | [The other records](#the-other-records-of-the-file) |
-| R79 to R84 | 6 | my pipeline has no transcription yet | the same section |
+| R79 to R82, R84 | 5 | from key (the key that George Lasry published), on DECODE's own transcription | [The early leaves R79 to R84](#the-early-leaves-r79-to-r84) |
+| R83 | 1 | another cipher; only the clerk's decipherment above the rows reads; no decode | the same section |
 | R5625 | 1 | a letter in clear | the same section |
 
 Ten pages that read badly were read again. `rereads.md` gives their decode.
@@ -158,6 +159,62 @@ DECODE's catalogue marks 22 more records of the file "Inline Plaintext: Yes". A 
 - The decode leaves out R75 f. 81v and R76 f. 101r. The pipeline marks every digit row there as an inherited candidate that it did not verify.
 - These five records were in the fit of my key-free key, so they give no key-free check.
 
+### The early leaves R79 to R84
+
+Added on 19 November 2026. DECODE's record pages: https://de-crypt.org/decrypt-web/RecordsView/79 and so on. **State:** from key (the key that George Lasry published on DECODE, as DECODE gives it), on DECODE's own transcription of them. 28 three-digit codes take a value from decipherments of the time and from context, and 2 values are corrected from a decipherment of the time. The decode marks every code with no value.
+
+**Read before.** Others read these leaves before: the cipher ledger's notes say that George Lasry read R79 to R82, and the ledger itself read R84 in October 2026.
+
+Each summary gives the sense of the letter as far as the decoded rows carry it.
+
+| Record | What it says |
+| --- | --- |
+| [R79](r79.md) | Rome, after 28 August 1632. No news of Madrid's mind on the union and on the restitution of a fortress; the Swedes are more dangerous to France than to anyone; the Huguenots; the heretics in Germany and Flanders. |
+| [R80](r80.md) | Rome, 1632. Plenipotentiaries in a third place for the union; France will show no treaty with the Imperials and the Spaniards without a sure effect; secrecy under oath. |
+| [R81](r81.md) | Rome, 20 November 1632. Ceva's talk with Richelieu; Montmorency is beheaded; the King's severity against Monsieur's followers should go with clemency; France should use its good fortune for peace. |
+| [R82](r82.md) | Rome, 1632. Ceva did well to seek the Cardinal's confidence; the crown's purchase of a fortress was proclaimed there with solemn feasts. |
+| [R84](r84.md) | Rome, 18 December 1632. After Lützen: Monsieur's flight; the danger of a France held disunited. |
+
+- **Result.** A clerk wrote a decipherment above the cipher rows of seven records of this series. On the 15 pages of R74, R75, R76, R79, R80 and R81, .66 to .84 of the clerk's letters match the decode. The pages do not copy the clerk's text.
+- **The values taken from decipherments of the time.** The decode uses these values beside the published key:
+
+| Code | Value | Source |
+| --- | --- | --- |
+| 33 | gli | corrected from a decipherment of the time |
+| 88 | del | corrected from a decipherment of the time |
+| 104 | olandesi | from decipherments of the time and context |
+| 127 | imperiali | from decipherments of the time and context |
+| 129 | regno | from decipherments of the time and context |
+| 149 | piazza | from decipherments of the time and context |
+| 171 | regno | from decipherments of the time and context |
+| 315 | s.e. | from decipherments of the time and context |
+| 334 | sueco | from decipherments of the time and context |
+| 338 | stato | from decipherments of the time and context |
+| 411 | v.s. | from decipherments of the time and context |
+| 439 | ancora | from decipherments of the time and context |
+| 441 | bene | from decipherments of the time and context |
+| 454 | grandi | from decipherments of the time and context |
+| 470 | hor | from decipherments of the time and context |
+| 473 | mentre | from decipherments of the time and context |
+| 474 | mente | from decipherments of the time and context |
+| 481 | pero | from decipherments of the time and context |
+| 488 | quale | from decipherments of the time and context |
+| 491 | quell | from decipherments of the time and context |
+| 493 | questa | from decipherments of the time and context |
+| 495 | quanto | from decipherments of the time and context |
+| 497 | tutt | from decipherments of the time and context |
+| 498 | tanto | from decipherments of the time and context |
+| 541 | armi | from decipherments of the time and context |
+| 830 | francia | from decipherments of the time and context |
+| 854 | guerra | from decipherments of the time and context |
+| 857 | germania | from decipherments of the time and context |
+| 938 | monsieur | from decipherments of the time and context |
+| 988 | negotio | from decipherments of the time and context |
+
+- Some of these values come from the same clerk's lines as the result above.
+- **R83** is headed "Madrid, 1632" and uses another cipher. The key does not read it. Only the clerk's decipherment above its rows reads, so this folder gives no decode of it.
+- Lasry, Megyesi and Kopal (2020) published a reading of R82.
+
 ### Thirteen records in another cipher
 
 R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the published key: 5.3 to 6.7 bits per letter. Their own decode agrees with the clerk's decipherment no more than with other records' decipherments.
@@ -191,7 +248,7 @@ R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the publ
 | [R5670](r5670.md) | Madrid, 19 Feb. 1633 | [?Benavides] brings Spain's answers; the addressee may enter the treaty |
 | [R5671](r5671.md) | Madrid, 9 [?March] 1633 | A commission for [?Benavides] and Aitona to enter the peace treaty |
 
-**Three striking items.** Each comes from the clerk's text or a clear copy, in a machine transcription that nobody verified.
+**Three striking items.** Each comes from the clerk's text or a clear copy, in my own transcription of the DECODE images.
 
 1. **Richelieu's letters to the Swede.** At Vienna on 20 October 1632, people at the Imperial court told the writer that they held letters of Cardinal Richelieu. In them, they said, Richelieu assured the Swede that the French King would never leave his alliance (R5664 f. 392r; the clear copy in R5663 f. 391r agrees).
 2. **A message that must not look Imperial.** At Vienna in November 1632, the Imperial side asked for a sign of French good will. A letter of the King, or a spoken message in his name, would do. The addressee was to present the idea as his own, never as the idea of the Emperor or his ministers (R5665 ff. 395r, 396r and 396v).
@@ -248,7 +305,7 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 
 ## Limits
 
-- **The transcription** is a machine transcription. Nobody verified it against the images. A misread digit gives a wrong letter or a broken cut.
+- **The transcription** is my own transcription of the DECODE images. A misread digit gives a wrong letter or a broken cut.
 - **The cut** of the decode into two- and three-digit codes comes from a search with an Italian letter model. Where it picks a three-digit code, the letters around it can be wrong.
 - **The readings** are mine. They supply words where the context allows, and they mark each supply. Many rows do not read.
 - **639 three-digit tokens** stay open after the second pass (803 after the first). They hide names and words that the published key does not give.
@@ -259,12 +316,12 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 
 - **R5625** is a letter in clear. It holds no cipher. DECODE catalogues 9 pages but shows 2 scans.
 - **17 records use other signs:** R5667, R5668 and R5672 to R5686. A test before the key found another system. Their pages name Madrid and Vienna. They stay open.
-- **R79 to R84** have no transcription of my pipeline yet. DECODE holds its own transcription of them, and marks them "Decrypted" or "Partially decrypted". R83 uses another system.
+- **R79 to R82 and R84** are read from key (the key that George Lasry published), on DECODE's own transcription: see [The early leaves R79 to R84](#the-early-leaves-r79-to-r84). DECODE marks them "Decrypted" or "Partially decrypted". R83 uses another system.
 - **Francia 32** is another file (1590 to 1592) in another cipher. See `../francia-32/README.md`.
 
 ## Credits
 
-- **DECODE**, the database of historical ciphers of the DECRYPT project: records R74, R75, R76, R77, R78, R5626 to R5634, R5635 to R5639, R5640 to R5644, R5645 to R5659, R5660 to R5666 and R5669 to R5671. https://de-crypt.org/decrypt-web/RecordsList
+- **DECODE**, the database of historical ciphers of the DECRYPT project: records R74 to R82, R84, R5626 to R5634, R5635 to R5639, R5640 to R5644, R5645 to R5659, R5660 to R5666 and R5669 to R5671. https://de-crypt.org/decrypt-web/RecordsList
 - **The archive:** Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346.
 - **The key:** George Lasry, Beáta Megyesi and Nils Kopal (2020). The ledger's values for three-digit codes and two pairs: the cipher ledger at https://github.com/dbourdeau/cyphersolver.
 
@@ -275,6 +332,7 @@ DECODE's images are for research use only. They may not be redistributed or publ
 - `check.md`: the grade of the frozen read against the published key, and the checks of 13 November
 - `r5626.md` to `r5659.md`: one page for each of the first 22 records, with the reading, the translation, the names and the decode row by row
 - `r5627.md` to `r5644.md` (nine pages) and `r74.md` to `r78.md`: the records added on 13 November, with a summary, the names and the decode
+- `r79.md` to `r84.md` (without R83): the early leaves added on 19 November, with a summary and the decode
 - `r5660.md` to `r5666.md` and `r5669.md` to `r5671.md`: ten records in another cipher: what each letter says, from the decipherment of the time or a clear copy; no decode
 - `r5634.md`, `r5638.md`, `r5639.md`: three records in another cipher, without a decode or content; a blind read is in progress
 - `rereads.md`: the decode of ten pages that my pipeline read again

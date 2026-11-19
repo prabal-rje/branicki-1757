@@ -87,7 +87,7 @@ We ran this control on records 5425 to 5430, not on this record. It shuffles the
 
 ## 7. Two blind readers
 
-- **The readers:** two large language models, GPT-6.1 Sol (max effort) and Grok 4.7 (xhigh effort). Each read once, on 12 November 2026.
+- **The readers:** two large language models (not named here), Reader 1 and Reader 2. Each read once, on 12 November 2026.
 - **What they saw:** three texts in a random order, with no spaces, and no name, date, archive, key or note.
   - Our decode, with the 88 nulls left out.
   - Control W: the words of our decode, shuffled over the whole text, then cut into lines of the same lengths.
@@ -95,7 +95,7 @@ We ran this control on records 5425 to 5430, not on this record. It shuffles the
 - **The words** for the controls come from one unigram split over the vocabulary of the Milanese dispatches.
 - **The share** is each reader's own estimate of the shown letters that make sense. It is an estimate, not a count.
 
-| Text | Reader 1 (Sol): share | Reader 2 (Grok): share | Rank by both |
+| Text | Reader 1: share | Reader 2: share | Rank by both |
 | --- | ---: | ---: | --- |
 | Our decode | about 65% | about 70% | first |
 | Control W | about 10% | about 15% | second |

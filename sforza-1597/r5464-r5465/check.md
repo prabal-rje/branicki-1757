@@ -189,7 +189,7 @@ The reads use two transcriptions of the same DECODE images. We never merge them.
 
 ## 9. Two blind readers
 
-- **The readers:** two large language models, GPT-6.1 Sol (max effort) and Grok 4.7 (xhigh effort). Each read each case once, on 12 November 2026, in a fresh session. Record 5464 and record 5465 were separate cases.
+- **The readers:** two large language models (not named here), Reader 1 and Reader 2. Each read each case once, on 12 November 2026, in a fresh session. Record 5464 and record 5465 were separate cases.
 - **What they saw:** three texts in a random order, with no spaces, and no name, date, archive, key or note:
   - our decode of one record, with the agreed nulls left out and each break shown as `…`;
   - control W: the words of our decode, shuffled over the whole text, then cut into lines of the same lengths;
@@ -200,7 +200,7 @@ The reads use two transcriptions of the same DECODE images. We never merge them.
 - **The share** is each reader's own estimate of the letters that make sense. It is an estimate, not a count. Where a reader counted the gaps (`·`) too, we divide its share by the shown fraction of the text: 2,947 shown letters of 3,150 letters and gaps for record 5464 (real), and 4,771 of 5,305 for the twin (twin). So every converted share below is a share of the shown letters. The reader's own figure follows in brackets. "As given" marks a share whose basis the reader did not state.
 - **One reader ran twice.** On record 5464, reader 2's first session tried to read a file outside its folder and gave no answer. So it ran a second time, as declared, and that run gave the answer below.
 
-| Case | Our decode: Sol | Our decode: Grok | Control W: Sol / Grok | Control L: Sol / Grok | Rank by both |
+| Case | Our decode: Reader 1 | Our decode: Reader 2 | Control W: Reader 1 / Reader 2 | Control L: Reader 1 / Reader 2 | Rank by both |
 | --- | --- | --- | --- | --- | --- |
 | Record 5464 (real) | about 75% (70% of letters and gaps) | about 75% (70%, gaps counted as failures) | about 11% (10%) / 10% (as given) | 1% or less (under 1%) / 2% (as given, of about 3,100 letters) | our decode first |
 | Record 5465 (real) | about 70%, 60 to 80 (of the shown letters) | about 70%, 60 to 80 (gaps not counted) | 25%, 15 to 35 / 30% (as given) | 2%, 0 to 5 / 8% (as given) | our decode first |

@@ -1,4 +1,4 @@
-# Letter 1398, pages 2 to 4: a second blind pass on the same crops as pass_a.txt, by GPT-6.1 Sol with no key in view. Crop numbers follow pass_a.txt.
+# Letter 1398, pages 2 to 4: a second blind machine pass on the same crops as pass_a.txt, with no key in view. Crop numbers follow pass_a.txt.
 crop 01
 u n p c e l d s n i i k c d t h m f l d u h u e l d r n d h b p l d l f e l d r h e i w r d 830.
 s h o d r l i w i l o f b p l m l l r c m f r l f f l e f f t e d o n p p l e e l d d n o f p l o p d

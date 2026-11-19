@@ -1,5 +1,7 @@
 # Morosini, 1587 to 1589: the check against the published key
 
+Credit: DECODE, the database of historical ciphers of the DECRYPT project, records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58. Archivio Apostolico Vaticano, Segreteria di Stato, Francia 22 (records R18 to R58) and Francia 18/3 (record R17). Record pages: https://de-crypt.org/decrypt-web/RecordsView/<number>, for example https://de-crypt.org/decrypt-web/RecordsView/17.
+
 ## Correction, 12 November 2026
 
 A later check found a fault in the read that this page grades. My rule cuts the digits under the best of 20 first starts. This read cut them under the second-best start. The cause is not known.

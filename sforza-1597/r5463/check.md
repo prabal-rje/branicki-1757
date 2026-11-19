@@ -119,20 +119,20 @@ This control shuffles the signs of record 5463 and keeps the count of each pair 
 
 ## 8. Two blind readers
 
-- **The readers:** two large language models, GPT-6.1 Sol (max effort) and Grok 4.7 (xhigh effort). Each read once, on 12 November 2026.
+- **The readers:** two large language models (not named here), Reader 1 and Reader 2. Each read once, on 12 November 2026.
 - **What they saw:** three texts in a random order, with no spaces, and no name, date, archive, key or note.
   - Our decode, with the 79 nulls left out.
   - Control W: the words of our decode, shuffled over the whole text, then cut into lines of the same lengths.
   - Control L: our decode with the letters shuffled inside each word. The gaps keep their places.
 - **The share** is each reader's own estimate of the shown letters that make sense. It is an estimate, not a count.
 
-| Text | Reader 1 (Sol): share | Reader 2 (Grok): share | Rank by both |
+| Text | Reader 1: share | Reader 2: share | Rank by both |
 | --- | ---: | ---: | --- |
 | Our decode | about 70% to 75% | about 65% | first |
 | Control W | about 36% | about 30% in phrases | second |
 | Control L | about 6% | about 5% | third |
 
-- As a share of all 1,372 signs, the first line is 51% (Grok) to 59% (Sol).
+- As a share of all 1,372 signs, the first line is 51% (Reader 2) to 59% (Reader 1).
 - For our decode, 70% to 75% is reader 1's own share of the shown letters. For the controls, reader 1 gave its shares over the letters and the gaps, and we convert them to the shown letters.
 - **Control W keeps real words.** Reader 2 finds 60% of its letters in words that it knows, but only 30% in phrases. So the difference is in the sentences, not in the words.
 - Reader 1 on our decode: "It reads as damaged prose, probably correspondence." Reader 2: "It does read as sentences, with damaged patches."
