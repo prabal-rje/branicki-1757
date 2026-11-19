@@ -65,9 +65,9 @@ We ran this control on records 5425 to 5430, not on this record. It shuffles the
 
 ## 7. Two blind readers
 
-The test is the one of record 5464 (`../r5464/check.md`, section 7). The two readers are large language models: GPT-6.1 Sol (max effort) and Grok 4.7 (xhigh effort). Our decode left out the 207 nulls.
+The test is the one of record 5464 (`../r5464/check.md`, section 7). The two readers are large language models (not named here): Reader 1 and Reader 2. Our decode left out the 207 nulls.
 
-| Text | Reader 1 (Sol): share | Reader 2 (Grok): share | Rank by both |
+| Text | Reader 1: share | Reader 2: share | Rank by both |
 | --- | ---: | ---: | --- |
 | Our decode | about 55% | about 55% | first |
 | Control W (words shuffled) | about 30% | 15% to 20%, in phrases | second |

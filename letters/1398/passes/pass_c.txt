@@ -1,4 +1,4 @@
-# Letter 1398, pages 2 to 4: a third blind pass, by GPT-6.1 Sol with no key in view, on the same crops enlarged 1.8 times and cut into left and right halves. Crop numbers follow pass_a.txt; "crop 09 / crop 10" joins the two ends of the last two lines.
+# Letter 1398, pages 2 to 4: a third blind machine pass, with no key in view, on the same crops enlarged 1.8 times and cut into left and right halves. Crop numbers follow pass_a.txt; "crop 09 / crop 10" joins the two ends of the last two lines.
 crop 01
 u n p c e l d s n i i k z l d t h m f l d u h c e l o r n d k b p l d l f e l d r h e i w r d 830
 s h o d r l i o r i l o f b p l m l b i c m f i l f f e l f l e d o n p p l e e l d n o f p l o p d

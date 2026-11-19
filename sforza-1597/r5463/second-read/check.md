@@ -124,7 +124,7 @@ The two reads use two transcriptions of the same DECODE images. We never merge t
 
 ## 8. Two blind readers
 
-- **The readers:** two large language models, GPT-6.1 Sol (max effort) and Grok 4.7 (xhigh effort). Each read once, on 12 November 2026, in a fresh session.
+- **The readers:** two large language models (not named here), Reader 1 and Reader 2. Each read once, on 12 November 2026, in a fresh session.
 - **What they saw:** three texts in a random order, with no spaces, and no name, date, archive, key or note:
   - our decode, with the agreed null left out and each break shown as `…`;
   - control W: the words of our decode, shuffled over the whole text, then cut into lines of the same lengths;
@@ -134,7 +134,7 @@ The two reads use two transcriptions of the same DECODE images. We never merge t
 - **Declared in advance.** We fixed the cases, the seeds, the prompt and the rule for a word before any reader ran.
 - **The share** is each reader's own estimate of the letters that make sense. It is an estimate, not a count. Where a reader counted the gaps (`·`) too, we divide its share by the shown fraction of the text: 1,110 shown letters of 1,136 letters and gaps (real), and 4,771 of 5,305 for the twin (twin). So every converted share below is a share of the shown letters. The reader's own figure follows in brackets. "As given" marks a share whose basis the reader did not state.
 
-| Text | Reader 1 (Sol): share | Reader 2 (Grok): share | Rank by both |
+| Text | Reader 1: share | Reader 2: share | Rank by both |
 | --- | ---: | ---: | --- |
 | Our decode (real) | about 87% (85% of letters and gaps) | about 72% (70% of letters and gaps) | first |
 | Control W (real, words shuffled) | about 46% (45%) | about 31% (30%) | second |

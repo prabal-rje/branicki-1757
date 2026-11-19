@@ -168,7 +168,7 @@ The cipher ledger's maintainer made his own transcription of these pages from th
 
 ## 11. Two blind readers
 
-- **The readers:** two large language models, GPT-6.1 Sol (max effort) and Grok 4.7 (xhigh effort). Each read each case once, on 12 November 2026.
+- **The readers:** two large language models (not named here), Reader 1 and Reader 2. Each read each case once, on 12 November 2026.
 - **What they saw:** for each record, three texts in a random order, with no spaces, and no name, date, archive, key or note.
   - Our decode of the record, with the signs that the decode takes as sure nulls left out.
   - Control W: the words of our decode, shuffled over the whole text, then cut into lines of the same lengths.
@@ -177,7 +177,7 @@ The cipher ledger's maintainer made his own transcription of these pages from th
 - **The share** is each reader's own estimate of the letters that make sense, mostly of the shown letters. Three values have no clear base (below). It is an estimate, not a count. Where a reader gave its share over the letters and the gaps, we divide by the text's share of shown letters.
 - **We declared the rule before any reader ran.** A reader "reads" a record when it names Italian, says that the decode reads as sentences, ranks the decode first, quotes at least two stretches of 12 or more letters that stand in the decode, and gives at least 0.7 times its own share for the twin.
 
-| Text | Reader 1 (Sol): share | Reader 2 (Grok): share | Rank by both | Word |
+| Text | Reader 1: share | Reader 2: share | Rank by both | Word |
 | --- | ---: | ---: | --- | --- |
 | Twin page (95.0% right, twin) | 70% | 55% | 1 | the scale |
 | Record 5425 | 50% | 46% | 1 | reads |
