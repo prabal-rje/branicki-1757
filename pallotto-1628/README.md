@@ -64,4 +64,4 @@ R219 is not read here. Its heading says 1629.
 - **The key:** Norbert Biermann and Thomas Bosbach (March 2018), filed as documents on DECODE record R215.
 - **DECODE's record pages:** https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/216.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row is in this repository.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row of these letters is in this repository.

@@ -325,7 +325,7 @@ The cipher writes no double letters, so "sarebe" stands for "sarebbe". The readi
 - **The archive:** Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346.
 - **The key:** George Lasry, Beáta Megyesi and Nils Kopal (2020). The ledger's values for three-digit codes and two pairs: the cipher ledger at https://github.com/dbourdeau/cyphersolver.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. I copy no row of cipher digits: each decode line gives its record, folio and row.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. I copy no row of cipher digits of these records: each decode line gives its record, folio and row.
 
 ## Files
 

@@ -47,6 +47,7 @@ The rows come from my own transcription of the DECODE images. Each English gloss
 ## Files
 
 - `records/r<number>.md`: one page for each record: the English, the numbers and the rows as read.
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows, in `transcription/`, and how to read it.
 
 ## Credit
 
@@ -57,4 +58,4 @@ The rows come from my own transcription of the DECODE images. Each English gloss
 - **Dates:** the Calendar of State Papers, Spain, vols. ii and iii.1.
 - **DECODE's record pages:** https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/9873.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row is in this repository.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. The cipher rows in `transcription/` are my own transcription of the DECODE images.

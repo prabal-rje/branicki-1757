@@ -46,6 +46,7 @@ The rows come from my own transcription of the DECODE images. The word cuts in t
 - `records/r<number>.md`: one page for each letter with a reading (19 of 21): what it says, the rows as read, and the state.
 - `key-main.tsv`: my own key of the main system, from ciphertext: each code, its value, its count and its doubt. Its counts differ a little from the 4,726 code tokens of the reading.
 - `key-earlier.tsv`: my own key of the earlier system, from ciphertext, made before the key table was used.
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows, in `transcription/`, and how to read it.
 
 ## Credit
 
@@ -53,4 +54,4 @@ The rows come from my own transcription of the DECODE images. The word cuts in t
 - **The archive:** Florence, Archivio Niccolini di Camugliano, Fondo antico 214, inserto 1.
 - **DECODE's record pages:** https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/4039.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row is in this repository.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. The cipher rows in `transcription/` are my own transcription of the DECODE images.

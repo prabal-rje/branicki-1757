@@ -36,6 +36,7 @@ R5619 has no images on DECODE.
 ## Files
 
 - `records/r<number>.md`: one page for each of the seven records with a reading (R5612 to R5617 and R5621): a gloss and the rows as read with key no. 65. R5618 and R5620 have no reading; R5619 has no images.
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows, in `transcription/`, and how to read it.
 
 ## Credits
 
@@ -45,4 +46,4 @@ R5619 has no images on DECODE.
 - **The cipher ledger:** https://github.com/dbourdeau/cyphersolver, entries 246 and 324 of `SOLVED_CATALOGUE.md`.
 - **DECODE's record pages:** https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/5612.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row is in this repository.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. The cipher rows in `transcription/` are my own transcription of the DECODE images.

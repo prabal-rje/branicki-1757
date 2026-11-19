@@ -81,6 +81,7 @@ The names and dates are as the reads show them. I did not check them in register
 
 - `records/`: one page for each record, or for each set of pages that one key reads together: its state, the gloss (where one exists) and the rows as read.
 - `key-r5521-page1.tsv`: my own key of R5521 page 1, from ciphertext: each sign label of my transcription, its value in the key, the letter that the rows show most often for it, and its count. A rare label can show another letter in the rows than the key's. Every page that this key reaches is read.
+- [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows, in `transcription/`, and how to read it.
 
 ## Credit
 
@@ -89,4 +90,4 @@ The names and dates are as the reads show them. I did not check them in register
 - **DECODE's record pages:** https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/5521.
 - **The cipher ledger** at https://github.com/dbourdeau/cyphersolver holds the keys of two families. Its keys and readings are its own work. This folder copies none of them.
 
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image and no cipher row is in this repository.
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive. No DECODE image is in this repository. The cipher rows in `transcription/` are my own transcription of the DECODE images.
