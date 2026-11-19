@@ -1,0 +1,11 @@
+# DECODE record R5653, f. 310r (DECODE page 5). Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Credit: DECODE, the database of historical ciphers of the DECRYPT project, https://de-crypt.org/decrypt-web/RecordsView/5653.
+# My own transcription of the DECODE image. No DECODE image is published.
+# One cipher row per line, in page order. The labels are the rows of the decode lines in r5653.md. [gap: cleartext dropped] marks clear text, which this file does not copy.
+# Marks: [d?] = a doubtful digit; [a|b?] = two or more readings, the decode takes the left one; [?] = a sign not read. TRANSCRIPTION.md lists the marks.
+C01 [gap: cleartext dropped]4607312594174315653[overwritten cipher signs: illegible]810315
+C02 886509608378119497354845032711759104761302897653210085701959546883306
+C03 58[3|5?]279440397081152573601370918957831628917611239560[overwritten cipher signs: illegible]152145067385
+C04 593164425084785187037237464930196044770404569721776738559386002378
+C05 3985179835619713781198541217340103764915574018629360975084[glyph count disputed]4015214463475
+C06 479531301827846573170183047211160438708515591703711969391547035684871115
+C07 78043130176474258559190601824711570318137[point: not a baseline digit][gap: cleartext dropped]

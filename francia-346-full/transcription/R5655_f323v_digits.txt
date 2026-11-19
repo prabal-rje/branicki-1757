@@ -1,0 +1,5 @@
+# DECODE record R5655, f. 323v (DECODE page 6). Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Credit: DECODE, the database of historical ciphers of the DECRYPT project, https://de-crypt.org/decrypt-web/RecordsView/5655.
+# My own transcription of the DECODE image. No DECODE image is published.
+# One cipher row per line, in page order. The labels are the rows of the decode lines in r5655.md. [gap: cleartext dropped] marks clear text, which this file does not copy.
+# Marks: [d?] = a doubtful digit; [a|b?] = two or more readings, the decode takes the left one; [?] = a sign not read. TRANSCRIPTION.md lists the marks.
+C01 [left margin mark: not a baseline digit]536648825094[9?][0?][8?][3?][5?][8?][5?][3?][1?][6?][7?][0?][3?][5?][9?][3?][3?][0?]91382[dash: not a baseline digit]77385918649825999836474218860581[rule to the right][gap: cleartext dropped]

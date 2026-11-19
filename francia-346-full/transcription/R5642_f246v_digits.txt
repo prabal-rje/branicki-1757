@@ -1,0 +1,8 @@
+# DECODE record R5642, f. 246v (DECODE page 3). Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Credit: DECODE, the database of historical ciphers of the DECRYPT project, https://de-crypt.org/decrypt-web/RecordsView/5642.
+# My own transcription of the DECODE image. No DECODE image is published.
+# One cipher row per line, in page order. The labels are the rows of the decode lines in r5642.md. [gap: cleartext dropped] marks clear text, which this file does not copy.
+# Marks: [d?] = a doubtful digit; [a|b?] = two or more readings, the decode takes the left one; [?] = a sign not read. TRANSCRIPTION.md lists the marks.
+C01 7139403743316171263932994631574570952179437091470690208476885315917404[?]68621509
+C02 611220447546370331700[4|8?]635465194615038254756[?]551[?]593680093[?]5772144
+C03 3336064[?]7493462[?]86074[?]7793528536[?]839465375949521687607040748519703[?]24793[sublinear strokes: attachment indistinct]
+C04 11210071577509375918[point: not a baseline digit][gap: cleartext dropped]

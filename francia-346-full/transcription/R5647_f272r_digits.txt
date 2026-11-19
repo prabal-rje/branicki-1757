@@ -1,0 +1,9 @@
+# DECODE record R5647, f. 272r (DECODE page 2). Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Credit: DECODE, the database of historical ciphers of the DECRYPT project, https://de-crypt.org/decrypt-web/RecordsView/5647.
+# My own transcription of the DECODE image. No DECODE image is published.
+# One cipher row per line, in page order. The labels are the rows of the decode lines in r5647.md. [gap: cleartext dropped] marks clear text, which this file does not copy.
+# Marks: [d?] = a doubtful digit; [a|b?] = two or more readings, the decode takes the left one; [?] = a sign not read. TRANSCRIPTION.md lists the marks.
+C01 [gap: cleartext dropped]94695238087045683221536342585701121045
+C02 4059472371542394919855594569481503844[glyph count disputed]255[7|3?]617021731[0|6?]073879172483[0|6?]9[glyph count disputed]303[9?]169921
+C03 380648127186984[gap: cleartext dropped]
+C04 34254916143210064972582603[9|4?][4|9?]382447758[glyph count disputed]31704[glyph count disputed]
+C05 8538[gap: cleartext dropped]
