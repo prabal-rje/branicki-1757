@@ -9,20 +9,21 @@ This folder gives pages for 47 of them. It lists the 9 pages read with the ledge
 
 The other pages are not read yet, are too small, or have no cipher rows. `../STATUS.md` gives their counts.
 
-The rows come from my own transcription of the DECODE images. Each English gloss gives the sense of the letter as far as the decoded rows carry it. No year is read.
+The rows come from my own transcription of the DECODE images. Each English gloss gives the sense of the letter as far as the decoded rows carry it. The rows give no year. For six letters, names and events in the rows make a year likely. The list after the table gives these years, with the reason and the source.
 
 ## What the letters say
 
 Only some pages have a gloss yet. As I read them:
 
-- **R5521 and R5542.** Letters in the name of Ludovico Maria Sforza. A marriage negotiation: a "madonna de Alamagna", the conditions, a payment in ducats, the wish of the royal majesty to conclude in Rome; the Pope has a fever. Page 3 of R5521 and the Latin letter R5542 name the bishop of Nitra and his coming into Italy, a treaty, the Turk and Italy.
+- **R5521 and R5542.** Letters in the name of Ludovico Maria Sforza, duke of Bari, most likely of 20 July 1492. A marriage negotiation: a "madonna de Alamagna", the conditions, a payment in ducats, the wish of the royal majesty to conclude in Rome; the Pope is ill, with a complaint of the bladder, but still gives audiences. Page 3 of R5521 and the Latin letter R5542 name the bishop of Nitra and his coming into Italy, a treaty, the Turk and Italy. The letters fit the planned match of King Vladislaus II of Hungary with Bianca Maria Sforza; the rows name neither.
 - **R5416 and R5456.** Ludovico and a contract with a lady; a "Hieronimo", perhaps of Forlì; the mother and the son; notices to the governor; Ludovico ready to go in person if the restitution of the citadel is delayed. Dated in April and on 11 September.
 - **R5488 and R5579.** The liberation of "Galeazo Pagnano"; a Carlo who denies a plot; men-at-arms and horses. An ambassador's coming, a courier to his king, and a plan to put off a "fact of arms" for one year; dated 19 February.
 - **R5528.** Discontent over ten thousand ducats; the guards of all the towns doubled and tripled. Dated 21 August.
-- **R5520, R5523 and R5541.** Ferrante and the King of Aragon's secretary; "Iacomo Picenino" as a soldier of the Church; the Florentines; "great confusion" at the coming of someone of the Pope; the Venetians.
+- **R5520, R5523 and R5541.** Not Ludovico's letters: an agent in Rome writes, in 1465 or before, most likely between 1455 and 1458. A plan to put "Iacomo Picenino" (perhaps Jacopo Piccinino) in the pay of the Church. The King of Aragon's secretary; the Florentines; "great confusion" at Piccinino's coming; the Venetians.
 - **R5559 and R5563.** An "enterprise", a "Pierantonio", an answer awaited from Naples; the chapters of an agreement, a restitution, the duke.
+- **R5453.** A report on the Breton marriage, most likely of 30 November 1491. Envoys of the Swiss League; the bride has herself called queen of France; a duchy for the duke of Orléans.
 
-The names and dates are as the reads show them. I did not check them in registers.
+The names and dates are as the reads show them. I did not check them in registers. The years come from printed sources and open web pages, not from registers.
 
 ## Every page that reads
 
@@ -38,9 +39,9 @@ The names and dates are as the reads show them. I did not check them in register
 | R5562 p1, R5572 p1, R5575 p1, R5576 p1 | from key | 686; 407; 1,000; 439 | the cipher ledger's key of another family, as on 16 November 2026 | the ledger's work; no page here |
 | R5416 p1, R5456 p1 | from ciphertext | 759; 628 | Italian | [r5416](records/r5416.md), [r5456](records/r5456.md) |
 | R5504 p1, R5505 p2 | from ciphertext; no usable comparison against a key; the cipher ledger read this family in part before | 1,853; 1,477 | Italian | [r5504](records/r5504.md), [r5505](records/r5505.md) |
-| R5520 p1, R5523 p1, R5541 p1 | from ciphertext | 906; 533; 1,204 | Italian | [r5520](records/r5520.md), [r5523](records/r5523.md), [r5541](records/r5541.md) |
-| R5521 p1, p2, p3 | from ciphertext (page 1's key reads pages 2 and 3) | 1,356; 3,001; 1,504 | Italian | [r5521](records/r5521.md) |
-| R5542 p1 | from ciphertext (R5521 page 1's key) | 730 | Latin | [r5542](records/r5542.md) |
+| R5520 p1, R5523 p1, R5541 p1 (1465 or before; most likely between 1455 and 1458) | from ciphertext | 906; 533; 1,204 | Italian | [r5520](records/r5520.md), [r5523](records/r5523.md), [r5541](records/r5541.md) |
+| R5521 p1, p2, p3 (most likely 20 July 1492) | from ciphertext (page 1's key reads pages 2 and 3) | 1,356; 3,001; 1,504 | Italian | [r5521](records/r5521.md) |
+| R5542 p1 (most likely 20 July 1492) | from ciphertext (R5521 page 1's key) | 730 | Latin | [r5542](records/r5542.md) |
 | R5445 p1 | from ciphertext (the key of R5516, R5519 and R5522) | 225 | Italian | [r5445](records/r5445.md) |
 | R5559 p1, R5563 p1, p2 | from ciphertext | 888; 1,080; 390 | Italian | [r5559](records/r5559.md), [r5563](records/r5563.md) |
 | R5509 p1 | from ciphertext | 1,693 | Italian | [r5509](records/r5509.md) |
@@ -54,7 +55,7 @@ The names and dates are as the reads show them. I did not check them in register
 | R5297 p1, p2 | from ciphertext | 1,108; 530 | Italian | [r5297](records/r5297.md) |
 | R5511 p1, R5513 p1 | from ciphertext; one key reads both | 1,027; 806 | Italian | [r5511-r5513](records/r5511-r5513.md) |
 | R5415 p1 | from ciphertext | 914 | Latin | [r5415](records/r5415.md) |
-| R5453 p1, p2 | from ciphertext; one key reads both | 526; 185 | Italian | [r5453](records/r5453.md) |
+| R5453 p1, p2 (most likely 30 November 1491) | from ciphertext; one key reads both | 526; 185 | Italian | [r5453](records/r5453.md) |
 | R5564 p1, R5565 p1, R5582 p1 (rows 1 to 16), R5583 p1, R5584 p1 | from ciphertext; one key reads all five; less sure | 503; 1,050; part; 439; 619 | Italian | [r5564-r5584](records/r5564-r5584.md) |
 | R5516 p1, R5519 p1, R5522 p1 | from ciphertext; one key reads all three | 537; 652; 599 | Italian | [r5516-r5522](records/r5516-r5522.md) |
 | R5524 p1, R5529 p1 | from ciphertext; one key reads both | 699; 809 | Italian | [r5524-r5529](records/r5524-r5529.md) |
@@ -62,6 +63,12 @@ The names and dates are as the reads show them. I did not check them in register
 | R5543 p2 | from ciphertext | 775 | French | [r5543](records/r5543.md) |
 
 - **The pages read with the ledger's key** are the ledger's work. This folder lists them with their state and gives no reading of them.
+
+**Years, as leads.** The rows give no year. These years are likely, not sure.
+
+- **R5521 and R5542:** most likely 20 July 1492. The pope is ill in the letter, and Innocent VIII died on 25 July 1492 (L. Pastor, *The History of the Popes*). On 2 July 1492 Milan urged that the bishop of Nitra be sent into Italy (A. Berzeviczy, Budapest 1914, no. CLXVII).
+- **R5520, R5523 and R5541:** 1465 or before; most likely between 1455 and 1458. Jacopo Piccinino died in 1465, and a living "King of Aragon" fits Alfonso V, who died in 1458 (*Dizionario Biografico degli Italiani*, vol. 83).
+- **R5453:** most likely 30 November 1491. Anne of Brittany was engaged to Charles VIII on 17 November and married him on 6 December 1491 (en.wikipedia, "Anne of Brittany"). The year rests on this one event.
 
 ## What stays open
 
