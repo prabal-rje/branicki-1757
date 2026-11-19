@@ -1,12 +1,30 @@
 # Readings of historical cipher letters
 
-This page holds my readings of cipher letters from the 15th century to 1915. The table below lists each letter, with its date, its content and its files.
+This repository holds my readings of historical cipher letters, from the 15th century to 1915. Each reading is marked in one of two ways. "From ciphertext" means that the key came from the cipher text alone. "From key" means that the reading uses a key that exists: a key of the time, a printed key or another person's key. Each folder names its sources, its key and the state of its reading.
+
+| Group | Units | State |
+| --- | --- | --- |
+| [Botti to Cardinal Gualterio](botti-1710/README.md), 1710 to 1713 | 143 of 189 cipher pages | from ciphertext; 14 word codes take their value from the clerk's decipherment on the page. On the 29 letters that carry a clerk's decipherment, 75% of the shown letters agree with it. The other letters are not checked against a key |
+| [Cosimo I to Agnolo Niccolini](cosimo-1537/README.md), 1537 to 1539 | 19 of 21 letters | 5 from key (the archive's key table); 14 from ciphertext, not checked against a key |
+| [Sforza chancery letters, 160 more records](sforza-160-records/README.md) | 57 of 201 pages | 14 from key: 5 with the archive's key sheet R5347 (4 shown; R5581 page 2 has too few signs to be sure), 9 with the cipher ledger's keys (listed); 43 from ciphertext, with no usable check against a key |
+| [Sforza chancery letters, nine records](sforza-1597/README.md) | 9 records | from ciphertext; partial reads; not checked against a key |
+| [Morosini](morosini-1587/README.md), 1587 to 1589 | 35 records | from ciphertext; checked against the key that A. Meister printed and George Lasry rebuilt in part: 95.1% of the matched single-letter codes right, and 72.7% of all single-letter codes recovered |
+| [Francia 346](francia-346-full/README.md), 1632 to 1634 | 31 later records and 10 early records (R74 to R82, R84) | from key (the key that George Lasry published on DECODE; for the early records, with 30 code values from decipherments of the time and context). My earlier reading of the 22 later records from ciphertext agrees with the key on 98.8% of its shown true letters |
+| [Pallotto to Cardinal Barberini](pallotto-1628/README.md), 1628 | 69 of 70 records | from key (the 1628 key) |
+| [The Duke of Sessa to Charles V](sessa-1524/README.md), 1524 to 1525 | 30 records | from key (the cipher ledger's key, with added values) |
+| [Filippo Sega to Rome, Francia 32](francia-32/README.md), 1590 to 1591 | 27 of 30 cipher pages | from key (Meister's printed key no. 65) |
+
+`STATUS.md` gives the state of every collection that I worked on, with what is not read yet.
+
+## The single letters
+
+The table below lists each letter, with its date, its content and its files.
 
 The archives and the historical cipher ledger at https://github.com/dbourdeau/cyphersolver listed these letters as unread when I read them. All but one were read from the ciphertext, with no key from outside. The 1911 telegram was read with the archive's own key card.
 
 One letter is a special case. Jean Bazin's letter of 1573 has been in print in clear since 1867. I found that print after my read, and it now checks the read.
 
-The Sforza letters are another special case. The ledger's maintainer read part of record 5464 before me. He also saw fragments of record 5463 before me. My earlier reads of records 5463 to 5465 use his transcription of the signs. My second reads of those records, and my read of records 5425 to 5430, use my own machine transcription of the DECODE images, not verified.
+The Sforza letters are another special case. The ledger's maintainer read part of record 5464 before me. He also saw fragments of record 5463 before me. My earlier reads of records 5463 to 5465 use his transcription of the signs. My second reads of those records, and my read of records 5425 to 5430, use my own transcription of the DECODE images.
 
 Three more ciphers have a known key. They are the Morosini despatches of 1587 to 1589, the Francia 346 letters of 1632 to 1634 and a letter of Melchiorre Biglia of 1565. I read them without the key, as a check of my algorithm. They have their own section below.
 
@@ -38,6 +56,99 @@ The ledger's catalogue numbers:
 - The 1911 telegram: part of 1462
 - Carranza's telegrams: 1464
 - The Sforza letters: 2410 (record 5463), 2409 (record 5464), 2411 (record 5465) and 2399 (records 5425 to 5430)
+
+## The groups read from ciphertext
+
+Each key below came from the cipher text alone. Each row gives its state.
+
+| Group | Date | What the letters say | State | Read it |
+| --- | --- | --- | --- | --- |
+| Abbé C. C. Botti to Cardinal F. A. Gualterio, DECODE records R8468 to R8718 (British Library, Add MS 20443) | 1710 to 1713 | Botti asks again and again for leave to travel. He complains of persecution by the local government. A clash with the constables; a water dispute over broken embankments; pardons sold for money; foreign troops hold a tower; peace rumours. | 143 of 189 cipher pages: from ciphertext; 14 word codes take their value from the clerk's decipherment on the page. On the 29 letters that carry a clerk's decipherment, 75% of the shown letters agree with it. The other letters are not checked against a key. | [Notes](botti-1710/README.md) |
+| Cosimo I de' Medici to Agnolo Niccolini, the main system, DECODE records R4039, R4041 to R4050 and R4052 to R4054 (Florence, Archivio Niccolini di Camugliano, Fondo antico 214, inserto 1) | October 1538 to August 1539 | A marriage alliance and "the matter of the wife"; a papal motu proprio; the arrest of Biagio del Campana, and a secret plan that named Giulio, natural son of Duke Alessandro. | 14 letters: from ciphertext; not checked against a key | [Notes](cosimo-1537/README.md) |
+| Sforza chancery letters, DECODE records R5297 to R5587 (Archivio di Stato di Milano, Carteggio Sforzesco) | no year read | Letters in the name of Ludovico Maria Sforza: a marriage negotiation, the bishop of Nitra, the Turk. Ludovico and the restitution of a citadel. Ferrante, the King of Aragon's secretary and the Florentines. Most pages have no gloss yet. | 43 pages: from ciphertext; no usable check against a key. | [Notes](sforza-160-records/README.md) |
+
+## The groups read from key
+
+Each row names the key. The folders of Pallotto, Sessa, Francia 32 and Francia 346 say who read these letters, or their cipher, before me.
+
+| Group | Date | What the letters say | State and key | Read it |
+| --- | --- | --- | --- | --- |
+| The nuncio Pallotto to Cardinal Francesco Barberini, DECODE records R215 to R285 and R318 (Biblioteca Apostolica Vaticana, Barb. lat. 6956) | May to August 1628 | The war of the Mantuan succession: the Emperor's decree on Mantua and Monferrato, the Spanish attack on Casale, the claim of Guastalla, the imperial ban against Nevers. Church business: the English Ladies, Propaganda Fide. | 69 of 70 records: from key (the 1628 key of Norbert Biermann and Thomas Bosbach, filed on DECODE record R215) | [Notes](pallotto-1628/README.md) |
+| The Duke of Sessa to Charles V, DECODE records R9873 to R9905 (Real Academia de la Historia, Salazar A-31 and A-34) | April 1524 to June 1525 | The Pope will not declare himself in a league and leans to the French out of fear; the archbishop of Capua; money for the army; the enterprise of France; the mother of the King of France sends an ambassador. | 30 records: from key (the cipher ledger's key, with added values from clear texts of the same letters); 68.1% of 20,998 cipher units read | [Notes](sessa-1524/README.md) |
+| Filippo Sega, nuncio in Paris, to Rome, DECODE records R5612 to R5621 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 32) | 1590 to 1591 | The war of the League: the imprisoned bishop, Mayenne and Lignerac, Nemours, the agreement at Tours, the Duchess of Guise. | 27 of 30 cipher pages: from key (A. Meister's printed key no. 65, 1906) | [Notes](francia-32/README.md) |
+| Cosimo I de' Medici to Agnolo Niccolini, the earlier system, DECODE records R4034 to R4038 (Florence, Archivio Niccolini di Camugliano, Fondo antico 214, inserto 1) | December 1537 to March 1538 | The papal tithes on Florence: half of the two tithes, one now and one a year later; the extension to accept. | 5 letters: from key (the archive's key table, DECODE record R4033). A read from ciphertext, made before, agrees with the archive's key table on 16 of 17 codes | [Notes](cosimo-1537/README.md) |
+| Sforza chancery letters, DECODE records R5488, R5528, R5579 and R5581 (Archivio di Stato di Milano, Carteggio Sforzesco) | no year read | The liberation of "Galeazo Pagnano"; a "fact of arms" put off for one year; discontent over ten thousand ducats and guards doubled in all the towns. | 5 pages: from key (the archive's key sheet, DECODE record R5347). 9 more pages are from key, with the cipher ledger's keys; the README lists them | [Notes](sforza-160-records/README.md) |
+| Rome to the nuncio Ceva, Francia 346, the early leaves R79 to R82 and R84 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346) | 1632 | The union of the crowns and plenipotentiaries in a third place; Ceva's talk with Richelieu; Montmorency beheaded; after Lützen, Monsieur's flight. | 5 records: from key (the key that George Lasry published on DECODE, as DECODE gives it, with 30 code values from decipherments of the time and context) | [Notes](francia-346-full/README.md#the-early-leaves-r79-to-r84) |
+
+## Three ciphers with a known key, read as a check of my algorithm
+
+I read these three ciphers from the ciphertext alone, without the key. Their keys are in print or online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
+
+Francia 346 has two rows. The second row adds a full decode of the later letters with the published key.
+
+| Cipher | Date | What it says | Read it |
+| --- | --- | --- | --- |
+| Morosini, 35 DECODE records between R17 and R58 (Vatican, Francia 22 and 18/3) | 1587 to 1589 | My read shows the Council of Trent, the nuncio, Guise, Navarre, Paris, Angers and Brissac, a castle and a river bridge. Where my cut matches a single-letter code, 95.1% of my letters are right (80,553 of 84,667). But my read recovers only 72.7% of all single-letter codes (80,553 of 110,821). Read in part. | [Notes](morosini-1587/README.md), [Italian and English](morosini-1587/reading.md), [Check](morosini-1587/check.md) |
+| Francia 346, DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in an appendix (Vatican) | 1632 to 1634 | My read shows Benavides, the Imperial court, Nuremberg and Regensburg, the Swedes, a universal peace, and pensions. Of the true letters that my read shows, 99.2% are right (6,953 of 7,012). But about a third of the graded shown tokens are not letter codes (3,579 of 10,591). | [Notes](francia-346-leaves/README.md), [Italian and English](francia-346-leaves/reading.md), [Check](francia-346-leaves/check.md) |
+| Francia 346, the later letters: 22 DECODE records between R5626 and R5659 (Vatican) | Rome, 1633 | Rome to the nuncio Ceva: the peace talks, Benavides and his writing, Lorraine, the Swedes, a priory and the bull "de non infeudandis". My read without the key, frozen first: 98.8% of its shown true letters are right (6,930 of 7,017). Then a full decode with the published key: 92.3% of 10,919 code tokens have a value. Read in part. | [Notes](francia-346-full/README.md), [Check](francia-346-full/check.md) |
+| Melchiorre Biglia to Rome (Milan, Ambrosiana, Trotti 22) | Vienna, December 1565 | My read shows words of devotion, foot soldiers and horse, and the king. Within words, 82.2% of the aligned letter pairs agree with Brice Dudout's reading, with gaps left out (957 of 1,164). | [Notes](biglia-1565/README.md), [Italian and English](biglia-1565/reading.md), [Check](biglia-1565/check.md) |
+
+### Morosini, 1587 to 1589
+
+Codes of one, two or three digits stand for letters, syllables and words, and some codes are nulls. A. Meister printed the key in 1906. George Lasry rebuilt it in part on DECODE in 2020.
+
+My algorithm read all 35 records as one text, without the key. The read is partial. Where my cut matches a single-letter code of the key, 95.1% of my letters are right (80,553 of 84,667). In all, it recovers 72.7% of the single-letter codes (80,553 of 110,821).
+
+My cut misses the three-digit letter codes, and my key reads the digit 2 as i, not a. Three of my 18 smaller test windows ended on a wrong key, and nothing flagged them. Over the window sizes, the mean recovery on the real text is 49.7% to 72.7%. On artificial test letters of the same sizes, it is 81.1% to 96.6%. `morosini-1587/check.md` gives the details.
+
+**Correction, 12 November 2026.** A later check found a fault in this read. My rule cuts the digits under the best of 20 first starts. This read cut them under the second-best start. The cause is not known.
+
+- The read under the rule gets 95.2% of the matched single-letter codes right (80,251 of 84,284). It recovers 72.4% of all single-letter codes (80,251 of 110,821).
+- The two reads show a different value on 25 of their 135 shared code types.
+- The 12 test windows of 10,000 tokens or fewer follow the rule. The 6 larger windows are not checked yet.
+- The files of this page are still those of the first read. I will rebuild them from the read under the rule.
+
+### Francia 346, 1632 to 1634
+
+A lone 6 is a word space, pairs 2x are nulls, and the other pairs stand for letters and syllables. Three-digit codes stand for words and names. George Lasry published the key on DECODE in 2020.
+
+My key reads 39 of the 40 letter codes right. But it also gives letters to codes that are syllables, nulls or no code at all. It does not read the three-digit codes. `francia-346-leaves/check.md` gives the details.
+
+### Biglia, 1565
+
+A single digit mostly stands for a letter, and some digits have both a vowel and a consonant value. Two digits together mostly make a syllable. `00` is a word space. Brice Dudout read the letter and rebuilt its key from the ciphertext (L'Europe chiffrée, 29 October 2026).
+
+My algorithm took each digit as a code by itself, so it misses the syllables. Even so, within words, 82.2% of the aligned letter pairs agree with Dudout's reading, with gaps left out (957 of 1,164). Words in a random order give 29.0% on average. `biglia-1565/check.md` gives the details.
+
+DECODE's images are for research only. Biglia's images carry no reuse licence. I copy no image and no transcription. Each decryption gives the place of each line: the DECODE record, page and row or line, or for Biglia the folio and line.
+
+## Sources and credit
+
+Some of the ciphers on this page come from DECODE. DECODE is the database of historical ciphers of the DECRYPT project: https://de-crypt.org/decrypt-web/RecordsList. I thank the DECODE team for access to the records.
+
+The reference for DECODE:
+
+- Mihály Héder and Beáta Megyesi, "The DECODE Database of Historical Ciphers and Keys: Version 2". HistoCrypt 2022, pp. 111 to 114. https://doi.org/10.3384/ecp188397
+
+DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository. I copy no DECODE image and no transcription of a DECODE record. Each folder names the DECODE record and the archive of its cipher.
+
+| Group | DECODE records | Archive |
+| --- | --- | --- |
+| Botti | R8468 to R8470, R8617, R8618 and R8659 to R8718 | British Library, Add MS 20443 |
+| Cosimo I to Niccolini | R4034 to R4054, and R4033 (the key table) | Florence, Archivio Niccolini di Camugliano, Fondo antico 214, inserto 1 |
+| The Sforza letters, nine records | R5425 to R5430, R5463, R5464 and R5465 | Archivio di Stato di Milano, Carteggio Sforzesco, cartella 1597 |
+| The Sforza letters, 160 more records | R5297 to R5587, and R5347 (a key sheet) | Archivio di Stato di Milano, Carteggio Sforzesco, cartelle 1597 and 1598 |
+| Pallotto | R215 to R235, R237 to R242, R244 to R285 and R318 | Biblioteca Apostolica Vaticana, Barb. lat. 6956 |
+| Sessa | R9873 to R9881, R9883 to R9887, R9889 to R9901 and R9903 to R9905 | Real Academia de la Historia, Madrid, Colección Salazar y Castro A-31 and A-34 |
+| Francia 32 | R5612 to R5621 | Archivio Apostolico Vaticano, Segreteria di Stato, Francia 32 |
+| Francia 346 | R74 to R82, R84, R5626 to R5666 and R5669 to R5671; the appendix of my reading from ciphertext: R5642, R5645, R5646, R5649, R5650 and R5651 | Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346 |
+| Morosini | R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58 | Archivio Apostolico Vaticano, Segreteria di Stato, Francia 22 (R18 to R58) and Francia 18/3 (R17) |
+
+- Zeschau to Seebach, 1841: DECODE record R5005 (HStAD, 10731 Sächsische Gesandtschaft in Russland, Nr. 12), https://de-crypt.org/decrypt-web/RecordsView/5005.
+- DECODE's record pages: https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number.
+- The published key of Francia 346: George Lasry, Beáta Megyesi and Nils Kopal.
+- The folders of Botti, Cosimo I, the 160 Sforza records, Pallotto, Sessa and Francia 32 cite the keys of others and copy none of them: the key table and the key sheet of the archives, the 1628 key, Meister's printed key and the cipher ledger's keys. `francia-346-full/` carries the published key table and the ledger's values of some codes.
+- The cipher ledger at https://github.com/dbourdeau/cyphersolver holds keys and readings of some of these letters. Each folder says where.
 
 ## What opened them
 
@@ -134,48 +245,6 @@ Bespoke count matching based on Spanish next-letter counts opened the number tel
 
 The key family may already be in print. Narváez's 2025 article does not print these tables, and it deciphers none of these ten telegrams. I have not reached his 2019 book. `carranza-1915/README.md` gives the checks and what stays open.
 
-## Three ciphers with a known key, read as a check of my algorithm
-
-I read these three ciphers from the ciphertext alone, without the key. Their keys are in print or online. So I checked each read afterwards against a published key or a modern reading. Each folder explains the reference and its limits. The checks show what my algorithm gets right, and where it fails.
-
-Francia 346 has two rows. The second row adds a full decode of the later letters with the published key.
-
-| Cipher | Date | What it says | Read it |
-| --- | --- | --- | --- |
-| Morosini, 35 DECODE records between R17 and R58 (Vatican, Francia 22 and 18/3) | 1587 to 1589 | My read shows the Council of Trent, the nuncio, Guise, Navarre, Paris, Angers and Brissac, a castle and a river bridge. Where my cut matches a single-letter code, 95.1% of my letters are right (80,553 of 84,667). But my read recovers only 72.7% of all single-letter codes (80,553 of 110,821). Read in part. | [Notes](morosini-1587/README.md), [Italian and English](morosini-1587/reading.md), [Check](morosini-1587/check.md) |
-| Francia 346, DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in an appendix (Vatican) | 1632 to 1634 | My read shows Benavides, the Imperial court, Nuremberg and Regensburg, the Swedes, a universal peace, and pensions. Of the true letters that my read shows, 99.2% are right (6,953 of 7,012). But about a third of the graded shown tokens are not letter codes (3,579 of 10,591). | [Notes](francia-346-leaves/README.md), [Italian and English](francia-346-leaves/reading.md), [Check](francia-346-leaves/check.md) |
-| Francia 346, the later letters: 22 DECODE records between R5626 and R5659 (Vatican) | Rome, 1633 | Rome to the nuncio Ceva: the peace talks, Benavides and his writing, Lorraine, the Swedes, a priory and the bull "de non infeudandis". My read without the key, frozen first: 98.8% of its shown true letters are right (6,930 of 7,017). Then a full decode with the published key: 92.3% of 10,919 code tokens have a value. Machine transcription, not verified. Read in part. | [Notes](francia-346-full/README.md), [Check](francia-346-full/check.md) |
-| Melchiorre Biglia to Rome (Milan, Ambrosiana, Trotti 22) | Vienna, December 1565 | My read shows words of devotion, foot soldiers and horse, and the king. Within words, 82.2% of the aligned letter pairs agree with Brice Dudout's reading, with gaps left out (957 of 1,164). | [Notes](biglia-1565/README.md), [Italian and English](biglia-1565/reading.md), [Check](biglia-1565/check.md) |
-
-### Morosini, 1587 to 1589
-
-Codes of one, two or three digits stand for letters, syllables and words, and some codes are nulls. A. Meister printed the key in 1906. George Lasry rebuilt it in part on DECODE in 2020.
-
-My algorithm read all 35 records as one text, without the key. The read is partial. Where my cut matches a single-letter code of the key, 95.1% of my letters are right (80,553 of 84,667). In all, it recovers 72.7% of the single-letter codes (80,553 of 110,821).
-
-My cut misses the three-digit letter codes, and my key reads the digit 2 as i, not a. Three of my 18 smaller test windows ended on a wrong key, and nothing flagged them. Over the window sizes, the mean recovery on the real text is 49.7% to 72.7%. On artificial test letters of the same sizes, it is 81.1% to 96.6%. `morosini-1587/check.md` gives the details.
-
-**Correction, 12 November 2026.** A later check found a fault in this read. My rule cuts the digits under the best of 20 first starts. This read cut them under the second-best start. The cause is not known.
-
-- The read under the rule gets 95.2% of the matched single-letter codes right (80,251 of 84,284). It recovers 72.4% of all single-letter codes (80,251 of 110,821).
-- The two reads show a different value on 25 of their 135 shared code types.
-- The 12 test windows of 10,000 tokens or fewer follow the rule. The 6 larger windows are not checked yet.
-- The files of this page are still those of the first read. I will rebuild them from the read under the rule.
-
-### Francia 346, 1632 to 1634
-
-A lone 6 is a word space, pairs 2x are nulls, and the other pairs stand for letters and syllables. Three-digit codes stand for words and names. George Lasry published the key on DECODE in 2020.
-
-My key reads 39 of the 40 letter codes right. But it also gives letters to codes that are syllables, nulls or no code at all. It does not read the three-digit codes. `francia-346-leaves/check.md` gives the details.
-
-### Biglia, 1565
-
-A single digit mostly stands for a letter, and some digits have both a vowel and a consonant value. Two digits together mostly make a syllable. `00` is a word space. Brice Dudout read the letter and rebuilt its key from the ciphertext (L'Europe chiffrée, 29 October 2026).
-
-My algorithm took each digit as a code by itself, so it misses the syllables. Even so, within words, 82.2% of the aligned letter pairs agree with Dudout's reading, with gaps left out (957 of 1,164). Words in a random order give 29.0% on average. `biglia-1565/check.md` gives the details.
-
-DECODE's images are for research only. Biglia's images carry no reuse licence. I copy no image and no transcription. Each decryption gives the place of each line: the DECODE record, page and row or line, or for Biglia the folio and line.
-
 ## Files
 
 **The Medici letter:** `medici-1479/` has the notes, the reading, the translation, the transcription, the line-by-line decryption, the key and the open code groups.
@@ -202,11 +271,21 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 
 **Francia 346, the later letters:** `francia-346-full/` has the notes, the check of my frozen read against the published key, and one page for each record. Each record page of the first 22 has the reading, the translation and the decode row by row.
 
-- Nine more records, which carry a decipherment of the time, and the earlier leaves R74 to R78 have pages with a summary and the decode.
-- Thirteen records use another cipher. The pages of ten of them report what a decipherment of the time or a clear copy says, with no decode. One of the ten holds only one short line. A blind read of the other three is in progress.
+- Nine more records, which carry a decipherment of the time, and the early leaves R74 to R82 and R84 have pages with a summary and the decode.
+- Thirteen records use another cipher. The pages of ten of them report what a decipherment of the time or a clear copy says, with no decode. One of the ten holds only one short line. `STATUS.md` gives the state of the other three.
 - `key-and-key-free-read/` holds the key table and the frozen key-free read. `rereads.md` decodes ten pages that were read again.
 
-**Francia 32:** `francia-32/` states the work on this file of 1590 to 1592, in another cipher. It decodes nothing.
+**Francia 32:** `francia-32/` has the notes and a page for each of the seven records with a reading from key.
+
+**Botti:** `botti-1710/` has the notes, the key, and one page for each letter with the rows as read and an English gloss.
+
+**Cosimo I:** `cosimo-1537/` has the notes, my two keys, and one page for each letter with a reading.
+
+**The Sforza letters, 160 more records:** `sforza-160-records/` has the notes, a table of every page that reads, my key of R5521 page 1, and one page for each record or set of pages read together.
+
+**Pallotto:** `pallotto-1628/` has the notes and one page for each record that reads.
+
+**Sessa:** `sessa-1524/` has the notes and one page for each record.
 
 **Biglia:** `biglia-1565/` has the notes, the check against Dudout's reading, the reading, the line-by-line decryption, the key and the key check.
 
@@ -224,6 +303,8 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
 
 ## Status
 
+`STATUS.md` gives the state of every group. This section gives the letters and the checks above.
+
 - The Medici letter: read in part. 88 of 113 cipher words are read in full, 77.9%, and 663 of 730 letter positions, 90.8%. About 60 code groups and symbols stay unread.
 - Charles V: 240 of 246 cipher words read, 97.6%. Six stay marked, where the writer left out a letter or wrote a wrong sign.
 - Bazin: 84.1% of the decoded letters that line up with the print of 1867 are equal (12,254 of 14,570). The reading gives the firm stretches only.
@@ -238,13 +319,13 @@ DECODE's images are for research only. Biglia's images carry no reuse licence. I
   - Record 5463: a letter shows on 78.0% of the signs (1,070 of 1,372, real). Two blind readers find sense in 51% to 59% of all signs (real). A rival key scores almost as well.
   - Record 5464: a letter shows on 86.4% of the signs (2,808 of 3,249, real). Two blind readers find sense in 56% to 61% of all signs (real).
   - Record 5465: a letter shows on 68.0% of the signs (3,961 of 5,828, real). The blind readers find sense in 37% of all signs (real).
-  - Second reads, on my own machine transcription, not verified. Record 5463 shows a letter on 97.6% of the signs (1,110 of 1,137, real). Records 5464 and 5465, read as one text under one key, show a letter on 94.2% (8,186 of 8,691, real). Twins of these sizes get 87% and 94% of the shown letters right (twin). Two blind readers say that each record reads as sentences. Records 5464 and 5465 share most of one key at least. One test statistic of two cannot judge whether they share all of it.
+  - Second reads, on my own transcription of the DECODE images. Record 5463 shows a letter on 97.6% of the signs (1,110 of 1,137, real). Records 5464 and 5465, read as one text under one key, show a letter on 94.2% (8,186 of 8,691, real). Twins of these sizes get 87% and 94% of the shown letters right (twin). Two blind readers say that each record reads as sentences. Records 5464 and 5465 share most of one key at least. One test statistic of two cannot judge whether they share all of it.
   - Where the earlier and the second decode of a page both show a letter, they agree on 93% to 97% of the places (real). Different pages give 49% to 69% by the same count (real).
-  - Records 5425 to 5430: a partial read from the ciphertext alone, not checked against a key, on our own machine transcription of the DECODE images, not verified. A letter shows on 87.1% of the signs (12,963 of 14,888, real). Twins of this size read .95 of the shown letters right (twin). Two blind readers read each record as Italian sentences; where a reader stated its base, 40% to 60% of all signs make sense to it (real). An earlier read of these records is sealed.
+  - Records 5425 to 5430: a partial read from the ciphertext alone, not checked against a key, on our own transcription of the DECODE images. A letter shows on 87.1% of the signs (12,963 of 14,888, real). Twins of this size read .95 of the shown letters right (twin). Two blind readers read each record as Italian sentences; where a reader stated its base, 40% to 60% of all signs make sense to it (real). An earlier read of these records is sealed.
   - Records 5437, 5443 to 5445, 5447 and 5467: the same method did not read them.
 - Morosini: read in part, with no key; 95.1% of the matched single-letter codes right (80,553 of 84,667). 72.7% of all single-letter codes recovered (80,553 of 110,821). The cut is wrong for the three-digit letter codes. A second search for the missing code forms failed its test on artificial letters, so it did not run on the real text. The read is the first one. A correction of 12 November is in the Morosini section: the read under my start rule gives 95.2% and 72.4%.
 - Francia 346: read with no key; 99.2% of the shown true letters right (6,953 of 7,012). 65.7% of the graded shown tokens show the true letter (6,953 of 10,591).
-- Francia 346, the later letters: my read with no key, frozen first, gets 98.8% of the shown true letters right (6,930 of 7,017). Then the published key gives a value to 92.3% of the 10,919 code tokens. The transcription is a machine transcription, and nobody verified it.
+- Francia 346, the later letters: my read with no key, frozen first, gets 98.8% of the shown true letters right (6,930 of 7,017). Then the published key gives a value to 92.3% of the 10,919 code tokens.
 - Biglia: read with no key; within words, 82.2% of the aligned letter pairs equal to Dudout's reading, with gaps left out (957 of 1,164). The cut misses the syllable codes.
 
 In the readings, `[195]` is a number group that stays unread, and `[?word]` is a doubtful reading.
@@ -259,17 +340,6 @@ The cipher ledger at https://github.com/dbourdeau/cyphersolver checks contribute
   - AGAD 131: filed as read in part, with the key of letter 446. https://dbourdeau.github.io/cyphersolver/agad131.html
 - It applied my three earlier Sforza keys to its own tokens, and the shown shares of records 5463, 5464 and 5465 came out the same. By its read bar, these are partial reads, not readings.
 
-## Credit: DECODE
-
-Some of the ciphers on this page come from DECODE. DECODE is the database of historical ciphers of the DECRYPT project: https://de-crypt.org/decrypt-web/RecordsList. I thank the DECODE team for access to the records.
-
-- Morosini: DECODE records R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58.
-- Francia 346: DECODE records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, with R5642, R5645, R5646, R5649, R5650 and R5651 in the appendix.
-- Francia 346, the full decode of the later letters: DECODE records R74 to R78, R5626 to R5666 and R5669 to R5671 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346; key by George Lasry, Beáta Megyesi and Nils Kopal).
-- Francia 32: DECODE records R5612 to R5621 (Archivio Apostolico Vaticano, Segreteria di Stato, Francia 32).
-- Zeschau to Seebach, 1841: DECODE record R5005.
-- The Sforza letters: DECODE records R5425 to R5430, R5463, R5464 and R5465.
-
-DECODE's images are for research use only. They may not be redistributed or published without permission from the archive that holds the document. No DECODE image is in this repository. Each folder names the DECODE record and the archive of its cipher.
+AI tools were used to help verify the decipherments.
 
 © 2026 Prabal Gupta. First published here, 7 November 2026. Released under CC BY 4.0: reuse it, and credit me.

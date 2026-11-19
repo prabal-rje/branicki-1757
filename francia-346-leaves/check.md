@@ -1,5 +1,7 @@
 # Francia 346: the check against the published key
 
+Credit: DECODE, the database of historical ciphers of the DECRYPT project, records R74 to R78, R5626, R5635, R5636, R5637, R5640, R5643, R5647 and R5648, and in the appendix R5642, R5645, R5646, R5649, R5650 and R5651. Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346. Record pages: https://de-crypt.org/decrypt-web/RecordsView/<number>, for example https://de-crypt.org/decrypt-web/RecordsView/74.
+
 ## 1. What was compared
 
 - **My side:** the read as fixed before the check (`key.tsv`, `decryption.txt`, `reading.md`).
