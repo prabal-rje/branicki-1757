@@ -11,7 +11,7 @@ The files in `transcription/` are my own transcription of the DECODE images, as 
 
 ## The files
 
-- 46 files, one for each of the 47 pages that this folder gives, except R5501 page 1: `<record>_p<page>_signs.txt`. They hold 1,103 rows of 39 records.
+- 47 files, one for each of the 47 pages that this folder gives: `<record>_p<page>_signs.txt`. They hold 1,130 rows of 40 records.
 - The pages read with the cipher ledger's keys have no file here.
 - Three header lines start with `#`; R5582 page 1 has four. Then each row is one line: its label (`C01`, `C02`, ...) and the signs, split by spaces.
 - Clear text is not in the rows.
@@ -27,4 +27,5 @@ The files in `transcription/` are my own transcription of the DECODE images, as 
 
 - Some signs differ only by a small stroke or a dot. So two labels can be one sign, or one label two signs.
 - The file of R5582 page 1 holds rows 1 to 16 only.
+- R5501 page 1: the file holds 1,077 sign labels and two `?`. Its record page gives 1,078 tokens for the read. I have not found where the one sign differs.
 - R5297: the header of its two files says cartella 1591, and its record page says cartella 1598. I have not settled which is right.
