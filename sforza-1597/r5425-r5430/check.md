@@ -36,7 +36,7 @@ The signs are our own machine transcription of the DECODE images, not verified. 
 - Where our transcription gives two options for a sign, the read uses the first option. This holds for 782 of the 14,888 signs, 5.3% (real). A test on twins chose this rule before the decode. The annealing of the real starts had begun before that choice, but it uses the first option under either rule.
 - Where our transcription has a gap, joined ink or clear text, there is no sign. The decode breaks there. `decryption.txt` shows no mark at these places.
 - Pages 2 of records 5425 and 5426 hold no cipher. Each other record has one page.
-- **Our label transcription is not in this repository.** DECODE marks the ciphertext of these letters as private. We share it with DECODE and with the archive on request. In it, a label with two options is written `G016|G046`, and the read uses the first.
+- **Our label transcription** is my own transcription of the DECODE images, in `../transcription/`. In it, a label with two options is written `G016|G046`, and the read uses the first.
 - Each row of `decryption.txt` has one character for each label of the same row of our transcription. We checked this with a script.
 - A label is a name. No image and no image crop is in this repository.
 

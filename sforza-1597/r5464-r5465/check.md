@@ -45,7 +45,7 @@ This is our second read of records 5464 and 5465.
 
 ## 2. The signs: our transcription
 
-- The signs are our own machine transcription of the DECODE images, not verified. It is not in this repository, because DECODE marks the ciphertext of these letters as private. We share it with DECODE and with the archive on request.
+- The signs are my own transcription of the DECODE images, in `../transcription/`.
 - A label is a name for a sign shape. It is not a letter. No image and no crop of an image is in this repository.
 - We transcribe the second page of record 5465 as two faces, left and right. Record 5465 also has margin, interlinear and cancelled rows. Each such row is its own text in the read; `decryption.txt` marks its kind.
 - The labels are joined across the nine records of the box, so one label names the same shape on every page.
