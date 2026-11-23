@@ -5,11 +5,13 @@
 - **DECODE:** record R92 (ff. 70r to 73v), https://de-crypt.org/decrypt-web/RecordsView/92.
 - **Source transcription:** DECODE's public transcription of 2016 (made before the solution). The cipher part holds 6,532 digits across 113 cipher lines on ff. 70r to 73r; f. 73v is in clear.
 - **Use:** research only. I copy no DECODE image and no DECODE transcription file. Each line of [decryption.txt](decryption.txt) gives the folio and cipher-line number of DECODE record R92, so that a reader with access to DECODE can follow it. When you use this material, cite DECODE and record R92.
-- **State:** from ciphertext; partial read. Published keys and readings of DECODE R92 exist in the literature; none of them was opened or used for this read, and this folder has not yet been graded against a published key.
+- **State:** from ciphertext; partial read. Simon Klee published a solution and key for DECODE R92 on 16 September 2026 (https://simonklee.dk/farnese-letter; reviewed in `cyphersolver` as `targets/vatican5`). Neither his key nor any corrected transcription was opened or used before this key and read were fixed on 22 November 2026.
 
 ## The cipher
 
-Single digits stand for the frequent letters (`8=e`, `5=a`, `4=o`, `6=i`, `2=r`, `7=n`, `0=s`, `1=u`, `3=m`), `9` is a null, and two-digit groups stand for the other consonants (`80=t`, `03=l`, `27=c`, `57=p`, `73=d`, `75=g`, `37=f`, `74=q`, `90=s`) and homophones. The transcription also marks raised dots and commas over digits; this read uses the digits alone.
+Single digits stand for the frequent letters (`8=e`, `5=a`, `4=o`, `6=i`, `2=r`, `7=n`, `0=s`, `1=u`, `3=m`), `9` is a null, and two-digit groups stand for the other consonants (`80=t`, `03=l`, `27=c`, `57=p`, `73=d`, `75=g`, `37=f`) and letter-plus-null pairs (`49=o`, `89=e`, `29=r`, `69=i`, `79=n`, `90=s`). The transcription also marks raised dots and commas over digits; this read uses the undotted digits alone.
+
+Checked afterwards against `targets/vatican5/key.md`, all nine single-digit letters, the null `9`, and seven of the nine undotted two-digit letter codes (`03=l`, `73=d`, `80=t`, `57=p`, `27=c`, `37=f`, `75=g`) agree exactly. Because this read uses the undotted digits only, the rare undotted codes that collide with dotted pairs (`72=b`, `07=z`, `81=et`) and the nine dotted syllable and title codes stay open. [key.tsv](key.tsv) and [decryption.txt](decryption.txt) are unchanged from the blind run.
 
 [key.tsv](key.tsv) gives each recovered code, its value, its count and its grade.
 
