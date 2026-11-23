@@ -14,7 +14,7 @@ DECODE holds 73 records of Francia 346 (260 scans).
 | R5627 to R5633, R5641, R5644 | 9 | read with the known key (R5641 is too small to judge); each carries a decipherment of the time | [The records added on 13 November](#the-records-added-on-13-november-2026) |
 | R74 to R78, the earlier leaves | 5 | read with the known key from my pilot transcription; R74 to R76 in fragments | the same section |
 | R5660 to R5666, R5669 to R5671 | 10 | do not read with the known key: another cipher; content from the clerk's decipherment or a clear copy; no decode | [Thirteen records in another cipher](#thirteen-records-in-another-cipher) |
-| R5634, R5638, R5639 | 3 | do not read with the known key: another cipher; each carries a decipherment of the time; a blind read is in progress | the same section |
+| R5634, R5638, R5639 | 3 | do not read with the known key: another cipher; read from ciphertext with their own key ([key-r5634-r5638-r5639.tsv](key-r5634-r5638-r5639.tsv)) | [r5634.md](r5634.md), [r5638.md](r5638.md), [r5639.md](r5639.md) |
 | R5667, R5668, R5672 to R5686 | 17 | other signs; a blind fit is in progress | [The other records](#the-other-records-of-the-file) |
 | R79 to R82, R84 | 5 | from key (the key that George Lasry published), on DECODE's own transcription | [The early leaves R79 to R84](#the-early-leaves-r79-to-r84) |
 | R83 | 1 | another cipher; only the clerk's decipherment above the rows reads; no decode | the same section |
@@ -225,7 +225,7 @@ R5634, R5638, R5639, R5660 to R5666 and R5669 to R5671 do not read with the publ
 - **R5660 to R5671** mix digits with letter forms: 12 to 24 letter forms that the transcription reads without doubt (none in R5661, which has 55 doubtful ones). Each record page gives its counts and the rule. The key-free page test finds no pair structure on 23 of their 24 pages. The other page, R5666 f. 398v, passes only because it has too few runs to judge (17).
 - The cipher ledger's notes of 29 October 2026 already say that R5670 uses a different system.
 - **Twelve of the 13 carry a decipherment of the time between the cipher rows,** in my transcription. R5666 shows none there. A letter in clear stands on its later leaves, and I take it as the text of that cipher letter. This is my inference.
-  - **R5634, R5638 and R5639:** a blind read is in progress. Their pages give no decode and no content yet.
+  - **R5634, R5638 and R5639:** read from ciphertext alone, without opening the decipherments of the time. They share a two-digit letter cipher with single-digit nulls ([key-r5634-r5638-r5639.tsv](key-r5634-r5638-r5639.tsv)). All three letters concern the same business: the renunciation of a priory, pensions, compensation and four thousand scudi ([r5634.md](r5634.md), [r5638.md](r5638.md), [r5639.md](r5639.md)). Their cipher rows are in `transcription/`.
   - **R5660 to R5666 and R5669 to R5671:** my tests found no cut of their rows that fits a letter cipher. No decode of mine exists. Their pages say what each letter says, in my words. The source is the clerk's decipherment of the time, or a clear copy on the leaves of the same record. The pages do not copy these texts.
 - One page, R5669 f. 407r, has no transcription yet.
 
@@ -334,6 +334,6 @@ DECODE's images are for research use only. They may not be redistributed or publ
 - `r5627.md` to `r5644.md` (nine pages) and `r74.md` to `r78.md`: the records added on 13 November, with a summary, the names and the decode
 - `r79.md` to `r84.md` (without R83): the early leaves added on 19 November, with a summary and the decode
 - `r5660.md` to `r5666.md` and `r5669.md` to `r5671.md`: ten records in another cipher: what each letter says, from the decipherment of the time or a clear copy; no decode
-- `r5634.md`, `r5638.md`, `r5639.md`: three records in another cipher, without a decode or content; a blind read is in progress
+- `r5634.md`, `r5638.md`, `r5639.md`: three records in another cipher, read from ciphertext alone, with their key in `key-r5634-r5638-r5639.tsv` and their cipher rows in `transcription/`
 - `rereads.md`: the decode of ten pages that my pipeline read again
 - [`TRANSCRIPTION.md`](TRANSCRIPTION.md): my own transcription of the cipher rows of the 22 records R5626 to R5659, in `transcription/`, and how to read it

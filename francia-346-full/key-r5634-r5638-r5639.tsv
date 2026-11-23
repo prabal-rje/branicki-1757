@@ -1,0 +1,62 @@
+# DECODE records R5634, R5638 and R5639. Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346.
+# Key from ciphertext alone. No published key and no decipherment of the time went into this table.
+code	kind	value	count	grade	note
+2	letter	b	54	tentative	rare or uncertain code
+7	null	null	53	firm	single-digit null
+4	null	null	52	firm	single-digit null
+9	null	null	45	firm	single-digit null
+5	null	null	40	firm	single-digit null
+1	null	null	39	firm	single-digit null
+3	null	null	24	firm	single-digit null
+6	null	null	24	firm	single-digit null
+0	letter	l	16	tentative	rare or uncertain code
+8	null	null	12	firm	single-digit null
+18	letter	e	301	firm	core letter code
+55	letter	i	292	firm	core letter code
+17	letter	a	253	firm	core letter code
+36	letter	o	218	firm	core letter code
+44	letter	s	190	firm	core letter code
+94	letter	r	184	firm	core letter code
+12	letter	t	166	firm	core letter code
+71	letter	n	163	firm	core letter code
+70	letter	l	123	firm	core letter code
+79	letter	u	111	probable	homophone
+59	letter	c	100	firm	core letter code
+92	letter	d	93	firm	core letter code
+37	letter	p	78	firm	core letter code
+62	letter	m	60	probable	homophone
+20	letter	t	37	firm	core letter code
+96	letter	t	36	tentative	rare or uncertain code
+90	letter	h	32	firm	core letter code
+77	letter	g	31	firm	core letter code
+27	letter	f	28	firm	core letter code
+21	letter	a	27	firm	core letter code
+04	null	null	26	firm	two-digit null
+13	letter	a	25	firm	core letter code
+48	letter	i	20	tentative	rare or uncertain code
+02	letter	f	17	tentative	rare or uncertain code
+15	letter	e	16	probable	homophone
+67	letter	e	16	probable	homophone
+82	letter	z	13	tentative	rare or uncertain code
+98	letter	r	13	probable	homophone
+06	letter	a	12	tentative	rare or uncertain code
+25	letter	f	12	tentative	rare or uncertain code
+01	null	null	11	firm	two-digit null
+29	letter	o	11	tentative	rare or uncertain code
+47	letter	l	11	probable	homophone
+84	letter	q	11	probable	homophone
+42	letter	d	10	probable	homophone
+26	letter	e	9	tentative	rare or uncertain code
+56	letter	a	9	tentative	rare or uncertain code
+57	letter	p	9	tentative	rare or uncertain code
+38	letter	f	8	tentative	rare or uncertain code
+03	letter	s	7	tentative	rare or uncertain code
+16	letter	d	7	tentative	rare or uncertain code
+45	letter	i	7	tentative	rare or uncertain code
+81	letter	c	6	tentative	rare or uncertain code
+05	letter	i	5	tentative	rare or uncertain code
+08	letter	l	5	tentative	rare or uncertain code
+10	letter	v	5	tentative	rare or uncertain code
+30	letter	o	5	tentative	rare or uncertain code
+95	letter	n	5	tentative	rare or uncertain code
+97	letter	m	5	tentative	rare or uncertain code

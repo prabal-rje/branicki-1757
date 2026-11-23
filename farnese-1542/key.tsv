@@ -1,0 +1,42 @@
+# Cardinal Alessandro Farnese to Giovanni Poggio, 1542. DECODE record R92 (ff. 70r-73v).
+# Key from ciphertext alone, read from DECODE's public transcription of 2016 without opening any published key or corrected transcription.
+code	kind	value	count	grade	note
+8	letter	e	446	firm	single-digit letter
+5	letter	a	406	firm	single-digit letter
+4	letter	o	365	firm	single-digit letter
+6	letter	i	306	firm	single-digit letter
+2	letter	r	274	firm	single-digit letter
+7	letter	n	196	firm	single-digit letter
+0	letter	s	132	firm	single-digit letter
+1	letter	u	121	firm	single-digit letter
+3	letter	m	87	firm	single-digit letter
+9	null	null	59	firm	single-digit null
+80	letter	t	267	firm	two-digit letter
+03	letter	l	251	firm	two-digit letter
+27	letter	c	243	firm	two-digit letter
+57	letter	p	216	firm	two-digit letter
+73	letter	d	210	firm	two-digit letter
+49	letter	o	64	firm	two-digit letter
+72	null	null	60	tentative	two-digit null
+75	letter	g	58	tentative	rare or uncertain code
+37	letter	f	55	firm	two-digit letter
+90	letter	s	48	tentative	rare or uncertain code
+05	null	null	46	firm	two-digit null
+89	letter	e	45	probable	homophone
+29	letter	r	44	tentative	rare or uncertain code
+06	null	null	42	tentative	two-digit null
+69	letter	i	35	probable	homophone
+81	null	null	34	tentative	two-digit null
+59	letter	i	33	probable	homophone
+35	null	null	31	tentative	two-digit null
+26	null	null	27	firm	two-digit null
+40	letter	s	26	tentative	rare or uncertain code
+67	null	null	23	tentative	two-digit null
+79	letter	n	20	probable	homophone
+07	letter	d	17	tentative	rare or uncertain code
+01	letter	n	16	probable	homophone
+82	letter	u	14	tentative	rare or uncertain code
+97	letter	m	14	tentative	rare or uncertain code
+52	letter	u	13	tentative	rare or uncertain code
+60	null	null	12	firm	two-digit null
+17	null	null	11	firm	two-digit null

@@ -1,0 +1,137 @@
+# Cardinal Alessandro Farnese to Giovanni Poggio, 1542. DECODE record R92 (https://de-crypt.org/decrypt-web/RecordsView/92).
+# Read from ciphertext alone on the public transcription of 2016, without any published key or corrected transcription.
+# No DECODE image and no DECODE transcription file is copied here. Each line gives the folio and cipher-line number of R92.
+# [cleartext] marks a passage written in clear in the source; folio 73v is all in clear.
+
+# f. 70r
+70r --  [cleartext]
+70r L01  dopolapartitadel
+70r L02  montealcunilmarchedipailanematoco
+70r L03  galiaconferitoilanarendelprincipedon
+70r L04  incaliarmareperpreparticontratare
+
+# f. 70v
+70v L01  delyturcolasiandostroinscritodel
+70v L02  chexarcomestacopiacordelmododiep
+70v L03  reparationeconedelaestacomentrocen
+70v L04  anouestocasouolesepresarossecondoc
+70v L05  screperlenelalnostadiestatacometalau
+70v L06  rontedidelsimoceliasemprepresoleperauerexempre
+70v L07  uersodiscioediqualerlasiandatornoalcu
+70v L08  madouenunefordettendinostatisfarlipe
+70v L09  ripsolonelechediremainledifariacorato
+70v L10  ubitublisognorisempratouatapartir
+70v L11  perconchenatutalaspercharapoilesson
+70v L12  perlinterexecomedelacrimipitiperilr
+70v L13  petocoraparticolidelasilchehaestima
+70v L14  lieacheprandementeparebenapredendocora
+70v L15  elparteniaadexerilisognomagionoperteraop
+70v L16  ermarepranopodetermandorexiamegliofarlasp
+70v L17  taacopradexeuestouoredispenderispoinun
+70v L18  ligoconcolocurcampotendiafoinphir
+70v L19  alaltrodouefusegionilpericolopuredittob
+70v L20  stombrianoperpelaprudendelasconfi
+70v L21  dodalearibenconderitornodalparteratol
+
+# f. 71r
+71r L01  ilqualefordecomedeltempoilitadiexeperc
+71r L02  ntoaspeldisegnorfidiarmarlezentoquiacor
+71r L03  erebonodiconconduechelachassacomesipo
+71r L04  xperangradutodiufarmatacompostadigalere
+71r L05  diquiinsietpresendouedutoperilanatoalcuno
+71r L06  ounctoditalecompagnialaltracilmeterin
+71r L07  ilebarmarzentoquiparecribentantospatodi
+71r L08  temeoperchelequordinechexenepohauerser
+71r L09  uitioquestopoperilcheilantipurecomed
+71r L10  sopraietametendoestasteconderation
+71r L11  liuditodistraprintedalsuocantodico
+71r L12  mcheralaspectificontraaletroutte
+71r L13  lepartimodicaualquanolenorzenobend
+71r L14  aleiaquessenzentecildimagnopreditodelarmat
+71r L15  sitiandialtrealenteigalerelechiauerai
+71r L16  ordineadpradipauaaretiamdeleguignapartes
+71r L17  itorimantoaletterieditteruiseforatadi
+71r L18  carichedesoldatiominoiamopriiperpius
+71r L19  petiprimapercauadinelstatoechesiasticodimo
+71r L20  ltisoldationistidiandaralaquerandop
+71r L21  fusuointratenutiquestouersodappotuenueri
+
+# f. 71v
+71v L01  mediarcontelligadidelmandoqualsuo
+71v L02  solodarmedestaroilcoltrealionedird
+71v L03  enenonredienzapetelostatosuodaberchedip
+71v L04  turbarloptocarebeancopoapropositodictiper
+71v L05  cationcisprococonderandasexestadipoiexendemp
+71v L06  tationetodisadinonseruaridodilanintral
+71v L07  talapersognaporexerancheaditratatinelaqu
+71v L08  dicamecesariouerquestocasolimeder
+71v L09  nderationeleuarlecamaionalealealumniechi
+71v L10  otexeroexerdatectocontrirchelidanap
+71v L11  altroefatoperladifedalturcharaper
+71v L12  antoparatadicognorumelmodisopradee
+71v L13  alarmatadelegiiquestolocatipolenefo
+71v L14  deliocomefatoriidonuocharqu
+71v L15  restoebentisfatilechefordeperos
+71v L16  treperhorstempsonofrandicomeyspr
+71v L17  nimoncornostrataadiuidecheinpiuparti
+71v L18  tralechielibutodiquesendochios
+71v L19  gataadestantidictalachenoaluc
+71v L20  comenerinrestailchaiuessendosimosifint
+71v L21  primicodonsidiquelidatonemoticis
+
+# f. 72r
+72r L01  superchieracercaualiuolutodipiucha
+72r L02  ofertadelprefatobusesifaciapublicament
+72r L03  dietanomedisailchendostatoteptodalutqu
+72r L04  mimodenapertisfanaestodiderioeuestanda
+72r L05  dioinboriceuutoltimamentelarispostaued
+72r L06  raperhorlusocapitulodelprefatomodenaper
+72r L07  illapituloinsololoconcerachediqu
+72r L08  ogligatiabardelanodelpresofirmato
+72r L09  ofersonepoinstomanapoincontea
+72r L10  tidimandonemoltopiuestorispetoadidi
+72r L11  aueraconconconlasanteinquiinsietconlias
+72r L12  mtricamectariichialasedeapostoliperla
+72r L13  dittadisogliitregaetlibritimi
+72r L14  perlaquardiideletedilambardiidelachea
+72r L15  coprimpranuolendouenermatoelpaexeperlicasi
+72r L16  potexerancederintesussensinideanimifaca
+72r L17  anoorispernificarlocaperdanobicodila
+72r L18  ssibendoanchadafarteueralamagiorpietbasti
+72r L19  idestialcurillopromeealconsiedirloc
+72r L20  sipieraperlasuapartealcumaindatone
+72r L21  deprintedamediefatoltassouolentierinissimo
+72r L22  cesepersointerexepropodiperpertalette
+
+# f. 72v
+72v L01  elmentialachaqualempareualcunmodiladenop
+72v L02  eramornoquatoperiliistatopublinocom
+72v --  [cleartext]
+72v L03  ilsignordolfogonzagafiolodestignorgiouanf
+72v L04  rancescodelchessaricequamenteapresocond
+72v L05  otadiussimusealigincipartiprominelaforteda
+72v L06  dilustricastelonelmantouanodelsignormarzi
+72v L07  nofrateloconcktostrodefanticondimostra
+72v L08  tionediuolecefardelialtrissiodipoill
+
+# f. 73r
+73r L01  uogioperlipreparamentichietexefarbalmarche
+73r L02  delamoperandarloaleuanperfordiiperaltros
+73r L03  petoadisegniuuoleuenutoaporenuicastelsuoue
+73r L04  opioneltenitoriodiquelligoacominciato
+73r L05  afortificarseguitandopuredidarmadefantier
+73r L06  ancoratopertomestomitoepersemplinelege
+73r L07  redideldatoridolfosepureasecomandamentes
+73r L08  giorincludodiiprincatodidaralre
+73r L09  legatornaldimocoprincoinpoportori
+73r L10  medioetiamdelaforzadiirgaldatosignorid
+73r L11  olfochilafortificationdelicastelocomeo
+73r L12  gnaltriadationdigentiquolendopermaternelsu
+73r L13  odonuisipodarauiafomentoadiquational
+73r L14  rrumalquestoefatoredigiaconditoinbarmich
+73r L15  strodifatiperauederailsuctosecondoilche
+73r L16  goecaualioantaraiuit
+73r --  [cleartext]
+
+# f. 73v
+73v --  [cleartext]

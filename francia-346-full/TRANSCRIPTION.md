@@ -1,19 +1,19 @@
-# Francia 346, the 22 digit records: the transcription of the cipher rows
+# Francia 346, the digit records: the transcription of the cipher rows
 
-The files in `transcription/` are my own transcription of the DECODE images. They hold the cipher rows of each cipher page of the 22 records R5626 to R5659, one line for each row.
+The files in `transcription/` are my own transcription of the DECODE images. They hold the cipher rows of each cipher page of the 22 records R5626 to R5659 and the three records R5634, R5638 and R5639, one line for each row.
 
-The decode lines of the record pages `r5626.md` to `r5659.md`, the key-free read and `check.md` use these rows.
+The decode lines of the record pages `r5626.md` to `r5659.md`, `r5634.md`, `r5638.md`, `r5639.md`, the key-free read and `check.md` use these rows.
 
 ## Credit
 
-- **DECODE**, the database of historical ciphers of the DECRYPT project: records R5626, R5635 to R5637, R5640, R5642, R5643 and R5645 to R5659. Record pages: https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/5626.
+- **DECODE**, the database of historical ciphers of the DECRYPT project: records R5626, R5634 to R5640, R5642, R5643 and R5645 to R5659. Record pages: https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number, for example https://de-crypt.org/decrypt-web/RecordsView/5626.
 - **The archive:** Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346.
 - **The database:** Héder and Megyesi (2022), "The DECODE Database of Historical Ciphers and Keys: Version 2", HistoCrypt, https://doi.org/10.3384/ecp188397.
 - No DECODE image is published.
 
 ## The files
 
-- 35 files, one for each cipher page: `<record>_f<folio>_digits.txt`. They hold 539 rows of 22 records.
+- 41 files, one for each cipher page: `<record>_f<folio>_digits.txt`. They hold 625 rows of 25 records (35 files / 539 rows for the 22 published-key records, and 6 files / 86 rows for R5634, R5638 and R5639).
 - Four header lines start with `#`. Then each row is one line: its label, a space and the row.
 - The label is the row of the decode line: `C01` in `R5626_f154r_digits.txt` is the line "R5626, f. 154r, C01" of `r5626.md`.
 - The nine records of 13 November, the pages of `rereads.md` and the leaves R74 to R84 have no file here.

@@ -40,7 +40,7 @@ The rows come from my own transcription of the DECODE images. Each English gloss
 | What | Value |
 | --- | --- |
 | Letters | 51: 46 with dots between the codes (R8659 to R8718), 5 without dots |
-| Cipher pages | 189; 143 read, 40 too small, 1 not read yet, 5 not shown (below) |
+| Cipher pages | 189; 147 read, 40 too small, 1 not read yet, 1 not shown (below) |
 | Code tokens in the 46 letters with dots | 27,432; 98.1% show a letter in the rows shown here |
 
 ## What stays open
@@ -51,7 +51,7 @@ The rows come from my own transcription of the DECODE images. Each English gloss
 - **The letters without dots** are read with the same key. The division of their digit groups into codes is not sure.
 - **Not read yet:** R8618 page 2.
 - **R8468 pages 3 and 7** are read with the same key, and not checked against a key. On page 7 the values of five sign labels are not sure. Page 3 is a fragment.
-- **Five pages with dots are not shown,** because their reading is not sure: R8662 page 3, R8666 page 3, R8674 page 1, R8677 page 1 and R8710 page 4.
+- **One page with dots is not shown,** because its right margin is clipped and its reading is not sure: R8662 page 3. Four other pages with dots that were earlier held back are now shown: R8666 page 3, R8674 page 1, R8677 page 1 and R8710 page 4.
 
 ## Files
 
