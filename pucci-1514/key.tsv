@@ -1,0 +1,46 @@
+# Antonio Pucci to Lorenzo de' Medici, Valladolid, 31 August 1514 (ASF MAP CXXXVII doc. 644, cc. 652r-652 bis v; CypherSolver catalogue 2392).
+# Literal +1 Caesar shift on the 20-letter Renaissance Italian alphabet, verified ligatures, and 2-digit nomenclator codes.
+symbol	kind	value	grade	notes
+b	letter	a	literal_verified	+1 shift on 20-letter alphabet
+d	letter	c	literal_verified	+1 shift
+e	letter	d	literal_verified	+1 shift
+f	letter	e	literal_verified	+1 shift
+g	letter	f	literal_verified	+1 shift
+h	letter	g	literal_verified	+1 shift
+l	letter	i	literal_verified	+1 shift (also capital L)
+m	letter	l	literal_verified	+1 shift
+n	letter	m	literal_verified	+1 shift
+o	letter	n	literal_verified	+1 shift
+p	letter	o	literal_verified	+1 shift
+q	letter	p	literal_verified	+1 shift
+r	letter	q	literal_verified	+1 shift
+s	letter	r	literal_verified	+1 shift
+t	letter	s	literal_verified	+1 shift
+u	letter	t	literal_verified	+1 shift
+x	letter	u	literal_verified	+1 shift
+y	letter	v	literal_verified	+1 shift
+z	letter	x	literal_verified	+1 shift
+F	ligature	et	ligature_verified	el 94 F 32, gsb 43 F 32, F nfm tqlsluxbmf, F di grande
+phi	ligature	ne	ligature_verified	exclusione, intromissione, defensione
+lambda	ligature	t / tt	ligature_verified	entrato, scritto, tutta
+A / A+	ligature	ss / sse	ligature_verified	necessita, coligasse, passata
+& 0	ligature	per la	ligature_verified	per la exclusione, per la cruciata (4x)
+m_deg	ligature	lo / l'	ligature_verified	l'animo suo, farlo, l'intendere
+a_deg	ligature	de	ligature_verified	de le cose de Italia (2x), defensione
+dotted_X	ligature	me	ligature_verified	per le ultime, come
+i_deg	ligature	que	ligature_verified	questa
+3	ligature	h	ligature_verified	ho (3p)
+theta	ligature	en	ligature_verified	entrato
+bPy_deg	ligature	animo	ligature_verified	l'animo suo, l'animo di 42
+43	nomenclator	Pope Leo X (hypothesis)	contextual_hypothesis	mediates between 94 and 32; sta molto mal contento di 43; che 43 et tutta Italia se coligasse seco
+32	nomenclator	France / Louis XII (hypothesis)	contextual_hypothesis	paired with 94 and suspected of inteligentia secreta fra 43 et 32 de le cose de Italia
+94	nomenclator	England / Henry VIII (hypothesis)	contextual_hypothesis	paired with 32 in August 1514 Treaty of London mediation
+99	nomenclator	Archduke Charles (hypothesis)	contextual_hypothesis	parentado del 99 excluded by mediation between 94 and 32
+22	nomenclator	open	open	no key sheet
+31	nomenclator	open	open	no key sheet
+42	nomenclator	open	open	no key sheet
+47	nomenclator	open	open	no key sheet
+77	nomenclator	open	open	no key sheet
+92	nomenclator	open	open	no key sheet
+97	nomenclator	open	open	no key sheet
+100	nomenclator	open	open	no key sheet

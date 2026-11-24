@@ -1,6 +1,6 @@
 # The state of every collection
 
-This page gives the state of every collection of cipher letters that I worked on, as of 22 November 2026. A unit is a page, a record or a case, as the table says.
+This page gives the state of every collection of cipher letters that I worked on, as of 23 November 2026. A unit is a page, a record or a case, as the table says.
 
 The states:
 
@@ -23,10 +23,13 @@ The states:
 | Sessa (R9873 to R9905) | the cipher ledger's key, with added values from clear texts of the same letters | Real Academia de la Historia, Salazar A-31 and A-34 | 31 records | 30 | 0 | 0 | 0 | 1 | 0 |
 | R2856 | the clerk's decipherment of the time | Beinecke Library, GEN MSS 146 | 1 letter | 1 | 0 | 0 | 0 | 0 | 0 |
 | R8342 | – | British Library, Harley MS 6988, f. 208 | 1 record | 0 | 0 | 0 | 1 | 0 | 0 |
+| Cobham (R8490, R8492, R8495, R8496) | key corrections from glossed sibling R8493 (f. 89r); blind check on untouched Dudout TSVs | British Library, Harley MS 287 | 4 records | 4 | 0 | 0 | 0 | 0 | 0 |
+| Salvius to Oxenstierna (R4339) | 1633 key from glossed siblings R4338 and R4340; blind check on unglossed R4339 | Riksarkivet, Oxenstiernska samlingen E 708 | 1 record | 1 | 0 | 0 | 0 | 0 | 0 |
+| Hopken and Carlson (Dec. 1739, p114R to p120R) | frozen gloss key (hopken1739 + Swedish glosses, 94.2%) + 50 bare-inferred Swedish syllables (99.6%) | Riksarkivet, Diplomatica Turcica SE/RA/2119/2119.1/I/9/21 | 11 bare pages | 11 | 0 | 0 | 0 | 0 | 0 |
 | Older code ciphers | – | see below | 8 cases | 0 | 0 | 8 | 0 | 0 | 0 |
-| **All** |  | | **775** | **346** | **216** | **82** | **97** | **33** | **1** |
+| **All** |  | | **791** | **362** | **216** | **82** | **97** | **33** | **1** |
 
-**562 of 775 units have a reading:** 346 from key and 216 from ciphertext. The units differ by collection: pages, records, letters or cases. Some of these readings are counted but not shown in this repository; the last list below names them. The single letters of the front page, the Morosini despatches, the Farnese letter and the Biglia letter are not in this table; the front page gives their state. The nine early Sforza records are in both.
+**578 of 791 units have a reading:** 362 from key and 216 from ciphertext. The units differ by collection: pages, records, letters or cases. Some of these readings are counted but not shown in this repository; the last list below names them. The single letters of the front page, the Morosini despatches, the Farnese letter and the Biglia letter are not in this table; the front page gives their state. The nine early Sforza records are in both.
 
 Notes on the table:
 

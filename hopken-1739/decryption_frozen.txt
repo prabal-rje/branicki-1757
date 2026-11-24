@@ -1,0 +1,177 @@
+# Unedited mechanical decode using ONLY Tier-1 frozen gloss key (245 groups; zero bare-page leakage).
+# Coverage across 11 completely bare pages: 1516/1610 (94.2%).
+
+================ p114R (BARE, UNGLOSSED) ================
+L01:   Desutom 4 Piastres belöning om dagen under dess exilium.  
+L02: widdennadisgracefore
+L03: follenforossa[1113]ttes  som  
+L04: marcckwardigomstandi[1122]
+L05: hetity[Storviziren]sandetillosenoffi
+L06: cerareochlatberatta  efter en  
+L07: wanlighalsning  at som han  
+L08: erinradesigdesstilos
+L09: giordelofteomden[1475]nska
+L10: captainskanmeddessman
+L11: ochdeurrnsbeleels  som war  osem[1683]ca
+L12: utionredanutlefwererade
+L13: sawillehannu  til at wisa [händing?]  
+L14:   den  wanskaphanhadefoos
+L15: lataoswetaatwikundedispo
+L16: neraomdem  som Wij sielfwa bäst tyckte.  
+
+================ p115L (BARE, UNGLOSSED) ================
+L01:   Wij betygade wår tacksamhet och sade, at Wij skulle sielfwa, dagen derpå, låta aflägga wår tacksägelse hos Viziren, det Wij ock giorde igenom wår Drogueman, som blef mycket gunstigt emottagen,  
+L02: mentaltespaingederasidanom
+L03: nagreandreaffairer
+L04:   Wij sände en annan gång  til[1195]somfu
+L05: ller[1234]srveradeen[1076]emen
+L06: dis[1114]tionutisitttalmed
+L07: wardrogueman  men lät  honomfor
+L08: staat[Storviziren]shumeurwarforri
+L09: [1516][1631]affairerganskaskadelig
+L10: widdessacon[1372]ncturer
+L11:   som han hade af nöden  andsrad  men  
+L12:   ingen  tordegi[1500]rahonomnage
+L13: paminnels  utan allenast  foljahag
+
+================ p115R (BARE, UNGLOSSED) ================
+L01: ordrshanra[1310]ahonomtil
+L02: atoftainfinnasigwidpor
+L03: tendocckutanat[1090]portu
+L04: nera[Storviziren]somhanwistewara
+L05: [1405]ckatwalin[1651]neradfor
+L06: oswarimbra[1090]efhadeha[1015]
+L07:   åtskillige pest accidentier i sitt hus, och derföre hade Wij ej tordts haft något umgänge med honom eller  
+L08: em[1489]ierahonom  Men sedan Wij fingo höra, at  [Storviziren]hadebefalthonom
+L09: ateftertrouppe[1332]betalni
+L10: ng  som nu giordes  widporteninfi
+L11: nnahwwardaghoshonom
+L12:   sände Wij wår Drogueman til honom  atberat
+L13: tahurudet[1340]dtilmedwa
+L14: reaffairer  på det  hanmatta
+
+================ p116L (BARE, UNGLOSSED) ================
+L01: kunnabewa[1311]wartinteress
+L02: hos[Storviziren]han  försäkrade at om Wij wille låta honom  radasaskullehan
+L03:   snart  pro[1164]reraetnoja[1180]tig
+L04: swaraf[Storviziren]  som han försäkrade  waraga
+L05: nskawalsinn[1281]em[1683]os  men orsaken hwarföre  hanejredanconfe
+L06: reratmedos  sade han wara den, at  
+L07: somhannupasra[1492][1186]s
+L08: befalninghadelatitop
+L09: naconfererince[1421]meddenfra
+L10: nskaAmbassadeurssochhanannuej
+L11: wistei  hwad  [1578]tdessaconfe
+L12: rerincerkundestadna  så kunde han ej heller med någon wisshet  talamedos
+L13:   resp.  gi[1500]raosnagrepositiveoch
+L14: palite  lige  forsakringd
+
+================ p116R (BARE, UNGLOSSED) ================
+L01:   d. 11 Decembr: St: N:  [1099]ccktadeconfere
+L02: rince[1421]meddenfranskaAmbassadeurss
+L03:   och den 5/16  giordesammaAmbassa[B]en
+L04: expeditiontil[Wien]samtentil
+L05: [Ryssland]meddenfose  hwaraf,  wiin
+L06: sandeenrelationtil  Eders Kongl. Maj:ts Cantzlie Collegium No. 28, hwaruti  wibe
+L07: rett[1709]  hwad som  witro[1310]awara
+L08: angelagna[1481]  förbindandes  osat
+L09: wara  mycket  wid[1099]ftigefor
+L10: denmisstan[1311]somwihadeom
+L11:   [del:]  wartpacquet  [/del]  denwagenssa
+L12: karhet  i synnerhet  omwartpacquet
+L13: skullawaritfor[1340]rt  och  refe
+L14: rerawiosnu  i Underdånighet  pasam
+L15: marelation
+
+================ p117L (BARE, UNGLOSSED) ================
+L01:   d. 8/19 Decembr: hade Wij tillfälle at skrifwa, dock efter ganska kort förut gifwen warning, öfwer Venedig, då Wij allenast sände et litet bref til Hr. Cantzlie Rådet Celsing No. 29, hwaruti  wiopta
+L02: ctedetsomwisdermera
+L03: la[1316]  angående  resultatetaf
+L04: demeddenfranskaAmbassa[B]hallne
+L05: confererince[1421]  hwarupå Wij oss ock här i lika underdånighet referera. Emedlertid blefwo  star
+L06: kaut[1494]fningdgiordeofwer
+L07: [1527]larikatattrouppe[1421]skul
+L08: leigodtidforsamlas
+L09: ochblefsnge  l:    samt  widha[1316]
+L10: sfofwer[1527]laconstantforbu
+L11: detat  ingen  skullaensunder
+L12: stasigattalaomfred
+
+================ p117R (BARE, UNGLOSSED) ================
+L01:   Det wore onödigt at opprepa huru många gånger  wi
+L02: santilreisefsa[1739]efoch
+L03: imbra[1090]eftilatfahora  huru  
+L04: det[1340]dmedwareaffairer
+L05:   samt  om[Storviziren]ej  ännu  giortnage  påminnelse,  atkommamedostil
+L06: talstyderasswargingo
+L07:   mäst och förnämligast  derpautatde
+L08: be[1249]gadesigofwer[Storviziren]somble
+L09: f  hwar dag  underligarefortre
+L10: tegareochswarareattalamed  i synnerhet nu under påstående Ramazan och fastan.  
+L11:   d. 11/22 Decembr:  [1311]ll[1709]omsiderreis
+L12: efwardromantilsiginu
+L13: tisittrumoch  sade honom, at han hade, afton förut, då han war til måltids  m[1559][Storviziren]
+
+================ p118L (BARE, UNGLOSSED) ================
+L01:   haft tillfällen at  widftittalaomwa
+L02: reaffairer  i synnerhet, at det  lan
+L03: ga[1537][1671]maletatgifwaswar
+L04: kundetagasop  för  en[1311]llsinnig
+L05: hetoch  hafwa  ela[1311][1594]ter  Han sade, at han ej fått  afhonomannatswar
+L06: andetjag[1311]nejtro  at man skola kunna få  illauttydadetop[1503]f
+L07:   som omständigheterne  waritwall[1726]ti
+L08: ermenimargonwiljag
+L09:   emedlertid gifwa  ordrsatlatasatt
+L10: jaopswaruppadetkong  l.  brf
+L11: [1268]  Han försäkrade at  sammaswarsku
+L12: lla[1539]fwano[1247]accktig
+L13: ochat[Storviziren]  hade redan gifwit honom  nage[1739]
+L14: [1141]derom
+
+================ p118R (BARE, UNGLOSSED) ================
+L01:   d. 19/30 Decembr: kom  portensdrogueman  til oss om morgonen bittida,  ochberatt[1709]  efter åtskillige  protestationerafenuprick
+L02: tigwanskapochtilgifwe
+L03: nhet  sig wara  kommenafsigsielf
+L04: tilatdi[1236]ureramedosi
+L05: fortroande  på det han måtte  [1539]fwa
+L06: fullkom  l.  up[1099][1481]omallt  hwad  
+L07: somkundeangawaraaffairer
+L08: hwwarom  han wiste at han  skullein
+L09: nankort[1539]fwatilfragad
+L10: af[Storviziren]wibegynteatoprepa  alla  
+L11: portensnegotiationermed
+L12: os  alt sedan  warankom[1481]hit
+L13:   samt  orsa[1338]ne  hwarföre  foredeaf[1527]
+L14: nnaproponerade[alliance]erej  kommit  
+
+================ p120L (BARE, UNGLOSSED) ================
+L01: dnadewidaregi[1500]rauppa  Ofta bemälte  [Storviziren]sinsinuationer  Wij kommo  
+L02: honoat[1284]srveraatwikunde
+L03: ejannatanwara  högeligen  for
+L04: unddeat[Storviziren]  oaktat  desstil
+L05: osifrandmeenafsande[1494]f
+L06: wels  samt sedermera,  efterde
+L07: ss[1527]mko[1481]giordemun  el.  fo
+L08: rsakringdatwilla  ofördröjel:  
+L09: confereramedosandatil
+L10:   denna dag,  ejgif[1268]osdetrin
+L11: gasteswar  hwilket  wi[1379]cktadeto
+L12: rde[1539]fwaaf  Eders Kongl. Maj:tt  op
+L13: tagitforen[1311]llsinnighet  hälst som  portenochi[1668]nnerhetdenna
+L14: [Storviziren]sielfgif[1268]anledning  til  
+
+================ p120R (BARE, UNGLOSSED) ================
+L01: dennacrre[1666]nderincewisa
+L02: deatingehadeatunduppa
+L03:   hwad  swarsomportenwilla
+L04: gifwa  ty det kunde  eriera  alt efter som  [1527]nnesinteressdet
+L05: fordde  hwilket  honsielfmaste
+L06:   naturligen  [1166][1481]weta  Men deremot hade den,  somsawanligtochsaupri
+L07: cktigcommuuceratsineta
+L08: n[1311]r  och samt  rattatpretendera
+L09: sammafortrolighettildeur[1311]
+L10:   eller i widrig händelse  attrodetmanej
+L11: procederademedsammaupri
+L12: ktighetochfortrolighetat
+L13: sdansom[1173]ttanochnodwa
+L14: ndig[1527]tenafwanskapens

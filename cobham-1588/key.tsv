@@ -1,0 +1,44 @@
+# Lord Cobham to Sir Francis Walsingham, May to June 1588 (BL Harley MS 287, DECODE R8490, R8492, R8495, R8496).
+# Key corrections extracted strictly from contemporary interlinear glosses on native scans of R8488 (f. 75r) and R8493 (f. 89r).
+# Base sign labels follow Brice Dudout's inventory in dbourdeau/cyphersolver targets/cobham1588. No DECODE image is published.
+sign	value	source	attestation	grade
+U	a	glossed siblings R8488/R8493	base alphabet (f. 75r, f. 89r)	firm
+v	a	glossed siblings R8488/R8493	base alphabet	firm
+Q	a	glossed siblings R8488/R8493	base alphabet	firm
+r	a	glossed siblings R8488/R8493	base alphabet	firm
+c	o, a	glossed siblings R8488/R8493	polyphonic vowel	firm
+B	b	glossed siblings R8488/R8493	base alphabet	firm
++	b	glossed sibling R8493	by, be, before	firm
+8	c	glossed siblings R8488/R8493	base alphabet	firm
+D	d	glossed siblings R8488/R8493	base alphabet	firm
+O	d	glossed siblings R8488/R8493	base alphabet	firm
+7	e	glossed siblings R8488/R8493	base alphabet	firm
+E	e	glossed siblings R8488/R8493	base alphabet	firm
+T	e	glossed sibling R8493 (correction from old t)	entend, Pretend, proceed, heer (f. 89r); unlocks liftenant, men, charged, number, intelligens, winter, entised, written, passed, treates	firm
+F	f	glossed siblings R8488/R8493	base alphabet	firm
+G	g	glossed siblings R8488/R8493	base alphabet	firm
+h	h	glossed siblings R8488/R8493	base alphabet	firm
+S	h	glossed siblings R8488/R8493	Ihon	firm
+I	i	glossed siblings R8488/R8493	base alphabet	firm
+w	k	glossed sibling R8493	dukes, break, knowen	firm
+L	l, p	glossed sibling R8493 (correction from l-only)	place written with double phi (f. 89r); corroborated by Roper in clear postscript on R8496 f. 96v	firm
+P	p	glossed siblings R8488/R8493	base alphabet	firm
+Y	m	glossed sibling R8493 (correction from old r/y)	may, them, from, my, remove (f. 89r); unlocks men, number, promises made, monthly, is namid, demande, monday, Dismuyde, Westmorland, enemys	firm
+M	m	glossed siblings R8488/R8493	base alphabet	firm
+N	n	glossed siblings R8488/R8493	base alphabet	firm
+#	n	glossed siblings R8488/R8493	base alphabet	firm
+n	n	glossed siblings R8488/R8493	base alphabet	firm
+R	o	glossed siblings R8488/R8493	base alphabet	firm
+d	o	glossed siblings R8488/R8493	base alphabet	firm
+Z	o	glossed siblings R8488/R8493	base alphabet	firm
+V	r	glossed siblings R8488/R8493	base alphabet	firm
+A	s, t	glossed siblings R8488/R8493	polyphonic s/t; resolves AR = so/to (falce so ever on R8496)	firm
+u	u, v	glossed siblings R8488/R8493	base alphabet	firm
+W	w	glossed siblings R8488/R8493	base alphabet	firm
+X	y, x	glossed sibling R8493	by, may, my, yeald	firm
+K	open	not attested on glossed siblings	rare sign in R8492 proper names	open
+7 (code)	Queen Elizabeth I	glossed siblings R8488/R8489/R8493	contemporary number code	firm
+15 (code)	Duke of Parma	glossed siblings R8488/R8489/R8493	contemporary number code	firm
+22 (code)	Sir James Croft	Brice Dudout PR #343 on R8489	contemporary number code	firm
+27 (code)	Dr. Valentine Dale	Brice Dudout PR #343 on R8489	contemporary number code	firm
+square	the States	Brice Dudout PR #343 on R8489	contemporary symbol code	firm

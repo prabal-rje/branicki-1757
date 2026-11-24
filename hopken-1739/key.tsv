@@ -1,0 +1,298 @@
+# Carl Fredrik von Hopken and Edvard Carlson to the King of Sweden, Constantinople, December 1739.
+# Riksarkivet (Stockholm), Diplomatica Turcica SE/RA/2119/2119.1/I/9/21 (IIIF R0003582).
+# Tier 1 (frozen gloss-only, 245 groups): hopken1739 French glosses (credit: WAINUT / LcCompany on dbourdeau/cyphersolver) + Swedish chancery glosses on R0003582 images 18, 34, 50.
+# Tier 2 (50 groups): bare_inferred Swedish syllables forced by decoded context on bare pages p114R-p120R.
+group	value	tier	source
+1000	c	hopken1739	hopken1739:confirmed
+1004	clu	hopken1739	hopken1739:confirmed
+1010	p	hopken1739	hopken1739:single
+1014	t	swedish_gloss	swedish_gloss:p034R:giort=1437-1097-1014;p050L:godt=1512-1014
+1015	ft	bare_inferred	bare_inferred:p115R:hade haft=1420-1020-1420-1015
+1016	d	swedish_gloss	swedish_gloss:p034L:forhindrade=1511-1635-1045-1016-1020
+1018	ge	hopken1739	hopken1739:confirmed
+1020	de	swedish_gloss	swedish_gloss:p034:den/det/denna/dess
+1021	f	swedish_gloss	swedish_gloss:p018L:sialf=1551-1407-1021;gifwa=1437-1021-1305;p034L:hufwud=1700-1021-1526-1212
+1024	u	hopken1739	hopken1739:single
+1025	ix	hopken1739	hopken1739:confirmed
+1028	k	swedish_gloss	swedish_gloss:p018R:Knees=1028-1152-1501
+1030	i	hopken1739	hopken1739:confirmed
+1045	n	swedish_gloss	swedish_gloss:p034R:den/fran/han/ganska
+1046	a	hopken1739	hopken1739:single
+1055	be	swedish_gloss	swedish_gloss:p034R:betygat=1055-1482-1319-1323;befallning=1055-1169-1187-1375-1325;p018L:begynte
+1057	up	swedish_gloss	swedish_gloss:p034R:uppa=1057-1110
+1060	qui	hopken1739	hopken1739:single
+1062	r	swedish_gloss	swedish_gloss:p034R:war=1305-1062;swar=1262-1062;narmare=1255-1062-1327-1712
+1064	gra	hopken1739	hopken1739:single
+1065	nu	swedish_gloss	swedish_gloss:p034L:nu=1065;p018L:nu=1065
+1070	nn	swedish_gloss	swedish_gloss:p034R:utinnan=1228-1368-1070-1393;kunna=1624-1070-1331;denna=1020-1070-1220
+1073	kra	swedish_gloss	swedish_gloss:p034R:forsakrat=1511-1701-1740-1073-1323
+1075	s	hopken1739	hopken1739:single
+1076	og	bare_inferred	bare_inferred:p115L:en ogemen=1652-1076-1626-1652
+1084	ci	hopken1739	hopken1739:confirmed
+1085	il	hopken1739	hopken1739:confirmed
+1089	os	swedish_gloss	swedish_gloss:p018L:oss=1089
+1090	im	bare_inferred	bare_inferred:p115R:importunera=1090-1403-1062-1389-1152-1705; Imbraim=1715-1573-1090
+1093	ns	swedish_gloss	swedish_gloss:p018L:tilsammans=1368-1187-1740-1632-1327-1093
+1094	e	hopken1739	hopken1739:single
+1096	op	swedish_gloss	swedish_gloss:p034R:optagit=1096-1115-1662;p018R:opforat=1096-1503-1021-1268
+1097	or	swedish_gloss	swedish_gloss:p034R:giort=1437-1097-1014;giorde=1437-1097-1020;p018R:orsaken=1097-1740-1224-1020-1062
+1098	br	swedish_gloss	swedish_gloss:p034R:bref=1098-1021
+1099	ly	bare_inferred	bare_inferred:p116R:lycktade=1099-1000-1380-1115-1742; widlyftige=1306-1212-1099-1021-1368-1018
+1103	tro	swedish_gloss	swedish_gloss:p034R:fortrolighet=1511-1062-1103-1346-1381;p034L:thronen=1103-1152-1045
+1104	[Storviziren]	swedish_gloss	swedish_gloss:p034L/R:StorViziren=1104
+1106	pe	swedish_gloss	swedish_gloss:p050L:expedition=1142-1106-1129-1232;p018R:pesten=1106-1553-1045
+1108	sku	swedish_gloss	swedish_gloss:p050L:skulle=1108-1581-1220
+1109	cc	hopken1739	hopken1739:confirmed
+1110	pa	swedish_gloss	swedish_gloss:p034L/R:pa/uppa=1110;p034L:pastande=1110-1450-165...
+1111	p	swedish_gloss	swedish_gloss:p034R:prompte=1250-1632-1111-1132;p034L:supponerade=1690-1111-1403-1152-1705-1020
+1112	ent	hopken1739	hopken1739:single
+1114	cre	bare_inferred	bare_inferred:p115L:discretion=1129-1734-1114-1232
+1115	ta	swedish_gloss	swedish_gloss:p034R:optagit=1096-1115-1662;utlata=1572-1267-1115;p018L:lata=1267-1115
+1118	wi	swedish_gloss	swedish_gloss:p034R:wij=1118;wiste=1118-1553;p050L:wij=1118;p018R:wij=1118
+1120	pla	hopken1739	hopken1739:single
+1121	n	swedish_gloss	swedish_gloss:p034L:den=1020-1121;p018R:ifran=1715-1363-1121
+1122	g	bare_inferred	bare_inferred:p114R:omstandighet=1387-1450-1045-1129-1122-1381
+1124	f	hopken1739	hopken1739:mixed
+1126	g	swedish_gloss	swedish_gloss:p034R:sig=1551-1126;nogsambt=1157-1126-1740-1358
+1129	di	swedish_gloss	swedish_gloss:p050L:expedition=1142-1106-1129-1232;p034R:subsidier=1690-1130-1551-1129-1585;p018R:directe=1129-1712-1000-1132
+1130	b	swedish_gloss	swedish_gloss:p034R:subsidier=1690-1130-1551-1129-1585
+1132	te	swedish_gloss	swedish_gloss:p034R:prompte=1250-1632-1111-1132;p018R:directe=1129-1712-1000-1132;p050L:intet=1199-1132-1323
+1134	all	swedish_gloss	swedish_gloss:p034R:all=1134;p034L:alla=1134-1267;p018L:altsa=1134-1323-1740
+1138	och	swedish_gloss	swedish_gloss:p034L/R:och=1138;p018L/R:och=1138;p050L:och=1138
+1139	dr	hopken1739	hopken1739:single
+1141	ee	bare_inferred	bare_inferred:p118L:idee=1739-1141
+1142	ex	swedish_gloss	swedish_gloss:p050L:expedition=1142-1106-1129-1232
+1143	p	hopken1739	hopken1739:confirmed
+1151	i	hopken1739	hopken1739:confirmed
+1152	ne	hopken1739	hopken1739:confirmed
+1157	no	swedish_gloss	swedish_gloss:p034R:nogsambt=1157-1126-1740-1358;p050L:honom=1621-1157-1632
+1162	ef	swedish_gloss	swedish_gloss:p018L:efter=1162-1132-1062;p050L:efter=1162-1132-1062
+1163	ur	swedish_gloss	swedish_gloss:p018L:tour=1273-1163
+1164	cu	bare_inferred	bare_inferred:p116L:procurera=1250-1164-1712-1705
+1166	ba	bare_inferred	bare_inferred:p120R:bast=1166-1481; p119L:bagge=1166-1470-1449
+1169	fa	swedish_gloss	swedish_gloss:p034R:fa=1169;befallning=1055-1169-1187-1375-1325;p018L:fa=1169
+1173	ra	bare_inferred	bare_inferred:p120R:rattan=1173-1522-1393
+1176	fre	swedish_gloss	swedish_gloss:p034L:freden=1176-1020-1045;fred=1176-1212
+1177	so	swedish_gloss	swedish_gloss:p034R:som=1177-1632;p018R:som=1177-1632
+1179	c	hopken1739	hopken1739:confirmed
+1180	ch	bare_inferred	bare_inferred:p116L:nojachtigt=1157-1721-1180-1368-1222
+1187	l	swedish_gloss	swedish_gloss:p034R:til=1368-1187;befallning=1055-1169-1187-1375-1325;hwilka=1205-1306-1187-1412
+1190	oient	hopken1739	hopken1739:confirmed
+1199	in	swedish_gloss	swedish_gloss:p050L:intet=1199-1132-1323;p018L:inom=1199-1157-1632
+1201	ueur	hopken1739	hopken1739:single
+1205	hw	swedish_gloss	swedish_gloss:p034R:hwilka=1205-1306-1187-1412;hwad=1205-1305-1608;p018R:hwad=1205-1305-1605
+1207	pi	hopken1739	hopken1739:single
+1209	ro	hopken1739	hopken1739:single
+1212	d	swedish_gloss	swedish_gloss:p034L:med=1415-1212;fred=1176-1212;p018L:wid=1306-1212
+1213	cra	hopken1739	hopken1739:single
+1217	[Ryssland]	swedish_gloss	swedish_gloss:p034L:Ryssland=1217;p018R:Ryssland=1217
+1219	n	hopken1739	hopken1739:single
+1220	a	swedish_gloss	swedish_gloss:p034R:denna=1020-1070-1220;p050L:skulle=1108-1581-1220 (a/e)
+1221	du	hopken1739	hopken1739:confirmed
+1222	g	swedish_gloss	swedish_gloss:p034R:wanligit=1305-1045-1648-1222;p018L:nojachtigt=1157-1721-1028-1368-1222
+1223	u	hopken1739	hopken1739:single
+1227	of	swedish_gloss	swedish_gloss:p034R:ofwer=1227-1473;p034L:oforwantade=1227-1097...
+1228	u	swedish_gloss	swedish_gloss:p034R:utinnan=1228-1368-1070-1393;p018R:courier=1179-1228-1716-1585
+1229	ge	swedish_gloss	swedish_gloss:p018L:dagen=1609-1229-1020-1062;p018R:gangen/wagen=1305-1229
+1232	tion	swedish_gloss	swedish_gloss:p050L:expedition=1142-1106-1129-1232;p034R:attention=1636-1630-1232
+1234	ob	bare_inferred	bare_inferred:p115L:observerade=1234-1352-1062-1483-1705-1020
+1236	sco	bare_inferred	bare_inferred:p118R:discourera=1129-1236-1373-1712-1705
+1240	a	swedish_gloss	swedish_gloss:p034L:a alla sidor=1240-1134-1267-1551-1321;p018R:aterigen=1240-1132-1716-1229
+1242	pre	hopken1739	hopken1739:confirmed
+1243	nger	hopken1739	hopken1739:single
+1246	mo	hopken1739	hopken1739:confirmed
+1247	j	bare_inferred	bare_inferred:p118L:nojacktigt=1157-1247-1263-1380-1368-1222
+1249	kla	bare_inferred	bare_inferred:p117R:beklagade=1055-1249-1319-1020
+1250	pro	swedish_gloss	swedish_gloss:p034R:prompte=1250-1632-1111-1132;p018R:propositioner=1250-1403-1551-1232-1585
+1255	na	swedish_gloss	swedish_gloss:p034R:narmare=1255-1062-1327-1712;p034L:nagon=1255-1229;p018R:annan=1393-1255-1045;snara=1352-1255-1712
+1260	que	hopken1739	hopken1739:confirmed
+1262	swa	swedish_gloss	swedish_gloss:p034R:swar=1262-1062;p018L:swar=1262-1062;p050L:swar=1262-1062
+1263	ac	hopken1739	hopken1739:single
+1264	lo	swedish_gloss	swedish_gloss:p018R:forlopa=1511-1062-1264-1110
+1266	o	hopken1739	hopken1739:single
+1267	la	swedish_gloss	swedish_gloss:p034R:utlata=1572-1267-1115;p018L:latit=1267-1368-1323;lata=1267-1115;p034L:alla=1134-1267
+1268	we	bare_inferred	bare_inferred:p118L:brefwet=1098-1021-1268; p120L:gifwit=1437-1021-1268
+1273	to	swedish_gloss	swedish_gloss:p018L:tour=1273-1163;p018R:lato=1267-1273
+1275	ca	hopken1739	hopken1739:single
+1280	[Kejsaren]	swedish_gloss	swedish_gloss:p034L:Kejsaren=1280
+1281	ad	bare_inferred	bare_inferred:p116L:walsinnad=1305-1187-1551-1070-1281
+1284	ob	bare_inferred	bare_inferred:p120L:observera=1284-1352-1062-1483-1705
+1286	ig	swedish_gloss	swedish_gloss:p034R:igenom=1286-1652-1387
+1296	gne	hopken1739	hopken1739:mixed
+1299	tra	hopken1739	hopken1739:confirmed
+1303	t	swedish_gloss	swedish_gloss:p050L:det=1020-1303;p018L:talet=1115-1655-1303
+1304	t	hopken1739	hopken1739:single
+1305	wa	swedish_gloss	swedish_gloss:p034R:war=1305-1062;wanligit=1305-1045-1648-1222;hwad=1205-1305-1608;p018L:war=1305-1062
+1306	wi	swedish_gloss	swedish_gloss:p034R:hwilka=1205-1306-1187-1412;p018L:wid=1306-1212;p050L:widare=1306-1609-1712
+1310	dd	bare_inferred	bare_inferred:p115R:radde=1705-1310-1220; p116R:trodde=1103-1310-1220
+1311	ka	bare_inferred	bare_inferred:p116L:bewaka=1055-1305-1311; p116R:misstanka=1324-1615-1115-1045-1311
+1316	rt	bare_inferred	bare_inferred:p117L:lart=1267-1316; hart=1420-1316
+1319	ga	swedish_gloss	swedish_gloss:p034R:ganska=1319-1045-1657;betygat=1055-1482-1319-1323;p018R:dagar=1609-1319-1701
+1321	do	swedish_gloss	swedish_gloss:p034L:sidor=1551-1321...;p018R:dod=1321-1212
+1323	t	swedish_gloss	swedish_gloss:p034R:det=1020-1323;forsakrat=1511-1701-1740-1073-1323;betygat=1055-1482-1319-1323;p050L:intet=1199-1132-1323
+1324	mi	swedish_gloss	swedish_gloss:p050L:paminte=1110-1324-1698
+1325	ng	swedish_gloss	swedish_gloss:p034R:handrackning=...1375-1325;befallning=1055-1169-1187-1375-1325
+1327	ma	swedish_gloss	swedish_gloss:p034R:narmare=1255-1062-1327-1712;p018L:tilsammans=1368-1187-1740-1632-1327-1093
+1331	a	swedish_gloss	swedish_gloss:p034R:kunna=1624-1070-1331;p050L:samma=1740-1641-1331
+1332	rnes	bare_inferred	bare_inferred:p115R:trouppernes=1103-1057-1106-1332
+1337	vra	hopken1739	hopken1739:confirmed
+1338	ker	bare_inferred	bare_inferred:p118R:orsakerne=1097-1740-1338-1152
+1340	sto	bare_inferred	bare_inferred:p115R:stod=1340-1212; p116R:forstort=1511-1701-1340-1616
+1341	l	hopken1739	hopken1739:mixed
+1346	lig	swedish_gloss	swedish_gloss:p034R:fortrolighet=1511-1062-1103-1346-1381;p034L:rolighet=1718-1346-1381
+1352	s	swedish_gloss	swedish_gloss:p018R:snara=1352-1255-1712;p034L:retablissement=...1352-1647
+1358	mt	swedish_gloss	swedish_gloss:p034R:nogsambt=1157-1126-1740-1358
+1360	u	hopken1739	hopken1739:single
+1363	fra	swedish_gloss	swedish_gloss:p034R:fran=1363-1045;fragor=1363-1512-1701;p018L:franska=1363-1045-1479
+1368	ti	swedish_gloss	swedish_gloss:p034R:utinnan=1228-1368-1070-1393;til=1368-1187;p018L:latit=1267-1368-1323
+1372	ju	bare_inferred	bare_inferred:p115L:conjuncturer=1749-1372-1045-1000-1389-1712-1062
+1373	u	hopken1739	hopken1739:confirmed
+1374	p	hopken1739	hopken1739:single
+1375	ni	swedish_gloss	swedish_gloss:p034R:befallning=1055-1169-1187-1375-1325;p018R:Repnin=1712-1010-1375-1045
+1376	ou	swedish_gloss	swedish_gloss:p034R:ouverture=1376-1473-1389-1712
+1379	fru	bare_inferred	bare_inferred:p120L:fruktade=1379-1380-1115-1020
+1380	ck	swedish_gloss	swedish_gloss:p034R:handrackning=1420-1219-1705-1380-1375-1325;p034L:warkstallighet=...1380-1450-1187-1346-1381
+1381	het	swedish_gloss	swedish_gloss:p034R:fortrolighet=1511-1062-1103-1346-1381;p034L:rolighet=1718-1346-1381
+1387	om	swedish_gloss	swedish_gloss:p034R:om=1387;igenom=1286-1652-1387;p050L:om=1387;p018L:ombrage=1387-1573-1018
+1388	gy	swedish_gloss	swedish_gloss:p018L:begynte=1055-1388-1045-1132;p034L:begynt=1055-1388-1488
+1389	tu	swedish_gloss	swedish_gloss:p034R:ouverture=1376-1473-1389-1712;p034L:ruptur=1727-1010-1389-1062
+1393	an	swedish_gloss	swedish_gloss:p034R:utinnan=1228-1368-1070-1393;an=1393;p050L:annat=1393-1255-1323;an=1393
+1402	we	swedish_gloss	swedish_gloss:p018R:blefwen=1524-1021-1402-1121
+1403	po	swedish_gloss	swedish_gloss:p034R:Porten=1403-1701-1630;p018R:Porten=1403-1062-1630;propositioner=1250-1403-1551-1232-1585
+1405	my	bare_inferred	bare_inferred:p115R:mycket=1405-1000-1412-1323
+1407	el	swedish_gloss	swedish_gloss:p018L:sialf=1551-1407-1021;p034L:sielf=1551-1407-1021
+1412	ka	swedish_gloss	swedish_gloss:p034R:hwilka=1205-1306-1187-1412
+1415	me	swedish_gloss	swedish_gloss:p034L:med=1415-1212;p050L:men=1415-1045;p018R:men=1415-1045;med=1415-1212
+1416	un	hopken1739	hopken1739:confirmed
+1420	ha	swedish_gloss	swedish_gloss:p034R:handrackning=1420-1219-1705-1380-1375-1325;p018L:han=1420-1045;p034L:hastiga=1420-1557-1018
+1421	r	bare_inferred	bare_inferred:p116L/p116R:conferencer=1749-1495-1712-1462-1421
+1437	gi	swedish_gloss	swedish_gloss:p034R:giort=1437-1097-1014;giorde=1437-1097-1020;p018L:gifwa=1437-1021-1305
+1439	plo	hopken1739	hopken1739:single
+1440	[A]	hopken1739	hopken1739:codeword, set by hand
+1449	e	hopken1739	hopken1739:mixed
+1450	sta	swedish_gloss	swedish_gloss:p034L:pastande=1110-1450-165...;warkstallighet=1305-1062-1380-1450-1187-1346-1381
+1457	deur	swedish_gloss	swedish_gloss:p018L/R:Ambassadeuren=1675-1457-1615
+1462	nce	bare_inferred	bare_inferred:re-segmentation of hopken1739 'rince' (Pri-nce) confirmed 3x in conferencer on p116L/R
+1469	cla	hopken1739	hopken1739:confirmed
+1471	ce	swedish_gloss	swedish_gloss:p018L:reception=1712-1471-1111-1232;p050L:audiencer=1618-1129-1652-1471-1062
+1473	wer	swedish_gloss	swedish_gloss:p034R:ofwer=1227-1473;ouverture=1376-1473-1389-1712
+1478	is	hopken1739	hopken1739:confirmed
+1479	ska	swedish_gloss	swedish_gloss:p018L/R:Franska=1363-1045-1479;p034L:Polska=1341-1479
+1481	st	bare_inferred	bare_inferred:p116R:angelagnast=1393-1018-1267-1126-1255-1481
+1482	ty	swedish_gloss	swedish_gloss:p034R:betygat=1055-1482-1319-1323
+1483	ve	hopken1739	hopken1739:confirmed
+1488	nt	hopken1739	hopken1739:confirmed
+1489	plo	bare_inferred	bare_inferred:p115R:emploiera=1626-1489-1747-1705
+1494	skri	bare_inferred	bare_inferred:p117L:utskrifningar=1572-1494-1021-1375-1325-1608; p120L:skrifwelse=1494-1021-1402-1187-1352
+1495	fe	swedish_gloss	swedish_gloss:p034L:defensive=1020-1495-1045-1551-1483;p018L:conferera=1749-1495-1712-1705
+1496	vo	hopken1739	hopken1739:confirmed
+1500	o	bare_inferred	bare_inferred:p115L/p116L:giora=1437-1500-1705
+1501	s	swedish_gloss	swedish_gloss:p034R:Storvizirens=1104-1501;p018R:Knees=1028-1152-1501
+1503	sko	bare_inferred	bare_inferred:p118L:opskof=1096-1503-1021
+1504	st	hopken1739	hopken1739:single
+1508	nde	swedish_gloss	swedish_gloss:p034L:deltagande=1020-1187-1115-1319-1508;warande=1305-1705-1508;p018L:kunde=1624-1508
+1511	fo	swedish_gloss	swedish_gloss:p034R:forsakrat=1511-1701-1740-1073-1323;fortrolighet=1511-1062-1103-1346-1381;for an=1511-1701-1393
+1512	go	swedish_gloss	swedish_gloss:p034R:fragor=1363-1512-1701;p050L:fingo=1695-1045-1512;godt=1512-1014
+1516	ke	bare_inferred	bare_inferred:p115L:rikets=1716-1516-1631 (paired with 1631=ts)
+1518	[Frankrike]	swedish_gloss	swedish_gloss:p034L:Franckrike=1518
+1522	tt	swedish_gloss	swedish_gloss:p018R:ratt=1705-1522
+1523	bu	hopken1739	hopken1739:single
+1524	ble	swedish_gloss	swedish_gloss:p018R:blefwen=1524-1021-1402-1121
+1526	wu	swedish_gloss	swedish_gloss:p034L:hufwud=1700-1021-1526-1212
+1527	he	bare_inferred	bare_inferred:p117L:hela=1527-1267(2x); p118R/p120R:henne=1527-1070-1220; p120L:hemkomst=1527-1632-1612-1481
+1529	[B]	hopken1739	hopken1739:codeword, set by hand
+1530	dre	swedish_gloss	swedish_gloss:p018/hopken1739:dri/dre
+1532	suede	hopken1739	hopken1739:codeword, set by hand
+1537	dro	bare_inferred	bare_inferred:p118L:drojsmalet=1537-1671-1327-1655-1303
+1539	bli	bare_inferred	bare_inferred:p118L/118R/120L:blifwa=1539-1021-1305 (4x)
+1543	i	hopken1739	hopken1739:single
+1545	us	hopken1739	hopken1739:confirmed
+1548	gueman	hopken1739	hopken1739:single
+1551	si	swedish_gloss	swedish_gloss:p034R:sig=1551-1126;subsidier=1690-1130-1551-1129-1585;p018L:sialf=1551-1407-1021
+1553	ste	swedish_gloss	swedish_gloss:p034R:wiste=1118-1553;p018R:wiste=1118-1306-1553;pesten=1106-1553-1045
+1555	che	hopken1739	hopken1739:confirmed
+1557	s	hopken1739	hopken1739:single
+1559	ed	bare_inferred	bare_inferred:p117R:med=1619-1559
+1563	gre	swedish_gloss	swedish_gloss:p018:nagre=1255-1563
+1569	qu	hopken1739	hopken1739:confirmed
+1572	ut	swedish_gloss	swedish_gloss:p034R:utlata=1572-1267-1115;p018R:utforska=1572-1511-1062-1657;p050L:forut=1511-1701-1572
+1573	mbra	swedish_gloss	swedish_gloss:p018L:ombrage=1387-1573-1018
+1575	ir	swedish_gloss	swedish_gloss:hopken1739:ir
+1578	slu	bare_inferred	bare_inferred:p116L:slut=1578-1323
+1579	ions	hopken1739	hopken1739:single
+1581	ll	swedish_gloss	swedish_gloss:p050L:skulle=1108-1581-1220;fuller=1622-1581-1585;p034L:emellan=1220-1415-1581-1393
+1584	traite	hopken1739	hopken1739:codeword, set by hand
+1585	er	swedish_gloss	swedish_gloss:p034R:subsidier=...1585;p050L:fuller=1622-1581-1585;p018R:courier=1179-1228-1716-1585
+1588	v	hopken1739	hopken1739:mixed
+1590	a	hopken1739	hopken1739:single
+1591	es	hopken1739	hopken1739:confirmed
+1594	sui	bare_inferred	bare_inferred:p118L:suiter=1594-1132-1062
+1597	[Wien]	swedish_gloss	swedish_gloss:p018R:Wien=1597
+1599	lu	hopken1739	hopken1739:single
+1601	stra	bare_inferred	bare_inferred:p117L:strangel:=1601-1045-1018; straf=1601-1021
+1604	stre	hopken1739	hopken1739:single
+1605	d	swedish_gloss	swedish_gloss:p018R:hwad=1205-1305-1605
+1608	d	swedish_gloss	swedish_gloss:p034R:hwad=1205-1305-1608
+1609	da	swedish_gloss	swedish_gloss:p018L:dagen=1609-1229-1020-1062;dagar=1609-1319-1701;p050L:widare=1306-1609-1712
+1612	ko	swedish_gloss	swedish_gloss:p018R:ankommen=1393-1612-1641-1652
+1615	ss	swedish_gloss	swedish_gloss:p034R:dess=1020-1615;p018R:dessa=1020-1615-1220
+1616	rt	swedish_gloss	swedish_gloss:hopken1739:rt
+1618	au	swedish_gloss	swedish_gloss:p050L:audiencer=1618-1129-1652-1471-1062
+1619	m	swedish_gloss	swedish_gloss:p018L:honom=1621-1157-1619
+1621	ho	swedish_gloss	swedish_gloss:p050L:honom=1621-1157-1632;p018L:honom=1621-1157-1619
+1622	fu	swedish_gloss	swedish_gloss:p050L:fuller=1622-1581-1585;p018R:fuller=1622-1581-1585
+1624	ku	swedish_gloss	swedish_gloss:p034R:kunna=1624-1070-1331;p018L:kunde=1624-1508;p018R:kunde=1624-1508
+1626	em	hopken1739	hopken1739:confirmed
+1630	ten	swedish_gloss	swedish_gloss:p034R:Porten=1403-1701-1630;attention=1636-1630-1232
+1631	ts	bare_inferred	bare_inferred:p115L:rikets=1716-1516-1631 (paired with 1516=ke)
+1632	m	swedish_gloss	swedish_gloss:p034R:som=1177-1632;prompte=1250-1632-1111-1132;p050L:honom=1621-1157-1632
+1633	mu	hopken1739	hopken1739:confirmed
+1635	hi	swedish_gloss	swedish_gloss:p034L:forhindrade=1511-1635-1045-1016-1020
+1636	at	swedish_gloss	swedish_gloss:p034R:at=1636;attention=1636-1630-1232;p050L:at=1636;p018R:at=1636
+1639	d	swedish_gloss	swedish_gloss:p018L:Drogueman=1639-1209-1548
+1641	mm	swedish_gloss	swedish_gloss:p050L:samma=1740-1641-1331;p018R:ankommen=1393-1612-1641-1652
+1642	tru	hopken1739	hopken1739:single
+1647	ment	hopken1739	hopken1739:mixed
+1648	li	swedish_gloss	swedish_gloss:p034R:wanligit=1305-1045-1648-1222;p034L:oformodelige=1211-1511-1701-1246-1020-1648
+1651	cli	bare_inferred	bare_inferred:p115R:inclinerad=1199-1651-1152-1705-1212
+1652	en	swedish_gloss	swedish_gloss:p034R:igenom=1286-1652-1387;p034L:en=1652;p018R:en=1652
+1653	ej	swedish_gloss	swedish_gloss:p050L:ej=1653;p018R:ej=1653
+1655	le	swedish_gloss	swedish_gloss:p018L:talet=1115-1655-1303
+1656	le	hopken1739	hopken1739:confirmed
+1657	ska	swedish_gloss	swedish_gloss:p034R:ganska=1319-1045-1657;p018R:utforska=1572-1511-1062-1657
+1662	git	swedish_gloss	swedish_gloss:p034R:optagit=1096-1115-1662
+1666	spo	bare_inferred	bare_inferred:p120R:correspondence=1179-1062-1712-1666-1045-1020-1462
+1667	oit	hopken1739	hopken1739:single
+1668	sy	bare_inferred	bare_inferred:p120L:synnerhet=1668-1070-1585-1381
+1669	qu	hopken1739	hopken1739:single
+1670	s	hopken1739	hopken1739:mixed
+1671	js	bare_inferred	bare_inferred:p118L:drojsmalet=1537-1671-1327-1655-1303
+1673	et	swedish_gloss	swedish_gloss:p018L:ett=1673
+1674	tre	hopken1739	hopken1739:confirmed
+1675	Ambassa	swedish_gloss	swedish_gloss:p018L/R:Ambassadeuren=1675-1457-1615
+1681	ssion	hopken1739	hopken1739:single
+1683	ot	bare_inferred	bare_inferred:p114R:emot=1626-1683; p116L:emot=1626-1683
+1684	[alliance]	swedish_gloss	swedish_gloss:p034L:alliance=1684
+1689	kri	swedish_gloss	swedish_gloss:p034L:kriget=1689-1662
+1690	su	swedish_gloss	swedish_gloss:p034R:subsidier=1690-1130-1551-1129-1585;p034L:supponerade=1690-1111-1403-1152-1705-1020
+1695	fi	swedish_gloss	swedish_gloss:p050L:fingo=1695-1045-1512
+1698	nte	swedish_gloss	swedish_gloss:p050L:paminte=1110-1324-1698
+1699	af	swedish_gloss	swedish_gloss:p034L:af=1699;p018R:af=1699
+1700	hu	swedish_gloss	swedish_gloss:p034L:hufwud=1700-1021-1526-1212
+1701	r	swedish_gloss	swedish_gloss:p034R:forsakrat=1511-1701-1740-1073-1323;Porten=1403-1701-1630;for an=1511-1701-1393
+1703	e	hopken1739	hopken1739:single
+1705	ra	swedish_gloss	swedish_gloss:p034R:warande=1305-1705-1508;p018R:wara=1305-1705;p018L:conferera=1749-1495-1712-1705
+1709	at	bare_inferred	bare_inferred:p116R:berattat=1055-1712-1522-1709
+1712	re	swedish_gloss	swedish_gloss:p034R:narmare=1255-1062-1327-1712;ouverture=1376-1473-1389-1712
+1715	i	swedish_gloss	swedish_gloss:p034L:i fred=1715-1176-1212;p018R:ifran=1715-1363-1121;p018L:i talet=1715-1115-1655-1303
+1716	ri	swedish_gloss	swedish_gloss:p018R:aterigen=1240-1132-1716-1229;courier=1179-1228-1716-1585
+1721	ja	swedish_gloss	swedish_gloss:p018L:saja=1740-1721;nojachtigt=1157-1721-1028-1368-1222
+1725	r	hopken1739	hopken1739:single
+1727	ru	swedish_gloss	swedish_gloss:p034L:ruptur=1727-1010-1389-1062
+1734	s	swedish_gloss	swedish_gloss:p034L:Rysslands=1217-1734;p034R:Storvizirens=1104-1734
+1739	id	bare_inferred	bare_inferred:p117R:Said Ef=1740-1739-1162; p118L:idee=1739-1141
+1740	sa	swedish_gloss	swedish_gloss:p034R:forsakrat=1511-1701-1740-1073-1323;nogsambt=1157-1126-1740-1358;p050L:samma=1740-1641-1331;p018L:sade=1740-1020
+1741	com	hopken1739	hopken1739:confirmed
+1742	de	swedish_gloss	swedish_gloss:p018R:giordes=1437-1097-1742
+1747	ie	hopken1739	hopken1739:mixed
+1749	con	swedish_gloss	swedish_gloss:p034L:conclusion=1749-1004-1661;p018L:conferera=1749-1495-1712-1705

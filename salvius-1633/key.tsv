@@ -1,0 +1,78 @@
+# Johan Adler Salvius to Chancellor Axel Oxenstierna, June to August 1633 (Riksarkivet, Oxenstiernska samlingen E 708, DECODE R4338-R4340).
+# Key extracted from contemporary interlinear glosses on R4338 (8/18 June 1633) and R4340 (15 August 1633), and tested blind on unglossed R4339 (27 June 1633 OS).
+# No DECODE image is published.
+code	kind	value	source	glossed_witness	r4339_attestation
+12	letter	z	contiguous block	-	Lebzelters
+15	letter	s	contiguous block	-	obscure, Lebzelters
+16	letter	s	glossed siblings	fattas, baste, Kniphusen	liws, incuriosus, separationem
+19	letter	m	glossed siblings	contrarium, Femeren	ambigue, ambiguum, aurem
+20	letter	m	contiguous block	-	ambiguum, separationem
+21	letter	f	glossed siblings	familia, fattas, facit	-
+22	letter	f	glossed siblings	Femeren	-
+24	letter	e	glossed siblings	Femeren	denigrera, Lebzelters, prevenire, gener, separationem
+25	letter	e	glossed siblings	Femeren, Georg	obscure, balance, condolera, Lebzelters, prevenire, gener
+26	letter	e	glossed siblings	Femeren, baste, Kniphusen	ambigue, videntur, denigrera, Lebzelters, prevenire, aurem, separationem
+27	letter	l	contiguous block	-	balance, Lebzelters
+28	letter	l	contiguous block	-	dilation, Lebzelters
+29	letter	l	glossed siblings	familia, Bulow	liws, condolera
+30	letter	r	glossed siblings	Georg	obscure, denigrera, Lebzelters, incuriosus, gener, separationem
+31	letter	r	glossed siblings	contrarium	videntur, denigrera
+32	letter	r	glossed siblings	contrarium, Femeren	condolera, prevenire, aurem
+43	letter	k	glossed siblings	Kniphusen	-
+45	letter	d	contiguous block	-	condolera
+46	letter	d	contiguous block	-	denigrera
+47	letter	d	contiguous block	-	videntur, dilation
+49	letter	c	contiguous block	-	balance
+50	letter	c	glossed siblings	contrarium, facit	obscure, condolera, incuriosus
+51	letter	i	glossed siblings	contrarium, familia, facit, Kniphusen	liws, videntur, dilation, ambiguum, incuriosus, prevenire, separationem
+52	letter	i	contiguous block	-	ambigue
+53	letter	i	contiguous block	-	dilation, denigrera, incuriosus
+56	letter	p	glossed siblings	Kniphusen	prevenire, separationem
+57	letter	v/w	contiguous block	-	videntur
+58	letter	v/w	contiguous block	-	prevenire
+59	letter	v/w	glossed siblings	Bulow	liws
+60	letter	u	glossed siblings	contrarium, Bulow, Kniphusen	obscure, ambiguum, incuriosus
+62	letter	u	contiguous block	-	ambigue, videntur, ambiguum, incuriosus, aurem
+63	letter	o	contiguous block	-	condolera
+64	letter	o	glossed siblings	contrarium, Bulow, Georg	obscure, condolera, incuriosus, separationem
+65	letter	o	contiguous block	-	dilation
+68	letter	h	glossed siblings	Kniphusen	-
+69	letter	b	glossed siblings	baste	ambigue, Lebzelters
+70	letter	b	contiguous block	-	ambiguum
+71	letter	b	glossed siblings	Bulow	obscure, balance
+72	letter	a	glossed siblings	contrarium, familia, fattas, facit	balance
+73	letter	a	glossed siblings	fattas	ambigue, dilation, balance, denigrera, ambiguum, aurem, separationem
+74	letter	a	contiguous block	-	condolera, separationem
+75	letter	g	glossed siblings	Georg	ambigue, gener
+76	letter	g	glossed siblings	Georg	denigrera
+77	letter	g	contiguous block	-	ambiguum
+78	letter	n	contiguous block	-	balance
+79	letter	n	glossed siblings	Kniphusen	dilation, denigrera, prevenire
+80	letter	n	glossed siblings	contrarium, Femeren, Kniphusen	videntur, condolera, incuriosus, gener, separationem
+81	letter	t	glossed siblings	fattas, facit	dilation, separationem
+82	letter	t	glossed siblings	contrarium, fattas, baste	videntur, Lebzelters
+84	null	null	null block 84-99	-	Lebzelters
+85	null	null	null block 84-99	-	balance
+86	null	null	null block 84-99	-	ambigue, denigrera, incuriosus
+87	null	null	glossed siblings	Bulow, Kniphusen	dilation, balance, Lebzelters, separationem
+88	null	null	null block 84-99	-	separationem
+89	null	null	null block 84-99	-	ambiguum
+90	null	null	null block 84-99	-	incuriosus
+92	null	null	null block 84-99	-	prevenire
+93	null	null	null block 84-99	-	liws, balance
+94	null	null	glossed siblings	Femeren	-
+95	null	null	glossed siblings	Kniphusen	dilation, Lebzelters, separationem
+99	null	null	glossed siblings	Bulow	-
+3143	nomenclator	Swerige	glossed siblings	R4338/R4340	P1 l. 24, l. 32, P3 l. 11
+3319	nomenclator	Salvius	glossed siblings	R4338/R4340	P1 l. 26
+119 1/2	nomenclator	Men	glossed siblings	R4338/R4340	P1 l. 32
+1564	nomenclator	gemuther	glossed siblings	R4338/R4340	body
+1917	nomenclator	Holsten	glossed siblings	R4338/R4340	P1 l. 24
+3185	nomenclator	sigh	glossed siblings	R4338/R4340	body
+203	nomenclator	har	glossed siblings	R4338/R4340	body
+ee	function	intet	glossed siblings	R4338/R4340	body
+rr	function	och	glossed siblings	R4338/R4340	P1 l. 8
+aa	function	med	glossed siblings	R4338/R4340	body
+uu	function	af	glossed siblings	R4338/R4340	body
+t.	function	i	glossed siblings	R4338/R4340	body
+mm.	function	de/dem	glossed siblings	R4338/R4340	body

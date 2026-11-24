@@ -13,6 +13,9 @@ This repository holds my readings of historical cipher letters, from the 15th ce
 | [Pallotto to Cardinal Barberini](pallotto-1628/README.md), 1628 | 69 of 70 records | from key (the 1628 key) |
 | [The Duke of Sessa to Charles V](sessa-1524/README.md), 1524 to 1525 | 30 records | from key (the cipher ledger's key, with added values) |
 | [Filippo Sega to Rome, Francia 32](francia-32/README.md), 1590 to 1591 | 27 of 30 cipher pages | from key (Meister's printed key no. 65) |
+| [Lord Cobham to Walsingham](cobham-1588/README.md), May to June 1588 | 4 records (R8490, R8492, R8495, R8496) | from key (three alphabet corrections from native scans of glossed sibling R8493; 142 of 166 words resolved) |
+| [Johan Adler Salvius to Axel Oxenstierna](salvius-1633/README.md), 27 June 1633 | 1 unglossed record (R4339) | from key (1633 homophonic alphabet from glossed siblings R4338 and R4340; 15 of 15 two-digit runs decoded; R4341 identified as 1635) |
+| [Hopken and Carlson](hopken-1739/README.md), Constantinople, December 1739 | 11 bare pages (p114R to p120R, 1,610 groups) | from key (94.2% frozen gloss-only key from hopken1739 and Swedish glosses; 99.6% with 50 bare-inferred Swedish syllables) |
 
 `STATUS.md` gives the state of every collection that I worked on, with what is not read yet.
 
@@ -31,6 +34,7 @@ Four more ciphers have a known key. They are the Morosini despatches of 1587 to 
 | Letter | Date | What it says | Read it |
 | --- | --- | --- | --- |
 | [A letter to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/riproduzione/?id=79510) | Toledo, 1479; endorsed 31 August | An unnamed writer at the court of Castile reports on a league "for the defence of the states", an agreement with the queen, a marriage or betrothal, a papal legate and a tithe on the clergy. Read in part. | [Notes](medici-1479/README.md), [Italian](medici-1479/reading.md), [English](medici-1479/translation.md) |
+| [Antonio Pucci to Lorenzo de' Medici](https://archiviodistatofirenze.cultura.gov.it/map/ricerca/ricerca-su-filza/?f=137&d=644&c=) | Valladolid, 31 August 1514 | Papal nuncio Antonio Pucci reports his audience with King Ferdinand the Catholic after the Treaty of London: discontent with `[43]` over the excluded marriage pact of `[99]`, the Crusade bull, spiritual injuries excused by ancient privileges, and a proposed Italian defence league. Read in part. | [Notes](pucci-1514/README.md), [Italian](pucci-1514/reading.md), [English](pucci-1514/translation.md) |
 | [Charles V to Ferrante Gonzaga](https://lodovico.medialibrary.it/media/schedadl.aspx?id=c710a32c-42a7-4159-8abc-472aed58f7c9) | Monzón, 11 August 1542 | The Emperor tells his viceroy of Sicily that no help can come for the infantry, the galleys and La Goleta. Spies report that the main French effort is heading for Perpignan. | [Notes](charles-v-1542/README.md), [Spanish](charles-v-1542/reading.md), [English](charles-v-1542/translation.md) |
 | [Jean Bazin to Henri de Valois](https://gallica.bnf.fr/ark:/12148/btv1b10033937d) | Cracow, September 1573 | A French envoy reports to the king elect of Poland: a diet, money and Danzig, a truce with Muscovy, the Tartars and letters of Mahomet Bascha. 84% of the aligned letters agree with a print of 1867. | [Notes](bazin-1573/README.md), [French](bazin-1573/reading.md), [English](bazin-1573/translation.md), [Check](bazin-1573/check.md) |
 | [Antonio Ferdinando Gonzaga, Duke of Guastalla](https://lodovico.medialibrary.it/media/schedadl.aspx?id=848189d6-1008-497b-bcde-0e3a3ad9757f) | Guastalla, 24 September 1717 | The duke will not sign a "lettera reversale" that gives up old claims in return for imperial land. | [Notes](guastalla-1717/README.md), [Italian](guastalla-1717/reading.md), [English](guastalla-1717/translation.md) |
@@ -47,6 +51,7 @@ Four more ciphers have a known key. They are the Morosini despatches of 1587 to 
 The ledger's catalogue numbers:
 
 - The Medici letter: 2322
+- Antonio Pucci (1514): 2392
 - Charles V: 1560
 - Bazin: 1571
 - Guastalla: part of 1569
@@ -145,6 +150,8 @@ DECODE's images are for research use only. They may not be redistributed or publ
 | Francia 346 | R74 to R82, R84, R5626 to R5666 and R5669 to R5671; the appendix of my reading from ciphertext: R5642, R5645, R5646, R5649, R5650 and R5651 | Archivio Apostolico Vaticano, Segreteria di Stato, Francia 346 |
 | Morosini | R17, R18 to R22, R27 to R49, R51, R52 and R55 to R58 | Archivio Apostolico Vaticano, Segreteria di Stato, Francia 22 (R18 to R58) and Francia 18/3 (R17) |
 | Farnese to Poggio | R92 | DECODE record R92 (ff. 70r to 73v) |
+| Lord Cobham | R8488, R8490, R8492, R8493, R8495, R8496 | British Library, Harley MS 287 |
+| Salvius to Oxenstierna | R4338 to R4341 | Riksarkivet (Stockholm), Oxenstiernska samlingen E 708 |
 
 - Zeschau to Seebach, 1841: DECODE record R5005 (HStAD, 10731 Sächsische Gesandtschaft in Russland, Nr. 12), https://de-crypt.org/decrypt-web/RecordsView/5005.
 - DECODE's record pages: https://de-crypt.org/decrypt-web/RecordsView/ followed by the record number.
@@ -292,6 +299,14 @@ The key family may already be in print. Narváez's 2025 article does not print t
 **Sessa:** `sessa-1524/` has the notes and one page for each record.
 
 **Biglia:** `biglia-1565/` has the notes, the check against Dudout's reading, the reading, the line-by-line decryption, the key and the key check.
+
+**Cobham (1588):** `cobham-1588/` has the notes, the corrected sign table (`key.tsv`), the readings of R8490, R8492, R8495 and R8496, and the blind checks against Dudout's 13 November TSVs and native-scan rows.
+
+**Salvius (1633):** `salvius-1633/` has the notes, the 1633 key table (`key.tsv`), the transcription of the 15 two-digit cipher runs in unglossed R4339, the reading and the blind Latin 4-gram check.
+
+**Antonio Pucci (1514):** `pucci-1514/` has the notes, the key table (`key.tsv`), the Italian reading and the English translation.
+
+**Hopken and Carlson (1739):** `hopken-1739/` has the notes, the provenance-tagged Code-1 key (`key.tsv`), the transcription of 11 bare pages (`p114R` to `p120R`), the frozen and expanded mechanical decodes, and the Swedish/English reading.
 
 **The French letters:**
 
